@@ -1,0 +1,67 @@
+{
+ "fetchedAt": "2026-08-28T21:48:34-04:00",
+ "rows": [
+  {
+   "id": 3,
+   "name": "Cronkhite Dining Room"
+  },
+  {
+   "id": 4,
+   "name": "Dudley Cafe"
+  },
+  {
+   "id": 5,
+   "name": "Cabot and Pforzheimer House"
+  },
+  {
+   "id": 7,
+   "name": "Dunster and Mather House"
+  },
+  {
+   "id": 8,
+   "name": "Quincy House"
+  },
+  {
+   "id": 9,
+   "name": "Adams House"
+  },
+  {
+   "id": 14,
+   "name": "Eliot and Kirkland House"
+  },
+  {
+   "id": 15,
+   "name": "Lowell and Winthrop House"
+  },
+  {
+   "id": 16,
+   "name": "Leverett House"
+  },
+  {
+   "id": 27,
+   "name": "Sebastian's Cafe"
+  },
+  {
+   "id": 29,
+   "name": "Fly-By"
+  },
+  {
+   "id": 30,
+   "name": "Annenberg Hall"
+  },
+  {
+   "id": 38,
+   "name": "Currier House"
+  },
+  {
+   "id": 41,
+   "name": "Chauhaus at the GSD"
+  },
+  {
+   "id": 54,
+   "name": "Northwest Cafe"
+  }
+ ],
+ "sha256": "1a312c792ae210514f030e86733959db44e7eabd5edf2b91b91f0a36b36d27d5",
+ "table": "locations"
+}

@@ -1,0 +1,379 @@
+{
+ "fetchedAt": "2026-08-28T21:48:34-04:00",
+ "rows": [
+  {
+   "id": 1,
+   "name": "Breakfast Meats"
+  },
+  {
+   "id": 2,
+   "name": "Breakfast Entrees"
+  },
+  {
+   "id": 3,
+   "name": "Breakfast Bakery"
+  },
+  {
+   "id": 4,
+   "name": "MISC"
+  },
+  {
+   "id": 5,
+   "name": "Bagel"
+  },
+  {
+   "id": 6,
+   "name": "Scramble Bowl"
+  },
+  {
+   "id": 7,
+   "name": "Today's Soup"
+  },
+  {
+   "id": 8,
+   "name": "Made To Order"
+  },
+  {
+   "id": 9,
+   "name": "Brunch"
+  },
+  {
+   "id": 10,
+   "name": "Salad Bar"
+  },
+  {
+   "id": 11,
+   "name": "Sand/ Deli"
+  },
+  {
+   "id": 12,
+   "name": "Entrees"
+  },
+  {
+   "id": 13,
+   "name": "Veg, Vegan"
+  },
+  {
+   "id": 14,
+   "name": "Starch And Potatoes"
+  },
+  {
+   "id": 15,
+   "name": "Vegetables"
+  },
+  {
+   "id": 16,
+   "name": "Plant protein"
+  },
+  {
+   "id": 17,
+   "name": "Halal"
+  },
+  {
+   "id": 18,
+   "name": "Desserts"
+  },
+  {
+   "id": 19,
+   "name": "From the Grill"
+  },
+  {
+   "id": 20,
+   "name": "Sides"
+  },
+  {
+   "id": 21,
+   "name": "Delish"
+  },
+  {
+   "id": 22,
+   "name": "Brown Rice station"
+  },
+  {
+   "id": 23,
+   "name": "Build Your Own"
+  },
+  {
+   "id": 24,
+   "name": "Featured Special Bar"
+  },
+  {
+   "id": 25,
+   "name": "Culinary Display"
+  },
+  {
+   "id": 26,
+   "name": "Entree Salads"
+  },
+  {
+   "id": 27,
+   "name": "Recipes From Home"
+  },
+  {
+   "id": 28,
+   "name": "Bistro Bowl"
+  },
+  {
+   "id": 29,
+   "name": "Fruit Forward"
+  },
+  {
+   "id": 31,
+   "name": "Chefs Choice"
+  },
+  {
+   "id": 32,
+   "name": "Fresh Fruit"
+  },
+  {
+   "id": 33,
+   "name": "Sandwich Selections"
+  },
+  {
+   "id": 34,
+   "name": "Vegetarian Sandwich Selections"
+  },
+  {
+   "id": 35,
+   "name": "Cheese Choices"
+  },
+  {
+   "id": 36,
+   "name": "Gut Health Station"
+  },
+  {
+   "id": 37,
+   "name": "Bread Choices"
+  },
+  {
+   "id": 38,
+   "name": "HALAL"
+  },
+  {
+   "id": 39,
+   "name": "Harvard Yard Event"
+  },
+  {
+   "id": 40,
+   "name": "Festive Meals"
+  },
+  {
+   "id": 42,
+   "name": "Fly-By"
+  },
+  {
+   "id": 43,
+   "name": "Fly-By Sandwiches and Salads"
+  },
+  {
+   "id": 44,
+   "name": "FLY BY BREAKFAST"
+  },
+  {
+   "id": 45,
+   "name": "Chili Bar/Stew"
+  },
+  {
+   "id": 46,
+   "name": "Whole Grain Pasta Bar"
+  },
+  {
+   "id": 47,
+   "name": "Comfort Foods"
+  },
+  {
+   "id": 48,
+   "name": "SUMMER FLY BY"
+  },
+  {
+   "id": 51,
+   "name": "CR Purchased Bottled Beverages"
+  },
+  {
+   "id": 52,
+   "name": "CR Baked Goods/Desserts"
+  },
+  {
+   "id": 53,
+   "name": "BREAKFAST"
+  },
+  {
+   "id": 54,
+   "name": "Daily Bowl"
+  },
+  {
+   "id": 55,
+   "name": "International Cuisine"
+  },
+  {
+   "id": 57,
+   "name": "Global Comforts"
+  },
+  {
+   "id": 58,
+   "name": "Deli Sandwiches"
+  },
+  {
+   "id": 59,
+   "name": "VEGETARIAN ENTREE"
+  },
+  {
+   "id": 60,
+   "name": "Entrees"
+  },
+  {
+   "id": 61,
+   "name": "Starch and Vegetable Selection"
+  },
+  {
+   "id": 62,
+   "name": "Daily Soups"
+  },
+  {
+   "id": 63,
+   "name": "CR Beverages Prepared"
+  },
+  {
+   "id": 64,
+   "name": "Salad Bar"
+  },
+  {
+   "id": 65,
+   "name": "Breakfast"
+  },
+  {
+   "id": 66,
+   "name": "Misc"
+  },
+  {
+   "id": 67,
+   "name": "Grains"
+  },
+  {
+   "id": 68,
+   "name": "From the Grill"
+  },
+  {
+   "id": 69,
+   "name": "Plant forward"
+  },
+  {
+   "id": 70,
+   "name": "STATION"
+  },
+  {
+   "id": 71,
+   "name": "Pizza"
+  },
+  {
+   "id": 72,
+   "name": "FRESH FIRED"
+  },
+  {
+   "id": 73,
+   "name": "CR Other Resale Items"
+  },
+  {
+   "id": 74,
+   "name": "CR Salty Snacks"
+  },
+  {
+   "id": 75,
+   "name": "CRAFT BOWLS"
+  },
+  {
+   "id": 76,
+   "name": "Pasta Bar"
+  },
+  {
+   "id": 77,
+   "name": "Cereals"
+  },
+  {
+   "id": 78,
+   "name": "ACTION"
+  },
+  {
+   "id": 79,
+   "name": "Breads"
+  },
+  {
+   "id": 80,
+   "name": "PANINIS"
+  },
+  {
+   "id": 81,
+   "name": "PUB GRILL BISTRO SANDWICHES"
+  },
+  {
+   "id": 83,
+   "name": "Yogurts, Jams and Spreads"
+  },
+  {
+   "id": 84,
+   "name": "Dressings"
+  },
+  {
+   "id": 85,
+   "name": "FACULTY CLUB LOUNGE HLS"
+  },
+  {
+   "id": 86,
+   "name": "Roasted Vegetables"
+  },
+  {
+   "id": 87,
+   "name": "Bag Meal Breakfast Options"
+  },
+  {
+   "id": 88,
+   "name": "Heart of the Plate"
+  },
+  {
+   "id": 89,
+   "name": "Special Bar"
+  },
+  {
+   "id": 90,
+   "name": "Brain Break"
+  },
+  {
+   "id": 91,
+   "name": "Bag Meal Specialty Sandwiches"
+  },
+  {
+   "id": 92,
+   "name": "Bag Meal Salads"
+  },
+  {
+   "id": 93,
+   "name": "Bag Meal Build Your Own"
+  },
+  {
+   "id": 94,
+   "name": "Bag MeaL Bread Choices"
+  },
+  {
+   "id": 95,
+   "name": "Bag Meal Cheese Choices"
+  },
+  {
+   "id": 96,
+   "name": "Bagged Meal Sides"
+  },
+  {
+   "id": 97,
+   "name": "Bagged Meal Condiments"
+  },
+  {
+   "id": 98,
+   "name": "Bag Meal Beverages"
+  },
+  {
+   "id": 99,
+   "name": "Add-ons"
+  }
+ ],
+ "sha256": "fdd0c57a3dbf39315bbcb09f25463e8f1c49f8dff1fbbf316f92d603bf45d658",
+ "table": "categories"
+}
