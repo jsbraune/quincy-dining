@@ -26,6 +26,8 @@ final class MenuStore {
     var isStale = false
     /// Recipe detail, keyed by recipe id. Loaded once and cached; ~54KB.
     var recipes: [Int: RecipeDetail] = [:]
+    /// Which dates the archive actually has, and which of those are closures.
+    var index: MenuIndex?
 
     private let session: URLSession
     private let cacheDir: URL
@@ -125,6 +127,16 @@ final class MenuStore {
         return ns.localizedDescription
     }
 
+    /// The publication window, so the date strip only offers dates that exist
+    /// rather than implying service the hall has not published.
+    func loadIndex() async {
+        let disk = cacheDir.appendingPathComponent("index.json")
+        var data = try? await fetch(path: "index.json")
+        if let fresh = data { try? fresh.write(to: disk) } else { data = try? Data(contentsOf: disk) }
+        guard let data, let decoded = try? JSONDecoder().decode(MenuIndex.self, from: data) else { return }
+        index = decoded
+    }
+
     /// Detail for the item screens. Small enough to hold entirely in memory,
     /// and it changes rarely, so this loads once per launch and falls back to
     /// the disk copy when offline.
@@ -147,6 +159,20 @@ final class MenuStore {
 
     func shift(days: Int) {
         date = Calendar.current.date(byAdding: .day, value: days, to: date) ?? date
+    }
+
+    func select(_ key: String) {
+        guard let parsed = Self.dayFormatter.date(from: key) else { return }
+        date = parsed
+    }
+
+    /// Every published date, in order, with whether the hall is serving.
+    var availableDays: [(key: String, serving: Bool)] {
+        guard let index else { return [] }
+        let serving = Set(index.servingDates)
+        return (index.servingDates + index.closedDates)
+            .sorted()
+            .map { ($0, serving.contains($0)) }
     }
 }
 

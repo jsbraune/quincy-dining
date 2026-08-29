@@ -7,6 +7,11 @@ struct TodayView: View {
         NavigationStack {
             VStack(spacing: 0) {
                 DateBar(store: store)
+                DateStrip(store: store) { key in
+                    store.select(key)
+                    Task { await store.load() }
+                }
+                .padding(.bottom, 10)
                 mealPicker
                 Divider()
                 content
@@ -23,6 +28,7 @@ struct TodayView: View {
             }
         }
         .task {
+            await store.loadIndex()
             await store.load()
             await store.loadRecipes()
         }
@@ -84,23 +90,21 @@ private struct DateBar: View {
 
     var body: some View {
         HStack {
-            Button { step(-1) } label: { Image(systemName: "chevron.left") }
-                .accessibilityLabel("Previous day")
-
-            Spacer()
-            VStack(spacing: 2) {
+            VStack(alignment: .leading, spacing: 1) {
                 Text(title).font(.headline)
-                if !Calendar.current.isDateInToday(store.date) {
-                    Text(store.dateKey).font(.caption2).foregroundStyle(.secondary)
-                }
+                Text(longDate).font(.caption).foregroundStyle(.secondary)
             }
             Spacer()
-
-            Button { step(1) } label: { Image(systemName: "chevron.right") }
-                .accessibilityLabel("Next day")
+            if !Calendar.current.isDateInToday(store.date) {
+                Button("Today") {
+                    store.date = Date()
+                    Task { await store.load() }
+                }
+                .font(.subheadline.weight(.medium))
+            }
         }
         .padding(.horizontal)
-        .padding(.vertical, 8)
+        .padding(.bottom, 8)
     }
 
     private var title: String {
@@ -108,14 +112,13 @@ private struct DateBar: View {
         if cal.isDateInToday(store.date) { return "Today" }
         if cal.isDateInTomorrow(store.date) { return "Tomorrow" }
         if cal.isDateInYesterday(store.date) { return "Yesterday" }
-        let f = DateFormatter()
-        f.dateFormat = "EEE, MMM d"
+        let f = DateFormatter(); f.dateFormat = "EEEE"
         return f.string(from: store.date)
     }
 
-    private func step(_ days: Int) {
-        store.shift(days: days)
-        Task { await store.load() }
+    private var longDate: String {
+        let f = DateFormatter(); f.dateFormat = "MMMM d, yyyy"
+        return f.string(from: store.date)
     }
 }
 
