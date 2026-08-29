@@ -43,7 +43,15 @@ jobs:
             echo "no changes"
             exit 0
           fi
-          git commit -m "archive: $(date -u +%Y-%m-%dT%H:%MZ)"
+          # runs.jsonl appends on every run, so there is always something to
+          # commit. Distinguish a real menu edit from a routine heartbeat so
+          # `git log --oneline` stays scannable.
+          if git diff --staged --name-only | grep -qv '^data/meta/'; then
+            MSG="archive: data changed $(date -u +%Y-%m-%dT%H:%MZ)"
+          else
+            MSG="heartbeat: no change $(date -u +%Y-%m-%dT%H:%MZ)"
+          fi
+          git commit -m "$MSG"
           # A concurrent run or a local push can move HEAD under us.
           for i in 1 2 3; do
             git pull --rebase --autostash origin main && git push origin main && exit 0
