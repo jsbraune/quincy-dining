@@ -21,7 +21,7 @@ final class MenuStore {
 
     var state: LoadState = .idle
     var date: Date = MenuStore.initialDate()
-    var selectedMeal: MealKind = .forNow()
+    var selectedMeal: MealKind = MenuStore.initialMeal()
     /// True when what is on screen came from disk rather than the network.
     var isStale = false
     /// Recipe detail, keyed by recipe id. Loaded once and cached; ~54KB.
@@ -42,6 +42,19 @@ final class MenuStore {
         let caches = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
         cacheDir = caches.appendingPathComponent("menus", isDirectory: true)
         try? FileManager.default.createDirectory(at: cacheDir, withIntermediateDirectories: true)
+    }
+
+    /// Debug-only override so a build can be launched straight into a given
+    /// meal for verification:
+    ///   xcrun simctl launch booted <bundle> --args -menuMeal dinner
+    static func initialMeal() -> MealKind {
+        #if DEBUG
+        if let raw = UserDefaults.standard.string(forKey: "menuMeal"),
+           let kind = MealKind(rawValue: raw.lowercased()) {
+            return kind
+        }
+        #endif
+        return .forNow()
     }
 
     /// Lets a build be launched at a chosen date for verification:
