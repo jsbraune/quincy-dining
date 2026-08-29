@@ -109,8 +109,24 @@ declaring `NSPrivacyAccessedAPICategoryUserDefaults` reason `CA92.1` (the app
 uses UserDefaults for filters), `ITSAppUsesNonExemptEncryption = NO` (HTTPS
 only), display name "Quincy Dining", iPhone-only, iOS 17 minimum.
 
-Still needed: a `DEVELOPMENT_TEAM` value and signing certificates on the build
-machine. Bump `CURRENT_PROJECT_VERSION` on every upload.
+Team is `RGM9JAFXFM` (Appier LLC). Bump `CURRENT_PROJECT_VERSION` on every
+upload -- App Store Connect rejects a duplicate build number.
+
+Archive and export (both need `-allowProvisioningUpdates`; without it
+xcodebuild refuses to create profiles and fails with "No profiles ... were
+found", even though automatic signing is on):
+
+    cd app/QuincyDining
+    xcodebuild -scheme QuincyDining -configuration Release \
+      -destination 'generic/platform=iOS' \
+      -archivePath build/QuincyDining.xcarchive -allowProvisioningUpdates archive
+    xcodebuild -exportArchive -archivePath build/QuincyDining.xcarchive \
+      -exportOptionsPlist ExportOptions.plist -exportPath build/export \
+      -allowProvisioningUpdates
+
+Certificates expire annually and the failure looks like "0 valid identities
+found" even though the certs are still visible in the keychain -- check
+expiry dates before assuming the keys are missing.
 
 The app is only as fresh as the archiver: if the GitHub Actions cron stops
 (it is disabled after 60 days of repository inactivity), the app quietly
