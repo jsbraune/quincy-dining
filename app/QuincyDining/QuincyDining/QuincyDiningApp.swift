@@ -4,7 +4,7 @@ import SwiftUI
 struct QuincyDiningApp: App {
     var body: some Scene {
         WindowGroup {
-            TodayView()
+            RootView()
         }
     }
 }

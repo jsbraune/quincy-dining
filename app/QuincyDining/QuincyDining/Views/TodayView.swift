@@ -216,6 +216,9 @@ private struct MealList: View {
                     }
                     Text("Menus are subject to change. Not affiliated with Harvard or HUDS.")
                         .font(.caption2)
+                    Text("Harvard shield: public domain. Quincy House shield by Hstoops, CC BY-SA 4.0.")
+                        .font(.caption2)
+                        .foregroundStyle(.tertiary)
                 }
                 .font(.caption)
             }
