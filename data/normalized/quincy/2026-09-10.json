@@ -1,7 +1,7 @@
 {
  "date": "2026-09-10",
- "fetchedAt": "2026-08-29T14:09:04+00:00",
- "itemCount": 347,
+ "fetchedAt": "2026-08-29T18:07:56+00:00",
+ "itemCount": 341,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -660,20 +660,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 230,
-       "name": "Assorted Bagels",
-       "portion": "1 each",
-       "recipeId": 213014,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -740,7 +726,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 603,
+       "calories": 621,
        "name": "Tuna Salad and Lettuce on Spinach Wrap",
        "portion": "1 each",
        "recipeId": 87028,
@@ -1079,16 +1065,6 @@
        "tags": [
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 130,
-       "name": "Dairy Free Vanilla Yogurt",
-       "portion": "1 each",
-       "recipeId": 10046,
-       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -1133,7 +1109,7 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 59,
+       "calories": 58,
        "name": "Cream Cheese Packets Asst.",
        "portion": "1 each",
        "recipeId": 777695,
@@ -2122,20 +2098,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 230,
-       "name": "Assorted Bagels",
-       "portion": "1 each",
-       "recipeId": 213014,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -2202,7 +2164,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 603,
+       "calories": 621,
        "name": "Tuna Salad and Lettuce on Spinach Wrap",
        "portion": "1 each",
        "recipeId": 87028,
@@ -2541,16 +2503,6 @@
        "tags": [
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 130,
-       "name": "Dairy Free Vanilla Yogurt",
-       "portion": "1 each",
-       "recipeId": 10046,
-       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -2595,7 +2547,7 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 59,
+       "calories": 58,
        "name": "Cream Cheese Packets Asst.",
        "portion": "1 each",
        "recipeId": 777695,
@@ -3373,7 +3325,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 597,
+       "calories": 596,
        "name": "Nashville Hot Chicken Sandwich",
        "portion": "1 each",
        "recipeId": 300225,
@@ -3632,20 +3584,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 230,
-       "name": "Assorted Bagels",
-       "portion": "1 each",
-       "recipeId": 213014,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -3788,7 +3726,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 603,
+       "calories": 621,
        "name": "Tuna Salad and Lettuce on Spinach Wrap",
        "portion": "1 each",
        "recipeId": 87028,
@@ -4127,16 +4065,6 @@
        "tags": [
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 130,
-       "name": "Dairy Free Vanilla Yogurt",
-       "portion": "1 each",
-       "recipeId": 10046,
-       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -4181,7 +4109,7 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 59,
+       "calories": 58,
        "name": "Cream Cheese Packets Asst.",
        "portion": "1 each",
        "recipeId": 777695,

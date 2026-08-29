@@ -1,7 +1,7 @@
 {
  "date": "2026-09-11",
  "fetchedAt": "2026-08-29T14:09:04+00:00",
- "itemCount": 341,
+ "itemCount": 339,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -727,7 +727,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 603,
+       "calories": 621,
        "name": "Tuna Salad and Lettuce on Spinach Wrap",
        "portion": "1 each",
        "recipeId": 87028,
@@ -1110,7 +1110,7 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 59,
+       "calories": 58,
        "name": "Cream Cheese Packets Asst.",
        "portion": "1 each",
        "recipeId": 777695,
@@ -1803,18 +1803,6 @@
        "portion": "4 oz",
        "recipeId": 111250,
        "tags": []
-      },
-      {
-       "allergens": [
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 914,
-       "name": "Italian Cold Cut Grinder",
-       "portion": "1 each",
-       "recipeId": 301088,
-       "tags": []
       }
      ],
      "name": "Entrees"
@@ -1859,15 +1847,13 @@
      "categoryId": 15,
      "items": [
       {
-       "allergens": [
-        "Milk"
-       ],
-       "calories": 150,
-       "name": "Buttered Brussels Sprouts",
+       "allergens": [],
+       "calories": 65,
+       "name": "Brussels Sprouts",
        "portion": "4 oz",
        "recipeId": 171035,
        "tags": [
-        "vegetarian"
+        "vegan"
        ]
       },
       {
@@ -2190,7 +2176,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 603,
+       "calories": 621,
        "name": "Tuna Salad and Lettuce on Spinach Wrap",
        "portion": "1 each",
        "recipeId": 87028,
@@ -2573,7 +2559,7 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 59,
+       "calories": 58,
        "name": "Cream Cheese Packets Asst.",
        "portion": "1 each",
        "recipeId": 777695,
@@ -3068,17 +3054,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [],
-       "calories": 50,
-       "name": "StirFry Vegetable Medley",
-       "portion": "4 oz",
-       "recipeId": 177087,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
       }
      ],
      "name": "Vegetables"
@@ -3368,7 +3343,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 597,
+       "calories": 596,
        "name": "Nashville Hot Chicken Sandwich",
        "portion": "1 each",
        "recipeId": 300225,
@@ -3749,7 +3724,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 603,
+       "calories": 621,
        "name": "Tuna Salad and Lettuce on Spinach Wrap",
        "portion": "1 each",
        "recipeId": 87028,
@@ -4224,7 +4199,7 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 59,
+       "calories": 58,
        "name": "Cream Cheese Packets Asst.",
        "portion": "1 each",
        "recipeId": 777695,
