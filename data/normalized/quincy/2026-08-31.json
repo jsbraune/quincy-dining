@@ -1,0 +1,158 @@
+{
+ "date": "2026-08-31",
+ "fetchedAt": "2026-08-28T22:03:41-04:00",
+ "itemCount": 9,
+ "location": "quincy",
+ "locationId": 8,
+ "meals": [
+  {
+   "meal": "breakfast",
+   "stations": [
+    {
+     "categoryId": 1,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 160,
+       "name": "Chicken Sausage",
+       "portion": "2 each",
+       "recipeId": 89020,
+       "tags": []
+      }
+     ],
+     "name": "Breakfast Meats"
+    },
+    {
+     "categoryId": 2,
+     "items": [
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 180,
+       "name": "Belgian Waffles",
+       "portion": "1 each",
+       "recipeId": 36016,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 135,
+       "name": "Plant Protein Breakfast Sausage",
+       "portion": "2 oz",
+       "recipeId": 300606,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 135,
+       "name": "Scrambled Cage Free Eggs",
+       "portion": "3 oz",
+       "recipeId": 61003,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Tofu Scramble",
+       "portion": "4 oz",
+       "recipeId": 142100,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 78,
+       "name": "Cage Free Hard Boiled Eggs",
+       "portion": "1 each",
+       "recipeId": 161049,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Breakfast Entrees"
+    },
+    {
+     "categoryId": 14,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 107,
+       "name": "Shredded Hashbrowns",
+       "portion": "4 oz",
+       "recipeId": 161048,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "categoryId": 23,
+     "items": [
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Build Your Own"
+    },
+    {
+     "categoryId": 24,
+     "items": [
+      {
+       "allergens": [
+        "Milk",
+        "Peanuts",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 149,
+       "name": "Banana Chips",
+       "portion": "1 oz",
+       "recipeId": 202004,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Featured Special Bar"
+    }
+   ]
+  }
+ ]
+}

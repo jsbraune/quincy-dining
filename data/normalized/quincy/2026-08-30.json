@@ -1,0 +1,56 @@
+{
+ "date": "2026-08-30",
+ "fetchedAt": "2026-08-28T22:03:41-04:00",
+ "itemCount": 2,
+ "location": "quincy",
+ "locationId": 8,
+ "meals": [
+  {
+   "meal": "breakfast",
+   "stations": [
+    {
+     "categoryId": 23,
+     "items": [
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Build Your Own"
+    },
+    {
+     "categoryId": 24,
+     "items": [
+      {
+       "allergens": [
+        "Milk",
+        "Peanuts",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 149,
+       "name": "Banana Chips",
+       "portion": "1 oz",
+       "recipeId": 202004,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Featured Special Bar"
+    }
+   ]
+  }
+ ]
+}

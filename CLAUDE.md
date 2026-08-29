@@ -58,6 +58,36 @@ A menu row is a join record: `{date, meal, category, recipe, location[]}`.
 - Lookup tables live at stable paths and are overwritten. Git history is the
   version archive -- do not reintroduce dated table snapshots (5MB each).
 
+## Normalizer
+
+`archiver/normalize.py` turns `data/raw/` into `data/normalized/`. Pure local
+work, no network. Runs after the archiver in CI.
+
+    quincy/YYYY-MM-DD.json   meals -> stations -> items   (~6KB gzipped)
+    recipes.json             detail for recipes in use    (~53KB gzipped)
+    index.json               serving vs closed dates
+
+Contract: day files carry exactly what a list row and the filters need
+(name, portion, tags, allergens, calories). Full macros and ingredients live
+in `recipes.json`, fetched once and cached. Inlining detail into day files
+cost 2.3x the bytes; shipping all 4,170 recipes instead of the 411 actually
+in use cost 10x.
+
+Details that matter:
+
+- **Station order is the feed's order, not sorted by category id.** It mirrors
+  FoodPro's layout (Soup, Salad Bar, Entrees, ...), which is what a human
+  expects. Do not sort it.
+- **Halal is derived from station membership**, since CS50 has no halal flag --
+  categories 17 "Halal" and 38 "HALAL". The tag propagates to every appearance
+  of that recipe in the same meal, so a dish listed under both Entrees and
+  Halal is tagged in both places.
+- **A recipe can legitimately appear in several stations** in one meal. Not a
+  bug, do not dedupe.
+- **~5% of items have no nutrition at all** and ~47% declare no allergens.
+  Both are upstream nulls. Absence of a declared allergen is not evidence of
+  absence -- see below.
+
 ## Allergen liability
 
 If allergen filtering ships: HUDS does not guarantee allergens are labeled,
