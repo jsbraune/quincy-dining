@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "fetchedAt": "2026-08-28T21:48:41-04:00",
+ "fetchedAt": "2026-08-28T22:03:41-04:00",
  "quincyRowCount": 9,
  "rowCount": 492,
  "rows": [
@@ -5555,5 +5555,6 @@
    "recipe": 161049
   }
  ],
+ "rowsSha256": "1ed677e940b91671de858f6bb58d9a0be41793fff172bd7b7c1a8eaf7bc1abda",
  "source": "api.cs50.io/dining/menus"
 }

@@ -128,7 +128,7 @@ def archive_tables(now_iso, today):
 
 def archive_menus(now_iso, today):
     """Walk the publication window, writing one file per date."""
-    written, frozen, skipped, empty_streak = [], [], [], 0
+    written, frozen, skipped, unchanged, empty_streak = [], [], [], [], 0
 
     for offset in range(-BACK_DAYS, MAX_FWD + 1):
         day = today + timedelta(days=offset)
@@ -157,19 +157,36 @@ def archive_menus(now_iso, today):
             empty_streak = 0
 
         quincy = sum(1 for r in rows if 8 in r.get("location", []))
+        digest = sha(rows)
+
+        # Only write when the menu itself changed. Otherwise every run would
+        # rewrite each future-dated file just to bump fetchedAt, and git
+        # history would fill with timestamp noise. A commit touching
+        # data/raw/menus/ should mean HUDS actually edited that menu.
+        # Liveness is recorded in data/meta/runs.jsonl instead.
+        if os.path.exists(path):
+            try:
+                with open(path) as fh:
+                    if json.load(fh).get("rowsSha256") == digest:
+                        unchanged.append(iso)
+                        continue
+            except (ValueError, OSError):
+                pass  # unreadable/legacy file -- fall through and rewrite
+
         write_json(path, {
             "date": iso,
             "fetchedAt": now_iso,
             "source": "api.cs50.io/dining/menus",
             "rowCount": len(rows),
             "quincyRowCount": quincy,
+            "rowsSha256": digest,
             "rows": rows,
         })
         written.append(iso)
-        log("  menus/%s  %4d rows (%3d Quincy)%s" % (iso, len(rows), quincy,
-                                                     "  [frozen next run]" if day <= today else ""))
+        log("  menus/%s  %4d rows (%3d Quincy)  CHANGED%s" % (
+            iso, len(rows), quincy, "  [frozen next run]" if day <= today else ""))
 
-    return written, frozen, skipped
+    return written, frozen, skipped, unchanged
 
 
 def main():
@@ -181,7 +198,7 @@ def main():
     log("lookup tables:")
     tables = archive_tables(now_iso, today)
     log("menu window:")
-    written, frozen, skipped = archive_menus(now_iso, today)
+    written, frozen, skipped, unchanged = archive_menus(now_iso, today)
 
     os.makedirs(META_DIR, exist_ok=True)
     entry = {
@@ -189,14 +206,15 @@ def main():
         "today": today.isoformat(),
         "menusWritten": written,
         "menusFrozen": frozen,
+        "menusUnchanged": unchanged,
         "futureNotPublished": skipped,
         "tables": tables,
     }
     with open(os.path.join(META_DIR, "runs.jsonl"), "a") as fh:
         fh.write(json.dumps(entry, sort_keys=True) + "\n")
 
-    log("done: %d written, %d frozen, %d not yet published"
-        % (len(written), len(frozen), len(skipped)))
+    log("done: %d changed, %d unchanged, %d frozen, %d not yet published"
+        % (len(written), len(unchanged), len(frozen), len(skipped)))
     return 0
 
 
