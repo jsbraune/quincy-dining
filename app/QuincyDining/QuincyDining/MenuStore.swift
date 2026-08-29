@@ -161,6 +161,13 @@ final class MenuStore {
         date = Calendar.current.date(byAdding: .day, value: days, to: date) ?? date
     }
 
+    /// Every allergen that actually appears in the catalog, so the filter list
+    /// reflects the data rather than a hardcoded guess.
+    var knownAllergens: [String] {
+        let all = Set(recipes.values.flatMap(\.allergens))
+        return all.sorted()
+    }
+
     func select(_ key: String) {
         guard let parsed = Self.dayFormatter.date(from: key) else { return }
         date = parsed

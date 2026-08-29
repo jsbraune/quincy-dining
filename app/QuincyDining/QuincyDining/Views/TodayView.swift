@@ -2,6 +2,8 @@ import SwiftUI
 
 struct TodayView: View {
     @State private var store = MenuStore()
+    @State private var filters = Filters()
+    @State private var showingFilters = false
 
     var body: some View {
         NavigationStack {
@@ -19,12 +21,25 @@ struct TodayView: View {
             .navigationTitle("Quincy House")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                ToolbarItem(placement: .topBarLeading) {
+                    Button { showingFilters = true } label: {
+                        Image(systemName: filters.isActive
+                              ? "line.3.horizontal.decrease.circle.fill"
+                              : "line.3.horizontal.decrease.circle")
+                    }
+                    .accessibilityLabel(filters.isActive
+                                        ? "Filters, \(filters.count) active"
+                                        : "Filters")
+                }
                 ToolbarItem(placement: .topBarTrailing) {
                     Button { Task { await store.load() } } label: {
                         Image(systemName: "arrow.clockwise")
                     }
                     .accessibilityLabel("Refresh")
                 }
+            }
+            .sheet(isPresented: $showingFilters) {
+                FiltersView(filters: filters, knownAllergens: store.knownAllergens)
             }
         }
         .task {
@@ -68,7 +83,8 @@ struct TodayView: View {
                         retry: nil)
         case .loaded(let day):
             if let meal = day.meal(store.selectedMeal), meal.itemCount > 0 {
-                MealList(meal: meal, day: day, isStale: store.isStale, store: store)
+                MealList(meal: meal, day: day, isStale: store.isStale,
+                         store: store, filters: filters)
             } else {
                 MessageView(icon: "fork.knife", title: "No \(store.selectedMeal.label.lowercased()) service",
                             detail: "Quincy isn't serving \(store.selectedMeal.label.lowercased()) on this date.",
@@ -127,10 +143,21 @@ private struct MealList: View {
     let day: DayMenu
     let isStale: Bool
     let store: MenuStore
+    let filters: Filters
+
+    private var stations: [Station] { filters.apply(to: meal) }
+    private var shownCount: Int { stations.reduce(0) { $0 + $1.items.count } }
 
     var body: some View {
         List {
-            ForEach(meal.stations) { station in
+            if filters.isActive && stations.isEmpty {
+                ContentUnavailableView(
+                    "Nothing matches your filters",
+                    systemImage: "line.3.horizontal.decrease.circle",
+                    description: Text("No \(meal.meal) item matches. Try removing a filter.")
+                )
+            }
+            ForEach(stations) { station in
                 Section {
                     ForEach(station.items) { item in
                         NavigationLink {
@@ -148,7 +175,14 @@ private struct MealList: View {
                 EmptyView()
             } footer: {
                 VStack(alignment: .leading, spacing: 4) {
-                    Text("\(meal.itemCount) items • as of \(day.fetchedAt.asFriendlyTimestamp)")
+                    if filters.isActive {
+                        Text("\(shownCount) of \(meal.itemCount) items shown • as of \(day.fetchedAt.asFriendlyTimestamp)")
+                        Label("Filtered on declared allergens only. This is not a list of safe foods.",
+                              systemImage: "exclamationmark.triangle")
+                            .foregroundStyle(.orange)
+                    } else {
+                        Text("\(meal.itemCount) items • as of \(day.fetchedAt.asFriendlyTimestamp)")
+                    }
                     if isStale {
                         Label("Showing a saved copy — you're offline.",
                               systemImage: "exclamationmark.icloud")
