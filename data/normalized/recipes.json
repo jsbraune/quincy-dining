@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29T18:08:00+00:00",
+ "generatedAt": "2026-08-29T22:27:27+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -510,6 +510,18 @@
    "vegan": false,
    "vegetarian": false
   },
+  "110055": {
+   "allergens": [],
+   "ingredients": "Water",
+   "name": "Crimson Jam on Harvard Yard",
+   "note": null,
+   "nutrition": {
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 event",
+   "vegan": false,
+   "vegetarian": false
+  },
   "111000": {
    "allergens": [],
    "ingredients": null,
@@ -776,7 +788,7 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Medium Pearl Barley, Green Kale (Kale), Sliced Mushrooms (Mushrooms), Sliced White Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt (Salt), Scallions (Fresh Scallions), Ground Black Pepper ()",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Medium Pearl Barley, Green Kale (Kale), Sliced Mushrooms (Mushrooms), Sliced White Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Scallions (Fresh Scallions), Ground Black Pepper",
    "name": "Mushrooms, Barley, Kale, with Scallions",
    "note": null,
    "nutrition": {
@@ -1315,11 +1327,11 @@
    "name": "Quinoa and Vegetable Jambalaya",
    "note": null,
    "nutrition": {
-    "calories": 239,
+    "calories": 238,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 12.1,
     "protein_g": 7.6,
-    "sat_fat_g": 0.5,
+    "sat_fat_g": 0.4,
     "sodium_mg": 271.3,
     "sugars_g": 3.7,
     "total_carb_g": 33.1,
@@ -2247,25 +2259,27 @@
    "vegetarian": true
   },
   "171035": {
-   "allergens": [],
-   "ingredients": "Brussels Sprouts (Brussels Sprouts)",
-   "name": "Brussels Sprouts",
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Brussels Sprouts (Brussels Sprouts), Unsalted Butter (Cream (Milk), Natural Flavoring.), Ground Black Pepper, Kosher Salt",
+   "name": "Buttered Brussels Sprouts",
    "note": null,
    "nutrition": {
-    "calories": 65,
-    "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 4.3,
-    "protein_g": 4.3,
-    "sat_fat_g": 0.0,
-    "sodium_mg": 21.7,
+    "calories": 150,
+    "cholesterol_mg": 22.8,
+    "dietary_fiber_g": 4.4,
+    "protein_g": 4.4,
+    "sat_fat_g": 6.1,
+    "sodium_mg": 157.9,
     "sugars_g": 2.9,
-    "total_carb_g": 11.6,
-    "total_fat_g": 0.0,
+    "total_carb_g": 11.8,
+    "total_fat_g": 9.1,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
-   "vegan": true,
-   "vegetarian": false
+   "vegan": false,
+   "vegetarian": true
   },
   "171036": {
    "allergens": [],
@@ -2898,6 +2912,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "177087": {
+   "allergens": [],
+   "ingredients": "Stir Fry Vegetables (Broccoli, Chinese Cabbage (Bok Choy) Onions and Celery), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper",
+   "name": "StirFry Vegetable Medley",
+   "note": null,
+   "nutrition": {
+    "calories": 50,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 2.0,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 182.1,
+    "sugars_g": 2.0,
+    "total_carb_g": 6.0,
+    "total_fat_g": 1.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -5029,7 +5064,7 @@
     "dietary_fiber_g": 0.1,
     "protein_g": 5.0,
     "sat_fat_g": 2.2,
-    "sodium_mg": 133.6,
+    "sodium_mg": 133.7,
     "sugars_g": 0.5,
     "total_carb_g": 1.1,
     "total_fat_g": 4.8,
@@ -5307,18 +5342,18 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Breaded Chicken Breast (Boneless, Skinless Chicken Breast Filets with Rib Meat CONTAINING: Up To 18% Of A Solution Of Water, Salt Sodium Phosphates, Seasoning (Salt Flavors, Maltodextrin, Sugar Vegetable Stock (Carrot, Onion, Celery, ) Garlic Powder) BREADED WITH: Enriched Wheat Flour, Water Salt, Contains 2% or less of the following: Disodium Inosinate and Disodium Guanylate, Garlic Powder, Leavening (Sodium Bicarbonate, Sodium Acid Pyrophosphate, Sodium Aluminum Phosphate, Monocalcium Phosphate), Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate, Monocalcium Phosphate) Onion Powder, Spice Extractive, Spices, Wheat Gluten Breading set in Vegetable Oil), Burger Roll (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Soybean Oil, Wheat Starch, Wheat Protein, Sugar, Wheat Flour, Lactic Acid, Natural Flavors, Canola Oil (Non-gmo), Enzymes, Potato Flour, Yeast, Less Than 2% Of: Salt, Sugar, Dough Conditioner (Ascorbic Acid, Cornstarch, Enzymes, Sunflower Oil), Natural Butter Type Flavor (Dextrose), Cane Sugar, Reb A (Stevia Extract), Yellow Corn Flour, Turmeric, Annatto Extract (Imparts Color), Calcium Propionate (To Retain Freshness), Glaze (Vegetable Proteins, Vegetable Oil, Maltodextrin, Starch) MADE IN A BAKERY THAT USES SESAME SEEDS), Bread and Butter Pickles (Fresh Cucumbers, High fructose Corn Syrup, Water, Vinegar, Salt, Mustard Seed, Celery Seed, Calcium Chloride, Natural Flavors, Polysorbate 80, Yellow 5.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Light Brown Sugar (Brown Sugar), Unsalted Butter (Cream (Milk), Natural Flavoring.), Hot Smoked Paprika (Paprika And Silicon Dioxide), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Kosher Salt, Ground Cayenne Pepper (Dried Chilies), Ground Black Pepper",
+   "ingredients": "Breaded Chicken Breast (Boneless, Skinless Chicken Breast Filets with Rib Meat CONTAINING: Up To 18% Of A Solution Of Water, Salt Sodium Phosphates, Seasoning (Salt Flavors, Maltodextrin, Sugar Vegetable Stock (Carrot, Onion, Celery, ) Garlic Powder) BREADED WITH: Enriched Wheat Flour, Water Salt, Contains 2% or less of the following: Disodium Inosinate and Disodium Guanylate, Garlic Powder, Leavening (Sodium Bicarbonate, Sodium Acid Pyrophosphate, Sodium Aluminum Phosphate, Monocalcium Phosphate), Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate, Monocalcium Phosphate) Onion Powder, Spice Extractive, Spices, Wheat Gluten Breading set in Vegetable Oil), Burger Roll (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Soybean Oil, Wheat Starch, Wheat Protein, Sugar, Wheat Flour, Lactic Acid, Natural Flavors, Canola Oil (Non-gmo), Enzymes, Potato Flour, Yeast, Less Than 2% Of: Salt, Sugar, Dough Conditioner (Ascorbic Acid, Cornstarch, Enzymes, Sunflower Oil), Natural Butter Type Flavor (Dextrose), Cane Sugar, Reb A (Stevia Extract), Yellow Corn Flour, Turmeric, Annatto Extract (Imparts Color), Calcium Propionate (To Retain Freshness), Glaze (Vegetable Proteins, Vegetable Oil, Maltodextrin, Starch) MADE IN A BAKERY THAT USES SESAME SEEDS), Bread and Butter Pickles (Fresh Cucumbers, High fructose Corn Syrup, Water, Vinegar, Salt, Mustard Seed, Celery Seed, Calcium Chloride, Natural Flavors, Polysorbate 80, Yellow 5.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Light Brown Sugar (Brown Sugar), Unsalted Butter (Cream (Milk), Natural Flavoring.), Hot Smoked Paprika (Paprika And Silicon Dioxide), Ground Cayenne Pepper (Dried Chilies), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Kosher Salt, Ground Black Pepper",
    "name": "Nashville Hot Chicken Sandwich",
    "note": null,
    "nutrition": {
-    "calories": 596,
+    "calories": 597,
     "cholesterol_mg": 42.3,
-    "dietary_fiber_g": 1.1,
+    "dietary_fiber_g": 1.2,
     "protein_g": 20.1,
     "sat_fat_g": 5.1,
     "sodium_mg": 1269.5,
     "sugars_g": 11.9,
-    "total_carb_g": 61.2,
+    "total_carb_g": 61.3,
     "total_fat_g": 24.7,
     "trans_fat_g": 0.0
    },
@@ -5660,7 +5695,7 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Beef Brisket, Crushed Tomatoes (Vine Ripened Unpeeled Tomatoes, Tomato Puree, Less than 2% of Citric Acid. Naturally Derived), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Shallots (Shallots), Ginger (Fresh Ginger), Raisins (Raisins), Spanish Paprika (Paprika), Ground Coriander (Coriander), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Cumin (Ground Cumin), Ground Cinnamon (Ground Cinnamon Bark), Kosher Salt, Italian Parsley (Italian Parsley), Ground Black Pepper",
+   "ingredients": "Beef Brisket, Crushed Tomatoes (Vine Ripened Unpeeled Tomatoes, Tomato Puree, Less than 2% of Citric Acid. Naturally Derived), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Shallots (Shallots), Ginger (Fresh Ginger), Raisins (Raisins), Spanish Paprika (Paprika), Ground Coriander (Coriander), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Cumin (Ground Cumin), Ground Cinnamon (Ground Cinnamon Bark), Kosher Salt, Ground Black Pepper, Italian Parsley (Italian Parsley)",
    "name": "Cumin & Ginger Braised Beef",
    "note": null,
    "nutrition": {
@@ -5669,7 +5704,7 @@
     "dietary_fiber_g": 1.2,
     "protein_g": 23.7,
     "sat_fat_g": 6.5,
-    "sodium_mg": 194.7,
+    "sodium_mg": 194.6,
     "sugars_g": 2.6,
     "total_carb_g": 5.2,
     "total_fat_g": 17.3,
@@ -5770,7 +5805,7 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Couscous (Wheat Flour), Celery (Celery), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Oregano (Oregano), Italian Parsley (Italian Parsley), Ground Cinnamon (Ground Cinnamon Bark), Ground Turmeric (Turmeric), Ground Black Pepper",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Couscous (Wheat Flour), Celery (Celery), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Oregano (Oregano), Ground Cinnamon (Ground Cinnamon Bark), Ground Turmeric (Turmeric), Italian Parsley (Italian Parsley), Ground Black Pepper",
    "name": "Herbed Couscous",
    "note": null,
    "nutrition": {
@@ -7302,19 +7337,19 @@
     "Soybeans",
     "Tree Nuts"
    ],
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Butternut Squash (Butternut Squash), Long Grain Rice (Rice), Scallions (Fresh Scallions), Onions (Onions), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-Eyed Peas, Garlic (Garlic), Fresh Thyme (Fresh Thyme), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Kosher Salt, Ground Allspice (Allspice)",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Butternut Squash (Butternut Squash), Long Grain Rice (Rice), Scallions (Fresh Scallions), Onions (Onions), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-Eyed Peas, Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
    "name": "Pumpkin Squah Rice",
    "note": null,
    "nutrition": {
-    "calories": 202,
+    "calories": 201,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 3.8,
+    "dietary_fiber_g": 3.7,
     "protein_g": 5.6,
     "sat_fat_g": 2.2,
     "sodium_mg": 310.2,
     "sugars_g": 3.1,
-    "total_carb_g": 37.2,
-    "total_fat_g": 3.9,
+    "total_carb_g": 37.1,
+    "total_fat_g": 3.8,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -7327,15 +7362,15 @@
    "name": "Seasoned Cabbage",
    "note": null,
    "nutrition": {
-    "calories": 64,
+    "calories": 62,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 1.7,
-    "protein_g": 3.1,
+    "protein_g": 3.0,
     "sat_fat_g": 0.1,
-    "sodium_mg": 151.0,
+    "sodium_mg": 150.8,
     "sugars_g": 2.7,
-    "total_carb_g": 11.6,
-    "total_fat_g": 1.6,
+    "total_carb_g": 11.2,
+    "total_fat_g": 1.5,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -7347,18 +7382,18 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Beef Stew Meat (Beef Stew Meat), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Potatoes, Carrots (Carrots), Onions (Onions), Water, Fresh Thyme (Fresh Thyme), Scallions (Fresh Scallions), Suntan Peppers (Bell Peppers), Curry Powder (Spices (including Cumin, Fennel, Coriander, Mustard, Fenugreek, Chile powder, Clove, Ginger, Cinnamon, Cardamom), Turmeric, Salt. Contains: Mustard.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Green Seasoning Marinade (Scallions (Fresh Scallions), Cilantro (Cilantro), Onions (Onions), Parsley (Parsley), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Celery (Celery), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Spanish Paprika (Paprika), Ground Ginger (Dried Ginger.))",
+   "ingredients": "Beef Stew Meat (Beef Stew Meat), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Potatoes, Carrots (Carrots), Onions (Onions), Water, Scallions (Fresh Scallions), Suntan Peppers (Bell Peppers), Fresh Thyme (Fresh Thyme), Curry Powder (Spices (including Cumin, Fennel, Coriander, Mustard, Fenugreek, Chile powder, Clove, Ginger, Cinnamon, Cardamom), Turmeric, Salt. Contains: Mustard.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Green Seasoning Marinade (Scallions (Fresh Scallions), Cilantro (Cilantro), Onions (Onions), Parsley (Parsley), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Celery (Celery), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Spanish Paprika (Paprika), Ground Ginger (Dried Ginger.))",
    "name": "Beef Stew",
    "note": null,
    "nutrition": {
-    "calories": 442,
+    "calories": 437,
     "cholesterol_mg": 147.3,
-    "dietary_fiber_g": 6.2,
-    "protein_g": 51.9,
+    "dietary_fiber_g": 5.6,
+    "protein_g": 51.7,
     "sat_fat_g": 4.6,
-    "sodium_mg": 578.9,
+    "sodium_mg": 578.4,
     "sugars_g": 4.0,
-    "total_carb_g": 23.6,
+    "total_carb_g": 22.5,
     "total_fat_g": 16.6,
     "trans_fat_g": 0.1
    },
@@ -7573,6 +7608,31 @@
    "vegan": true,
    "vegetarian": true
   },
+  "301088": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED), Mortadella (Pork, Pork Fat, Water, Contains less than 2% of Dextrose, Salt, Corn Syrup, Flavoring, Nonfat Dry Milk, Sodium Phosphate, Chablis Wine, Potassium Lactate, Ascorbic Acid (Vitamin C), Sodium Diacetate, Sodium Nitrite.), Capicola (Sliced Hot Cooked Capicola (Pork) Coated With Spices, Paprika, Natural Flavors, Oleoresin Of Paprika. Cured With Water, Salt, Contains 2% Or Less Of Sugar, Flavorings, Dextrose, Corn Syrup, Sodium Phosphates, Sodium Lactate, Sodium Diacetate, Sodium Erythorbate, Sodium Nitrate.), Salami (Pork, Beef, Salt, Contains Less Than 2% Or Less Of Dextrose, Water, Natural Spices, Sodium Ascorbate, Lactic Acid Starter Culture, Sodium Nitrite, Garlic Powder, Bha, Bht, Citric Acid.), Provolone Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, ), Onion & Calmata Olive Relish (Onions (Onions), Kalamata Olives (Kalamata Olives, Water, Salt, Sunflower Oil, Extra Virgin Olive Oil, Lactic Acid.), Garlic Chopped in Oil (Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)), Black Peppercorn (Black Peppercorns), Balsamic Vinegar (Balsamic Vinegar of Moderna. Contains Sulfites.), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Tabasco Sauce (Distilled Vinegar, Red Pepper, Salt.))",
+   "name": "Italian Cold Cut Grinder",
+   "note": null,
+   "nutrition": {
+    "calories": 914,
+    "cholesterol_mg": 141.0,
+    "dietary_fiber_g": 1.5,
+    "protein_g": 49.2,
+    "sat_fat_g": 24.2,
+    "sodium_mg": 3061.8,
+    "sugars_g": 4.3,
+    "total_carb_g": 42.9,
+    "total_fat_g": 61.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
   "301089": {
    "allergens": [
     "Wheat"
@@ -7621,7 +7681,7 @@
    "allergens": [
     "Milk"
    ],
-   "ingredients": "Eggplant (FRESH EGGPLANT), Crumbled Feta Cheese (Pasteurized Whole Milk, Skim Milk, Cream, Whey, Salt, Cultures, Enzymes, Powdered Cellulose, Potassium Sorbate, Guar Gum, Xanthan Gum, Natamycin (A Natural Mold Inhibitor).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Parsley (Parsley), Kosher Salt, Dill (Fresh dill), Ground Black Pepper, Ground Cumin (Ground Cumin), Mint",
+   "ingredients": "Eggplant (FRESH EGGPLANT), Crumbled Feta Cheese (Pasteurized Whole Milk, Skim Milk, Cream, Whey, Salt, Cultures, Enzymes, Powdered Cellulose, Potassium Sorbate, Guar Gum, Xanthan Gum, Natamycin (A Natural Mold Inhibitor).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Parsley (Parsley), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Mint, Dill (Fresh dill)",
    "name": "Roasted Eggplant with Feta and Herbs",
    "note": null,
    "nutrition": {
@@ -7630,7 +7690,7 @@
     "dietary_fiber_g": 2.8,
     "protein_g": 3.1,
     "sat_fat_g": 2.7,
-    "sodium_mg": 296.4,
+    "sodium_mg": 296.3,
     "sugars_g": 4.0,
     "total_carb_g": 10.7,
     "total_fat_g": 10.4,
@@ -9003,11 +9063,11 @@
     "calories": 216,
     "cholesterol_mg": 37.3,
     "dietary_fiber_g": 1.5,
-    "protein_g": 12.2,
+    "protein_g": 12.4,
     "sat_fat_g": 5.7,
     "sodium_mg": 2104.2,
-    "sugars_g": 12.3,
-    "total_carb_g": 19.2,
+    "sugars_g": 13.5,
+    "total_carb_g": 18.3,
     "total_fat_g": 16.8,
     "trans_fat_g": 0.2
    },
@@ -9084,19 +9144,19 @@
    "allergens": [
     "Milk"
    ],
-   "ingredients": "Lite Cream Cheese (Pasteurized Nonfat Milk And Milkfat, Whey Protein Concentrate, Cheese Culture, Salt, Stabilizers (Xanthan And/or Carob Bean And/or Guar Gums), Sorbic Acid As A Preservative*, Vitamin A Palmitate *ingredient Not In Regular Cream Cheese), Cream Cheese (Pasteurized Milk and Cream, Cheese Culture, Salt, Carob Bean Gum.)",
+   "ingredients": "Cream Cheese (Pasteurized Milk and Cream, Cheese Culture, Salt, Carob Bean Gum.), Lite Cream Cheese (Pasteurized Nonfat Milk And Milkfat, Whey Protein Concentrate, Cheese Culture, Salt, Stabilizers (Xanthan And/or Carob Bean And/or Guar Gums), Sorbic Acid As A Preservative*, Vitamin A Palmitate *ingredient Not In Regular Cream Cheese)",
    "name": "Cream Cheese Packets Asst.",
    "note": null,
    "nutrition": {
-    "calories": 58,
-    "cholesterol_mg": 18.9,
+    "calories": 59,
+    "cholesterol_mg": 19.3,
     "dietary_fiber_g": 0.0,
     "protein_g": 1.6,
     "sat_fat_g": 3.3,
-    "sodium_mg": 80.0,
+    "sodium_mg": 74.5,
     "sugars_g": 0.8,
     "total_carb_g": 0.9,
-    "total_fat_g": 5.6,
+    "total_fat_g": 5.4,
     "trans_fat_g": 0.1
    },
    "portion": "1 each",
@@ -9255,15 +9315,15 @@
    "name": "Tuna Salad and Lettuce on Spinach Wrap",
    "note": null,
    "nutrition": {
-    "calories": 621,
-    "cholesterol_mg": 45.1,
-    "dietary_fiber_g": 2.3,
-    "protein_g": 27.3,
-    "sat_fat_g": 8.0,
-    "sodium_mg": 892.4,
-    "sugars_g": 0.3,
-    "total_carb_g": 47.7,
-    "total_fat_g": 35.1,
+    "calories": 603,
+    "cholesterol_mg": 51.2,
+    "dietary_fiber_g": 2.2,
+    "protein_g": 28.3,
+    "sat_fat_g": 23.0,
+    "sodium_mg": 1042.4,
+    "sugars_g": 0.2,
+    "total_carb_g": 47.6,
+    "total_fat_g": 33.6,
     "trans_fat_g": 0.0
    },
    "portion": "1 each",
