@@ -93,3 +93,70 @@ enum MealKind: String, CaseIterable, Identifiable {
         }
     }
 }
+
+
+/// One entry from data/normalized/recipes.json
+struct RecipeDetail: Codable {
+    let name: String
+    let portion: String
+    let allergens: [String]
+    let ingredients: String?
+    let nutrition: [String: Double]
+    let vegan: Bool
+    let vegetarian: Bool
+    let note: String?
+}
+
+struct RecipeCatalog: Codable {
+    let generatedAt: String
+    let recipes: [String: RecipeDetail]
+}
+
+/// Display order and labels for the nutrition panel. Keys match the
+/// normalizer's output (`protein_g`, `sodium_mg`, ...). Every field is
+/// optional upstream -- roughly 5% of items carry no nutrition at all.
+enum Nutrient: String, CaseIterable, Identifiable {
+    case calories
+    case total_fat_g, sat_fat_g, trans_fat_g
+    case cholesterol_mg, sodium_mg
+    case total_carb_g, dietary_fiber_g, sugars_g
+    case protein_g
+
+    var id: String { rawValue }
+
+    var label: String {
+        switch self {
+        case .calories: return "Calories"
+        case .total_fat_g: return "Total Fat"
+        case .sat_fat_g: return "Saturated Fat"
+        case .trans_fat_g: return "Trans Fat"
+        case .cholesterol_mg: return "Cholesterol"
+        case .sodium_mg: return "Sodium"
+        case .total_carb_g: return "Total Carbohydrate"
+        case .dietary_fiber_g: return "Dietary Fiber"
+        case .sugars_g: return "Sugars"
+        case .protein_g: return "Protein"
+        }
+    }
+
+    var unit: String {
+        switch self {
+        case .calories: return ""
+        case .cholesterol_mg, .sodium_mg: return "mg"
+        default: return "g"
+        }
+    }
+
+    /// Indented under its parent on a real nutrition label.
+    var isSubEntry: Bool {
+        switch self {
+        case .sat_fat_g, .trans_fat_g, .dietary_fiber_g, .sugars_g: return true
+        default: return false
+        }
+    }
+
+    func format(_ value: Double) -> String {
+        let n = value == value.rounded() ? String(Int(value)) : String(format: "%.1f", value)
+        return unit.isEmpty ? n : n + unit
+    }
+}

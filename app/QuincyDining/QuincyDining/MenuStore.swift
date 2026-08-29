@@ -24,6 +24,8 @@ final class MenuStore {
     var selectedMeal: MealKind = .forNow()
     /// True when what is on screen came from disk rather than the network.
     var isStale = false
+    /// Recipe detail, keyed by recipe id. Loaded once and cached; ~54KB.
+    var recipes: [Int: RecipeDetail] = [:]
 
     private let session: URLSession
     private let cacheDir: URL
@@ -121,6 +123,26 @@ final class MenuStore {
             }
         }
         return ns.localizedDescription
+    }
+
+    /// Detail for the item screens. Small enough to hold entirely in memory,
+    /// and it changes rarely, so this loads once per launch and falls back to
+    /// the disk copy when offline.
+    func loadRecipes() async {
+        guard recipes.isEmpty else { return }
+        let disk = cacheDir.appendingPathComponent("recipes.json")
+        var data = try? await fetch(path: "recipes.json")
+        if let fresh = data {
+            try? fresh.write(to: disk)
+        } else {
+            data = try? Data(contentsOf: disk)
+        }
+        guard let data, let catalog = try? JSONDecoder().decode(RecipeCatalog.self, from: data) else { return }
+        var byId: [Int: RecipeDetail] = [:]
+        for (key, value) in catalog.recipes {
+            if let id = Int(key) { byId[id] = value }
+        }
+        recipes = byId
     }
 
     func shift(days: Int) {

@@ -22,7 +22,10 @@ struct TodayView: View {
                 }
             }
         }
-        .task { await store.load() }
+        .task {
+            await store.load()
+            await store.loadRecipes()
+        }
     }
 
     @ViewBuilder
@@ -59,7 +62,7 @@ struct TodayView: View {
                         retry: nil)
         case .loaded(let day):
             if let meal = day.meal(store.selectedMeal), meal.itemCount > 0 {
-                MealList(meal: meal, day: day, isStale: store.isStale)
+                MealList(meal: meal, day: day, isStale: store.isStale, store: store)
             } else {
                 MessageView(icon: "fork.knife", title: "No \(store.selectedMeal.label.lowercased()) service",
                             detail: "Quincy isn't serving \(store.selectedMeal.label.lowercased()) on this date.",
@@ -120,13 +123,18 @@ private struct MealList: View {
     let meal: Meal
     let day: DayMenu
     let isStale: Bool
+    let store: MenuStore
 
     var body: some View {
         List {
             ForEach(meal.stations) { station in
                 Section {
                     ForEach(station.items) { item in
-                        ItemRow(item: item)
+                        NavigationLink {
+                            ItemDetailView(item: item, store: store)
+                        } label: {
+                            ItemRow(item: item)
+                        }
                     }
                 } header: {
                     Text(station.name).textCase(nil)
@@ -172,8 +180,8 @@ private struct ItemRow: View {
                         .font(.caption2.weight(.medium))
                         .padding(.horizontal, 6)
                         .padding(.vertical, 2)
-                        .background(color(for: tag).opacity(0.15), in: Capsule())
-                        .foregroundStyle(color(for: tag))
+                        .background(tag.color.opacity(0.15), in: Capsule())
+                        .foregroundStyle(tag.color)
                 }
             }
             .font(.caption)
@@ -186,14 +194,6 @@ private struct ItemRow: View {
             }
         }
         .padding(.vertical, 2)
-    }
-
-    private func color(for tag: DietTag) -> Color {
-        switch tag {
-        case .vegan: return .green
-        case .vegetarian: return .teal
-        case .halal: return .indigo
-        }
     }
 }
 
