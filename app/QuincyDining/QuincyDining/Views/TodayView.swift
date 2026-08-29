@@ -145,8 +145,24 @@ private struct MealList: View {
     let store: MenuStore
     let filters: Filters
 
+    /// Explicit user overrides for this meal, keyed by category id. Empty at
+    /// the start of every meal/day, so "default closed" stays literally true.
+    @State private var expandedOverrides: [Int: Bool] = [:]
+
     private var stations: [Station] { filters.apply(to: meal) }
     private var shownCount: Int { stations.reduce(0) { $0 + $1.items.count } }
+
+    /// The salad bar is the largest station and barely changes -- 27 of them
+    /// across the archive resolve to just 5 distinct item sets -- so it starts
+    /// closed at the meals where it is large. Breakfast is left open.
+    private func startsCollapsed(_ station: Station) -> Bool {
+        guard station.name == "Salad Bar" else { return false }
+        return meal.kind == .lunch || meal.kind == .dinner
+    }
+
+    private func isExpanded(_ station: Station) -> Bool {
+        expandedOverrides[station.categoryId] ?? !startsCollapsed(station)
+    }
 
     var body: some View {
         List {
@@ -159,15 +175,25 @@ private struct MealList: View {
             }
             ForEach(stations) { station in
                 Section {
-                    ForEach(station.items) { item in
-                        NavigationLink {
-                            ItemDetailView(item: item, store: store)
-                        } label: {
-                            ItemRow(item: item)
+                    if isExpanded(station) {
+                        ForEach(station.items) { item in
+                            NavigationLink {
+                                ItemDetailView(item: item, store: store)
+                            } label: {
+                                ItemRow(item: item)
+                            }
                         }
                     }
                 } header: {
-                    Text(station.name).textCase(nil)
+                    StationHeader(
+                        name: station.name,
+                        count: station.items.count,
+                        isExpanded: isExpanded(station)
+                    ) {
+                        withAnimation(.easeInOut(duration: 0.2)) {
+                            expandedOverrides[station.categoryId] = !isExpanded(station)
+                        }
+                    }
                 }
             }
 
@@ -195,6 +221,39 @@ private struct MealList: View {
             }
         }
         .listStyle(.insetGrouped)
+        .id("\(day.date)-\(meal.meal)")
+    }
+}
+
+/// Deliberately close to the plain text header it replaces: same type, same
+/// placement, with a chevron and a count added only when it says something.
+private struct StationHeader: View {
+    let name: String
+    let count: Int
+    let isExpanded: Bool
+    let toggle: () -> Void
+
+    var body: some View {
+        Button(action: toggle) {
+            HStack(spacing: 6) {
+                Text(name).textCase(nil)
+                if !isExpanded {
+                    Text("(\(count))")
+                        .textCase(nil)
+                        .foregroundStyle(.tertiary)
+                }
+                Spacer()
+                Image(systemName: "chevron.right")
+                    .font(.caption2.weight(.semibold))
+                    .rotationEffect(.degrees(isExpanded ? 90 : 0))
+                    .foregroundStyle(.tertiary)
+            }
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .accessibilityLabel(name)
+        .accessibilityValue(isExpanded ? "Expanded" : "Collapsed, \(count) items")
+        .accessibilityHint("Double tap to \(isExpanded ? "collapse" : "expand")")
     }
 }
 
