@@ -172,7 +172,10 @@
 		A1000000000000000000D5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GENERATE_ASSET_SYMBOLS = NO;
+				INFOPLIST_KEY_CFBundleDisplayName = "Quincy Dining";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
@@ -197,7 +200,10 @@
 		A1000000000000000000D6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GENERATE_ASSET_SYMBOLS = NO;
+				INFOPLIST_KEY_CFBundleDisplayName = "Quincy Dining";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;

@@ -88,6 +88,34 @@ Details that matter:
   Both are upstream nulls. Absence of a declared allergen is not evidence of
   absence -- see below.
 
+## Build traps
+
+- **Never put an SVG in the asset catalog.** It hangs `actool` indefinitely --
+  the build does not fail, it just never finishes. Ship rasterized PNGs.
+- To rasterize an SVG, use Wikimedia's own render endpoint (the imageinfo API
+  returns a `thumburl`); those PNGs carry real alpha. `qlmanage` rasterizes
+  onto opaque white and mispositions the artwork.
+- `@Observable` only tracks reads that happen **during body evaluation**.
+  Reading state inside a `Binding`'s `get` closure is not tracked, and the
+  control silently never updates. This bit both the meal picker and the
+  filter toggles.
+- Simulator taps synthesized instantly do not register on `UISwitch`. Use a
+  touch path with ~120ms dwell when driving toggles.
+
+## Release / TestFlight
+
+Already in place: app icon (opaque, no alpha -- required), `PrivacyInfo.xcprivacy`
+declaring `NSPrivacyAccessedAPICategoryUserDefaults` reason `CA92.1` (the app
+uses UserDefaults for filters), `ITSAppUsesNonExemptEncryption = NO` (HTTPS
+only), display name "Quincy Dining", iPhone-only, iOS 17 minimum.
+
+Still needed: a `DEVELOPMENT_TEAM` value and signing certificates on the build
+machine. Bump `CURRENT_PROJECT_VERSION` on every upload.
+
+The app is only as fresh as the archiver: if the GitHub Actions cron stops
+(it is disabled after 60 days of repository inactivity), the app quietly
+serves stale menus.
+
 ## Allergen liability
 
 If allergen filtering ships: HUDS does not guarantee allergens are labeled,
