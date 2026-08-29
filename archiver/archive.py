@@ -33,7 +33,7 @@ import urllib.request
 from datetime import date, datetime, timedelta, timezone
 
 API = "https://api.cs50.io/dining"
-UA = "quincy-dining-archiver/0.1 (personal use; contact jason@reconstrategy.com)"
+UA = "quincy-dining-archiver/0.1 (personal use; +https://github.com/jsbraune/quincy-dining)"
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
