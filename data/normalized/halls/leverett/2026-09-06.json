@@ -1,9 +1,9 @@
 {
  "date": "2026-09-06",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
  "hall": "leverett",
  "hallName": "Leverett House",
- "itemCount": 186,
+ "itemCount": 180,
  "locationNum": "16",
  "meals": [
   {
@@ -2328,36 +2328,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [],
-       "name": "Subject to avalaibilty and cycle in each unit.",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Subject to avalaibilty and cycle in each unit.",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Legend -",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegan",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegetarian",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Halal",
-       "tags": []
       }
      ],
      "name": "Brain Break"

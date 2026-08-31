@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 105,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 100,
  "locationNum": "08",
  "meals": [
   {
@@ -420,21 +420,6 @@
      "items": [
       {
        "name": "Brown Rice"
-      },
-      {
-       "name": "Menus Subject to Change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Brown Rice station"
@@ -442,6 +427,6 @@
    ]
   }
  ],
- "mealsSha256": "a146882dbaaa31b794e8eb3a96c9fa78ef0f70975ecca699a8963f1dad3b8408",
+ "mealsSha256": "525e900baff3cce73025f5f0701dda8bbe4c91115a361b51dd5a56d868123f86",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-09-03",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 187,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 181,
  "locationNum": "16",
  "meals": [
   {
@@ -739,24 +739,6 @@
       },
       {
        "name": "Sliced Onions"
-      },
-      {
-       "name": "Subject to avalaibilty and cycle in each unit."
-      },
-      {
-       "name": "Subject to avalaibilty and cycle in each unit."
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Brain Break"
@@ -764,6 +746,6 @@
    ]
   }
  ],
- "mealsSha256": "d42611db0ff579265f5be7c088c183c5d29bfc975f0faa7a9a843c06dca49fd4",
+ "mealsSha256": "38bd988104a7f78b468a378f56a8a9a55d08d4a47d161a05b6a8d9572ba97b08",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

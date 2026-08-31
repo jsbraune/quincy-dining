@@ -1,7 +1,7 @@
 {
  "date": "2026-09-03",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 104,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 99,
  "locationNum": "08",
  "meals": [
   {
@@ -417,21 +417,6 @@
       },
       {
        "name": "Kings Hawaiian"
-      },
-      {
-       "name": "Menus Subject to Change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Chili Bar/Stew"
@@ -439,6 +424,6 @@
    ]
   }
  ],
- "mealsSha256": "6c63f898b6cbbf9151942626afce260be6ef57137a22b2276550d62eb7da302e",
+ "mealsSha256": "c85ae0198852b59811a9acaaf2f5fb8d2bfad399d46f1b20a1c3970b7912bc71",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

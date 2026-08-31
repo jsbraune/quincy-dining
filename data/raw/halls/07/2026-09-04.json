@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 172,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 168,
  "locationNum": "07",
  "meals": [
   {
@@ -655,18 +655,6 @@
       },
       {
        "name": "Water Alum  Can 12oz"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Bag Meal Beverages"
@@ -674,6 +662,6 @@
    ]
   }
  ],
- "mealsSha256": "9217e466df8fcb698cc9e3be3955f9d4ed495e2fcfef62fdce4ba08d6a030658",
+ "mealsSha256": "bd2e0924a650a332115deea892b2e65ad8b5689b489deace593aedf94273bac6",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

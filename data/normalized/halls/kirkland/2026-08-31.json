@@ -1,9 +1,9 @@
 {
  "date": "2026-08-31",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
  "hall": "kirkland",
  "hallName": "Kirkland House",
- "itemCount": 163,
+ "itemCount": 158,
  "locationNum": "14",
  "meals": [
   {
@@ -2016,31 +2016,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [],
-       "name": "Menus Subject to Change",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Legend -",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegan",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegetarian",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Halal",
-       "tags": []
       }
      ],
      "name": "Brain Break"

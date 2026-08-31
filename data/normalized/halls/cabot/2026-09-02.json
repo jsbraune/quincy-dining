@@ -1,9 +1,9 @@
 {
  "date": "2026-09-02",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
  "hall": "cabot",
  "hallName": "Cabot House",
- "itemCount": 179,
+ "itemCount": 174,
  "locationNum": "05",
  "meals": [
   {
@@ -2219,31 +2219,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [],
-       "name": "Menus Subject to Change",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Legend -",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegan",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegetarian",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Halal",
-       "tags": []
       }
      ],
      "name": "Brain Break"

@@ -1,7 +1,7 @@
 {
  "date": "2026-09-02",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 163,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 158,
  "locationNum": "80",
  "meals": [
   {
@@ -655,21 +655,6 @@
       },
       {
        "name": "Peaches"
-      },
-      {
-       "name": "Menus subject to change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Brain Break"
@@ -677,6 +662,6 @@
    ]
   }
  ],
- "mealsSha256": "50504829c578c06e6ce41e551820f476d6956ebb7c245c1abbbc25e7da62ed4e",
+ "mealsSha256": "aa1c616f562beb3b2c19e86bfcd4630ebe79614e619b8477648fc3d8b46f3c42",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

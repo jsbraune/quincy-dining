@@ -1,7 +1,7 @@
 {
  "date": "2026-09-03",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 88,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 84,
  "locationNum": "38",
  "meals": [
   {
@@ -368,18 +368,6 @@
      "items": [
       {
        "name": "Currier House Closed for Special Event"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "MISC"
@@ -387,6 +375,6 @@
    ]
   }
  ],
- "mealsSha256": "6efa048e1d2a6a78534be8a79aa601f8bcde774ac3897aab6ec8acf44b79100a",
+ "mealsSha256": "055aeab2bf96e856f7bf2b012899fe7cd5f0ac344a33b96115cfe5448ea03289",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-08-31",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 182,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 177,
  "locationNum": "08",
  "meals": [
   {
@@ -732,21 +732,6 @@
       },
       {
        "name": "Strawberry Sauce"
-      },
-      {
-       "name": "Menus Subject to Change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Brain Break"
@@ -754,6 +739,6 @@
    ]
   }
  ],
- "mealsSha256": "67a917f96909d42388dfd17f15c44e72d56fb2c2e95b70c7fd06575e7a0a4d58",
+ "mealsSha256": "5fc38ee1f486adcfe7e2c3d612d2a96154cdd5c654fbc1e199c9c0ba54d63784",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

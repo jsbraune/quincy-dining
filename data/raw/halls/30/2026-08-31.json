@@ -1,7 +1,7 @@
 {
  "date": "2026-08-31",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 116,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 111,
  "locationNum": "30",
  "meals": [
   {
@@ -458,21 +458,6 @@
       },
       {
        "name": "Vodka Sauce"
-      },
-      {
-       "name": "Menus Subject to Change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Whole Grain Pasta Bar"
@@ -480,6 +465,6 @@
    ]
   }
  ],
- "mealsSha256": "8cf0b0daad1b3a69e82f05ddfcdba6ddbed330ec48c8728fb2868ecbddc7d46e",
+ "mealsSha256": "5a8ae32539124a3b6b5e6aecb03ed587ea2d39587ce183c79079f95ce370ffca",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

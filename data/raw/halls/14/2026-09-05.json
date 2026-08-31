@@ -1,7 +1,7 @@
 {
  "date": "2026-09-05",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 166,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 161,
  "locationNum": "14",
  "meals": [
   {
@@ -669,21 +669,6 @@
       },
       {
        "name": "Roasted Garlic and Wine  Sauce"
-      },
-      {
-       "name": "Menus Subject to Change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Whole Grain Pasta Bar"
@@ -691,6 +676,6 @@
    ]
   }
  ],
- "mealsSha256": "6bf6dde2a3b9cc1204537930021eb36c276ea1b3cf96424ba37061f4a0b1ff9c",
+ "mealsSha256": "5f979cdcfda87f3bd81f06f1dc3685dcca199d72bce1fe8a857cacbe3685cd0f",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

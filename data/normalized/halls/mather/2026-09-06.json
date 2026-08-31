@@ -1,9 +1,9 @@
 {
  "date": "2026-09-06",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
  "hall": "mather",
  "hallName": "Mather House",
- "itemCount": 172,
+ "itemCount": 168,
  "locationNum": "07",
  "meals": [
   {
@@ -1988,26 +1988,6 @@
        "name": "Water Alum  Can 12oz",
        "portion": "1 each",
        "recipeId": 791648,
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Legend -",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegan",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegetarian",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Halal",
        "tags": []
       }
      ],

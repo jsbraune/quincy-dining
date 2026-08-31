@@ -1,7 +1,7 @@
 {
  "date": "2026-08-31",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 164,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 160,
  "locationNum": "38",
  "meals": [
   {
@@ -666,18 +666,6 @@
      "items": [
       {
        "name": "Pound Cake"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Brain Break"
@@ -685,6 +673,6 @@
    ]
   }
  ],
- "mealsSha256": "2d423cf98526762de1ae24a25b5eefb287acf7f3981f735d01dabf7a36e649e6",
+ "mealsSha256": "0e451ca162d7aa11340a90100b3ef227213ec5f8ba4c36405229e65895eab4ae",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

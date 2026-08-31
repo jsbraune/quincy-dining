@@ -1,7 +1,7 @@
 {
  "date": "2026-09-01",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 172,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 167,
  "locationNum": "80",
  "meals": [
   {
@@ -687,21 +687,6 @@
       },
       {
        "name": "Zucchini"
-      },
-      {
-       "name": "Menus subject to change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Brain Break"
@@ -709,6 +694,6 @@
    ]
   }
  ],
- "mealsSha256": "ada7b12591cea3d20efa68d7de068a6b9bbfbfeabbd0abfdfbe177074f2867a2",
+ "mealsSha256": "d42b3154864d64e95e922f421ef55a5d3513eb80f39c5028c1c32a4f0fe497ba",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

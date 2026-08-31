@@ -1,9 +1,9 @@
 {
  "date": "2026-09-03",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
  "hall": "adams",
  "hallName": "Adams House",
- "itemCount": 181,
+ "itemCount": 176,
  "locationNum": "09",
  "meals": [
   {
@@ -2217,31 +2217,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [],
-       "name": "Subject to avalaibilty and cycle in each unit.",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Legend -",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegan",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegetarian",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Halal",
-       "tags": []
       }
      ],
      "name": "Brain Break"

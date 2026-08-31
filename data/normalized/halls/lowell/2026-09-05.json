@@ -1,9 +1,9 @@
 {
  "date": "2026-09-05",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
  "hall": "lowell",
  "hallName": "Lowell House",
- "itemCount": 174,
+ "itemCount": 169,
  "locationNum": "17",
  "meals": [
   {
@@ -2161,31 +2161,6 @@
        "name": "Roasted Garlic and Wine  Sauce",
        "portion": "4 oz",
        "recipeId": 503054,
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Menus Subject to Change",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Legend -",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegan",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegetarian",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Halal",
        "tags": []
       }
      ],

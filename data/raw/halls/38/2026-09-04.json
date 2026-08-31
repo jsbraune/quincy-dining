@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 173,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 169,
  "locationNum": "38",
  "meals": [
   {
@@ -688,18 +688,6 @@
       },
       {
        "name": "Protein Plus Cavatappi"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Whole Grain Pasta Bar"
@@ -707,6 +695,6 @@
    ]
   }
  ],
- "mealsSha256": "0be24d5637992a081b720f9f92d57ce007944454df52ce803a8c0e4b8de067ae",
+ "mealsSha256": "10882aaa8c95618a6939f2e93bbc64d2d6cdbffa2530d6748045a4fcf81a9210",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

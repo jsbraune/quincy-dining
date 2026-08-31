@@ -218,10 +218,18 @@ def fetch_day(location_num, date_mdy, pause=0.4):
 # ---------------------------------------------------------------------------
 
 # Boilerplate that lives in the page furniture, not on the menu.
+#
+# The legend block is the subtle one: it renders inside a station and reads
+# "Legend -" followed by bare "Vegan" / "Vegetarian" / "Halal". Those look
+# exactly like menu items. Across one 7-day window they accounted for 469 of
+# 478 unmatched entries. Bare matches only -- real dishes are never named
+# exactly "Vegan", but "Veg,Vegan" is a genuine station.
 _CHROME = re.compile(
     r"accessibility|copyright|president and fellows|consumer responsibility|"
     r"report copyright|info practices|privacy|harvard university|dining services|"
-    r"campus services|select a date|set filters|^back$|^select$|menus for",
+    r"campus services|select a date|set filters|^back$|^select$|menus for|"
+    r"^legend\s*-?$|^(vegan|vegetarian|halal)$|menus? subject to change|"
+    r"^subject to ava",
     re.I)
 
 _DAY_STATION = re.compile(r"^--\s*(.+?)\s*--$")

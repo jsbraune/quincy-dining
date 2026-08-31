@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 132,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 127,
  "locationNum": "30",
  "meals": [
   {
@@ -517,21 +517,6 @@
       },
       {
        "name": "Dinner Served at Currier,  Dunster, Hillel"
-      },
-      {
-       "name": "Menus Subject to Change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Add-ons"
@@ -539,6 +524,6 @@
    ]
   }
  ],
- "mealsSha256": "689d397a769df7cfce8343b0b5c7221da3b0611e06ea1c31a1ec416bb36e781f",
+ "mealsSha256": "a202b6e184e688b8c34f9b1658f697072d19b74077d86adb7179cff08e44f3e3",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

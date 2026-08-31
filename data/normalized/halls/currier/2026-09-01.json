@@ -1,9 +1,9 @@
 {
  "date": "2026-09-01",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
  "hall": "currier",
  "hallName": "Currier House",
- "itemCount": 169,
+ "itemCount": 165,
  "locationNum": "38",
  "meals": [
   {
@@ -2097,26 +2097,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [],
-       "name": "Legend -",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegan",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Vegetarian",
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Halal",
-       "tags": []
       }
      ],
      "name": "Brain Break"

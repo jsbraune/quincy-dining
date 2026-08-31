@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 138,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 132,
  "locationNum": "16",
  "meals": [
   {
@@ -527,24 +527,6 @@
       },
       {
        "name": "Tricolor Quinoa"
-      },
-      {
-       "name": "Subject to avalaibilty and cycle in each unit."
-      },
-      {
-       "name": "Subject to avalaibilty and cycle in each unit."
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Salad Bar"
@@ -552,6 +534,6 @@
    ]
   }
  ],
- "mealsSha256": "1dfa7888d7d04bd415942c57b01329ccfdca52d92829f04c4920d66a1cbfed42",
+ "mealsSha256": "f719158f47aca8010fc88b825ab7d629c887b30316da7c5996ff95b8c478264b",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

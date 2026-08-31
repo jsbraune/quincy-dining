@@ -1,7 +1,7 @@
 {
  "date": "2026-09-01",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 88,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 83,
  "locationNum": "14",
  "meals": [
   {
@@ -354,21 +354,6 @@
      "items": [
       {
        "name": "Chicken  Stew"
-      },
-      {
-       "name": "Menus Subject to Change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Chili Bar/Stew"
@@ -376,6 +361,6 @@
    ]
   }
  ],
- "mealsSha256": "dbacc462c1536cf3abe07c71b0182cad7048ebb741038734e0509d1bd027e2f8",
+ "mealsSha256": "2b8387a69d2b4d2d4646c9de11e6845387bf1022d0208c0634092d2ea552b8c1",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

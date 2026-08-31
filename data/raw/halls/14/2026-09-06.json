@@ -1,7 +1,7 @@
 {
  "date": "2026-09-06",
- "fetchedAt": "2026-08-31T19:20:34-04:00",
- "itemCount": 172,
+ "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "itemCount": 167,
  "locationNum": "14",
  "meals": [
   {
@@ -697,21 +697,6 @@
       },
       {
        "name": "Tortilla Chips"
-      },
-      {
-       "name": "Menus Subject to Change"
-      },
-      {
-       "name": "Legend -"
-      },
-      {
-       "name": "Vegan"
-      },
-      {
-       "name": "Vegetarian"
-      },
-      {
-       "name": "Halal"
       }
      ],
      "name": "Brain Break"
@@ -719,6 +704,6 @@
    ]
   }
  ],
- "mealsSha256": "bec171a7fd26d6e01ddff751d9b72f7894ef7a9a575c2a01ec3d43e4f0875dd8",
+ "mealsSha256": "f6674ef2329b6b69282ba50fc9efdc553111db4df46a45b810da64267c49cdbb",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
