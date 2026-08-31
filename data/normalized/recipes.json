@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31T16:41:18+00:00",
+ "generatedAt": "2026-08-31T20:35:38+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -294,6 +294,31 @@
    "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "10040": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Wheat"
+   ],
+   "ingredients": "Macaroni and Cheese (Water, Elbow Macaroni (Semolina Wheat, Egg Whites), Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Light Cream (Milk, Cream), Butter (Cream, Salt), Rice Flour, Monterey Jack Cheese (Milk, Cheese Cultures, Salt, Enzymes), Sea Salt, Annatto Seed Powder, Bay Leaves, Nutmeg, White Pepper, Cayenne Ground Pepper.)",
+   "name": "Macaroni and Cheese",
+   "note": null,
+   "nutrition": {
+    "calories": 510,
+    "cholesterol_mg": 89.9,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 21.0,
+    "sat_fat_g": 19.0,
+    "sodium_mg": 949.2,
+    "sugars_g": 3.0,
+    "total_carb_g": 42.0,
+    "total_fat_g": 29.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": true
   },
   "10043": {
    "allergens": [],
@@ -773,6 +798,30 @@
    "vegan": true,
    "vegetarian": true
   },
+  "120497": {
+   "allergens": [
+    "Eggs",
+    "Milk"
+   ],
+   "ingredients": "Liquid Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added To Preserve Color.), Whole Milk (Milk, Vitamin D3.), Ground Chorizo (Pork, Water, Vinegar, Nonfat Dry Milk, Salt, Paprika, Spices, Garlic, Sodium Nitrate), Shredded White Cheddar Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt Enzymes, Annatto Color). Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme Produced With Bio Engineered Ingredients*), Onions (Onions), Suntan Peppers (Bell Peppers), Shredded Hash Browns (Potatoes, Dextrose, Disodium Dihydrogen Pyrophosphate (Added to Maintain Color), Potassium Sorbate (Added to Maintain Freshness).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Black Pepper, Kosher Salt",
+   "name": "Chorizo and Cheddar Frittata",
+   "note": null,
+   "nutrition": {
+    "calories": 234,
+    "cholesterol_mg": 190.3,
+    "dietary_fiber_g": 0.5,
+    "protein_g": 13.5,
+    "sat_fat_g": 7.0,
+    "sodium_mg": 610.8,
+    "sugars_g": 2.0,
+    "total_carb_g": 4.4,
+    "total_fat_g": 18.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 piece",
+   "vegan": false,
+   "vegetarian": false
+  },
   "121012": {
    "allergens": [
     "Eggs",
@@ -1052,6 +1101,30 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "131072": {
+   "allergens": [
+    "Milk",
+    "Wheat"
+   ],
+   "ingredients": "Protein Plus Penne (Water, Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Alfredo Sauce (Half & Half (Milk, Cream), Water, Parmesan Cheese (Pasteurized Cow's Milk, Cheese Culture, Salt, Enzymes), Heavy Cream, Butter (Cream, Salt), Cornstarch, Parmesan Cheese Flavor, Modified Food Starch, Natural Butter Flavor, Sea Salt, Granulated Garlic, Spices), Broccoli Florets (Broccoli), Parsley (Parsley)",
+   "name": "Multigrain Penne Broccoli Alfredo",
+   "note": null,
+   "nutrition": {
+    "calories": 196,
+    "cholesterol_mg": 34.0,
+    "dietary_fiber_g": 2.8,
+    "protein_g": 9.0,
+    "sat_fat_g": 5.7,
+    "sodium_mg": 209.1,
+    "sugars_g": 2.8,
+    "total_carb_g": 21.2,
+    "total_fat_g": 9.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -1758,6 +1831,34 @@
    "vegan": true,
    "vegetarian": true
   },
+  "150078": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Red Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Red Quinoa (Red Quinoa), Sauteed Onions (Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)), Kosher Salt, Ground Black Pepper, Parsley (Parsley)), Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Quinoa (Quinoa)), Happy Little Plant Chorizo Morning Star (Water, Soy Flour, Corn Oil, Onions, Paprika.contains 2% Or Less of Garlic (Garlic, Water), Salt, Soy Protein Isolate, Spices, Citric acid, Cooked Onion And Carrot Juice Concentrate, Garlic powder, Vinegar Solids, Onion Powder, Sugar, Paprika Extract color, Natural Flavor, Faba Bean Protein, Pea Protein.), Butternut Squash (Butternut Squash), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Garlic (Garlic), Lime Juice (Lime Juice), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Fine Granulated Sugar (Sugar), Pumpkin Seed Pepitas (Raw Shelled Pumpkin Seeds MANUFACTURED ON EQUIPMENT WITH MILK, EGGS, SOY, WHEAT, PEANUTS, TREE NUTS), Cilantro (Cilantro), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic)",
+   "name": "Vegan Cumin and Chili Spiced Quinoa",
+   "note": null,
+   "nutrition": {
+    "calories": 585,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 10.6,
+    "protein_g": 18.0,
+    "sat_fat_g": 2.7,
+    "sodium_mg": 1169.7,
+    "sugars_g": 10.4,
+    "total_carb_g": 59.3,
+    "total_fat_g": 34.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "150157": {
    "allergens": [],
    "ingredients": "Jasmine Rice (Thai Hom Mali Jasmine Rice), Water, Limes (Fresh Limes), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cilantro (Cilantro)",
@@ -1861,6 +1962,27 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "154020": {
+   "allergens": [],
+   "ingredients": "Roasted Corn and Black Beans (Sweet Corn, Cooked Black Beans, Tomato, Onion, Green Bell Pepper, Red Bell Pepper, Contains Less than 2% of Brown Sugar, Citric Acid, Dehydrated Vegetables (Onion, Bell Pepper, Garlic), Lime Juice Powder (Lime Juice Concentrate, Modified Food Starch, Maltodextrin, Citric Acid), Natural Flavors (Including Grill and Smoke), Olive Oil, Salt, Spices, Sugar, Yeast Extract.)",
+   "name": "Roasted Corn & Black Beans",
+   "note": null,
+   "nutrition": {
+    "calories": 118,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 165.4,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.0,
+    "total_fat_g": 3.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
   },
   "155010": {
    "allergens": [
@@ -2213,6 +2335,29 @@
     "sugars_g": 0.1,
     "total_carb_g": 30.4,
     "total_fat_g": 2.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "163043": {
+   "allergens": [
+    "Wheat"
+   ],
+   "ingredients": "Sweet Potatoes (Sweet Potatoes), Cracked Farro (Farro), Green Kale (Kale), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Diced Onions (Onions), Sundried Tomatoes, Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Cumin (Ground Cumin), Ground Black Pepper",
+   "name": "Farro with Cumin-Scented Kale & Sweet Potato",
+   "note": null,
+   "nutrition": {
+    "calories": 261,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 6.8,
+    "protein_g": 7.7,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 44.6,
+    "sugars_g": 6.0,
+    "total_carb_g": 49.0,
+    "total_fat_g": 4.2,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -3345,6 +3490,18 @@
    "vegan": false,
    "vegetarian": true
   },
+  "184024": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": null,
+   "name": "Hood Vanilla Ice Cream",
+   "note": null,
+   "nutrition": {},
+   "portion": "6 fl. oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "184124": {
    "allergens": [
     "Milk"
@@ -3390,6 +3547,33 @@
     "sugars_g": 11.1,
     "total_carb_g": 19.9,
     "total_fat_g": 6.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "185086": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Lemon Tea Bread (Bleached Wheat Flour, Sugar, Eggs, Soybean Oil, Water, Sugared Lemon (contains: Ground Lemon Peel, Sugar, Lemon Oil), Sour Cream [contains: Cultured Pasteurized Grade A Skim Milk, Cream, Modified Food Starch, Sodium Phosphate, Locust Bean Gum, Guar Gum, Carrageenan, and Potassium Sorbate (to preserve freshness)], Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Monocalcium Phosphate), Mono and Diglycerides, Buttermilk Solids, Salt, Natural and Artificial Flavor, Xanthan Gum, Enzyme, Artificial Color F.D. & C. Yellow #5. Contains:)",
+   "name": "Lemon Tea Bread",
+   "note": "Freshly baked in our kitchens, from batter made by Bake'n Joy in N. Andover, MA.",
+   "nutrition": {
+    "calories": 170,
+    "cholesterol_mg": 35.8,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 1.8,
+    "sat_fat_g": 1.8,
+    "sodium_mg": 134.3,
+    "sugars_g": 13.4,
+    "total_carb_g": 23.3,
+    "total_fat_g": 8.1,
     "trans_fat_g": 0.0
    },
    "portion": "1 slice",
@@ -4986,18 +5170,18 @@
    "name": "Pickled Okra",
    "note": null,
    "nutrition": {
-    "calories": 10,
+    "calories": 14,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 675.0,
+    "sodium_mg": 1012.5,
     "sugars_g": 0.0,
-    "total_carb_g": 1.9,
+    "total_carb_g": 2.9,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -5660,6 +5844,114 @@
     "sugars_g": 3.7,
     "total_carb_g": 8.9,
     "total_fat_g": 2.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300292": {
+   "allergens": [],
+   "ingredients": "Pork Ribs (Bone-In Pork St Louis Style Spareribs), Light Brown Sugar (Brown Sugar), Ketchup (Tomato Concentrate From Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Onion Powder, Natural Flavoring.), White Clover Honey (Honey), Spanish Paprika (Paprika), Light Brown Sugar (Brown Sugar), Kosher Salt, Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Ground Black Pepper",
+   "name": "Honey Glazed Ribs",
+   "note": null,
+   "nutrition": {
+    "calories": 624,
+    "cholesterol_mg": 167.4,
+    "dietary_fiber_g": 1.1,
+    "protein_g": 32.3,
+    "sat_fat_g": 15.9,
+    "sodium_mg": 552.8,
+    "sugars_g": 5.5,
+    "total_carb_g": 10.7,
+    "total_fat_g": 49.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "7 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300293": {
+   "allergens": [],
+   "ingredients": "Chicken (Chicken 8 Piece Cut (Split Breasts With Ribs, Thighs, Drumsticks, Wings)), BBQ Sauce (High Fructose Corn Syrup, Distilled Vinegar, Tomato Paste, Modified Corn Starch Contains less than 2% of: Salt, Pineapple Juice Concentrate, Natural Smoke Flavor, Spices, Caramel Color, Molasses, Sodium Benzoate as preservative, Garlic*, Mustard Flour, Corn Syrup, Sugar, Tamarind, Natural Flavor, Celery Seed *Dried), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Light Brown Sugar (Brown Sugar), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Smoked Paprika (PAPRIKA, AND SILICON DIOXIDE (ADDED TO MAKE FREE FLOWING)..), Spanish Paprika (Paprika), Kosher Salt, Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic), Ground Black Pepper",
+   "name": "BBQ Chicken",
+   "note": null,
+   "nutrition": {
+    "calories": 285,
+    "cholesterol_mg": 64.8,
+    "dietary_fiber_g": 0.6,
+    "protein_g": 20.5,
+    "sat_fat_g": 3.1,
+    "sodium_mg": 442.3,
+    "sugars_g": 12.6,
+    "total_carb_g": 16.3,
+    "total_fat_g": 14.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300294": {
+   "allergens": [],
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), BBQ Sauce (High Fructose Corn Syrup, Distilled Vinegar, Tomato Paste, Modified Corn Starch Contains less than 2% of: Salt, Pineapple Juice Concentrate, Natural Smoke Flavor, Spices, Caramel Color, Molasses, Sodium Benzoate as preservative, Garlic*, Mustard Flour, Corn Syrup, Sugar, Tamarind, Natural Flavor, Celery Seed *Dried), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Light Brown Sugar (Brown Sugar), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Smoked Paprika (PAPRIKA, AND SILICON DIOXIDE (ADDED TO MAKE FREE FLOWING)..), Spanish Paprika (Paprika), Kosher Salt, Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic), Ground Black Pepper",
+   "name": "Halal BBQ Chicken",
+   "note": null,
+   "nutrition": {
+    "calories": 251,
+    "cholesterol_mg": 106.3,
+    "dietary_fiber_g": 0.6,
+    "protein_g": 22.7,
+    "sat_fat_g": 1.4,
+    "sodium_mg": 488.2,
+    "sugars_g": 12.6,
+    "total_carb_g": 16.3,
+    "total_fat_g": 9.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300295": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Soft White Wheat berries , Dried Pitted Prunes 50/60ct (Prunes. Potassium sorbate as a preservative), Scallions (Scallions)",
+   "name": "Wheat Berries, Dried Plums & Green Onion",
+   "note": null,
+   "nutrition": {
+    "calories": 77,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.5,
+    "protein_g": 3.1,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 221.5,
+    "sugars_g": 1.3,
+    "total_carb_g": 15.2,
+    "total_fat_g": 0.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 fl. oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300296": {
+   "allergens": [],
+   "ingredients": "Savoy Cabbage, Onions (Onions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Dill (Fresh dill), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Whole Celery Seed (Dried Celery Seeds), Chives (Fresh chives), Italian Parsley (Italian Parsley), Kosher Salt, Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Crushed Red Pepper (Red chile peppers)",
+   "name": "Ranch Braised Cabbage",
+   "note": null,
+   "nutrition": {
+    "calories": 91,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.3,
+    "protein_g": 3.1,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 175.9,
+    "sugars_g": 3.7,
+    "total_carb_g": 11.6,
+    "total_fat_g": 4.8,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -6746,6 +7038,29 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300817": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Happy Little Plant Chorizo Morning Star (Water, Soy Flour, Corn Oil, Onions, Paprika.contains 2% Or Less of Garlic (Garlic, Water), Salt, Soy Protein Isolate, Spices, Citric acid, Cooked Onion And Carrot Juice Concentrate, Garlic powder, Vinegar Solids, Onion Powder, Sugar, Paprika Extract color, Natural Flavor, Faba Bean Protein, Pea Protein.), Crushed Tomatoes (Vine Ripened Unpeeled Tomatoes, Tomato Puree, Less than 2% of Citric Acid. Naturally Derived), Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Black Beans (Prepared Black Beans, Water, Salt, Calcium Chloride, (Firming Agent)), Pinto Beans in Brine (Prepared Pinto Beans, Water, Salt, Calcium Chloride (Firming Agent), and Calcium Disodium, EDTA (promotes color retention).), Onions (Onions), Suntan Peppers (Bell Peppers), Kidney Beans (Prepared Kidney Beans, Water, Sugar, Dextrose, Salt, Calcium Chloride (Firming Agent) , and Disodium EDTA (To Promote Color Retention).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic), Garlic (Garlic), Ground Cumin (Ground Cumin), Tabasco Sauce (Distilled Vinegar, Red Pepper, Salt.)",
+   "name": "Three Bean & Plant Based Chorizo Chili",
+   "note": null,
+   "nutrition": {
+    "calories": 214,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.7,
+    "protein_g": 13.8,
+    "sat_fat_g": 1.3,
+    "sodium_mg": 763.4,
+    "sugars_g": 6.0,
+    "total_carb_g": 23.2,
+    "total_fat_g": 10.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300827": {
    "allergens": [],
    "ingredients": "Power Vegetable Blend (Julienne Cut Vegetables Consisting of Broccoli, Cauliflower, Kale, Brussel Sprouts, Golden Beets, Carrots and Red Cabbage), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Black Pepper, Kosher Salt",
@@ -7502,18 +7817,18 @@
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "note": null,
    "nutrition": {
-    "calories": 173,
-    "cholesterol_mg": 13.3,
-    "dietary_fiber_g": 10.9,
-    "protein_g": 8.6,
-    "sat_fat_g": 2.1,
-    "sodium_mg": 335.0,
-    "sugars_g": 3.4,
-    "total_carb_g": 23.6,
-    "total_fat_g": 6.6,
-    "trans_fat_g": 0.0
+    "calories": 345,
+    "cholesterol_mg": 26.6,
+    "dietary_fiber_g": 21.9,
+    "protein_g": 17.1,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 670.0,
+    "sugars_g": 6.9,
+    "total_carb_g": 47.3,
+    "total_fat_g": 13.3,
+    "trans_fat_g": 0.1
    },
-   "portion": "4 oz",
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -7526,18 +7841,18 @@
    "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
    "note": null,
    "nutrition": {
-    "calories": 187,
-    "cholesterol_mg": 7.4,
-    "dietary_fiber_g": 5.8,
-    "protein_g": 8.4,
-    "sat_fat_g": 1.8,
-    "sodium_mg": 152.8,
-    "sugars_g": 3.5,
-    "total_carb_g": 29.4,
-    "total_fat_g": 5.3,
+    "calories": 374,
+    "cholesterol_mg": 14.9,
+    "dietary_fiber_g": 11.6,
+    "protein_g": 16.9,
+    "sat_fat_g": 3.6,
+    "sodium_mg": 305.7,
+    "sugars_g": 6.9,
+    "total_carb_g": 58.8,
+    "total_fat_g": 10.6,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -7772,6 +8087,29 @@
     "sugars_g": 12.3,
     "total_carb_g": 23.9,
     "total_fat_g": 17.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "301069": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Sliced Carrots (Carrots), Brown Sugar Glaze for Carrots (Light Brown Sugar (Brown Sugar), Unsalted Butter (Cream (Milk), Natural Flavoring.), Ground Nutmeg (Nutmeg), Ground Cloves (Cloves)), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Fresh Chopped Parsley (Parsley (Parsley))",
+   "name": "Glazed Rustic Carrots",
+   "note": null,
+   "nutrition": {
+    "calories": 106,
+    "cholesterol_mg": 8.7,
+    "dietary_fiber_g": 3.2,
+    "protein_g": 1.1,
+    "sat_fat_g": 2.4,
+    "sodium_mg": 78.4,
+    "sugars_g": 9.0,
+    "total_carb_g": 18.3,
+    "total_fat_g": 3.8,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -8217,6 +8555,32 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "36001": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Blueberries (Blueberries (Wild Blueberries from Maine)), Water, Pancake Mix (Enriched Bleached Flour (Wheat Flour, Niacin, Reduced Iron , Thiamin Mononitrate, Riboflavin, Folic Acid Malted Barley Flour), Yellow Corn Flour, Whey (Milk Protein), Dextrose, Sugar Soybean oil Less than 2% Baking Soda, Buttermilk (Defatted Soy Flour, Guar Gum, Monocalcium, Pyrophosphate, Rice Flour, Salt, Sodium Pyrophosphate, Yellow 5, Yellow 5 lake, Yellow lake, MAY CONTAIN EGGS)",
+   "name": "Blueberry Pancakes",
+   "note": null,
+   "nutrition": {
+    "calories": 191,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.4,
+    "protein_g": 3.3,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 709.2,
+    "sugars_g": 5.0,
+    "total_carb_g": 38.5,
+    "total_fat_g": 2.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 each",
+   "vegan": false,
+   "vegetarian": true
   },
   "36004": {
    "allergens": [
@@ -9311,18 +9675,18 @@
    "name": "Scrambled Cage Free Eggs",
    "note": null,
    "nutrition": {
-    "calories": 135,
-    "cholesterol_mg": 357.2,
+    "calories": 180,
+    "cholesterol_mg": 476.3,
     "dietary_fiber_g": 0.0,
-    "protein_g": 11.1,
-    "sat_fat_g": 2.6,
-    "sodium_mg": 119.1,
-    "sugars_g": 0.9,
-    "total_carb_g": 0.9,
-    "total_fat_g": 9.4,
+    "protein_g": 14.7,
+    "sat_fat_g": 3.5,
+    "sodium_mg": 158.8,
+    "sugars_g": 1.1,
+    "total_carb_g": 1.1,
+    "total_fat_g": 12.5,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
