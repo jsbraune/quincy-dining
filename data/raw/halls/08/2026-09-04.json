@@ -1,0 +1,447 @@
+{
+ "date": "2026-09-04",
+ "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "itemCount": 105,
+ "locationNum": "08",
+ "meals": [
+  {
+   "meal": "breakfast",
+   "sourceLabel": "Breakfast",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Pork Sausage Links"
+      }
+     ],
+     "name": "Breakfast Meats"
+    },
+    {
+     "items": [
+      {
+       "name": "Cage Free Hard Boiled Eggs"
+      },
+      {
+       "name": "French Toast"
+      },
+      {
+       "name": "Hard Cooked Eggs - Cage Free"
+      },
+      {
+       "name": "Scrambled Cage Free Eggs"
+      },
+      {
+       "name": "Tofu Scramble"
+      }
+     ],
+     "name": "Breakfast Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Cinnamon Roll"
+      },
+      {
+       "name": "Muffin Assortment"
+      }
+     ],
+     "name": "Breakfast Bakery"
+    },
+    {
+     "items": [
+      {
+       "name": "Assorted Bagels"
+      }
+     ],
+     "name": "Bagel"
+    },
+    {
+     "items": [
+      {
+       "name": "Avocado"
+      },
+      {
+       "name": "Fresh Fruit Salad"
+      },
+      {
+       "name": "Grapefruit Wedge"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Orange Wedge"
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Sweet Potato Hashbrowns"
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Malted Belgian Waffles"
+      },
+      {
+       "name": "Multi-Grain Waffles"
+      },
+      {
+       "name": "Pancake Syrup"
+      },
+      {
+       "name": "Steel Cut Oatmeal"
+      },
+      {
+       "name": "Whipped Topping"
+      }
+     ],
+     "name": "Build Your Own"
+    },
+    {
+     "items": [
+      {
+       "name": "Blueberries"
+      },
+      {
+       "name": "Chobani Nonfat Plain Greek Yogurt"
+      },
+      {
+       "name": "Chobani Plain Greek Yogurt"
+      },
+      {
+       "name": "Cottage Cheese"
+      },
+      {
+       "name": "Granola"
+      },
+      {
+       "name": "Grape Preserves"
+      },
+      {
+       "name": "Low  Fat Chobani Plain Yogurt"
+      },
+      {
+       "name": "Overnight Oats"
+      },
+      {
+       "name": "Plain Soy Yogurt"
+      },
+      {
+       "name": "Sliced Strawberries"
+      },
+      {
+       "name": "Strawberry Preserves"
+      },
+      {
+       "name": "Sun Butter"
+      }
+     ],
+     "name": "Featured Special Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Fresh Gala Apple"
+      },
+      {
+       "name": "Fruit, Bananas"
+      },
+      {
+       "name": "Fruit, Local Apples"
+      },
+      {
+       "name": "Kiwi"
+      }
+     ],
+     "name": "Fresh Fruit"
+    }
+   ]
+  },
+  {
+   "meal": "lunch",
+   "sourceLabel": "LUNCH",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Biscuit"
+      },
+      {
+       "name": "Chicken & Dumpling Soup"
+      },
+      {
+       "name": "New England Clam Chowder"
+      },
+      {
+       "name": "Roasted Vegetable Soup"
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "name": "Baby Arugula"
+      },
+      {
+       "name": "Barley"
+      },
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Cannellini Beans"
+      },
+      {
+       "name": "Corn Niblets"
+      },
+      {
+       "name": "Cottage Cheese"
+      },
+      {
+       "name": "Cranberries"
+      },
+      {
+       "name": "Currried Cauliflower Salad"
+      },
+      {
+       "name": "Diced Onions"
+      },
+      {
+       "name": "Feta Cheese"
+      },
+      {
+       "name": "Flaked Tuna"
+      },
+      {
+       "name": "Grape Tomatoes"
+      },
+      {
+       "name": "Grilled Tofu"
+      },
+      {
+       "name": "Hard Cooked Eggs"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Kalamata Olives"
+      },
+      {
+       "name": "Kidney Beans"
+      },
+      {
+       "name": "Little Leaf Greens"
+      },
+      {
+       "name": "Roasted Butternut Squash"
+      },
+      {
+       "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Sesame Lime Vinaigrette"
+      },
+      {
+       "name": "Shredded Carrots"
+      },
+      {
+       "name": "Sliced Avocado"
+      },
+      {
+       "name": "Sliced Cucumbers"
+      },
+      {
+       "name": "Steamed Broccoli"
+      },
+      {
+       "name": "Suntan Pepper Strips"
+      },
+      {
+       "name": "Tabouleh Salad"
+      },
+      {
+       "name": "Tricolor Quinoa"
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Buffalo Chicken Salad"
+      },
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Classic Cole Slaw"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Kosher Dill Pickle Chips"
+      },
+      {
+       "name": "Leaf Lettuce"
+      },
+      {
+       "name": "No Nut Basil Pesto"
+      },
+      {
+       "name": "Roasted Low-Sodium Turkey"
+      },
+      {
+       "name": "Sliced Ham"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Swiss Cheese"
+      },
+      {
+       "name": "Tuna Salad"
+      },
+      {
+       "name": "Western Style Guacamole"
+      }
+     ],
+     "name": "Sand/ Deli"
+    },
+    {
+     "items": [
+      {
+       "name": "Aji Amarillo & Lime Roasted Chicken"
+      },
+      {
+       "name": "Battered & Fried Locally Caught Fresh Fish"
+      },
+      {
+       "name": "Grilled Chicken Breast"
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "French Onion Grilled Cheese"
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "name": "French Fries"
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Roasted Winter Squash with Citrus & Ginger"
+      },
+      {
+       "name": "Steamed Corn"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Green Lentils with Autumn Vegetables"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "Battered & Fried Locally Caught Fresh Fish"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Oatmeal Raisin Cookies"
+      },
+      {
+       "name": "Orange Soft serve"
+      },
+      {
+       "name": "Raspberry Soft serve"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Lemon Wedges"
+      },
+      {
+       "name": "Tartar Sauce"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "Raspberry  Banana  Smoothie"
+      }
+     ],
+     "name": "Delish"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Rice"
+      },
+      {
+       "name": "Menus Subject to Change"
+      },
+      {
+       "name": "Legend -"
+      },
+      {
+       "name": "Vegan"
+      },
+      {
+       "name": "Vegetarian"
+      },
+      {
+       "name": "Halal"
+      }
+     ],
+     "name": "Brown Rice station"
+    }
+   ]
+  }
+ ],
+ "mealsSha256": "a146882dbaaa31b794e8eb3a96c9fa78ef0f70975ecca699a8963f1dad3b8408",
+ "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
+}

@@ -1,0 +1,229 @@
+{
+ "generatedAt": "2026-08-31T19:22:27-04:00",
+ "halls": [
+  {
+   "closedDates": [],
+   "hall": "adams",
+   "locationNum": "09",
+   "name": "Adams House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "annenberg",
+   "locationNum": "30",
+   "name": "Annenberg Hall",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "bagmeals",
+   "locationNum": "07",
+   "name": "Bag Meals",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "cabot",
+   "locationNum": "05",
+   "name": "Cabot House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "currier",
+   "locationNum": "38",
+   "name": "Currier House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "dunster",
+   "locationNum": "07",
+   "name": "Dunster House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "eliot",
+   "locationNum": "80",
+   "name": "Eliot House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [
+    "2026-08-31"
+   ],
+   "hall": "flyby",
+   "locationNum": "29",
+   "name": "FlyBy",
+   "servingDates": [
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "kirkland",
+   "locationNum": "14",
+   "name": "Kirkland House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "leverett",
+   "locationNum": "16",
+   "name": "Leverett House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "lowell",
+   "locationNum": "17",
+   "name": "Lowell House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "mather",
+   "locationNum": "07",
+   "name": "Mather House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "pforzheimer",
+   "locationNum": "05",
+   "name": "Pforzheimer House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "quincy",
+   "locationNum": "08",
+   "name": "Quincy House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  },
+  {
+   "closedDates": [],
+   "hall": "winthrop",
+   "locationNum": "17",
+   "name": "Winthrop House",
+   "servingDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+   ]
+  }
+ ],
+ "recipeCount": 396
+}

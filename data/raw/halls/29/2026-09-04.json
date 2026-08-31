@@ -1,0 +1,112 @@
+{
+ "date": "2026-09-04",
+ "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "itemCount": 27,
+ "locationNum": "29",
+ "meals": [
+  {
+   "meal": "breakfast",
+   "sourceLabel": "",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Chicken Chili with Beans"
+      },
+      {
+       "name": "New England Clam Chowder"
+      },
+      {
+       "name": "Roasted Vegetable Soup"
+      },
+      {
+       "name": "Three Bean Chili"
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "name": "Chips, Cape Cod"
+      },
+      {
+       "name": "Chobani Vanilla Greek Yogurt"
+      },
+      {
+       "name": "Dairy Free Vanilla Yogurt"
+      },
+      {
+       "name": "Delicious Apples"
+      },
+      {
+       "name": "Fruit, Bananas"
+      },
+      {
+       "name": "Fruit, Oranges"
+      },
+      {
+       "name": "Hard Boiled Eggs"
+      },
+      {
+       "name": "Oreo Nabs"
+      },
+      {
+       "name": "Peeled Baby Carrots"
+      },
+      {
+       "name": "Pretzel Twists"
+      }
+     ],
+     "name": "FLY-BY"
+    },
+    {
+     "items": [
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Falafel Salad"
+      },
+      {
+       "name": "Garden Salad"
+      },
+      {
+       "name": "Grilled Chicken"
+      },
+      {
+       "name": "Grilled Spiced Tofu"
+      },
+      {
+       "name": "Halal Chicken and Lettuce wrap"
+      },
+      {
+       "name": "Ham & Swiss on Hearty Wheat"
+      },
+      {
+       "name": "Harvest  Salad"
+      },
+      {
+       "name": "Mozzarella, Tomato & Basil Wrap"
+      },
+      {
+       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat"
+      },
+      {
+       "name": "Tuna Salad and Lettuce on Spinach Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Gluten Free Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Wheat"
+      }
+     ],
+     "name": "FLY-BY Sandwiches and Salads"
+    }
+   ]
+  }
+ ],
+ "mealsSha256": "8b216c15f4b32a5dcb620eeadd1acd26d9d7da96375e18481f91cfdfcb54141c",
+ "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
+}

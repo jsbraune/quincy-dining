@@ -37,6 +37,18 @@ jobs:
       - name: Normalize
         run: python3 archiver/normalize.py
 
+      # All-halls pipeline for the second app. Independent of the Quincy
+      # pipeline above -- different source (FoodPro), different paths. A
+      # failure here must not cost us the CS50 snapshot, which is
+      # unrecoverable, so it is allowed to fail without failing the job.
+      - name: Archive all dining halls
+        continue-on-error: true
+        run: python3 archiver/archive_halls.py
+
+      - name: Normalize all dining halls
+        continue-on-error: true
+        run: python3 archiver/normalize_halls.py
+
       - name: Commit any new or changed data
         run: |
           git config user.name  "quincy-dining archiver"

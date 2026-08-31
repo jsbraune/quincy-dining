@@ -1,0 +1,348 @@
+{
+ "date": "2026-09-04",
+ "fetchedAt": "2026-08-31T19:20:34-04:00",
+ "hall": "flyby",
+ "hallName": "FlyBy",
+ "itemCount": 27,
+ "locationNum": "29",
+ "meals": [
+  {
+   "meal": "breakfast",
+   "stations": [
+    {
+     "items": [
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 267,
+       "name": "Chicken Chili with Beans",
+       "portion": "8 oz",
+       "recipeId": 10035,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Crustacean Shellfish",
+        "Fish",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 305,
+       "name": "New England Clam Chowder",
+       "portion": "8 oz",
+       "recipeId": 10021,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 170,
+       "name": "Roasted Vegetable Soup",
+       "portion": "8 oz",
+       "recipeId": 10043,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 140,
+       "name": "Three Bean Chili",
+       "portion": "8 fl. oz",
+       "recipeId": 10038,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "allergens": [],
+       "calories": 140,
+       "name": "Chips, Cape Cod",
+       "portion": "1 each",
+       "recipeId": 217005,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 20,
+       "name": "Chobani Vanilla Greek Yogurt",
+       "portion": "1 each",
+       "recipeId": 143013,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 72,
+       "name": "Delicious Apples",
+       "portion": "1 each",
+       "recipeId": 201005,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 134,
+       "name": "Fruit, Bananas",
+       "portion": "1 each",
+       "recipeId": 201004,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 53,
+       "name": "Fruit, Oranges",
+       "portion": "1 each",
+       "recipeId": 201003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 120,
+       "name": "Hard Boiled Eggs",
+       "portion": "1 pack",
+       "recipeId": 10206,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 47,
+       "name": "Oreo Nabs",
+       "portion": "1 each",
+       "recipeId": 182008,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 21,
+       "name": "Peeled Baby Carrots",
+       "portion": "2 oz",
+       "recipeId": 178008,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 114,
+       "name": "Pretzel Twists",
+       "portion": "1 bag",
+       "recipeId": 217001,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "FLY-BY"
+    },
+    {
+     "items": [
+      {
+       "allergens": [
+        "Milk",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 118,
+       "name": "Caesar Salad",
+       "portion": "4 oz",
+       "recipeId": 47046,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 417,
+       "name": "Falafel Salad",
+       "portion": "1 each",
+       "recipeId": 290051,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 31,
+       "name": "Garden Salad",
+       "portion": "6 oz",
+       "recipeId": 150508,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 156,
+       "name": "Grilled Chicken",
+       "portion": "1 each",
+       "recipeId": 138014,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 113,
+       "name": "Grilled Spiced Tofu",
+       "portion": "4 oz",
+       "recipeId": 290052,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 461,
+       "name": "Halal Chicken and Lettuce wrap",
+       "portion": "1 each",
+       "recipeId": 290002,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 409,
+       "name": "Ham & Swiss on Hearty Wheat",
+       "portion": "1 each",
+       "recipeId": 87131,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 336,
+       "name": "Harvest  Salad",
+       "portion": "1 each",
+       "recipeId": 290050,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 633,
+       "name": "Mozzarella, Tomato & Basil Wrap",
+       "portion": "1 each",
+       "recipeId": 444122,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Peanuts",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 532,
+       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat",
+       "portion": "1 each",
+       "recipeId": 87032,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Fish",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 603,
+       "name": "Tuna Salad and Lettuce on Spinach Wrap",
+       "portion": "1 each",
+       "recipeId": 87028,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans"
+       ],
+       "calories": 402,
+       "name": "Turkey & Cheddar on Gluten Free Wrap",
+       "portion": "1 each",
+       "recipeId": 290500,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 498,
+       "name": "Turkey & Cheddar on Wheat",
+       "portion": "1 each",
+       "recipeId": 87026,
+       "tags": []
+      }
+     ],
+     "name": "FLY-BY Sandwiches and Salads"
+    }
+   ]
+  }
+ ]
+}
