@@ -81,7 +81,7 @@ final class MenuStore {
             #else
             let forced: String? = nil
             #endif
-            let wanted = forced ?? UserDefaults.standard.string(forKey: "lastHall")
+            let wanted = forced ?? defaultHallSlug
             hall = decoded.halls.first { $0.hall == wanted }
         }
     }
@@ -167,10 +167,30 @@ final class MenuStore {
         return (hall.servingDates + hall.closedDates).sorted().map { ($0, serving.contains($0)) }
     }
 
+    /// Viewing a hall is just browsing -- it never changes the default. That
+    /// distinction matters: halls skip meals (Quincy posts no dinner some
+    /// nights), so a "remember last viewed" rule would quietly relocate the
+    /// student to whichever hall they checked once.
     func select(hall newHall: Hall) {
         hall = newHall
-        UserDefaults.standard.set(newHall.hall, forKey: "lastHall")
     }
+
+    /// The hall the app opens to, if the student has chosen one. Nil means
+    /// open to the picker.
+    var defaultHallSlug: String? {
+        UserDefaults.standard.string(forKey: "defaultHall")
+    }
+
+    func isDefault(_ h: Hall) -> Bool { defaultHallSlug == h.hall }
+
+    func setDefault(_ h: Hall, on: Bool) {
+        UserDefaults.standard.set(on ? h.hall : nil, forKey: "defaultHall")
+        defaultHallVersion &+= 1
+    }
+
+    /// Bumped on every change so SwiftUI re-reads defaultHallSlug, which lives
+    /// in UserDefaults and is otherwise invisible to observation.
+    var defaultHallVersion = 0
 
     func select(_ key: String) {
         if let d = Self.dayFormatter.date(from: key) { date = d }

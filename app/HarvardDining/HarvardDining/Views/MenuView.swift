@@ -26,6 +26,26 @@ struct MenuView: View {
                 }
             }
             ToolbarItem(placement: .topBarTrailing) {
+                if let h = store.hall {
+                    // Read the version counter during body evaluation so the
+                    // toggle reflects changes; the value itself lives in
+                    // UserDefaults, which observation cannot see.
+                    let _ = store.defaultHallVersion
+                    let isDefault = store.isDefault(h)
+                    Menu {
+                        Toggle(isOn: Binding(get: { isDefault },
+                                             set: { store.setDefault(h, on: $0) })) {
+                            Label("Open to \(h.name)", systemImage: "house")
+                        }
+                    } label: {
+                        Image(systemName: isDefault ? "pin.circle.fill" : "ellipsis.circle")
+                    }
+                    .accessibilityLabel(isDefault
+                                        ? "Options. \(h.name) is your default hall."
+                                        : "Options")
+                }
+            }
+            ToolbarItem(placement: .topBarTrailing) {
                 Button { showingFilters = true } label: {
                     Image(systemName: filters.isActive
                           ? "line.3.horizontal.decrease.circle.fill"
