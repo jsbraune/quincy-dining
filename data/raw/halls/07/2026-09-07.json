@@ -1,0 +1,667 @@
+{
+ "date": "2026-09-07",
+ "fetchedAt": "2026-09-01T13:54:24+00:00",
+ "itemCount": 168,
+ "locationNum": "07",
+ "meals": [
+  {
+   "meal": "breakfast",
+   "sourceLabel": "Breakfast Entrees",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Assorted Bagels"
+      },
+      {
+       "name": "Cage Free Hard Boiled Eggs"
+      },
+      {
+       "name": "Granola"
+      },
+      {
+       "name": "Pastry  Of The DAY"
+      },
+      {
+       "name": "Quaker Instant Oatmeal Cups"
+      }
+     ],
+     "name": "Bag Meal Breakfast Options"
+    },
+    {
+     "items": [
+      {
+       "name": "Halal Chicken and Lettuce wrap"
+      },
+      {
+       "name": "Ham & Swiss on Hearty Wheat"
+      },
+      {
+       "name": "Mozzarella, Tomato & Basil Wrap"
+      },
+      {
+       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat"
+      },
+      {
+       "name": "Tuna Salad and Lettuce on Spinach Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Gluten Free Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Wheat"
+      }
+     ],
+     "name": "Bag Meal Specialty Sandwiches"
+    },
+    {
+     "items": [
+      {
+       "name": "Falafel Salad"
+      },
+      {
+       "name": "Garden Salad"
+      },
+      {
+       "name": "Harvest  Salad"
+      }
+     ],
+     "name": "Bag Meal Salads"
+    },
+    {
+     "items": [
+      {
+       "name": "Homemade Tuna Salad"
+      },
+      {
+       "name": "Roasted Low-Sodium Turkey"
+      },
+      {
+       "name": "Sliced Ham"
+      }
+     ],
+     "name": "Bag Meal Build Your Own"
+    },
+    {
+     "items": [
+      {
+       "name": "Bread, Hearty Wheat"
+      },
+      {
+       "name": "Gluten Free Multi Grain Bread"
+      },
+      {
+       "name": "Gluten Free White Bread"
+      },
+      {
+       "name": "Hearty White Bread"
+      },
+      {
+       "name": "Wheat Tortillas"
+      }
+     ],
+     "name": "Bag MeaL Bread Choices"
+    },
+    {
+     "items": [
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Sliced White American Cheese"
+      },
+      {
+       "name": "Swiss Cheese"
+      }
+     ],
+     "name": "Bag Meal Cheese Choices"
+    },
+    {
+     "items": [
+      {
+       "name": "Chips, Cape Cod"
+      },
+      {
+       "name": "Daily Baked Cookie"
+      },
+      {
+       "name": "Dairy Free Vanilla Yogurt"
+      },
+      {
+       "name": "Fruit, Bananas"
+      },
+      {
+       "name": "Fruit, Local Apples"
+      },
+      {
+       "name": "Fruit, Oranges"
+      },
+      {
+       "name": "Grilled Chicken"
+      },
+      {
+       "name": "Grilled Spiced Tofu"
+      },
+      {
+       "name": "Peeled Baby Carrots"
+      },
+      {
+       "name": "Pretzel Twists"
+      },
+      {
+       "name": "Yogurt, Greek Plain"
+      }
+     ],
+     "name": "Bagged Meal Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "All Natural Peanut Butter"
+      },
+      {
+       "name": "Balsamic dressing (pc)"
+      },
+      {
+       "name": "Butter"
+      },
+      {
+       "name": "Cream Cheese Packets Asst."
+      },
+      {
+       "name": "Grape Preserves"
+      },
+      {
+       "name": "Italina Lite dressing (pc)"
+      },
+      {
+       "name": "Mayonnaise packets"
+      },
+      {
+       "name": "Mustard packets"
+      },
+      {
+       "name": "Ranch Buttermilk Dressing (pc)"
+      }
+     ],
+     "name": "Bagged Meal Condiments"
+    },
+    {
+     "items": [
+      {
+       "name": "1% Milk 8z"
+      },
+      {
+       "name": "Can of Coke"
+      },
+      {
+       "name": "Can of Diet Coke"
+      },
+      {
+       "name": "Chocolate milk 8 oz."
+      },
+      {
+       "name": "Cranberry Lime Seltzer"
+      },
+      {
+       "name": "Plain Soy Milk"
+      },
+      {
+       "name": "Pomegranate  Seltzer Water"
+      },
+      {
+       "name": "Skim milk 8 oz."
+      },
+      {
+       "name": "Tropicana Orange Juice"
+      },
+      {
+       "name": "Water Alum  Can 12oz"
+      }
+     ],
+     "name": "Bag Meal Beverages"
+    }
+   ]
+  },
+  {
+   "meal": "lunch",
+   "sourceLabel": "Lunch Entrees, Starches & Veggies",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Assorted Bagels"
+      },
+      {
+       "name": "Cage Free Hard Boiled Eggs"
+      },
+      {
+       "name": "Granola"
+      },
+      {
+       "name": "Pastry  Of The DAY"
+      },
+      {
+       "name": "Quaker Instant Oatmeal Cups"
+      }
+     ],
+     "name": "Bag Meal Breakfast Options"
+    },
+    {
+     "items": [
+      {
+       "name": "Halal Chicken and Lettuce wrap"
+      },
+      {
+       "name": "Ham & Swiss on Hearty Wheat"
+      },
+      {
+       "name": "Mozzarella, Tomato & Basil Wrap"
+      },
+      {
+       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat"
+      },
+      {
+       "name": "Tuna Salad and Lettuce on Spinach Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Gluten Free Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Wheat"
+      }
+     ],
+     "name": "Bag Meal Specialty Sandwiches"
+    },
+    {
+     "items": [
+      {
+       "name": "Falafel Salad"
+      },
+      {
+       "name": "Garden Salad"
+      },
+      {
+       "name": "Harvest  Salad"
+      }
+     ],
+     "name": "Bag Meal Salads"
+    },
+    {
+     "items": [
+      {
+       "name": "Homemade Tuna Salad"
+      },
+      {
+       "name": "Roasted Low-Sodium Turkey"
+      },
+      {
+       "name": "Sliced Ham"
+      }
+     ],
+     "name": "Bag Meal Build Your Own"
+    },
+    {
+     "items": [
+      {
+       "name": "Bread, Hearty Wheat"
+      },
+      {
+       "name": "Gluten Free Multi Grain Bread"
+      },
+      {
+       "name": "Gluten Free White Bread"
+      },
+      {
+       "name": "Hearty White Bread"
+      },
+      {
+       "name": "Wheat Tortillas"
+      }
+     ],
+     "name": "Bag MeaL Bread Choices"
+    },
+    {
+     "items": [
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Sliced White American Cheese"
+      },
+      {
+       "name": "Swiss Cheese"
+      }
+     ],
+     "name": "Bag Meal Cheese Choices"
+    },
+    {
+     "items": [
+      {
+       "name": "Chips, Cape Cod"
+      },
+      {
+       "name": "Daily Baked Cookie"
+      },
+      {
+       "name": "Dairy Free Vanilla Yogurt"
+      },
+      {
+       "name": "Fruit, Bananas"
+      },
+      {
+       "name": "Fruit, Local Apples"
+      },
+      {
+       "name": "Fruit, Oranges"
+      },
+      {
+       "name": "Grilled Chicken"
+      },
+      {
+       "name": "Grilled Spiced Tofu"
+      },
+      {
+       "name": "Peeled Baby Carrots"
+      },
+      {
+       "name": "Pretzel Twists"
+      },
+      {
+       "name": "Yogurt, Greek Plain"
+      }
+     ],
+     "name": "Bagged Meal Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "All Natural Peanut Butter"
+      },
+      {
+       "name": "Balsamic dressing (pc)"
+      },
+      {
+       "name": "Butter"
+      },
+      {
+       "name": "Cream Cheese Packets Asst."
+      },
+      {
+       "name": "Grape Preserves"
+      },
+      {
+       "name": "Italina Lite dressing (pc)"
+      },
+      {
+       "name": "Mayonnaise packets"
+      },
+      {
+       "name": "Mustard packets"
+      },
+      {
+       "name": "Ranch Buttermilk Dressing (pc)"
+      }
+     ],
+     "name": "Bagged Meal Condiments"
+    },
+    {
+     "items": [
+      {
+       "name": "1% Milk 8z"
+      },
+      {
+       "name": "Can of Coke"
+      },
+      {
+       "name": "Can of Diet Coke"
+      },
+      {
+       "name": "Chocolate milk 8 oz."
+      },
+      {
+       "name": "Cranberry Lime Seltzer"
+      },
+      {
+       "name": "Plain Soy Milk"
+      },
+      {
+       "name": "Pomegranate  Seltzer Water"
+      },
+      {
+       "name": "Skim milk 8 oz."
+      },
+      {
+       "name": "Tropicana Orange Juice"
+      },
+      {
+       "name": "Water Alum  Can 12oz"
+      }
+     ],
+     "name": "Bag Meal Beverages"
+    }
+   ]
+  },
+  {
+   "meal": "dinner",
+   "sourceLabel": "Dinner Entrees, Starches & Veggies",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Assorted Bagels"
+      },
+      {
+       "name": "Cage Free Hard Boiled Eggs"
+      },
+      {
+       "name": "Granola"
+      },
+      {
+       "name": "Pastry  Of The DAY"
+      },
+      {
+       "name": "Quaker Instant Oatmeal Cups"
+      }
+     ],
+     "name": "Bag Meal Breakfast Options"
+    },
+    {
+     "items": [
+      {
+       "name": "Halal Chicken and Lettuce wrap"
+      },
+      {
+       "name": "Ham & Swiss on Hearty Wheat"
+      },
+      {
+       "name": "Mozzarella, Tomato & Basil Wrap"
+      },
+      {
+       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat"
+      },
+      {
+       "name": "Tuna Salad and Lettuce on Spinach Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Gluten Free Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Wheat"
+      }
+     ],
+     "name": "Bag Meal Specialty Sandwiches"
+    },
+    {
+     "items": [
+      {
+       "name": "Falafel Salad"
+      },
+      {
+       "name": "Garden Salad"
+      },
+      {
+       "name": "Harvest  Salad"
+      }
+     ],
+     "name": "Bag Meal Salads"
+    },
+    {
+     "items": [
+      {
+       "name": "Homemade Tuna Salad"
+      },
+      {
+       "name": "Roasted Low-Sodium Turkey"
+      },
+      {
+       "name": "Sliced Ham"
+      }
+     ],
+     "name": "Bag Meal Build Your Own"
+    },
+    {
+     "items": [
+      {
+       "name": "Bread, Hearty Wheat"
+      },
+      {
+       "name": "Gluten Free Multi Grain Bread"
+      },
+      {
+       "name": "Gluten Free White Bread"
+      },
+      {
+       "name": "Hearty White Bread"
+      },
+      {
+       "name": "Wheat Tortillas"
+      }
+     ],
+     "name": "Bag MeaL Bread Choices"
+    },
+    {
+     "items": [
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Sliced White American Cheese"
+      },
+      {
+       "name": "Swiss Cheese"
+      }
+     ],
+     "name": "Bag Meal Cheese Choices"
+    },
+    {
+     "items": [
+      {
+       "name": "Chips, Cape Cod"
+      },
+      {
+       "name": "Daily Baked Cookie"
+      },
+      {
+       "name": "Dairy Free Vanilla Yogurt"
+      },
+      {
+       "name": "Fruit, Bananas"
+      },
+      {
+       "name": "Fruit, Local Apples"
+      },
+      {
+       "name": "Fruit, Oranges"
+      },
+      {
+       "name": "Grilled Chicken"
+      },
+      {
+       "name": "Grilled Spiced Tofu"
+      },
+      {
+       "name": "Peeled Baby Carrots"
+      },
+      {
+       "name": "Pretzel Twists"
+      },
+      {
+       "name": "Yogurt, Greek Plain"
+      }
+     ],
+     "name": "Bagged Meal Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "All Natural Peanut Butter"
+      },
+      {
+       "name": "Balsamic dressing (pc)"
+      },
+      {
+       "name": "Butter"
+      },
+      {
+       "name": "Cream Cheese Packets Asst."
+      },
+      {
+       "name": "Grape Preserves"
+      },
+      {
+       "name": "Italina Lite dressing (pc)"
+      },
+      {
+       "name": "Mayonnaise packets"
+      },
+      {
+       "name": "Mustard packets"
+      },
+      {
+       "name": "Ranch Buttermilk Dressing (pc)"
+      }
+     ],
+     "name": "Bagged Meal Condiments"
+    },
+    {
+     "items": [
+      {
+       "name": "1% Milk 8z"
+      },
+      {
+       "name": "Can of Coke"
+      },
+      {
+       "name": "Can of Diet Coke"
+      },
+      {
+       "name": "Chocolate milk 8 oz."
+      },
+      {
+       "name": "Cranberry Lime Seltzer"
+      },
+      {
+       "name": "Plain Soy Milk"
+      },
+      {
+       "name": "Pomegranate  Seltzer Water"
+      },
+      {
+       "name": "Skim milk 8 oz."
+      },
+      {
+       "name": "Tropicana Orange Juice"
+      },
+      {
+       "name": "Water Alum  Can 12oz"
+      }
+     ],
+     "name": "Bag Meal Beverages"
+    }
+   ]
+  }
+ ],
+ "mealsSha256": "bd2e0924a650a332115deea892b2e65ad8b5689b489deace593aedf94273bac6",
+ "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
+}
