@@ -27,13 +27,19 @@ struct SplashView: View {
                     .opacity(plaqueIn ? 1 : 0)
                     .accessibilityHidden(true)
 
+                // Crimson Text: an open-licensed Garamond-derived serif that
+                // Harvard schools use. Harvard's own primary face (Anziano)
+                // is proprietary and cannot be embedded. Falls back to the
+                // system serif if registration ever fails.
                 VStack(spacing: 6) {
                     Text("HARVARD")
-                        .font(.system(size: 26, weight: .bold))
-                        .tracking(5)
+                        .font(.custom("CrimsonText-SemiBold", size: 30,
+                                      relativeTo: .largeTitle))
+                        .tracking(4)
                     Text("Dining")
-                        .font(.system(size: 17))
-                        .tracking(6)
+                        .font(.custom("CrimsonText-Regular", size: 20,
+                                      relativeTo: .title3))
+                        .tracking(5)
                         .foregroundStyle(.white.opacity(0.85))
                 }
                 .foregroundStyle(.white)

@@ -14,6 +14,7 @@
       {
        "allergens": [],
        "calories": 210,
+       "carbs_g": 21.0,
        "name": "Beef Chili",
        "portion": "8 oz",
        "recipeId": 10037,
@@ -25,6 +26,7 @@
         "Wheat"
        ],
        "calories": 83,
+       "carbs_g": 10.2,
        "name": "Chicken Noodle Soup",
        "portion": "8 oz",
        "recipeId": 10015,
@@ -33,6 +35,7 @@
       {
        "allergens": [],
        "calories": 127,
+       "carbs_g": 19.1,
        "name": "Sweet Potato Chipotle",
        "portion": "8 oz",
        "recipeId": 10065,
@@ -44,6 +47,7 @@
       {
        "allergens": [],
        "calories": 140,
+       "carbs_g": 27.0,
        "name": "Three Bean Chili",
        "portion": "8 fl. oz",
        "recipeId": 10038,
@@ -60,6 +64,7 @@
       {
        "allergens": [],
        "calories": 140,
+       "carbs_g": 16.0,
        "name": "Chips, Cape Cod",
        "portion": "1 each",
        "recipeId": 217005,
@@ -73,6 +78,7 @@
         "Milk"
        ],
        "calories": 20,
+       "carbs_g": 2.8,
        "name": "Chobani Vanilla Greek Yogurt",
        "portion": "1 each",
        "recipeId": 143013,
@@ -83,6 +89,7 @@
         "Soybeans"
        ],
        "calories": 130,
+       "carbs_g": 20.0,
        "name": "Dairy Free Vanilla Yogurt",
        "portion": "1 each",
        "recipeId": 10046,
@@ -91,6 +98,7 @@
       {
        "allergens": [],
        "calories": 72,
+       "carbs_g": 19.1,
        "name": "Delicious Apples",
        "portion": "1 each",
        "recipeId": 201005,
@@ -102,6 +110,7 @@
       {
        "allergens": [],
        "calories": 134,
+       "carbs_g": 34.3,
        "name": "Fruit, Bananas",
        "portion": "1 each",
        "recipeId": 201004,
@@ -113,6 +122,7 @@
       {
        "allergens": [],
        "calories": 53,
+       "carbs_g": 13.3,
        "name": "Fruit, Oranges",
        "portion": "1 each",
        "recipeId": 201003,
@@ -139,6 +149,7 @@
         "Wheat"
        ],
        "calories": 47,
+       "carbs_g": 7.0,
        "name": "Oreo Nabs",
        "portion": "1 each",
        "recipeId": 182008,
@@ -150,6 +161,7 @@
       {
        "allergens": [],
        "calories": 21,
+       "carbs_g": 4.4,
        "name": "Peeled Baby Carrots",
        "portion": "2 oz",
        "recipeId": 178008,
@@ -163,6 +175,7 @@
         "Wheat"
        ],
        "calories": 114,
+       "carbs_g": 23.8,
        "name": "Pretzel Twists",
        "portion": "1 bag",
        "recipeId": 217001,
@@ -183,6 +196,7 @@
         "Wheat"
        ],
        "calories": 118,
+       "carbs_g": 13.6,
        "name": "Caesar Salad",
        "portion": "4 oz",
        "recipeId": 47046,
@@ -193,6 +207,7 @@
       {
        "allergens": [],
        "calories": 417,
+       "carbs_g": 37.4,
        "name": "Falafel Salad",
        "portion": "1 each",
        "recipeId": 290051,
@@ -204,6 +219,7 @@
       {
        "allergens": [],
        "calories": 31,
+       "carbs_g": 6.1,
        "name": "Garden Salad",
        "portion": "6 oz",
        "recipeId": 150508,
@@ -215,6 +231,7 @@
       {
        "allergens": [],
        "calories": 156,
+       "carbs_g": 0.0,
        "name": "Grilled Chicken",
        "portion": "1 each",
        "recipeId": 138014,
@@ -225,6 +242,7 @@
         "Soybeans"
        ],
        "calories": 113,
+       "carbs_g": 3.2,
        "name": "Grilled Spiced Tofu",
        "portion": "4 oz",
        "recipeId": 290052,
@@ -239,6 +257,7 @@
         "Wheat"
        ],
        "calories": 461,
+       "carbs_g": 49.1,
        "name": "Halal Chicken and Lettuce wrap",
        "portion": "1 each",
        "recipeId": 290002,
@@ -251,6 +270,7 @@
         "Wheat"
        ],
        "calories": 409,
+       "carbs_g": 42.0,
        "name": "Ham & Swiss on Hearty Wheat",
        "portion": "1 each",
        "recipeId": 87131,
@@ -261,6 +281,7 @@
         "Soybeans"
        ],
        "calories": 336,
+       "carbs_g": 37.6,
        "name": "Harvest  Salad",
        "portion": "1 each",
        "recipeId": 290050,
@@ -276,6 +297,7 @@
         "Wheat"
        ],
        "calories": 633,
+       "carbs_g": 55.3,
        "name": "Mozzarella, Tomato & Basil Wrap",
        "portion": "1 each",
        "recipeId": 444122,
@@ -290,6 +312,7 @@
         "Wheat"
        ],
        "calories": 532,
+       "carbs_g": 67.3,
        "name": "Teddy's Peanut Butter & Grape Jelly on Wheat",
        "portion": "1 each",
        "recipeId": 87032,
@@ -306,6 +329,7 @@
         "Wheat"
        ],
        "calories": 603,
+       "carbs_g": 47.6,
        "name": "Tuna Salad and Lettuce on Spinach Wrap",
        "portion": "1 each",
        "recipeId": 87028,
@@ -317,6 +341,7 @@
         "Soybeans"
        ],
        "calories": 402,
+       "carbs_g": 48.0,
        "name": "Turkey & Cheddar on Gluten Free Wrap",
        "portion": "1 each",
        "recipeId": 290500,
@@ -329,6 +354,7 @@
         "Wheat"
        ],
        "calories": 498,
+       "carbs_g": 39.1,
        "name": "Turkey & Cheddar on Wheat",
        "portion": "1 each",
        "recipeId": 87026,

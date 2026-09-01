@@ -14,6 +14,7 @@
       {
        "allergens": [],
        "calories": 80,
+       "carbs_g": 2.0,
        "name": "Chicken Sausage",
        "portion": "1 each",
        "recipeId": 89020,
@@ -29,6 +30,7 @@
         "Eggs"
        ],
        "calories": 78,
+       "carbs_g": 1.1,
        "name": "Cage Free Hard Boiled Eggs",
        "portion": "1 each",
        "recipeId": 161049,
@@ -41,6 +43,7 @@
         "Eggs"
        ],
        "calories": 70,
+       "carbs_g": 1.0,
        "name": "Hard Cooked Eggs - Cage Free",
        "portion": "1 each",
        "recipeId": 61009,
@@ -54,6 +57,7 @@
         "Milk"
        ],
        "calories": 252,
+       "carbs_g": 5.5,
        "name": "Mushroom & Cheese Frittata",
        "portion": "1 piece",
        "recipeId": 503389,
@@ -66,6 +70,7 @@
         "Eggs"
        ],
        "calories": 180,
+       "carbs_g": 1.1,
        "name": "Scrambled Cage Free Eggs",
        "portion": "4 oz",
        "recipeId": 61003,
@@ -78,6 +83,7 @@
         "Soybeans"
        ],
        "calories": 95,
+       "carbs_g": 2.6,
        "name": "Tofu Scramble",
        "portion": "4 oz",
        "recipeId": 142067,
@@ -101,6 +107,7 @@
         "Wheat"
        ],
        "calories": 160,
+       "carbs_g": 19.0,
        "name": "Cinnamon Roll",
        "portion": "1 each",
        "recipeId": 214011,
@@ -117,6 +124,7 @@
         "Wheat"
        ],
        "calories": 220,
+       "carbs_g": 29.0,
        "name": "Muffin Assortment",
        "portion": "1 each",
        "recipeId": 300863,
@@ -151,6 +159,7 @@
       {
        "allergens": [],
        "calories": 115,
+       "carbs_g": 6.1,
        "name": "Avocado",
        "portion": "2 oz",
        "recipeId": 144106,
@@ -162,6 +171,7 @@
       {
        "allergens": [],
        "calories": 39,
+       "carbs_g": 9.3,
        "name": "Fresh Fruit Salad",
        "portion": "4 oz",
        "recipeId": 504073,
@@ -173,6 +183,7 @@
       {
        "allergens": [],
        "calories": 14,
+       "carbs_g": 3.5,
        "name": "Grapefruit Wedge",
        "portion": "1 each",
        "recipeId": 201000,
@@ -187,6 +198,7 @@
         "Soybeans"
        ],
        "calories": 132,
+       "carbs_g": 1.9,
        "name": "Huds Boom Sauce",
        "portion": "1 fl. oz",
        "recipeId": 300988,
@@ -197,6 +209,7 @@
       {
        "allergens": [],
        "calories": 110,
+       "carbs_g": 12.0,
        "name": "Hummus",
        "portion": "2 oz",
        "recipeId": 142439,
@@ -208,6 +221,7 @@
       {
        "allergens": [],
        "calories": 10,
+       "carbs_g": 2.3,
        "name": "Orange Wedge",
        "portion": "1 each",
        "recipeId": 120003,
@@ -224,6 +238,7 @@
       {
        "allergens": [],
        "calories": 107,
+       "carbs_g": 23.1,
        "name": "Shredded Hashbrowns",
        "portion": "4 oz",
        "recipeId": 161048,
@@ -245,6 +260,7 @@
         "Wheat"
        ],
        "calories": 334,
+       "carbs_g": 43.0,
        "name": "Malted Belgian Waffles",
        "portion": "1 each",
        "recipeId": 36014,
@@ -260,6 +276,7 @@
         "Wheat"
        ],
        "calories": 337,
+       "carbs_g": 40.7,
        "name": "Multi-Grain Waffles",
        "portion": "1 each",
        "recipeId": 501072,
@@ -270,6 +287,7 @@
       {
        "allergens": [],
        "calories": 96,
+       "carbs_g": 25.2,
        "name": "Pancake Syrup",
        "portion": "1 fl. oz",
        "recipeId": 191001,
@@ -283,6 +301,7 @@
         "Wheat"
        ],
        "calories": 122,
+       "carbs_g": 20.7,
        "name": "Steel Cut Oatmeal",
        "portion": "6 fl. oz",
        "recipeId": 31003,
@@ -296,6 +315,7 @@
         "Milk"
        ],
        "calories": 49,
+       "carbs_g": 0.4,
        "name": "Whipped Topping",
        "portion": "1 fl. oz",
        "recipeId": 199001,
@@ -311,6 +331,7 @@
       {
        "allergens": [],
        "calories": 32,
+       "carbs_g": 7.9,
        "name": "Blueberries",
        "portion": "2 oz",
        "recipeId": 204010,
@@ -324,6 +345,7 @@
         "Milk"
        ],
        "calories": 60,
+       "carbs_g": 4.0,
        "name": "Chobani Nonfat Plain Greek Yogurt",
        "portion": "4 oz",
        "recipeId": 143028,
@@ -336,6 +358,7 @@
         "Milk"
        ],
        "calories": 113,
+       "carbs_g": 4.7,
        "name": "Chobani Plain Greek Yogurt",
        "portion": "4 fl. oz",
        "recipeId": 301094,
@@ -348,6 +371,7 @@
         "Milk"
        ],
        "calories": 30,
+       "carbs_g": 1.3,
        "name": "Cottage Cheese",
        "portion": "1 oz",
        "recipeId": 130005,
@@ -358,6 +382,7 @@
       {
        "allergens": [],
        "calories": 111,
+       "carbs_g": 15.2,
        "name": "Granola",
        "portion": "1 oz",
        "recipeId": 300945,
@@ -369,6 +394,7 @@
       {
        "allergens": [],
        "calories": 71,
+       "carbs_g": 18.4,
        "name": "Grape Preserves",
        "portion": "1 oz",
        "recipeId": 195004,
@@ -382,6 +408,7 @@
         "Milk"
        ],
        "calories": 83,
+       "carbs_g": 4.9,
        "name": "Low  Fat Chobani Plain Yogurt",
        "portion": "4 oz",
        "recipeId": 143115,
@@ -392,6 +419,7 @@
       {
        "allergens": [],
        "calories": 238,
+       "carbs_g": 46.3,
        "name": "Overnight Oats",
        "portion": "5 oz",
        "recipeId": 300053,
@@ -405,6 +433,7 @@
         "Soybeans"
        ],
        "calories": 73,
+       "carbs_g": 6.7,
        "name": "Plain Soy Yogurt",
        "portion": "4 oz",
        "recipeId": 700106,
@@ -416,6 +445,7 @@
       {
        "allergens": [],
        "calories": 54,
+       "carbs_g": 14.7,
        "name": "Sliced Strawberries",
        "portion": "2 oz",
        "recipeId": 204005,
@@ -427,6 +457,7 @@
       {
        "allergens": [],
        "calories": 71,
+       "carbs_g": 18.4,
        "name": "Strawberry Preserves",
        "portion": "1 oz",
        "recipeId": 195003,
@@ -438,6 +469,7 @@
       {
        "allergens": [],
        "calories": 177,
+       "carbs_g": 6.2,
        "name": "Sun Butter",
        "portion": "1 oz",
        "recipeId": 143404,
@@ -454,6 +486,7 @@
       {
        "allergens": [],
        "calories": 98,
+       "carbs_g": 26.0,
        "name": "Fresh Gala Apple",
        "portion": "1 each",
        "recipeId": 201040,
@@ -465,6 +498,7 @@
       {
        "allergens": [],
        "calories": 134,
+       "carbs_g": 34.3,
        "name": "Fruit, Bananas",
        "portion": "1 each",
        "recipeId": 201004,
@@ -476,6 +510,7 @@
       {
        "allergens": [],
        "calories": 65,
+       "carbs_g": 17.3,
        "name": "Fruit, Local Apples",
        "portion": "1 each",
        "recipeId": 201002,
@@ -487,6 +522,7 @@
       {
        "allergens": [],
        "calories": 61,
+       "carbs_g": 14.7,
        "name": "Kiwi",
        "portion": "1 each",
        "recipeId": 201022,
@@ -510,6 +546,7 @@
         "Milk"
        ],
        "calories": 280,
+       "carbs_g": 11.0,
        "name": "Cream of Jalapeno Soup",
        "portion": "8 oz",
        "recipeId": 10068,
@@ -524,6 +561,7 @@
         "Wheat"
        ],
        "calories": 130,
+       "carbs_g": 10.0,
        "name": "Italian Meatball Soup",
        "portion": "8 fl. oz",
        "recipeId": 10022,
@@ -537,6 +575,7 @@
       {
        "allergens": [],
        "calories": 4,
+       "carbs_g": 0.6,
        "name": "Baby Arugula",
        "portion": "1 oz",
        "recipeId": 175048,
@@ -548,6 +587,7 @@
       {
        "allergens": [],
        "calories": 50,
+       "carbs_g": 11.1,
        "name": "Barley",
        "portion": "2 oz",
        "recipeId": 164034,
@@ -563,6 +603,7 @@
         "Wheat"
        ],
        "calories": 118,
+       "carbs_g": 13.6,
        "name": "Caesar Salad",
        "portion": "4 oz",
        "recipeId": 47046,
@@ -573,6 +614,7 @@
       {
        "allergens": [],
        "calories": 57,
+       "carbs_g": 10.0,
        "name": "Cannellini Beans",
        "portion": "2 oz",
        "recipeId": 173011,
@@ -584,6 +626,7 @@
       {
        "allergens": [],
        "calories": 44,
+       "carbs_g": 10.5,
        "name": "Corn Niblets",
        "portion": "2 oz",
        "recipeId": 171060,
@@ -597,6 +640,7 @@
         "Milk"
        ],
        "calories": 30,
+       "carbs_g": 1.3,
        "name": "Cottage Cheese",
        "portion": "1 oz",
        "recipeId": 130005,
@@ -607,6 +651,7 @@
       {
        "allergens": [],
        "calories": 44,
+       "carbs_g": 11.7,
        "name": "Cranberries",
        "portion": "1 oz",
        "recipeId": 87044,
@@ -621,6 +666,7 @@
         "Wheat"
        ],
        "calories": 147,
+       "carbs_g": 20.4,
        "name": "Currried Cauliflower Salad",
        "portion": "4 oz",
        "recipeId": 300809,
@@ -632,6 +678,7 @@
       {
        "allergens": [],
        "calories": 11,
+       "carbs_g": 2.4,
        "name": "Diced Onions",
        "portion": "1 oz",
        "recipeId": 175040,
@@ -645,6 +692,7 @@
         "Milk"
        ],
        "calories": 75,
+       "carbs_g": 1.2,
        "name": "Feta Cheese",
        "portion": "1 oz",
        "recipeId": 130003,
@@ -655,6 +703,7 @@
         "Fish"
        ],
        "calories": 120,
+       "carbs_g": 0.0,
        "name": "Flaked Tuna",
        "portion": "4 oz",
        "recipeId": 48006,
@@ -663,6 +712,7 @@
       {
        "allergens": [],
        "calories": 10,
+       "carbs_g": 1.9,
        "name": "Grape Tomatoes",
        "portion": "1 oz",
        "recipeId": 177073,
@@ -676,6 +726,7 @@
         "Soybeans"
        ],
        "calories": 55,
+       "carbs_g": 1.3,
        "name": "Grilled Tofu",
        "portion": "2 oz",
        "recipeId": 138020,
@@ -689,6 +740,7 @@
         "Eggs"
        ],
        "calories": 78,
+       "carbs_g": 1.1,
        "name": "Hard Cooked Eggs",
        "portion": "1 each",
        "recipeId": 161056,
@@ -702,6 +754,7 @@
         "Soybeans"
        ],
        "calories": 132,
+       "carbs_g": 1.9,
        "name": "Huds Boom Sauce",
        "portion": "1 fl. oz",
        "recipeId": 300988,
@@ -712,6 +765,7 @@
       {
        "allergens": [],
        "calories": 110,
+       "carbs_g": 12.0,
        "name": "Hummus",
        "portion": "2 oz",
        "recipeId": 142439,
@@ -723,6 +777,7 @@
       {
        "allergens": [],
        "calories": 70,
+       "carbs_g": 3.5,
        "name": "Kalamata Olives",
        "portion": "1 oz",
        "recipeId": 221061,
@@ -734,6 +789,7 @@
       {
        "allergens": [],
        "calories": 46,
+       "carbs_g": 9.6,
        "name": "Kidney Beans",
        "portion": "2 oz",
        "recipeId": 47077,
@@ -745,6 +801,7 @@
       {
        "allergens": [],
        "calories": 4,
+       "carbs_g": 0.8,
        "name": "Little Leaf Greens",
        "portion": "1 oz",
        "recipeId": 176066,
@@ -756,6 +813,7 @@
       {
        "allergens": [],
        "calories": 41,
+       "carbs_g": 9.7,
        "name": "Roasted Butternut Squash",
        "portion": "3 oz",
        "recipeId": 277228,
@@ -767,6 +825,7 @@
       {
        "allergens": [],
        "calories": 63,
+       "carbs_g": 0.0,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -775,6 +834,7 @@
       {
        "allergens": [],
        "calories": 76,
+       "carbs_g": 3.1,
        "name": "Sesame Lime Vinaigrette",
        "portion": "1 fl. oz",
        "recipeId": 700050,
@@ -786,6 +846,7 @@
       {
        "allergens": [],
        "calories": 12,
+       "carbs_g": 2.7,
        "name": "Shredded Carrots",
        "portion": "1 oz",
        "recipeId": 140070,
@@ -797,6 +858,7 @@
       {
        "allergens": [],
        "calories": 45,
+       "carbs_g": 1.7,
        "name": "Sliced Avocado",
        "portion": "1 oz",
        "recipeId": 221115,
@@ -808,6 +870,7 @@
       {
        "allergens": [],
        "calories": 3,
+       "carbs_g": 0.5,
        "name": "Sliced Cucumbers",
        "portion": "1 oz",
        "recipeId": 175022,
@@ -819,6 +882,7 @@
       {
        "allergens": [],
        "calories": 8,
+       "carbs_g": 1.6,
        "name": "Steamed Broccoli",
        "portion": "1 oz",
        "recipeId": 120126,
@@ -830,6 +894,7 @@
       {
        "allergens": [],
        "calories": 5,
+       "carbs_g": 1.1,
        "name": "Suntan Pepper Strips",
        "portion": "1 oz",
        "recipeId": 176067,
@@ -844,6 +909,7 @@
         "Wheat"
        ],
        "calories": 70,
+       "carbs_g": 8.0,
        "name": "Tabouleh Salad",
        "portion": "2 oz",
        "recipeId": 142020,
@@ -855,6 +921,7 @@
       {
        "allergens": [],
        "calories": 32,
+       "carbs_g": 5.7,
        "name": "Tricolor Quinoa",
        "portion": "1 oz",
        "recipeId": 150044,
@@ -876,6 +943,7 @@
         "Wheat"
        ],
        "calories": 238,
+       "carbs_g": 6.8,
        "name": "Buffalo Chicken Salad",
        "portion": "4 oz",
        "recipeId": 300897,
@@ -886,6 +954,7 @@
         "Milk"
        ],
        "calories": 114,
+       "carbs_g": 0.4,
        "name": "Cheddar Cheese",
        "portion": "1 oz",
        "recipeId": 130014,
@@ -899,6 +968,7 @@
         "Soybeans"
        ],
        "calories": 181,
+       "carbs_g": 15.9,
        "name": "Classic Cole Slaw",
        "portion": "4 oz",
        "recipeId": 42073,
@@ -912,6 +982,7 @@
         "Soybeans"
        ],
        "calories": 132,
+       "carbs_g": 1.9,
        "name": "Huds Boom Sauce",
        "portion": "1 fl. oz",
        "recipeId": 300988,
@@ -921,6 +992,7 @@
       },
       {
        "allergens": [],
+       "carbs_g": 0.0,
        "name": "Kosher Dill Pickle Chips",
        "portion": "3 each",
        "recipeId": 221019,
@@ -932,6 +1004,7 @@
       {
        "allergens": [],
        "calories": 4,
+       "carbs_g": 0.8,
        "name": "Leaf Lettuce",
        "portion": "1 oz",
        "recipeId": 175035,
@@ -945,6 +1018,7 @@
         "Milk"
        ],
        "calories": 530,
+       "carbs_g": 1.8,
        "name": "No Nut Basil Pesto",
        "portion": "4 fl. oz",
        "recipeId": 155010,
@@ -955,6 +1029,7 @@
       {
        "allergens": [],
        "calories": 126,
+       "carbs_g": 2.5,
        "name": "Roasted Low-Sodium Turkey",
        "portion": "4 oz",
        "recipeId": 113503,
@@ -963,6 +1038,7 @@
       {
        "allergens": [],
        "calories": 125,
+       "carbs_g": 2.1,
        "name": "Sliced Ham",
        "portion": "4 oz",
        "recipeId": 319044,
@@ -971,6 +1047,7 @@
       {
        "allergens": [],
        "calories": 11,
+       "carbs_g": 2.6,
        "name": "Sliced Red Onions",
        "portion": "1 oz",
        "recipeId": 175033,
@@ -982,6 +1059,7 @@
       {
        "allergens": [],
        "calories": 12,
+       "carbs_g": 2.6,
        "name": "Sliced Tomatoes",
        "portion": "2 oz",
        "recipeId": 175036,
@@ -995,6 +1073,7 @@
         "Milk"
        ],
        "calories": 108,
+       "carbs_g": 0.0,
        "name": "Swiss Cheese",
        "portion": "1 oz",
        "recipeId": 130006,
@@ -1009,6 +1088,7 @@
         "Soybeans"
        ],
        "calories": 312,
+       "carbs_g": 0.4,
        "name": "Tuna Salad",
        "portion": "4 oz",
        "recipeId": 48511,
@@ -1017,6 +1097,7 @@
       {
        "allergens": [],
        "calories": 43,
+       "carbs_g": 1.9,
        "name": "Western Style Guacamole",
        "portion": "1 oz",
        "recipeId": 144002,
@@ -1038,6 +1119,7 @@
         "Wheat"
        ],
        "calories": 116,
+       "carbs_g": 3.0,
        "name": "Chicken Tikka Masala",
        "portion": "4 oz",
        "recipeId": 255118,
@@ -1046,6 +1128,7 @@
       {
        "allergens": [],
        "calories": 152,
+       "carbs_g": 0.0,
        "name": "Grilled Chicken Breast",
        "portion": "4 oz",
        "recipeId": 111050,
@@ -1059,6 +1142,7 @@
         "Wheat"
        ],
        "calories": 16,
+       "carbs_g": 1.0,
        "name": "Palak Paneer",
        "portion": "1 fl. oz",
        "recipeId": 255122,
@@ -1075,6 +1159,7 @@
         "Wheat"
        ],
        "calories": 256,
+       "carbs_g": 4.1,
        "name": "Tandoori Salmon",
        "portion": "5 oz",
        "recipeId": 270150,
@@ -1088,6 +1173,7 @@
       {
        "allergens": [],
        "calories": 32,
+       "carbs_g": 4.0,
        "name": "Tarka Dal",
        "portion": "1 oz",
        "recipeId": 255119,
@@ -1104,6 +1190,7 @@
       {
        "allergens": [],
        "calories": 161,
+       "carbs_g": 30.4,
        "name": "Basmati Rice Pullao",
        "portion": "4 oz",
        "recipeId": 163041,
@@ -1122,6 +1209,7 @@
         "Soybeans"
        ],
        "calories": 276,
+       "carbs_g": 14.4,
        "name": "Braised Kale with  Garlic and TomatO",
        "portion": "4 oz",
        "recipeId": 300196,
@@ -1133,6 +1221,7 @@
       {
        "allergens": [],
        "calories": 60,
+       "carbs_g": 8.9,
        "name": "Roasted Carrots with Garam Masala & Mint",
        "portion": "4 oz",
        "recipeId": 300290,
@@ -1149,6 +1238,7 @@
       {
        "allergens": [],
        "calories": 50,
+       "carbs_g": 9.1,
        "name": "Curried Cauliflower and Chickpea",
        "portion": "4 oz",
        "recipeId": 501025,
@@ -1170,6 +1260,7 @@
         "Wheat"
        ],
        "calories": 116,
+       "carbs_g": 3.0,
        "name": "Chicken Tikka Masala",
        "portion": "4 oz",
        "recipeId": 255118,
@@ -1190,6 +1281,7 @@
         "Wheat"
        ],
        "calories": 119,
+       "carbs_g": 17.8,
        "name": "Carnival Cookie",
        "portion": "1 each",
        "recipeId": 182046,
@@ -1202,6 +1294,7 @@
         "Tree Nuts"
        ],
        "calories": 110,
+       "carbs_g": 26.0,
        "name": "Orange Soft serve",
        "portion": "4 oz",
        "recipeId": 300859,
@@ -1215,6 +1308,7 @@
         "Tree Nuts"
        ],
        "calories": 106,
+       "carbs_g": 26.1,
        "name": "Raspberry Soft serve",
        "portion": "4 oz",
        "recipeId": 300860,
@@ -1237,6 +1331,7 @@
         "Wheat"
        ],
        "calories": 121,
+       "carbs_g": 16.8,
        "name": "Warm Buttermilk Cornbread",
        "portion": "1 piece",
        "recipeId": 375111,
@@ -1254,6 +1349,7 @@
         "Milk"
        ],
        "calories": 104,
+       "carbs_g": 20.1,
        "name": "Tart Cherry Smoothie",
        "portion": "8 fl. oz",
        "recipeId": 301079,
@@ -1269,6 +1365,7 @@
       {
        "allergens": [],
        "calories": 31,
+       "carbs_g": 6.5,
        "name": "Brown Rice",
        "portion": "3 oz",
        "recipeId": 163077,
@@ -1285,6 +1382,7 @@
       {
        "allergens": [],
        "calories": 210,
+       "carbs_g": 21.0,
        "name": "Beef Chili",
        "portion": "8 oz",
        "recipeId": 10037,
@@ -1305,6 +1403,7 @@
         "Soybeans"
        ],
        "calories": 111,
+       "carbs_g": 17.6,
        "name": "Carrot Ginger Sesame Soup",
        "portion": "8 oz",
        "recipeId": 10023,
@@ -1320,6 +1419,7 @@
         "Wheat"
        ],
        "calories": 130,
+       "carbs_g": 10.0,
        "name": "Italian Meatball Soup",
        "portion": "8 fl. oz",
        "recipeId": 10022,
@@ -1333,6 +1433,7 @@
       {
        "allergens": [],
        "calories": 4,
+       "carbs_g": 0.6,
        "name": "Baby Arugula",
        "portion": "1 oz",
        "recipeId": 175048,
@@ -1344,6 +1445,7 @@
       {
        "allergens": [],
        "calories": 50,
+       "carbs_g": 11.1,
        "name": "Barley",
        "portion": "2 oz",
        "recipeId": 164034,
@@ -1359,6 +1461,7 @@
         "Wheat"
        ],
        "calories": 118,
+       "carbs_g": 13.6,
        "name": "Caesar Salad",
        "portion": "4 oz",
        "recipeId": 47046,
@@ -1369,6 +1472,7 @@
       {
        "allergens": [],
        "calories": 57,
+       "carbs_g": 10.0,
        "name": "Cannellini Beans",
        "portion": "2 oz",
        "recipeId": 173011,
@@ -1380,6 +1484,7 @@
       {
        "allergens": [],
        "calories": 44,
+       "carbs_g": 10.5,
        "name": "Corn Niblets",
        "portion": "2 oz",
        "recipeId": 171060,
@@ -1393,6 +1498,7 @@
         "Milk"
        ],
        "calories": 30,
+       "carbs_g": 1.3,
        "name": "Cottage Cheese",
        "portion": "1 oz",
        "recipeId": 130005,
@@ -1403,6 +1509,7 @@
       {
        "allergens": [],
        "calories": 44,
+       "carbs_g": 11.7,
        "name": "Cranberries",
        "portion": "1 oz",
        "recipeId": 87044,
@@ -1417,6 +1524,7 @@
         "Wheat"
        ],
        "calories": 147,
+       "carbs_g": 20.4,
        "name": "Currried Cauliflower Salad",
        "portion": "4 oz",
        "recipeId": 300809,
@@ -1428,6 +1536,7 @@
       {
        "allergens": [],
        "calories": 11,
+       "carbs_g": 2.4,
        "name": "Diced Onions",
        "portion": "1 oz",
        "recipeId": 175040,
@@ -1441,6 +1550,7 @@
         "Milk"
        ],
        "calories": 75,
+       "carbs_g": 1.2,
        "name": "Feta Cheese",
        "portion": "1 oz",
        "recipeId": 130003,
@@ -1451,6 +1561,7 @@
         "Fish"
        ],
        "calories": 120,
+       "carbs_g": 0.0,
        "name": "Flaked Tuna",
        "portion": "4 oz",
        "recipeId": 48006,
@@ -1459,6 +1570,7 @@
       {
        "allergens": [],
        "calories": 10,
+       "carbs_g": 1.9,
        "name": "Grape Tomatoes",
        "portion": "1 oz",
        "recipeId": 177073,
@@ -1472,6 +1584,7 @@
         "Soybeans"
        ],
        "calories": 55,
+       "carbs_g": 1.3,
        "name": "Grilled Tofu",
        "portion": "2 oz",
        "recipeId": 138020,
@@ -1485,6 +1598,7 @@
         "Eggs"
        ],
        "calories": 78,
+       "carbs_g": 1.1,
        "name": "Hard Cooked Eggs",
        "portion": "1 each",
        "recipeId": 161056,
@@ -1498,6 +1612,7 @@
         "Soybeans"
        ],
        "calories": 132,
+       "carbs_g": 1.9,
        "name": "Huds Boom Sauce",
        "portion": "1 fl. oz",
        "recipeId": 300988,
@@ -1508,6 +1623,7 @@
       {
        "allergens": [],
        "calories": 110,
+       "carbs_g": 12.0,
        "name": "Hummus",
        "portion": "2 oz",
        "recipeId": 142439,
@@ -1519,6 +1635,7 @@
       {
        "allergens": [],
        "calories": 70,
+       "carbs_g": 3.5,
        "name": "Kalamata Olives",
        "portion": "1 oz",
        "recipeId": 221061,
@@ -1530,6 +1647,7 @@
       {
        "allergens": [],
        "calories": 46,
+       "carbs_g": 9.6,
        "name": "Kidney Beans",
        "portion": "2 oz",
        "recipeId": 47077,
@@ -1541,6 +1659,7 @@
       {
        "allergens": [],
        "calories": 4,
+       "carbs_g": 0.8,
        "name": "Little Leaf Greens",
        "portion": "1 oz",
        "recipeId": 176066,
@@ -1552,6 +1671,7 @@
       {
        "allergens": [],
        "calories": 41,
+       "carbs_g": 9.7,
        "name": "Roasted Butternut Squash",
        "portion": "3 oz",
        "recipeId": 277228,
@@ -1563,6 +1683,7 @@
       {
        "allergens": [],
        "calories": 63,
+       "carbs_g": 0.0,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -1571,6 +1692,7 @@
       {
        "allergens": [],
        "calories": 76,
+       "carbs_g": 3.1,
        "name": "Sesame Lime Vinaigrette",
        "portion": "1 fl. oz",
        "recipeId": 700050,
@@ -1582,6 +1704,7 @@
       {
        "allergens": [],
        "calories": 12,
+       "carbs_g": 2.7,
        "name": "Shredded Carrots",
        "portion": "1 oz",
        "recipeId": 140070,
@@ -1593,6 +1716,7 @@
       {
        "allergens": [],
        "calories": 45,
+       "carbs_g": 1.7,
        "name": "Sliced Avocado",
        "portion": "1 oz",
        "recipeId": 221115,
@@ -1604,6 +1728,7 @@
       {
        "allergens": [],
        "calories": 3,
+       "carbs_g": 0.5,
        "name": "Sliced Cucumbers",
        "portion": "1 oz",
        "recipeId": 175022,
@@ -1615,6 +1740,7 @@
       {
        "allergens": [],
        "calories": 8,
+       "carbs_g": 1.6,
        "name": "Steamed Broccoli",
        "portion": "1 oz",
        "recipeId": 120126,
@@ -1626,6 +1752,7 @@
       {
        "allergens": [],
        "calories": 5,
+       "carbs_g": 1.1,
        "name": "Suntan Pepper Strips",
        "portion": "1 oz",
        "recipeId": 176067,
@@ -1640,6 +1767,7 @@
         "Wheat"
        ],
        "calories": 70,
+       "carbs_g": 8.0,
        "name": "Tabouleh Salad",
        "portion": "2 oz",
        "recipeId": 142020,
@@ -1651,6 +1779,7 @@
       {
        "allergens": [],
        "calories": 32,
+       "carbs_g": 5.7,
        "name": "Tricolor Quinoa",
        "portion": "1 oz",
        "recipeId": 150044,
@@ -1669,6 +1798,7 @@
         "Fish"
        ],
        "calories": 171,
+       "carbs_g": 0.9,
        "name": "Locally Caught Fresh Fish, Blackened with Cajun Seasonings",
        "portion": "4 oz",
        "recipeId": 121057,
@@ -1677,6 +1807,7 @@
       {
        "allergens": [],
        "calories": 376,
+       "carbs_g": 6.3,
        "name": "Smokey Chicken Wings",
        "portion": "6 oz",
        "recipeId": 301072,
@@ -1692,6 +1823,7 @@
         "Soybeans"
        ],
        "calories": 399,
+       "carbs_g": 53.1,
        "name": "Cajun Teriyaki Apriocot Glazed Tofu w/ Grilled Pineapple & R",
        "portion": "4 oz",
        "recipeId": 301073,
@@ -1708,6 +1840,7 @@
         "Soybeans"
        ],
        "calories": 247,
+       "carbs_g": 25.2,
        "name": "Herbed and White Cheddar Polenta",
        "portion": "4 fl. oz",
        "recipeId": 301067,
@@ -1723,6 +1856,7 @@
       {
        "allergens": [],
        "calories": 76,
+       "carbs_g": 11.7,
        "name": "Cajun Green Beans with Tomato & Onion",
        "portion": "4 oz",
        "recipeId": 300378,
@@ -1734,6 +1868,7 @@
       {
        "allergens": [],
        "calories": 259,
+       "carbs_g": 23.9,
        "name": "Honey Fired Brussels Sprouts",
        "portion": "4 oz",
        "recipeId": 301068,
@@ -1752,6 +1887,7 @@
         "Fish"
        ],
        "calories": 171,
+       "carbs_g": 0.9,
        "name": "Locally Caught Fresh Fish, Blackened with Cajun Seasonings",
        "portion": "4 oz",
        "recipeId": 121057,
@@ -1769,6 +1905,7 @@
         "Tree Nuts"
        ],
        "calories": 110,
+       "carbs_g": 26.0,
        "name": "Orange Soft serve",
        "portion": "4 oz",
        "recipeId": 300859,
@@ -1782,6 +1919,7 @@
         "Tree Nuts"
        ],
        "calories": 106,
+       "carbs_g": 26.1,
        "name": "Raspberry Soft serve",
        "portion": "4 oz",
        "recipeId": 300860,
@@ -1800,6 +1938,7 @@
         "Wheat"
        ],
        "calories": 480,
+       "carbs_g": 52.0,
        "name": "Strawberry Cream Cake",
        "portion": "1 piece",
        "recipeId": 599028,
@@ -1817,6 +1956,7 @@
         "Eggs"
        ],
        "calories": 70,
+       "carbs_g": 1.0,
        "name": "Cage Free Eggs Cooked to Order",
        "portion": "1 each",
        "recipeId": 61056,
@@ -1829,6 +1969,7 @@
         "Eggs"
        ],
        "calories": 57,
+       "carbs_g": 1.1,
        "name": "Cage-Free Egg Whites Cooked to Order",
        "portion": "4 oz",
        "recipeId": 61041,
@@ -1841,6 +1982,7 @@
         "Milk"
        ],
        "calories": 114,
+       "carbs_g": 0.4,
        "name": "Cheddar Cheese",
        "portion": "1 oz",
        "recipeId": 130014,
@@ -1855,6 +1997,7 @@
         "Wheat"
        ],
        "calories": 293,
+       "carbs_g": 22.0,
        "name": "Cheese Quesadilla",
        "portion": "1 each",
        "recipeId": 250066,
@@ -1868,6 +2011,7 @@
         "Wheat"
        ],
        "calories": 110,
+       "carbs_g": 20.0,
        "name": "Frankfurter Rolls",
        "portion": "1 each",
        "recipeId": 211029,
@@ -1881,6 +2025,7 @@
         "Soybeans"
        ],
        "calories": 319,
+       "carbs_g": 23.0,
        "name": "French Fries",
        "portion": "4 oz",
        "recipeId": 161002,
@@ -1894,6 +2039,7 @@
         "Milk"
        ],
        "calories": 151,
+       "carbs_g": 1.8,
        "name": "Grilled All Beef Old Neighborhood Hot Dog",
        "portion": "1 each",
        "recipeId": 77022,
@@ -1902,6 +2048,7 @@
       {
        "allergens": [],
        "calories": 271,
+       "carbs_g": 0.0,
        "name": "Grilled Burger",
        "portion": "1 each",
        "recipeId": 77003,
@@ -1910,6 +2057,7 @@
       {
        "allergens": [],
        "calories": 320,
+       "carbs_g": 0.0,
        "name": "Grilled Burger Halal",
        "portion": "1 each",
        "recipeId": 300873,
@@ -1922,6 +2070,7 @@
         "Wheat"
        ],
        "calories": 480,
+       "carbs_g": 43.8,
        "name": "Grilled Cheese Sandwich",
        "portion": "1 each",
        "recipeId": 138003,
@@ -1932,6 +2081,7 @@
       {
        "allergens": [],
        "calories": 156,
+       "carbs_g": 0.0,
        "name": "Grilled Chicken",
        "portion": "1 each",
        "recipeId": 138014,
@@ -1943,6 +2093,7 @@
         "Wheat"
        ],
        "calories": 180,
+       "carbs_g": 31.0,
        "name": "Hamburger Rolls",
        "portion": "1 roll",
        "recipeId": 211020,
@@ -1957,6 +2108,7 @@
         "Soybeans"
        ],
        "calories": 132,
+       "carbs_g": 1.9,
        "name": "Huds Boom Sauce",
        "portion": "1 fl. oz",
        "recipeId": 300988,
@@ -1969,6 +2121,7 @@
         "Soybeans"
        ],
        "calories": 211,
+       "carbs_g": 11.0,
        "name": "Jackfruit Burger",
        "portion": "1 each",
        "recipeId": 301000,
@@ -1980,6 +2133,7 @@
       {
        "allergens": [],
        "calories": 4,
+       "carbs_g": 0.8,
        "name": "Leaf Lettuce",
        "portion": "1 oz",
        "recipeId": 175035,
@@ -1995,6 +2149,7 @@
         "Wheat"
        ],
        "calories": 597,
+       "carbs_g": 61.3,
        "name": "Nashville Hot Chicken Sandwich",
        "portion": "1 each",
        "recipeId": 300225,
@@ -2003,6 +2158,7 @@
       {
        "allergens": [],
        "calories": 11,
+       "carbs_g": 2.6,
        "name": "Sliced Red Onions",
        "portion": "1 oz",
        "recipeId": 175033,
@@ -2014,6 +2170,7 @@
       {
        "allergens": [],
        "calories": 12,
+       "carbs_g": 2.6,
        "name": "Sliced Tomatoes",
        "portion": "2 oz",
        "recipeId": 175036,
@@ -2030,6 +2187,7 @@
       {
        "allergens": [],
        "calories": 31,
+       "carbs_g": 6.5,
        "name": "Brown Rice",
        "portion": "3 oz",
        "recipeId": 163077,
@@ -2048,6 +2206,7 @@
         "Milk"
        ],
        "calories": 60,
+       "carbs_g": 4.0,
        "name": "Chobani Nonfat Plain Greek Yogurt",
        "portion": "4 oz",
        "recipeId": 143028,
@@ -2060,6 +2219,7 @@
         "Milk"
        ],
        "calories": 113,
+       "carbs_g": 4.7,
        "name": "Chobani Plain Greek Yogurt",
        "portion": "4 fl. oz",
        "recipeId": 301094,
@@ -2070,6 +2230,7 @@
       {
        "allergens": [],
        "calories": 39,
+       "carbs_g": 9.3,
        "name": "Fresh Fruit Salad",
        "portion": "4 oz",
        "recipeId": 504073,
@@ -2083,6 +2244,7 @@
         "Milk"
        ],
        "calories": 83,
+       "carbs_g": 4.9,
        "name": "Low  Fat Chobani Plain Yogurt",
        "portion": "4 oz",
        "recipeId": 143115,
@@ -2095,6 +2257,7 @@
         "Soybeans"
        ],
        "calories": 15,
+       "carbs_g": 2.0,
        "name": "Napa kimchi",
        "portion": "2 oz",
        "recipeId": 300911,
@@ -2106,6 +2269,7 @@
       {
        "allergens": [],
        "calories": 14,
+       "carbs_g": 2.9,
        "name": "Pickled Okra",
        "portion": "3 oz",
        "recipeId": 270434,
@@ -2117,6 +2281,7 @@
       {
        "allergens": [],
        "calories": 19,
+       "carbs_g": 3.7,
        "name": "Pickled Pepper Hot Cherry",
        "portion": "2 oz",
        "recipeId": 270433,
@@ -2130,6 +2295,7 @@
         "Soybeans"
        ],
        "calories": 73,
+       "carbs_g": 6.7,
        "name": "Plain Soy Yogurt",
        "portion": "4 oz",
        "recipeId": 700106,
@@ -2149,6 +2315,7 @@
         "Milk"
        ],
        "calories": 191,
+       "carbs_g": 7.0,
        "name": "Carbonara with Bacon Sauce",
        "portion": "4 oz",
        "recipeId": 300965,
@@ -2157,6 +2324,7 @@
       {
        "allergens": [],
        "calories": 64,
+       "carbs_g": 9.1,
        "name": "Marinara Spaghetti Sauce",
        "portion": "4 fl. oz",
        "recipeId": 153005,
@@ -2170,6 +2338,7 @@
         "Wheat"
        ],
        "calories": 77,
+       "carbs_g": 15.4,
        "name": "Protein Plus Cavatappi",
        "portion": "2 oz",
        "recipeId": 300970,
@@ -2188,6 +2357,7 @@
         "Milk"
        ],
        "calories": 49,
+       "carbs_g": 0.4,
        "name": "Instant Whipped Topping",
        "portion": "1 fl. oz",
        "recipeId": 501082,
@@ -2198,6 +2368,7 @@
       {
        "allergens": [],
        "calories": 27,
+       "carbs_g": 6.8,
        "name": "Peaches",
        "portion": "1 oz",
        "recipeId": 204011,

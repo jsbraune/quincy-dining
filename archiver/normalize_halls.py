@@ -108,6 +108,13 @@ def main():
                             item["allergens"] = r.get("allergens") or []
                             if r.get("calories") is not None:
                                 item["calories"] = r["calories"]
+                            # Carbs ride along in the day file rather than
+                            # being looked up from recipes.json at render
+                            # time: ~0.3KB gzipped per day, and the row draws
+                            # complete instead of waiting on a second fetch.
+                            carbs = amount(r.get("total_carb"))
+                            if carbs is not None:
+                                item["carbs_g"] = carbs
                             tags = []
                             if r.get("vegan"):
                                 tags.append("vegan")

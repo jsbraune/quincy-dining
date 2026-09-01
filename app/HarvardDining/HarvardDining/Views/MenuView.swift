@@ -251,6 +251,9 @@ private struct ItemRow: View {
             HStack(spacing: 6) {
                 if let p = item.portion, !p.isEmpty { Text(p) }
                 if let cal = item.calories { Text("• \(cal) cal") }
+                if let carbs = item.carbsG {
+                    Text("• \(carbs == carbs.rounded() ? String(Int(carbs)) : String(format: "%.1f", carbs))g carbs")
+                }
                 ForEach(item.dietTags) { tag in
                     Text(tag.label)
                         .font(.caption2.weight(.medium))
