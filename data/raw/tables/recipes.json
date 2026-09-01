@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-31T20:35:33+00:00",
+ "fetchedAt": "2026-09-01T22:26:29+00:00",
  "rows": [
   {
    "allergens": [
@@ -21666,11 +21666,11 @@
   },
   {
    "allergens": [],
-   "calories": 80,
-   "calories_from_fat": 45,
+   "calories": 160,
+   "calories_from_fat": 90,
    "cholesterol": {
-    "amount": "35mg",
-    "percent": 12.0
+    "amount": "70mg",
+    "percent": 23.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21680,28 +21680,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "6g",
-    "percent": 12.0
+    "amount": "12g",
+    "percent": 24.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "3g",
+    "percent": 14.0
    },
-   "serving_size": "1 each",
+   "serving_size": "2 each",
    "sodium": {
-    "amount": "240mg",
-    "percent": 10.0
+    "amount": "480mg",
+    "percent": 21.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2g",
+    "amount": "4g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "5g",
-    "percent": 6.0
+    "amount": "10g",
+    "percent": 13.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -23161,23 +23161,23 @@
    },
    "sat_fat": {
     "amount": "3.6g",
-    "percent": 18.0
+    "percent": 16.0
    },
    "serving_size": "2 each",
    "sodium": {
     "amount": "489.5mg",
-    "percent": 24.0
+    "percent": 21.0
    },
    "sugars": {
     "amount": "17.2g"
    },
    "total_carb": {
     "amount": "18.4g",
-    "percent": 6.0
+    "percent": 7.0
    },
    "total_fat": {
     "amount": "13.3g",
-    "percent": 18.0
+    "percent": 17.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -41230,7 +41230,7 @@
    },
    "id": 145045,
    "information": null,
-   "ingredients": "Veggies for Tempeh Saute (Zucchini Squash (Zucchini), Onions (Onions), Red Peppers), Tempeh for veggie saute (Tempeh Soy (Cultured Organic Soybean, White Rice , Water.Lactic Acid from Plant Sources, Organic Brown Rice.), Red Burgundy Wine (Wine, Water, Neutral Spirits, Salt, Grape Skin Extract (Color), Tartaric Acid, Citric Acid, Potassium Metabisulfite (Preservative), Potassium Sorbate (Preservative).), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of Potassium Chloride , Lactic Acid , Potassium Sorbate Added As A Preservative. Contains: Soybeans), Water, Cornstarch (Corn Starch)), Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Garlic Chopped in Oil (Garlic (Garlic), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)), Parsley (Parsley), Dill (Fresh dill)",
+   "ingredients": "Veggies for Tempeh Saute (Zucchini Squash (Zucchini), Onions (Onions), Red Peppers), Tempeh for veggie saute (Tempeh Soy (Cultured Organic Soybean, White Rice , Water.Lactic Acid from Plant Sources, Organic Brown Rice.), Red Burgundy Wine (Wine, Water, Neutral Spirits, Salt, Grape Skin Extract (Color), Tartaric Acid, Citric Acid, Potassium Metabisulfite (Preservative), Potassium Sorbate (Preservative).), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Water, Cornstarch (Corn Starch)), Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Garlic Chopped in Oil (Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)), Parsley (Parsley), Dill (Fresh dill)",
    "name": "Tempeh Saute with Vegetables",
    "protein": {
     "amount": "4.8g",
@@ -56153,7 +56153,7 @@
    },
    "id": 171323,
    "information": null,
-   "ingredients": "Carrots (Carrots), Kosher Salt (Salt), Parsley (Parsley), Ground Black Pepper ()",
+   "ingredients": "Carrots (Carrots), Kosher Salt, Parsley (Parsley), Ground Black Pepper",
    "name": "Steamed Carrots w/ Parsley",
    "protein": {
     "amount": "1.1g",
@@ -59028,7 +59028,7 @@
    },
    "id": 175052,
    "information": null,
-   "ingredients": "Local Backyard Beauty Tomatoes (Tomatoes)",
+   "ingredients": "Local Backyard Beauty Tomatoes",
    "name": "Diced Tomatoes",
    "protein": {
     "amount": "0.2g"
@@ -62216,38 +62216,40 @@
   },
   {
    "allergens": [],
-   "calories": 4,
-   "calories_from_fat": null,
+   "calories": 8,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 1.0
+    "amount": "0.7g",
+    "percent": 3.0
    },
    "id": 176066,
    "information": null,
    "ingredients": "Little Leaf Spring Mix",
    "name": "Little Leaf Greens",
    "protein": {
-    "amount": "0.4g",
+    "amount": "0.8g",
     "percent": 1.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "7.8mg"
+    "amount": "15.6mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "0.2g"
+    "amount": "0.4g"
    },
    "total_carb": {
-    "amount": "0.8g"
+    "amount": "1.6g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -92752,6 +92754,52 @@
    "vegetarian": true
   },
   {
+   "allergens": [],
+   "calories": 18,
+   "calories_from_fat": 18,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "id": 277405,
+   "information": null,
+   "ingredients": "Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Granulated Garlic (Garlic), Ground White Pepper (White Peppercorns), Kosher Salt",
+   "name": "Roasted Chicken SALAD BAR",
+   "protein": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "sat_fat": {
+    "amount": "0.3g",
+    "percent": 1.0
+   },
+   "serving_size": "1 oz",
+   "sodium": {
+    "amount": "7.7mg",
+    "percent": 0.0
+   },
+   "sugars": {
+    "amount": "0g"
+   },
+   "total_carb": {
+    "amount": "0.1g",
+    "percent": 0.0
+   },
+   "total_fat": {
+    "amount": "2g",
+    "percent": 3.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
    "allergens": [
     "Soybeans"
    ],
@@ -113741,8 +113789,8 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 275,
-   "calories_from_fat": 130,
+   "calories": 283,
+   "calories_from_fat": 139,
    "cholesterol": {
     "amount": "65.8mg",
     "percent": 22.0
@@ -113753,15 +113801,15 @@
    },
    "id": 300490,
    "information": null,
-   "ingredients": "Chicken Breast (H) (Chicken Breast Boneless, Skinless.), White Clover Honey (Honey), Red Pepper Paste (Red Pepper Seasoning (Red Pepper Powder, Water, Salt, Garlic, Onion), Corn Syrup, Water, Wheat FLour, Wheat Rice, Salt, Grain Alcohol, Rice Powder, Soybean Powder, Monosodium L-Glutamate, Seed Malt Contains: Soybeans, Wheat and Alcohol), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Gochugaru Chili Flakes - (Red Chile Peppers), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions), Fine Granulated Sugar (Sugar)",
+   "ingredients": "Chicken Breast (H) (Chicken Breast Boneless, Skinless.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), White Clover Honey (Honey), Red Pepper Paste (Red Pepper Seasoning (Red Pepper Powder, Water, Salt, Garlic, Onion), Corn Syrup, Water, Wheat FLour, Wheat Rice, Salt, Grain Alcohol, Rice Powder, Soybean Powder, Monosodium L-Glutamate, Seed Malt Contains: Soybeans, Wheat and Alcohol), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Gochugaru Chili Flakes - (Red Chile Peppers), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions), Fine Granulated Sugar (Sugar)",
    "name": "Gochujang Chicken",
    "protein": {
     "amount": "26.1g",
     "percent": 51.0
    },
    "sat_fat": {
-    "amount": "2.3g",
-    "percent": 10.0
+    "amount": "2.4g",
+    "percent": 11.0
    },
    "serving_size": "1 each",
    "sodium": {
@@ -113776,8 +113824,8 @@
     "percent": 4.0
    },
    "total_fat": {
-    "amount": "14.5g",
-    "percent": 19.0
+    "amount": "15.4g",
+    "percent": 20.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -114016,8 +114064,8 @@
   },
   {
    "allergens": [],
-   "calories": 89,
-   "calories_from_fat": 37,
+   "calories": 90,
+   "calories_from_fat": 38,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -114027,14 +114075,14 @@
    },
    "id": 300496,
    "information": null,
-   "ingredients": "Green Kale (Kale), Pure Toasted Sesame Oil (Sesame oil), Whole Hulled Sesame Seeds (Sesame Seeds), Chili Garlic Sauce (Salted Chili Peppers (Chili peppers, salt), Water, Sugar, Rice Vinegar, Dehydrated Garlic, Modified Corn Starch, Acetic Acid.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Kosher Salt",
+   "ingredients": "Green Kale (Kale), Pure Toasted Sesame Oil (Sesame oil), Whole Hulled Sesame Seeds (Sesame Seeds), Chili Garlic Sauce (Salted Chili Peppers (Chili peppers, salt), Water, Sugar, Rice Vinegar, Dehydrated Garlic, Modified Corn Starch, Acetic Acid.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Sauteed Kale with Sesame & Sambal",
    "protein": {
     "amount": "4g",
     "percent": 8.0
    },
    "sat_fat": {
-    "amount": "0.4g",
+    "amount": "0.5g",
     "percent": 2.0
    },
    "serving_size": "4 oz",
@@ -114050,7 +114098,7 @@
     "percent": 4.0
    },
    "total_fat": {
-    "amount": "4.1g",
+    "amount": "4.2g",
     "percent": 5.0
    },
    "trans_fat": {
@@ -129930,8 +129978,8 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 50,
+   "calories": 76,
+   "calories_from_fat": 45,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -129941,15 +129989,15 @@
    },
    "id": 300946,
    "information": null,
-   "ingredients": "Green Beans (Green Beans), Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt",
+   "ingredients": "Green Beans (Green Beans), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Roasted Green Beans & Onion",
    "protein": {
     "amount": "1.9g",
     "percent": 4.0
    },
    "sat_fat": {
-    "amount": "0.8g",
-    "percent": 4.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "serving_size": "4 oz",
    "sodium": {
@@ -129964,8 +130012,8 @@
     "percent": 3.0
    },
    "total_fat": {
-    "amount": "5.5g",
-    "percent": 7.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130752,51 +130800,50 @@
   },
   {
    "allergens": [
-    "Soybeans",
-    "Wheat"
+    "Soybeans"
    ],
-   "calories": 338,
-   "calories_from_fat": 98,
+   "calories": 288,
+   "calories_from_fat": 168,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "4.6g",
-    "percent": 17.0
+    "amount": "8.4g",
+    "percent": 30.0
    },
    "id": 300975,
    "information": null,
-   "ingredients": "Sticky Rice (Water, Sticky Rice (Long Grain Rice Enriched With Iron (ferric Phosphate), Niacin, Thiamine, Mononitrate, & Folic Acid. Kosher)), Jack Fruit Meatballs (Jackfruit, Water, Soy Flour, CAnola Oil, Onion, 2%or less of Spices, Onion Powder, Garlic Powder, Sea Salt, Methylcellulose (Plant Fiber) Yeast Extract, Natural Flavors, Fruit and Vegetable Juice (For Color)), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of Potassium Chloride , Lactic Acid , Potassium Sorbate Added As A Preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Red Pepper Paste (Red Pepper Seasoning (Red Pepper Powder, Water, Salt, Garlic, Onion), Corn Syrup, Water, Wheat FLour, Wheat Rice, Salt, Grain Alcohol, Rice Powder, Soybean Powder, Monosodium L-Glutamate, Seed Malt Contains: Soybeans, Wheat and Alcohol), Garlic (Garlic), Pure Toasted Sesame Oil (Sesame oil), Scallions (Fresh Scallions), Whole Hulled Sesame Seeds (Sesame Seeds), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.)",
-   "name": "Korean Jackfruit Meatballs",
+   "ingredients": "Jack Fruit Meatballs (Jackfruit, Water, Soy Flour, CAnola Oil, Onion, 2%or less of Spices, Onion Powder, Garlic Powder, Sea Salt, Methylcellulose (Plant Fiber) Yeast Extract, Natural Flavors, Fruit and Vegetable Juice (For Color)), Bulgogi Marinade (Soy Sauce (Water, Soybeans, Rice, Salt), Sugar, Water, Rice Wine Vinegar (Water, Rice, Sugar, Corn Syrup, Salt), Onions, Ginger, Sesame Oil, Garlic, Sesame Seeds, Tapioca Starch, Black Pepper, Chili Flakes Spices, Xanthan Gum.), Scallions (Fresh Scallions), Whole Hulled Sesame Seeds (Sesame Seeds)",
+   "name": "Bulogi Jackfruit Meatballs",
    "protein": {
-    "amount": "9.1g",
-    "percent": 18.0
+    "amount": "12.3g",
+    "percent": 24.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 4.0
+    "amount": "1.4g",
+    "percent": 7.0
    },
    "serving_size": "6 oz",
    "sodium": {
-    "amount": "2206.8mg",
-    "percent": 96.0
+    "amount": "1030.6mg",
+    "percent": 45.0
    },
    "sugars": {
-    "amount": "16.2g"
+    "amount": "9.1g"
    },
    "total_carb": {
-    "amount": "52.9g",
-    "percent": 19.0
+    "amount": "19.8g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "10.8g",
-    "percent": 14.0
+    "amount": "18.6g",
+    "percent": 24.0
    },
    "trans_fat": {
     "amount": "0g"
    },
-   "vegan": false,
-   "vegetarian": false
+   "vegan": true,
+   "vegetarian": true
   },
   {
    "allergens": [
@@ -134190,6 +134237,52 @@
    "total_fat": {
     "amount": "15.4g",
     "percent": 21.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [],
+   "calories": 11,
+   "calories_from_fat": 0,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "0.5g",
+    "percent": 2.0
+   },
+   "id": 326109,
+   "information": null,
+   "ingredients": "Diced Onions (Onions)",
+   "name": "Diced Onions",
+   "protein": {
+    "amount": "0.3g",
+    "percent": 1.0
+   },
+   "sat_fat": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "serving_size": "1 oz",
+   "sodium": {
+    "amount": "1.1mg",
+    "percent": 0.0
+   },
+   "sugars": {
+    "amount": "1.2g"
+   },
+   "total_carb": {
+    "amount": "2.6g",
+    "percent": 1.0
+   },
+   "total_fat": {
+    "amount": "0g",
+    "percent": 0.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -141851,46 +141944,46 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 78,
-   "calories_from_fat": 32,
+   "calories": 279,
+   "calories_from_fat": 125,
    "cholesterol": {
-    "amount": "15.7mg",
-    "percent": 5.0
+    "amount": "62.9mg",
+    "percent": 21.0
    },
    "dietary_fiber": {
-    "amount": "0.5g",
-    "percent": 2.0
+    "amount": "0.8g",
+    "percent": 3.0
    },
    "id": 444090,
    "information": null,
-   "ingredients": "Brown Rice (Water, Brown Rice (Long Grain Brown Rice.)), Flap Meat (H) (Beef), Sliced White Onions (Onions), Shredded Carrots (Carrots), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions)",
+   "ingredients": "Flap Meat (H) (Beef), Sliced White Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions)",
    "name": "Korean Beef Bulgogi",
    "protein": {
-    "amount": "6.7g",
-    "percent": 13.0
+    "amount": "25.9g",
+    "percent": 51.0
    },
    "sat_fat": {
-    "amount": "1.1g",
-    "percent": 5.0
+    "amount": "4.4g",
+    "percent": 20.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "242mg",
-    "percent": 11.0
+    "amount": "947.6mg",
+    "percent": 41.0
    },
    "sugars": {
-    "amount": "1.6g"
+    "amount": "5g"
    },
    "total_carb": {
-    "amount": "4.6g",
-    "percent": 2.0
+    "amount": "11.4g",
+    "percent": 4.0
    },
    "total_fat": {
-    "amount": "3.5g",
-    "percent": 5.0
+    "amount": "13.9g",
+    "percent": 18.0
    },
    "trans_fat": {
-    "amount": "0.1g"
+    "amount": "0.3g"
    },
    "vegan": false,
    "vegetarian": false
@@ -145082,6 +145175,52 @@
     "amount": "0g"
    },
    "vegan": true,
+   "vegetarian": true
+  },
+  {
+   "allergens": [],
+   "calories": 113,
+   "calories_from_fat": 1,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "2.7g",
+    "percent": 10.0
+   },
+   "id": 500983,
+   "information": null,
+   "ingredients": "Idaho Baking Potatoes",
+   "name": "Baked Potato",
+   "protein": {
+    "amount": "3g",
+    "percent": 6.0
+   },
+   "sat_fat": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "12.2mg",
+    "percent": 1.0
+   },
+   "sugars": {
+    "amount": "1.4g"
+   },
+   "total_carb": {
+    "amount": "25.7g",
+    "percent": 9.0
+   },
+   "total_fat": {
+    "amount": "0.2g",
+    "percent": 0.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
    "vegetarian": true
   },
   {
@@ -164764,8 +164903,8 @@
   },
   {
    "allergens": [],
-   "calories": 185,
-   "calories_from_fat": 92,
+   "calories": 204,
+   "calories_from_fat": 111,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -164775,15 +164914,15 @@
    },
    "id": 540030,
    "information": null,
-   "ingredients": "Red Bliss Potatoes, Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Kosher Salt (Salt), Ground Black Pepper (Black Pepper), Parsley (Parsley)",
+   "ingredients": "Red Bliss Potatoes, Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper, Parsley (Parsley)",
    "name": "Roasted Red Bliss Potatoes",
    "protein": {
     "amount": "2.1g",
     "percent": 4.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "1.8g",
+    "percent": 8.0
    },
    "serving_size": "4 oz",
    "sodium": {
@@ -164798,8 +164937,8 @@
     "percent": 8.0
    },
    "total_fat": {
-    "amount": "10.2g",
-    "percent": 13.0
+    "amount": "12.3g",
+    "percent": 16.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -168375,6 +168514,52 @@
    },
    "total_fat": {
     "amount": "2g",
+    "percent": 3.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
+  },
+  {
+   "allergens": [],
+   "calories": 145,
+   "calories_from_fat": 23,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "2.1g",
+    "percent": 8.0
+   },
+   "id": 555565,
+   "information": null,
+   "ingredients": "Brown Rice (Long Grain Brown Rice.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Scallions (Scallions)",
+   "name": "Scallion Fried Brown Rice",
+   "protein": {
+    "amount": "2.7g",
+    "percent": 5.0
+   },
+   "sat_fat": {
+    "amount": "0.3g",
+    "percent": 1.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "1.2mg",
+    "percent": 0.0
+   },
+   "sugars": {
+    "amount": "0g"
+   },
+   "total_carb": {
+    "amount": "27.8g",
+    "percent": 10.0
+   },
+   "total_fat": {
+    "amount": "2.5g",
     "percent": 3.0
    },
    "trans_fat": {
@@ -186956,6 +187141,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "274b83d95c19eb509daa7156f7a26f7a854bee14894568073c84c2c11ace76f0",
+ "sha256": "de6536e128c7144eb260fcf36cf4391f1589e93950888323ee8bd67e4a87a092",
  "table": "recipes"
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-09-13",
- "fetchedAt": "2026-08-31T20:35:33+00:00",
- "itemCount": 338,
+ "fetchedAt": "2026-09-01T22:26:29+00:00",
+ "itemCount": 345,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -515,6 +515,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -920,6 +934,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -1336,9 +1360,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1936,6 +1960,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -2341,6 +2379,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -2629,9 +2677,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -2778,6 +2826,18 @@
        "recipeId": 791621,
        "tags": [
         "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 107,
+       "name": "Parmesan Shredded Cheese",
+       "portion": "1 oz",
+       "recipeId": 130058,
+       "tags": [
         "vegetarian"
        ]
       }
@@ -3614,6 +3674,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -4139,6 +4213,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"

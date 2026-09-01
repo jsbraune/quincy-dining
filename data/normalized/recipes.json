@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01T18:06:28+00:00",
+ "generatedAt": "2026-09-01T22:26:35+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -1057,6 +1057,29 @@
    "vegan": false,
    "vegetarian": true
   },
+  "130058": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Parmesan Cheese (Pasteurized Part Skim Cow\u2019s Milk, Cheese Culture, Salt and Enzymes.)",
+   "name": "Parmesan Shredded Cheese",
+   "note": null,
+   "nutrition": {
+    "calories": 107,
+    "cholesterol_mg": 24.4,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 9.1,
+    "sat_fat_g": 5.1,
+    "sodium_mg": 248.9,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.6,
+    "total_fat_g": 7.4,
+    "trans_fat_g": 0.6
+   },
+   "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "130122": {
    "allergens": [
     "Milk",
@@ -2052,6 +2075,29 @@
    "vegan": false,
    "vegetarian": false
   },
+  "157008": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Ssamjang Paste (Doenjang, Gochujang, Sesame oil, Onion, Garlic, Green Onions, and Brown Sugar.)",
+   "name": "Ssamjang Sauce",
+   "note": null,
+   "nutrition": {
+    "calories": 8,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 165.4,
+    "sugars_g": 0.8,
+    "total_carb_g": 1.6,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1/2 fl. oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "157034": {
    "allergens": [
     "Eggs",
@@ -2138,6 +2184,29 @@
     "sugars_g": 1.0,
     "total_carb_g": 22.7,
     "total_fat_g": 1.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "161007": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Sweet Potato Fries (Sweet Potatoes, Vegetable Oil (Contains One Or More Of The Following Oils: Canola, Soybean, Cottonseed, Sunflower, Corn), Corn Starch - Modified, Potato Starch - Modified. Contains 2% Or Less Of Corn Fiber, Dextrin, Extractive Of Paprika (Color), Extractive of Turmeric (Color), Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Molasses Powder (Refiners Syrup, Molasses), PEA Fiber, Rice Flour, Salt, Sodium Acid Pyrophosphate Added To Maintain Color, Sugar, Xanthan Gum.), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
+   "name": "Sweet Potato Fries",
+   "note": null,
+   "nutrition": {
+    "calories": 378,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.3,
+    "protein_g": 1.3,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 240.1,
+    "sugars_g": 9.3,
+    "total_carb_g": 28.0,
+    "total_fat_g": 30.5,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -2534,6 +2603,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "171021": {
+   "allergens": [],
+   "ingredients": "Sliced Carrots (Carrots), Parsley (Parsley)",
+   "name": "Steamed Carrots",
+   "note": null,
+   "nutrition": {
+    "calories": 55,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.7,
+    "protein_g": 1.2,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 91.8,
+    "sugars_g": 6.3,
+    "total_carb_g": 12.7,
+    "total_fat_g": 0.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "171034": {
    "allergens": [],
    "ingredients": "Spinach (Spinach), Kosher Salt, Ground Black Pepper",
@@ -2722,6 +2812,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "2 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "173012": {
+   "allergens": [],
+   "ingredients": "Garbanzo Beans (Prepared Chick Peas, Water, Salt, Mustard Calcium Chloride (Firming Agent), and Disodium EDTA (Promotes Color Retention).)",
+   "name": "Chick Peas",
+   "note": null,
+   "nutrition": {
+    "calories": 29,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.9,
+    "protein_g": 1.1,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 96.8,
+    "sugars_g": 0.2,
+    "total_carb_g": 4.2,
+    "total_fat_g": 0.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -2951,6 +3062,50 @@
    "vegan": true,
    "vegetarian": true
   },
+  "175049": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Kimchi (Napa Cabbage, Daikon Radish, Miso, (Filtered Water Soybean, Rice, Sea Salt)Garlic, Salt, Red Pepper Powder, Sugar, Scallions, Onion, Ginger.)",
+   "name": "Kimchi",
+   "note": null,
+   "nutrition": {
+    "calories": 15,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 1.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 172.1,
+    "sugars_g": 1.0,
+    "total_carb_g": 5.1,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "175050": {
+   "allergens": [],
+   "ingredients": "Spinach (Spinach)",
+   "name": "Spinach Salad Base",
+   "note": null,
+   "nutrition": {
+    "calories": 19,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.8,
+    "protein_g": 3.8,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 94.5,
+    "sugars_g": 0.0,
+    "total_carb_g": 3.8,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "175075": {
    "allergens": [],
    "ingredients": "Zucchini Squash (Zucchini), Yellow Summer Squash (Summer Squash), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper",
@@ -3176,18 +3331,18 @@
    "name": "Little Leaf Greens",
    "note": null,
    "nutrition": {
-    "calories": 4,
+    "calories": 8,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.4,
-    "protein_g": 0.4,
+    "dietary_fiber_g": 0.7,
+    "protein_g": 0.8,
     "sat_fat_g": 0.0,
-    "sodium_mg": 7.8,
-    "sugars_g": 0.2,
-    "total_carb_g": 0.8,
-    "total_fat_g": 0.0,
+    "sodium_mg": 15.6,
+    "sugars_g": 0.4,
+    "total_carb_g": 1.6,
+    "total_fat_g": 0.1,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "2 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -3522,6 +3677,29 @@
     "trans_fat_g": 0.0
    },
    "portion": "6 fl. oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "185032": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Apple Pie (Apples, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Oil (Palm, Soybean), Corn Syrup, Sugar, Contains 2% or less of: Modified Corn Starch, White Grape Juice Concentrate, Salt, Cinnamon, Wheat Gluten, Lemon Juice Solids, Natural Flavors.)",
+   "name": "Apple Pie",
+   "note": null,
+   "nutrition": {
+    "calories": 330,
+    "cholesterol_mg": 0.0,
+    "protein_g": 2.0,
+    "sat_fat_g": 6.0,
+    "sodium_mg": 420.0,
+    "sugars_g": 20.0,
+    "total_carb_g": 44.0,
+    "total_fat_g": 14.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
    "vegan": false,
    "vegetarian": true
   },
@@ -4047,6 +4225,26 @@
    "vegan": true,
    "vegetarian": true
   },
+  "201040": {
+   "allergens": [],
+   "ingredients": "Gala Apple 198ct",
+   "name": "Fresh Gala Apple",
+   "note": null,
+   "nutrition": {
+    "calories": 98,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.5,
+    "protein_g": 0.5,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 2.0,
+    "sugars_g": 19.5,
+    "total_carb_g": 26.0,
+    "total_fat_g": 0.3
+   },
+   "portion": "1 each",
+   "vegan": true,
+   "vegetarian": true
+  },
   "201041": {
    "allergens": [],
    "ingredients": "Oranges",
@@ -4063,6 +4261,24 @@
     "total_carb_g": 13.7,
     "total_fat_g": 2.9,
     "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "201042": {
+   "allergens": [],
+   "ingredients": "Green Pear",
+   "name": "Fresh Pear",
+   "note": null,
+   "nutrition": {
+    "calories": 76,
+    "dietary_fiber_g": 4.1,
+    "protein_g": 0.5,
+    "sodium_mg": 1.0,
+    "sugars_g": 12.0,
+    "total_carb_g": 20.3,
+    "total_fat_g": 0.2
    },
    "portion": "1 each",
    "vegan": true,
@@ -5049,6 +5265,29 @@
    "vegan": false,
    "vegetarian": false
   },
+  "25027": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "MILLET (Millet seed), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder))",
+   "name": "Millet",
+   "note": "Less processed and therefore more nutritious",
+   "nutrition": {
+    "calories": 84,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 2.5,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 5.5,
+    "sugars_g": 0.0,
+    "total_carb_g": 16.2,
+    "total_fat_g": 1.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "255116": {
    "allergens": [
     "Eggs",
@@ -5496,6 +5735,27 @@
    "portion": "1 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "300052": {
+   "allergens": [],
+   "ingredients": "Original Oat Milk (Oatmilk (Filtered Water, Oats), Calcium Carbonate, Dipotassium Phosphate [stabilizer], Sea Salt, Gellan Gum, Vitamin A Palmitate, Vitamin D2, Riboflavin (Vitamin B2) and Vitamin B12), Black Chia Seeds (Organic Black Chia Seeds), Light Brown Sugar (Brown Sugar), Ground Cinnamon (Ground Cinnamon Bark), Ground Ginger (Dried Ginger.)",
+   "name": "Chia Pudding with Oat Milk",
+   "note": null,
+   "nutrition": {
+    "calories": 114,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.5,
+    "protein_g": 2.5,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 58.5,
+    "sugars_g": 5.0,
+    "total_carb_g": 19.6,
+    "total_fat_g": 4.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "5 oz",
+   "vegan": true,
+   "vegetarian": true
   },
   "300053": {
    "allergens": [],
@@ -6676,6 +6936,74 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300490": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Chicken Breast (H) (Chicken Breast Boneless, Skinless.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), White Clover Honey (Honey), Red Pepper Paste (Red Pepper Seasoning (Red Pepper Powder, Water, Salt, Garlic, Onion), Corn Syrup, Water, Wheat FLour, Wheat Rice, Salt, Grain Alcohol, Rice Powder, Soybean Powder, Monosodium L-Glutamate, Seed Malt Contains: Soybeans, Wheat and Alcohol), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Gochugaru Chili Flakes - (Red Chile Peppers), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions), Fine Granulated Sugar (Sugar)",
+   "name": "Gochujang Chicken",
+   "note": null,
+   "nutrition": {
+    "calories": 283,
+    "cholesterol_mg": 65.8,
+    "dietary_fiber_g": 0.8,
+    "protein_g": 26.1,
+    "sat_fat_g": 2.4,
+    "sodium_mg": 697.6,
+    "sugars_g": 7.4,
+    "total_carb_g": 9.7,
+    "total_fat_g": 15.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300492": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Water, Adzuki Bean, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fine Granulated Sugar (Sugar), Fine Granulated Sugar (Sugar), Whole Hulled Sesame Seeds (Sesame Seeds)",
+   "name": "Hard Boiled Adzuki Beans",
+   "note": null,
+   "nutrition": {
+    "calories": 86,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.6,
+    "protein_g": 4.6,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 426.9,
+    "sugars_g": 4.5,
+    "total_carb_g": 17.5,
+    "total_fat_g": 0.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300496": {
+   "allergens": [],
+   "ingredients": "Green Kale (Kale), Pure Toasted Sesame Oil (Sesame oil), Whole Hulled Sesame Seeds (Sesame Seeds), Chili Garlic Sauce (Salted Chili Peppers (Chili peppers, salt), Water, Sugar, Rice Vinegar, Dehydrated Garlic, Modified Corn Starch, Acetic Acid.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
+   "name": "Sauteed Kale with Sesame & Sambal",
+   "note": null,
+   "nutrition": {
+    "calories": 90,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.5,
+    "protein_g": 4.0,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 170.8,
+    "sugars_g": 0.2,
+    "total_carb_g": 11.9,
+    "total_fat_g": 4.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300505": {
    "allergens": [
     "Milk",
@@ -6764,6 +7092,53 @@
    "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "300546": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Chicken Wings (Chicken wing sections, Water, Contains 2% or less of the following: Corn Starch, Dextrose, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Modified Food Starch, Natural Flavor, Rice Flour, Salt, Sodium Phosphates, Tapioca Starch, Yellow Corn Flour. Blanched in Vegetable Oil), Unsalted Butter (Cream (Milk), Natural Flavoring.), Hot Sauce (Aged Cayenne Red Peppers, Distilled Vinegar, Water, Salt & Garlic Powder)",
+   "name": "Buffalo Chicken Wings",
+   "note": null,
+   "nutrition": {
+    "calories": 218,
+    "cholesterol_mg": 70.4,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 12.6,
+    "sat_fat_g": 7.8,
+    "sodium_mg": 832.4,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.8,
+    "total_fat_g": 17.7,
+    "trans_fat_g": 0.3
+   },
+   "portion": "4 piece",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300554": {
+   "allergens": [
+    "Milk",
+    "Soybeans"
+   ],
+   "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Hot Sauce (Aged Cayenne Red Peppers, Distilled Vinegar, Water, Salt & Garlic Powder)",
+   "name": "Halal Buffalo Chicken Tenders",
+   "note": null,
+   "nutrition": {
+    "calories": 233,
+    "cholesterol_mg": 52.7,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 17.3,
+    "sat_fat_g": 3.9,
+    "sodium_mg": 482.4,
+    "sugars_g": 0.0,
+    "total_carb_g": 20.3,
+    "total_fat_g": 9.7,
+    "trans_fat_g": 0.2
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "300556": {
    "allergens": [
@@ -7039,6 +7414,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300811": {
+   "allergens": [],
+   "ingredients": "Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.)",
+   "name": "Black Eyed Peas",
+   "note": null,
+   "nutrition": {
+    "calories": 96,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.5,
+    "protein_g": 7.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 314.0,
+    "sugars_g": 0.0,
+    "total_carb_g": 17.4,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300813": {
    "allergens": [
     "Soybeans",
@@ -7183,6 +7579,52 @@
    ],
    "ingredients": "Water, Strawberry Soft Serve (Sugar, Dextrose, Stabilizers (Hydroxypropyl Methylcellulose, Locust Bean Gum, Guar Gum, Karaya Gum, Pectin, Cellulose Gum, Xanthan Gum), Coconut Oil, Maltodextrin, Contains 2% Or Less Of Each Of The Following: Citric Acid, Natural Flavor, Color (Carrot Extract, Caramel Color), Modified Food Starch, Mono & Diglycerides, Silicon Dioxide (Anticaking).)",
    "name": "Strawberry Soft serve",
+   "note": null,
+   "nutrition": {
+    "calories": 110,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.0,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 10.0,
+    "sugars_g": 25.0,
+    "total_carb_g": 26.0,
+    "total_fat_g": 0.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300857": {
+   "allergens": [
+    "Tree Nuts"
+   ],
+   "ingredients": "Water, Lime Soft Serve (Sugar, Dextrose, Lime Juice Powder (Contains Maltodextrin, Lime Juice Solids, Lime Oil), Citric Acid, Stabilizers (Hydroxypropyl Methylcellulose, Locust Bean Gum, Guar Gum, Karaya Gum, Pectin, Cellulose Gum, Xanthan Gum), Coconut Oil, Contains 2% Or Less Of Each Of The Following: Maltodextrin, Natural Flavor, Modified Food Starch, Malic Acid, Color (Turmeric Extract, Spirulina Extract), Mono & Diglycerides, Silicon Dioxide (Anticaking).)",
+   "name": "Lime Soft Serve",
+   "note": null,
+   "nutrition": {
+    "calories": 110,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.0,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 10.0,
+    "sugars_g": 24.0,
+    "total_carb_g": 26.0,
+    "total_fat_g": 0.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300858": {
+   "allergens": [
+    "Tree Nuts"
+   ],
+   "ingredients": "Water, Mango Soft Serve (Sugar, Dextrose, Stabilizers (Hydroxypropyl Methylcellulose, Locust Bean Gum, Guar Gum, Karaya Gum, Pectin, Cellulose Gum, Xanthan Gum), Coconut Oil, Contains 2% Or Less Of Each Of The Following: Maltodextrin, Citric Acid, Beta Carotene (Color), Natural Flavor, Modified Food Starch, Mono & Diglycerides, Silicon Dioxide (Anticaking).)",
+   "name": "Mango Soft serve",
    "note": null,
    "nutrition": {
     "calories": 110,
@@ -7551,6 +7993,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300946": {
+   "allergens": [],
+   "ingredients": "Green Beans (Green Beans), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
+   "name": "Roasted Green Beans & Onion",
+   "note": null,
+   "nutrition": {
+    "calories": 76,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.9,
+    "protein_g": 1.9,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 795.3,
+    "sugars_g": 3.8,
+    "total_carb_g": 8.1,
+    "total_fat_g": 5.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300948": {
    "allergens": [
     "Fish"
@@ -7807,6 +8270,53 @@
     "trans_fat_g": 0.0
    },
    "portion": "8 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300975": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Jack Fruit Meatballs (Jackfruit, Water, Soy Flour, CAnola Oil, Onion, 2%or less of Spices, Onion Powder, Garlic Powder, Sea Salt, Methylcellulose (Plant Fiber) Yeast Extract, Natural Flavors, Fruit and Vegetable Juice (For Color)), Bulgogi Marinade (Soy Sauce (Water, Soybeans, Rice, Salt), Sugar, Water, Rice Wine Vinegar (Water, Rice, Sugar, Corn Syrup, Salt), Onions, Ginger, Sesame Oil, Garlic, Sesame Seeds, Tapioca Starch, Black Pepper, Chili Flakes Spices, Xanthan Gum.), Scallions (Fresh Scallions), Whole Hulled Sesame Seeds (Sesame Seeds)",
+   "name": "Bulogi Jackfruit Meatballs",
+   "note": null,
+   "nutrition": {
+    "calories": 288,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 8.4,
+    "protein_g": 12.3,
+    "sat_fat_g": 1.4,
+    "sodium_mg": 1030.6,
+    "sugars_g": 9.1,
+    "total_carb_g": 19.8,
+    "total_fat_g": 18.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300976": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Jackfruit Burger (Jackfruit, Water, Soy Flour, Canola Oil, 2%or Less Of : Spices, Onion Powder, Salt, Methylcellulose (Plant Fiber), Natural Flavor, Yeast Extract, Fruit And Vegetable Juice (For Color).), Burger Roll (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Soybean Oil, Wheat Starch, Wheat Protein, Sugar, Wheat Flour, Lactic Acid, Natural Flavors, Canola Oil (Non-gmo), Enzymes, Potato Flour, Yeast, Less Than 2% Of: Salt, Sugar, Dough Conditioner (Ascorbic Acid, Cornstarch, Enzymes, Sunflower Oil), Natural Butter Type Flavor (Dextrose), Cane Sugar, Reb A (Stevia Extract), Yellow Corn Flour, Turmeric, Annatto Extract (Imparts Color), Calcium Propionate (To Retain Freshness), Glaze (Vegetable Proteins, Vegetable Oil, Maltodextrin, Starch) MADE IN A BAKERY THAT USES SESAME SEEDS), Kimchi (Napa Cabbage, Daikon Radish, Miso, (Filtered Water Soybean, Rice, Sea Salt)Garlic, Salt, Red Pepper Powder, Sugar, Scallions, Onion, Ginger.), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Vegan Cheddar Cheese Slices (Filtered Water, Modified Potato Starch, Palm Oil, Sunflower Oil, Sea Salt, Cellulose Gum, Tapioca Starch, Yeast Extract, Cellulose Gel, Konjac Powder (Thickener), Cultured Dextrose, Citric Acid, Carrageenan, Locust Bean Gum, Natural Flavors, Annatto (Color), Paprika Extract (Color), Probiotic Cultures (Bacillus Subtilis))",
+   "name": "Jackfruit Kimchi Burger",
+   "note": null,
+   "nutrition": {
+    "calories": 574,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 10.0,
+    "protein_g": 14.8,
+    "sat_fat_g": 4.5,
+    "sodium_mg": 1344.8,
+    "sugars_g": 4.6,
+    "total_carb_g": 44.4,
+    "total_fat_g": 36.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
    "vegan": true,
    "vegetarian": true
   },
@@ -8789,6 +9299,29 @@
    "vegan": false,
    "vegetarian": true
   },
+  "444090": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Flap Meat (H) (Beef), Sliced White Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions)",
+   "name": "Korean Beef Bulgogi",
+   "note": null,
+   "nutrition": {
+    "calories": 279,
+    "cholesterol_mg": 62.9,
+    "dietary_fiber_g": 0.8,
+    "protein_g": 25.9,
+    "sat_fat_g": 4.4,
+    "sodium_mg": 947.6,
+    "sugars_g": 5.0,
+    "total_carb_g": 11.4,
+    "total_fat_g": 13.9,
+    "trans_fat_g": 0.3
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "444111": {
    "allergens": [
     "Soybeans",
@@ -9229,6 +9762,31 @@
    "vegan": false,
    "vegetarian": false
   },
+  "503384": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Shaved Steak (Beef Shaved Steak), Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED), Sliced White Onions (Onions), White American Cheese (Cultured Pasteurized Milk and Skim Milk, Cream, Sodium Citrate, Salt Enzymes, Sorbic Acid (preservative) Soy Lecithin (Anti Sticking Agent), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Black Pepper, Kosher Salt",
+   "name": "Philly Cheese Steak Sub",
+   "note": null,
+   "nutrition": {
+    "calories": 406,
+    "cholesterol_mg": 79.9,
+    "dietary_fiber_g": 1.3,
+    "protein_g": 29.5,
+    "sat_fat_g": 8.4,
+    "sodium_mg": 822.9,
+    "sugars_g": 3.3,
+    "total_carb_g": 38.5,
+    "total_fat_g": 14.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
   "503389": {
    "allergens": [
     "Eggs",
@@ -9553,6 +10111,27 @@
     "sugars_g": 0.3,
     "total_carb_g": 1.1,
     "total_fat_g": 8.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "555565": {
+   "allergens": [],
+   "ingredients": "Brown Rice (Long Grain Brown Rice.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Scallions (Scallions)",
+   "name": "Scallion Fried Brown Rice",
+   "note": null,
+   "nutrition": {
+    "calories": 145,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 2.7,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 1.2,
+    "sugars_g": 0.0,
+    "total_carb_g": 27.8,
+    "total_fat_g": 2.5,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -10390,18 +10969,18 @@
    "name": "Chicken Sausage",
    "note": null,
    "nutrition": {
-    "calories": 80,
-    "cholesterol_mg": 35.0,
+    "calories": 160,
+    "cholesterol_mg": 70.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 6.0,
-    "sat_fat_g": 1.5,
-    "sodium_mg": 240.0,
+    "protein_g": 12.0,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 480.0,
     "sugars_g": 0.0,
-    "total_carb_g": 2.0,
-    "total_fat_g": 5.0,
+    "total_carb_g": 4.0,
+    "total_fat_g": 10.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 each",
+   "portion": "2 each",
    "vegan": false,
    "vegetarian": false
   },

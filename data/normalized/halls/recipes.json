@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01T18:08:08+00:00",
+ "generatedAt": "2026-09-01T22:27:49+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -3172,18 +3172,18 @@
    "name": "Little Leaf Greens",
    "note": null,
    "nutrition": {
-    "calories": 4,
+    "calories": 8,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.4,
-    "protein_g": 0.4,
+    "dietary_fiber_g": 0.7,
+    "protein_g": 0.8,
     "sat_fat_g": 0.0,
-    "sodium_mg": 7.8,
-    "sugars_g": 0.2,
-    "total_carb_g": 0.8,
-    "total_fat_g": 0.0,
+    "sodium_mg": 15.6,
+    "sugars_g": 0.4,
+    "total_carb_g": 1.6,
+    "total_fat_g": 0.1,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "2 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -9204,18 +9204,18 @@
    "name": "Chicken Sausage",
    "note": null,
    "nutrition": {
-    "calories": 80,
-    "cholesterol_mg": 35.0,
+    "calories": 160,
+    "cholesterol_mg": 70.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 6.0,
-    "sat_fat_g": 1.5,
-    "sodium_mg": 240.0,
+    "protein_g": 12.0,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 480.0,
     "sugars_g": 0.0,
-    "total_carb_g": 2.0,
-    "total_fat_g": 5.0,
+    "total_carb_g": 4.0,
+    "total_fat_g": 10.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 each",
+   "portion": "2 each",
    "vegan": false,
    "vegetarian": false
   },

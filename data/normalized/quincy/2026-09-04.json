@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-29T22:27:22+00:00",
- "itemCount": 366,
+ "fetchedAt": "2026-09-01T22:26:29+00:00",
+ "itemCount": 368,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -1528,9 +1528,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -2972,9 +2972,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -3906,6 +3906,17 @@
        "portion": "5 oz",
        "recipeId": 300960,
        "tags": []
+      },
+      {
+       "allergens": [
+        "Fish",
+        "Wheat"
+       ],
+       "calories": 949,
+       "name": "Chicken Lemongrass Potstickers",
+       "portion": "5 each",
+       "recipeId": 277303,
+       "tags": []
       }
      ],
      "name": "Entrees"
@@ -3926,6 +3937,20 @@
         "vegan",
         "vegetarian",
         "halal"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 374,
+       "name": "Vegetable Edamame Potstickers",
+       "portion": "5 each",
+       "recipeId": 12009,
+       "tags": [
+        "vegan",
+        "vegetarian"
        ]
       }
      ],
