@@ -32,10 +32,17 @@ struct MenuView: View {
                     // UserDefaults, which observation cannot see.
                     let _ = store.defaultHallVersion
                     let isDefault = store.isDefault(h)
+                    // One item, no checkmark, labelled by what tapping it will
+                    // do rather than by current state. A Toggle renders as
+                    // state ("checkmark, Open to X"), which you have to parse
+                    // before you can act; a pinned hall should simply offer
+                    // the way out. The toolbar icon still carries the state.
                     Menu {
-                        Toggle(isOn: Binding(get: { isDefault },
-                                             set: { store.setDefault(h, on: $0) })) {
-                            Label("Open to \(h.name)", systemImage: "house")
+                        Button {
+                            store.setDefault(h, on: !isDefault)
+                        } label: {
+                            Label(isDefault ? "Open to Dining Halls" : "Open to \(h.name)",
+                                  systemImage: isDefault ? "square.grid.2x2" : "house")
                         }
                     } label: {
                         Image(systemName: isDefault ? "pin.circle.fill" : "ellipsis.circle")
