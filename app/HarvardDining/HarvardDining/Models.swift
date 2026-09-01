@@ -54,12 +54,6 @@ struct MenuItem: Codable, Identifiable {
     let allergens: [String]
     let tags: [String]
     let calories: Int?
-    let carbsG: Double?
-
-    enum CodingKeys: String, CodingKey {
-        case name, recipeId, portion, allergens, tags, calories
-        case carbsG = "carbs_g"
-    }
 
     // Names are unique within a station; a dish can appear in several stations.
     var id: String { name }
