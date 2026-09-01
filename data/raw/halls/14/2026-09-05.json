@@ -1,12 +1,12 @@
 {
  "date": "2026-09-05",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "fetchedAt": "2026-09-01T18:06:28+00:00",
  "itemCount": 161,
  "locationNum": "14",
  "meals": [
   {
    "meal": "breakfast",
-   "sourceLabel": "",
+   "sourceLabel": "Breakfast",
    "stations": [
     {
      "items": [
@@ -62,7 +62,7 @@
   },
   {
    "meal": "lunch",
-   "sourceLabel": "",
+   "sourceLabel": "Lunch",
    "stations": [
     {
      "items": [
@@ -361,7 +361,7 @@
   },
   {
    "meal": "dinner",
-   "sourceLabel": "",
+   "sourceLabel": "Dinner",
    "stations": [
     {
      "items": [
@@ -676,6 +676,6 @@
    ]
   }
  ],
- "mealsSha256": "5f979cdcfda87f3bd81f06f1dc3685dcca199d72bce1fe8a857cacbe3685cd0f",
+ "mealsSha256": "b98532112458e2d897237589c45f7160193b1f109f66795457b35641fe0c0800",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

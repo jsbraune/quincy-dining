@@ -1,12 +1,12 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "fetchedAt": "2026-09-01T18:06:28+00:00",
  "itemCount": 112,
  "locationNum": "14",
  "meals": [
   {
    "meal": "breakfast",
-   "sourceLabel": "",
+   "sourceLabel": "Breakfast",
    "stations": [
     {
      "items": [
@@ -89,7 +89,13 @@
       }
      ],
      "name": "Salad Bar"
-    },
+    }
+   ]
+  },
+  {
+   "meal": "lunch",
+   "sourceLabel": "Lunch",
+   "stations": [
     {
      "items": [
       {
@@ -100,13 +106,7 @@
       }
      ],
      "name": "Today's Soup"
-    }
-   ]
-  },
-  {
-   "meal": "lunch",
-   "sourceLabel": "",
-   "stations": [
+    },
     {
      "items": [
       {
@@ -354,7 +354,13 @@
       }
      ],
      "name": "Chili Bar/Stew"
-    },
+    }
+   ]
+  },
+  {
+   "meal": "dinner",
+   "sourceLabel": "Dinner",
+   "stations": [
     {
      "items": [
       {
@@ -362,13 +368,7 @@
       }
      ],
      "name": "MISC"
-    }
-   ]
-  },
-  {
-   "meal": "dinner",
-   "sourceLabel": "",
-   "stations": [
+    },
     {
      "items": [
       {
@@ -464,6 +464,6 @@
    ]
   }
  ],
- "mealsSha256": "30b297a7341f759f1be65859394383fd84b9cb52e64b2eb8ce0b269b92031433",
+ "mealsSha256": "661db092bfe321d633973b0a87f25d44e4e25d889460556afa26ab82fab6338d",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

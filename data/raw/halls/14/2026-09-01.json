@@ -1,12 +1,12 @@
 {
  "date": "2026-09-01",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
- "itemCount": 83,
+ "fetchedAt": "2026-09-01T18:06:28+00:00",
+ "itemCount": 84,
  "locationNum": "14",
  "meals": [
   {
    "meal": "breakfast",
-   "sourceLabel": "",
+   "sourceLabel": "Breakfast",
    "stations": [
     {
      "items": [
@@ -98,7 +98,13 @@
       }
      ],
      "name": "Salad Bar"
-    },
+    }
+   ]
+  },
+  {
+   "meal": "lunch",
+   "sourceLabel": "Lunch",
+   "stations": [
     {
      "items": [
       {
@@ -109,13 +115,7 @@
       }
      ],
      "name": "Today's Soup"
-    }
-   ]
-  },
-  {
-   "meal": "lunch",
-   "sourceLabel": "",
-   "stations": [
+    },
     {
      "items": [
       {
@@ -359,8 +359,22 @@
      "name": "Chili Bar/Stew"
     }
    ]
+  },
+  {
+   "meal": "dinner",
+   "sourceLabel": "Dinner",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Kirkland House Closed for Special Event"
+      }
+     ],
+     "name": "MISC"
+    }
+   ]
   }
  ],
- "mealsSha256": "2b8387a69d2b4d2d4646c9de11e6845387bf1022d0208c0634092d2ea552b8c1",
+ "mealsSha256": "e9cb744339309f3083ba26b26a9854df648f48178767066aa5f6dc06bc2e09f9",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

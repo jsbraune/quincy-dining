@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01T13:54:24+00:00",
+ "generatedAt": "2026-09-01T18:06:28+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -5566,6 +5566,32 @@
    "portion": "5 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "300060": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Pumpkin Seed Pepitas (Raw Shelled Pumpkin Seeds MANUFACTURED ON EQUIPMENT WITH MILK, EGGS, SOY, WHEAT, PEANUTS, TREE NUTS)",
+   "name": "Pumpkin Seeds",
+   "note": null,
+   "nutrition": {
+    "calories": 123,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.7,
+    "protein_g": 4.7,
+    "sat_fat_g": 0.9,
+    "sodium_mg": 4.7,
+    "total_carb_g": 14.2,
+    "total_fat_g": 4.7
+   },
+   "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
   },
   "300067": {
    "allergens": [

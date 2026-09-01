@@ -1,12 +1,12 @@
 {
  "date": "2026-09-03",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "fetchedAt": "2026-09-01T18:06:28+00:00",
  "itemCount": 182,
  "locationNum": "05",
  "meals": [
   {
    "meal": "breakfast",
-   "sourceLabel": "Breakfast Entrees",
+   "sourceLabel": "Breakfast",
    "stations": [
     {
      "items": [
@@ -172,7 +172,7 @@
   },
   {
    "meal": "lunch",
-   "sourceLabel": "Lunch Entrees, Starches & Veggies",
+   "sourceLabel": "Lunch",
    "stations": [
     {
      "items": [
@@ -426,7 +426,7 @@
   },
   {
    "meal": "dinner",
-   "sourceLabel": "Dinner Entrees, Starches & Veggies",
+   "sourceLabel": "Dinner",
    "stations": [
     {
      "items": [
@@ -749,6 +749,6 @@
    ]
   }
  ],
- "mealsSha256": "c8482ddc087e8da08ef23d90f79807dfa2a9240fd7dc6880ac4dac85835b3837",
+ "mealsSha256": "aed609982ffaf8eaf317697c6fdefe43acbfbff1111618f0c586d3f8913e7fa8",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

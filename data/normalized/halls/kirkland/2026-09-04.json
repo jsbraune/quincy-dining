@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "fetchedAt": "2026-09-01T18:06:28+00:00",
  "hall": "kirkland",
  "hallName": "Kirkland House",
  "itemCount": 112,
@@ -260,7 +260,12 @@
       }
      ],
      "name": "Salad Bar"
-    },
+    }
+   ]
+  },
+  {
+   "meal": "lunch",
+   "stations": [
     {
      "items": [
       {
@@ -290,12 +295,7 @@
       }
      ],
      "name": "Today's Soup"
-    }
-   ]
-  },
-  {
-   "meal": "lunch",
-   "stations": [
+    },
     {
      "items": [
       {
@@ -1073,7 +1073,12 @@
       }
      ],
      "name": "Chili Bar/Stew"
-    },
+    }
+   ]
+  },
+  {
+   "meal": "dinner",
+   "stations": [
     {
      "items": [
       {
@@ -1085,12 +1090,7 @@
       }
      ],
      "name": "MISC"
-    }
-   ]
-  },
-  {
-   "meal": "dinner",
-   "stations": [
+    },
     {
      "items": [
       {
