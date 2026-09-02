@@ -877,9 +877,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 1741,
+       "calories": 787,
        "name": "Halal Burrito Beef",
-       "portion": "4 each",
+       "portion": "2 each",
        "recipeId": 300918,
        "tags": []
       },
@@ -889,7 +889,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 1232,
+       "calories": 1000,
        "name": "Pulled Chicken Burrito",
        "portion": "2 each",
        "recipeId": 300919,
@@ -905,7 +905,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 946,
+       "calories": 863,
        "name": "Vegetarian Chorizo  Burrito",
        "portion": "2 each",
        "recipeId": 142083,
@@ -986,9 +986,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 1741,
+       "calories": 787,
        "name": "Halal Burrito Beef",
-       "portion": "4 each",
+       "portion": "2 each",
        "recipeId": 300918,
        "tags": [
         "halal"

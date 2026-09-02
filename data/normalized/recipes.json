@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T13:12:58+00:00",
+ "generatedAt": "2026-09-02T18:21:43+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -693,15 +693,15 @@
    "name": "Grilled Chicken Breast",
    "note": null,
    "nutrition": {
-    "calories": 222,
-    "cholesterol_mg": 68.4,
+    "calories": 156,
+    "cholesterol_mg": 65.8,
     "dietary_fiber_g": 0.0,
-    "protein_g": 26.3,
-    "sat_fat_g": 2.2,
-    "sodium_mg": 345.9,
+    "protein_g": 25.3,
+    "sat_fat_g": 1.6,
+    "sodium_mg": 173.2,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
-    "total_fat_g": 12.9,
+    "total_fat_g": 5.8,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -1786,6 +1786,51 @@
    "vegan": true,
    "vegetarian": true
   },
+  "144102": {
+   "allergens": [],
+   "ingredients": "Southwestern Style Guacamole (Hass Avocados, Tomato, Onion, Brined Jalapeno Pepper (Jalapeno Pepper, Water, Salt, Acetic Acid), Serrano Pepper, Salt, Garlic, Dehydrated Cilantro.)",
+   "name": "Western Style Guacamole",
+   "note": null,
+   "nutrition": {
+    "calories": 85,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.9,
+    "protein_g": 1.9,
+    "sat_fat_g": 0.9,
+    "sodium_mg": 264.6,
+    "sugars_g": 0.0,
+    "total_carb_g": 3.8,
+    "total_fat_g": 8.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "144116": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.)",
+   "name": "Flour Tortillas",
+   "note": "Tortilla in Spanish stands for \"small torta\", or \"small cake\".",
+   "nutrition": {
+    "calories": 130,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 3.0,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 340.0,
+    "sugars_g": 1.0,
+    "total_carb_g": 22.0,
+    "total_fat_g": 3.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": true,
+   "vegetarian": true
+  },
   "145008": {
    "allergens": [
     "Soybeans",
@@ -1919,6 +1964,27 @@
     "sugars_g": 1.9,
     "total_carb_g": 11.5,
     "total_fat_g": 15.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "150159": {
+   "allergens": [],
+   "ingredients": "Black Beans (Prepared Black Beans, Water, Salt, Calcium Chloride, (Firming Agent)), Onions (Onions), Suntan Peppers (Bell Peppers), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic Chopped in Oil (Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Ground Black Pepper, Granulated Garlic (Garlic), Kosher Salt, Ground Cumin (Ground Cumin), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.)",
+   "name": "Cuban Black Beans",
+   "note": null,
+   "nutrition": {
+    "calories": 289,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.8,
+    "protein_g": 6.3,
+    "sat_fat_g": 1.4,
+    "sodium_mg": 430.2,
+    "sugars_g": 4.0,
+    "total_carb_g": 24.2,
+    "total_fat_g": 19.7,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -2773,6 +2839,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "171156": {
+   "allergens": [],
+   "ingredients": "Roasted Corn & Peppers (Sweet Corn, Onion, Red Bell Pepper, Green Bell Pepper, Olive Oil, Contains Less Than 2% Of Citric Acid, Dehydrated Garlic And Onion, Maltodextrin, Natural Flavors (Including Grill & Smoke), Paprika, Salt, Spices, Sugar)",
+   "name": "Corn & Roasted Peppers",
+   "note": null,
+   "nutrition": {
+    "calories": 157,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.8,
+    "protein_g": 3.6,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 168.9,
+    "sugars_g": 8.4,
+    "total_carb_g": 8.4,
+    "total_fat_g": 4.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "173008": {
    "allergens": [],
    "ingredients": "Corn (Corn)",
@@ -3148,6 +3235,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "175086": {
+   "allergens": [],
+   "ingredients": "Shredded Lettuce (Lettuce)",
+   "name": "Lettuce Shredded for Tacos",
+   "note": null,
+   "nutrition": {
+    "calories": 4,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.3,
+    "protein_g": 0.3,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 2.8,
+    "sugars_g": 0.5,
+    "total_carb_g": 0.8,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "175088": {
    "allergens": [],
    "ingredients": "Broccoli Florets (Broccoli)",
@@ -3270,6 +3378,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "175373": {
+   "allergens": [],
+   "ingredients": "Zucchini (Zucchini), Suntan Peppers (Bell Peppers), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Basil (Fresh Basil.), Garlic Chopped in Oil (Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)), Kosher Salt",
+   "name": "Zucchini and Pepper",
+   "note": null,
+   "nutrition": {
+    "calories": 49,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.8,
+    "protein_g": 0.8,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 45.0,
+    "sugars_g": 1.3,
+    "total_carb_g": 2.3,
+    "total_fat_g": 4.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -3406,6 +3535,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "177082": {
+   "allergens": [],
+   "ingredients": "Cauliflower Florets (Cauliflower), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Scallions (Fresh Scallions), Kosher Salt, Ground Black Pepper",
+   "name": "Roasted Cauliflower",
+   "note": "From Pioneer Valley Growers",
+   "nutrition": {
+    "calories": 30,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.4,
+    "protein_g": 2.0,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 51.4,
+    "sugars_g": 2.2,
+    "total_carb_g": 4.5,
+    "total_fat_g": 1.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -6066,6 +6216,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300212": {
+   "allergens": [],
+   "ingredients": "Pork Shoulder Meat (Boneless Pork Cushion Meat. All Natural. No Artificial Ingredients, Minimally Processed.), Spanish Onions (Onions), Garlic (Garlic), Oranges (Orange), Jalapeno Peppers, Lemons (LEMONS), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Oregano (Oregano), Kosher Salt, Whole Bay Leaves (Bay Leaves)",
+   "name": "Pork Carnitas",
+   "note": null,
+   "nutrition": {
+    "calories": 272,
+    "cholesterol_mg": 76.2,
+    "dietary_fiber_g": 0.9,
+    "protein_g": 23.4,
+    "sat_fat_g": 5.2,
+    "sodium_mg": 149.6,
+    "sugars_g": 1.6,
+    "total_carb_g": 5.5,
+    "total_fat_g": 17.0,
+    "trans_fat_g": 0.1
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300225": {
    "allergens": [
     "Milk",
@@ -6501,6 +6672,29 @@
     "sugars_g": 3.2,
     "total_carb_g": 4.6,
     "total_fat_g": 7.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300430": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Quinoa (Quinoa), Carrots (Carrots), Green Kale (Kale), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Kosher Salt, Ground Black Pepper, Ground Black Pepper, Whole Bay Leaves (Bay Leaves)",
+   "name": "Quinoa with Kale & Roasted Carrots",
+   "note": null,
+   "nutrition": {
+    "calories": 170,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 9.2,
+    "protein_g": 5.9,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 306.7,
+    "sugars_g": 3.1,
+    "total_carb_g": 26.1,
+    "total_fat_g": 4.5,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -6983,6 +7177,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300494": {
+   "allergens": [],
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Chimichurri Sauce (Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Italian Parsley (Italian Parsley), Green Chili Peppers (Green Chile Peppers, Water, Salt, and Citric Acid.), Red Chili Peppers, Oregano (Oregano), Garlic (Garlic), Kosher Salt), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Hot Smoked Paprika (Paprika And Silicon Dioxide), Italian Parsley (Italian Parsley), Fine Granulated Sugar (Sugar), Ground Cumin (Ground Cumin), Kosher Salt, Oregano (Oregano), Crushed Red Pepper (Red chile peppers)",
+   "name": "Cumin Rubbed Chicken with Chimichurri",
+   "note": null,
+   "nutrition": {
+    "calories": 225,
+    "cholesterol_mg": 106.3,
+    "dietary_fiber_g": 0.2,
+    "protein_g": 22.5,
+    "sat_fat_g": 2.1,
+    "sodium_mg": 216.4,
+    "sugars_g": 0.5,
+    "total_carb_g": 1.6,
+    "total_fat_g": 13.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300496": {
    "allergens": [],
    "ingredients": "Green Kale (Kale), Pure Toasted Sesame Oil (Sesame oil), Whole Hulled Sesame Seeds (Sesame Seeds), Chili Garlic Sauce (Salted Chili Peppers (Chili peppers, salt), Water, Sugar, Rice Vinegar, Dehydrated Garlic, Modified Corn Starch, Acetic Acid.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
@@ -6997,6 +7212,27 @@
     "sodium_mg": 170.8,
     "sugars_g": 0.2,
     "total_carb_g": 11.9,
+    "total_fat_g": 4.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300500": {
+   "allergens": [],
+   "ingredients": "Sweet Potato Skin On Diced 1\" Rustic Cut (Sweet Potatoes), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Italian Parsley (Italian Parsley), Kosher Salt, Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic), Marjoram Leaf, Oregano (Oregano), Ground Thyme (Dried Thyme), Ground Bay Leaves (Bay Leaves)",
+   "name": "Pampas Roasted Sweet Potatoes",
+   "note": null,
+   "nutrition": {
+    "calories": 134,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.5,
+    "protein_g": 1.8,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 153.0,
+    "sugars_g": 4.8,
+    "total_carb_g": 23.0,
     "total_fat_g": 4.2,
     "trans_fat_g": 0.0
    },
@@ -7927,6 +8163,29 @@
    "vegan": false,
    "vegetarian": false
   },
+  "300937": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "White Rice, Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Onions (Onions), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Ground Turmeric (Turmeric), Parsley (Parsley), Ground Cumin (Ground Cumin)",
+   "name": "Yellow Rice",
+   "note": null,
+   "nutrition": {
+    "calories": 245,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.3,
+    "protein_g": 4.7,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 265.9,
+    "sugars_g": 0.7,
+    "total_carb_g": 50.3,
+    "total_fat_g": 2.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300938": {
    "allergens": [],
    "ingredients": "Sliced Strawberries (Strawberries.)",
@@ -8392,6 +8651,57 @@
    "vegan": false,
    "vegetarian": true
   },
+  "300982": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Beef Ground (H), Enchilada Sauce (Crushed Tomatoes (Water, Concentrated Crushed Tomatoes), Water, Modified Food Starch, Chili Powder (Chili Pepper, Spices, Salt, Garlic), Contains less than 2% of Salt, Soybean Oil, Spices, Onion Powder, Garlic, Dehydrated Guajillo Chili Peppers, Citric Acid, Sodium Benzoate (Preservative).), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.)",
+   "name": "Chipotle Beef Tacos",
+   "note": null,
+   "nutrition": {
+    "calories": 80,
+    "cholesterol_mg": 18.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 5.4,
+    "sat_fat_g": 2.3,
+    "sodium_mg": 84.1,
+    "sugars_g": 0.1,
+    "total_carb_g": 1.5,
+    "total_fat_g": 5.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300987": {
+   "allergens": [
+    "Crustacean Shellfish",
+    "Eggs",
+    "Fish",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Argentine Vegetable Empanada (Water, Corn Onions, Green Bell Peppers, Red Bell Peppers, Textured Wheat Protein, Canola Oil, Pea Protein Isolate, Garlic, Lemon Juice, apple Cider Vinegar, Salt , Smoked Paprika, Cumin, Chili Powder, Onion Powder, Garlic Powder, Oregano, Black Pepper, Dough, Enriched Wheat Flour Water Canola Oil Salt. PRODUCED IN A FACILITY THAT ALSO HANDLES SESAME, SOY, MILK, EGGS, FISH, AND SHELLFISH), Chimichurri Sauce (Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Italian Parsley (Italian Parsley), Green Chili Peppers (Green Chile Peppers, Water, Salt, and Citric Acid.), Red Chili Peppers, Oregano (Oregano), Garlic (Garlic), Kosher Salt), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
+   "name": "Vegetable Empanada with Chimichurri",
+   "note": null,
+   "nutrition": {
+    "calories": 254,
+    "cholesterol_mg": 7.7,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 16.4,
+    "sat_fat_g": 1.3,
+    "sodium_mg": 480.4,
+    "sugars_g": 3.0,
+    "total_carb_g": 24.5,
+    "total_fat_g": 14.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "300988": {
    "allergens": [
     "Eggs",
@@ -8496,7 +8806,7 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Jerk Marinade (Spanish Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Water, THYME, Ground Allspice (Allspice), Ginger (Fresh Ginger), Ground Nutmeg (Nutmeg), Ground Cinnamon (Ground Cinnamon Bark), Ground Black Pepper, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Scallions (Scallions)), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Jerk Marinade (Spanish Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Water, Ground Allspice (Allspice), Ginger (Fresh Ginger), Fresh Thyme (Fresh Thyme), Ground Nutmeg (Nutmeg), Ground Cinnamon (Ground Cinnamon Bark), Ground Black Pepper, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Scallions (Scallions)), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
    "name": "Jerk Chicken",
    "note": null,
    "nutrition": {
@@ -8520,19 +8830,19 @@
     "Soybeans",
     "Tree Nuts"
    ],
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Butternut Squash (Butternut Squash), Long Grain Rice (Rice), Scallions (Fresh Scallions), Onions (Onions), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-Eyed Peas, Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Butternut Squash (Butternut Squash), Long Grain Rice (Rice), Scallions (Fresh Scallions), Onions (Onions), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
    "name": "Pumpkin Squah Rice",
    "note": null,
    "nutrition": {
-    "calories": 201,
+    "calories": 178,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 3.7,
-    "protein_g": 5.6,
+    "dietary_fiber_g": 3.0,
+    "protein_g": 4.0,
     "sat_fat_g": 2.2,
-    "sodium_mg": 310.2,
-    "sugars_g": 3.1,
-    "total_carb_g": 37.1,
-    "total_fat_g": 3.8,
+    "sodium_mg": 333.8,
+    "sugars_g": 2.5,
+    "total_carb_g": 33.0,
+    "total_fat_g": 3.7,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -8658,15 +8968,15 @@
    "name": "Smokey Chicken Wings",
    "note": null,
    "nutrition": {
-    "calories": 376,
+    "calories": 374,
     "cholesterol_mg": 118.7,
-    "dietary_fiber_g": 1.1,
-    "protein_g": 30.5,
+    "dietary_fiber_g": 0.9,
+    "protein_g": 30.4,
     "sat_fat_g": 7.0,
-    "sodium_mg": 1456.8,
+    "sodium_mg": 1694.8,
     "sugars_g": 0.4,
-    "total_carb_g": 6.3,
-    "total_fat_g": 24.1,
+    "total_carb_g": 5.8,
+    "total_fat_g": 24.0,
     "trans_fat_g": 0.0
    },
    "portion": "6 oz",
@@ -9029,7 +9339,7 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Jerk Marinade (Spanish Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Water, THYME, Ground Allspice (Allspice), Ginger (Fresh Ginger), Ground Nutmeg (Nutmeg), Ground Cinnamon (Ground Cinnamon Bark), Ground Black Pepper, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Scallions (Scallions)), Shredded Carrots (Carrots), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.)",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Jerk Marinade (Spanish Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Water, Ground Allspice (Allspice), Ginger (Fresh Ginger), Fresh Thyme (Fresh Thyme), Ground Nutmeg (Nutmeg), Ground Cinnamon (Ground Cinnamon Bark), Ground Black Pepper, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Scallions (Scallions)), Shredded Carrots (Carrots), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.)",
    "name": "JerkTofu",
    "note": null,
    "nutrition": {
@@ -9811,6 +10121,33 @@
    "vegan": false,
    "vegetarian": true
   },
+  "504066": {
+   "allergens": [
+    "Eggs",
+    "Fish",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Wild Flounder, Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers), Clam Fry Mix (Yellow Corn Flour, Wheat Flour (Wheat Flour, Malted Barley Flour), Corn Starch, Whey (Milk), Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Nonfat Dry Milk, Guar Gum, Dried Egg Whites.PRODUCT PRODUCED IN A FACILITY THAT CONTAINS WHEAT, DAIRY, EGGS, SOYBEAN), Lemons (LEMONS)",
+   "name": "Crispy Flounder with Pico De Gallo",
+   "note": "Daikon, literally translated \"large root\", is a white radish from east Asia has a sweet, fresh flavor.",
+   "nutrition": {
+    "calories": 410,
+    "cholesterol_mg": 51.0,
+    "dietary_fiber_g": 0.5,
+    "protein_g": 16.5,
+    "sat_fat_g": 2.4,
+    "sodium_mg": 336.0,
+    "sugars_g": 0.0,
+    "total_carb_g": 22.3,
+    "total_fat_g": 29.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "504073": {
    "allergens": [],
    "ingredients": "Fresh Fruit Salad (Pineapple, Honeydew, Cantaloupe, and Red Grapes.)",
@@ -10003,6 +10340,30 @@
    "vegan": true,
    "vegetarian": true
   },
+  "506058": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.), Onions (Onions), Suntan Peppers (Bell Peppers), Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley)",
+   "name": "Seitan Pepper Sizzle",
+   "note": null,
+   "nutrition": {
+    "calories": 271,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.6,
+    "protein_g": 21.2,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 564.1,
+    "sugars_g": 3.3,
+    "total_carb_g": 14.5,
+    "total_fat_g": 15.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "507052": {
    "allergens": [
     "Soybeans"
@@ -10185,6 +10546,34 @@
     "sugars_g": 30.0,
     "total_carb_g": 42.8,
     "total_fat_g": 18.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 piece",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "599022": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Tres Leche Squares (Water, Sugar, Eggs, Butterscotch (corn Syrup, Sugar, Water, Butter (cream Salt) Natural Flavor, Salt Caramel Color, Sodium Benzoate (preservative) Enriched Flour (wheat Flour, malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin , folic Acid) Topping (water Hydrogenated Palm Kernel Oil, Sugar Corn Syrup Contains Less Than 2% Of Polysorbate 60, Carbohydrate Gum, natural And Artificial Flavor, salt, Sodium Stearoyl Lactylate, Sorbitan Monostearate, Sodium Citrate, Soy Lecithin, Xanthan Gum) Corn Syrup Evaporated Milk (Milk Dipotassium Phosphate, Carrageenan, Vitamin D3) Soybean Oil Sugared Egg Yolks (Egg Yolks, Sugar) Mascarpone Cheese, Bleached Enriched Flour, Contains 2% Or Less Stabilizer (Sugar Food Starch-modified, Vegetable Gum, Aligns, Natural And Artificial Flavor).milk, Sweetened Condensed Milk Baking Powder Corn Starch Creme Base (Modified Tapioca Starch Dextrose Salt Titanium Dioxide C (color) Carrageenan Glucono Selta Lactone, Preservative, Yellow 5 And 6 Emulsifier Polysorbate 60 Propylene Glycol, Benzoic Acid, Artificial Flavor, Nonfat Dairy Powder, Butter, Palm Oil, White Confectionery, (Sugar, Veg Oils, 9 Hydrogenated Palm Kernel Oil) Nonfat Dry Milk, Whole Milk Powder, Glycerol Lacto Esters, Soy Lecithin, Salt Natural Flavor) Dark Coating (Sugar, Hydrogenated Palm Kernel Oil, Cocoa Powder, Emulsifier Canola Oil Milk MANUFACTURED ON EQUIPMENT THAT ALSO PROCESSES PEANUTS AND TREE NUTS)",
+   "name": "Tres Leche Cake",
+   "note": "Baked at the family-owned Hoff's Bakery, just 3.5 miles away in Medford, MA.",
+   "nutrition": {
+    "calories": 350,
+    "cholesterol_mg": 95.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 4.0,
+    "sat_fat_g": 7.0,
+    "sodium_mg": 380.0,
+    "sugars_g": 31.0,
+    "total_carb_g": 48.0,
+    "total_fat_g": 15.0,
     "trans_fat_g": 0.0
    },
    "portion": "1 piece",

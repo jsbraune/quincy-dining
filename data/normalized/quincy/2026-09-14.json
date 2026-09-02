@@ -1,7 +1,7 @@
 {
  "date": "2026-09-14",
- "fetchedAt": "2026-09-01T22:26:29+00:00",
- "itemCount": 345,
+ "fetchedAt": "2026-09-02T18:21:35+00:00",
+ "itemCount": 351,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -661,6 +661,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -1066,6 +1080,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -1805,7 +1829,7 @@
       },
       {
        "allergens": [],
-       "calories": 222,
+       "calories": 156,
        "name": "Grilled Chicken Breast",
        "portion": "4 oz",
        "recipeId": 111250,
@@ -2101,6 +2125,20 @@
        "name": "Quaker Instant Oatmeal Cups",
        "portion": "1 each",
        "recipeId": 790513,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
        "tags": [
         "vegan",
         "vegetarian"
@@ -2510,6 +2548,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -3689,6 +3737,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -4126,6 +4188,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
