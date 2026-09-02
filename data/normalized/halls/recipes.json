@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01T22:27:49+00:00",
+ "generatedAt": "2026-09-02T13:14:30+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -613,6 +613,30 @@
    "portion": "1 pack",
    "vegan": false,
    "vegetarian": true
+  },
+  "10250": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Falafel Batter (Chickpeas, Bleached Enriched Flour (Bleached Wheat Flour, Niacin, Iron, Thiamin Mononitrate [Vitamin B1], Riboflavin [Vitamin B2], Folic Acid), Water, Parsley, Onions, Garlic, and Spices.), White Pita Bread (Water, Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Wheat Gluten, Oat Fiber, Potato Flour, Yeast, Contains Less Than 2% of Each of the Following: Soybean Oil, Grape Juice, Rice Syrup, Carrot Fiber, Sugar, Salt, Calcium Propionate, Monoglycerides, Citric Acid, Ascorbic Acid, Calcium Sulfate Salt, Enzymes, Xanthan Gum, L-Cysteine, Corn Starch.), Field Greens (Fresh field greens), Tahini Paste (100% Ground toasted sesame seeds), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Granulated Garlic (Garlic), Kosher Salt (Salt), Ground Black Pepper (Black Pepper)",
+   "name": "Falafel Sandwich",
+   "note": null,
+   "nutrition": {
+    "calories": 593,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 16.2,
+    "protein_g": 21.3,
+    "sat_fat_g": 1.5,
+    "sodium_mg": 1351.6,
+    "sugars_g": 2.5,
+    "total_carb_g": 74.7,
+    "total_fat_g": 17.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 sand",
+   "vegan": true,
+   "vegetarian": false
   },
   "110055": {
    "allergens": [],
@@ -2448,6 +2472,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "163046": {
+   "allergens": [],
+   "ingredients": "Water, Basmati Rice (White basmati rice.)",
+   "name": "Basmati Rice",
+   "note": "Bas in the Hindi language means \"aroma\" and Mati means full. Hence Basmati rice is full of aroma.",
+   "nutrition": {
+    "calories": 138,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.5,
+    "protein_g": 2.7,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 1.9,
+    "sugars_g": 0.0,
+    "total_carb_g": 30.2,
+    "total_fat_g": 0.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "163065": {
    "allergens": [],
    "ingredients": "Sorghum Grain (Sorghum, Water, Salt)",
@@ -2622,6 +2667,48 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "171009": {
+   "allergens": [],
+   "ingredients": "Green Peas (Green Peas, Salt)",
+   "name": "Steamed Green Peas",
+   "note": null,
+   "nutrition": {
+    "calories": 83,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.7,
+    "protein_g": 5.9,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 237.0,
+    "sugars_g": 4.7,
+    "total_carb_g": 14.2,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "171013": {
+   "allergens": [],
+   "ingredients": "Green Kale (Kale), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper",
+   "name": "Sauteed Kale",
+   "note": "Kale is a nonheading member of the cabbage family and has been cultivated for over 2, 000 years.",
+   "nutrition": {
+    "calories": 88,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.0,
+    "protein_g": 5.0,
+    "sat_fat_g": 0.2,
+    "sodium_mg": 251.2,
+    "sugars_g": 0.0,
+    "total_carb_g": 15.2,
+    "total_fat_g": 2.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
   },
   "171021": {
    "allergens": [],
@@ -4328,6 +4415,32 @@
    "vegan": true,
    "vegetarian": true
   },
+  "211137": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Naan Bread (Enriched Wheat Flour (Wheat Flour, Niacin, , Reduced Iron, Ascorbic Acid, added as dough conditioner, Thiamine Mononitrate Riboflavin Enzyme, Folic Acid) Buttermilk (Nonfat Milk, Dry Buttermilk, Bacteria Culture) Water, Soybean Oil, Cultured Wheat Flour, Eggs, Sugar, Baking Powder (Sodium Acid, Phosphate, Baking Soda, Cornstarch, Monocalcium Phosphate) Sea Salt, Ghee, Clarified Butter Wheat Gluten, Dextrose, Dextrin Carrot Fiber, Yeast. MAY CONTAIN SOY AND SESAME.)",
+   "name": "Naan Bread",
+   "note": null,
+   "nutrition": {
+    "calories": 130,
+    "cholesterol_mg": 6.0,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 4.0,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 320.0,
+    "sugars_g": 1.0,
+    "total_carb_g": 20.0,
+    "total_fat_g": 3.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1/3 each",
+   "vegan": false,
+   "vegetarian": true
+  },
   "211152": {
    "allergens": [
     "Eggs",
@@ -4864,6 +4977,32 @@
    "vegan": false,
    "vegetarian": true
   },
+  "250081": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Chicken Thigh Meat (Uncooked, Boneless, Skinless Diced Chicken Thigh Meat (Containing up to 15% of a Solution Of Water and Sea Salt.), Tikka Masala Sauce (Water, Tomato Paste, Lowfat Plain Yogurt (Cultured Pasteurized Milk, Nonfat Milk Solids, Active Cultures, ) Heavy Cream (Heavy Cream, Milk), Canola Oil, Spices, Ginger, Garlic, Salt, Sugar, Tapioca Starch, Paprika, Dried Fenugreek Leaves. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS.), Heavy Cream (Cream, Carrageenan, and Mono & Diglycerides.), Tandoori Marinade (Low Fat Plain Yogurt (Cultured Pasteurized Milk, Nonfat Milk Solids, Active Cultures), Canola Oil, Lime Juice, Spices, Garlic, Ginger, Tapioca Starch, Salt, Jalapeno Peppers, Cilantro, Natural Extractives of Beet ([color] ascorbic acid), Natural Extractives of Annatto [color], Fenugreek Leaves, Black Salt. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS.), Suntan Peppers (Bell Peppers), Butter (Cream (milk), salt.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cilantro (Cilantro)",
+   "name": "Butter Chicken",
+   "note": null,
+   "nutrition": {
+    "calories": 333,
+    "cholesterol_mg": 133.3,
+    "dietary_fiber_g": 0.8,
+    "protein_g": 19.9,
+    "sat_fat_g": 11.3,
+    "sodium_mg": 455.9,
+    "sugars_g": 1.9,
+    "total_carb_g": 4.7,
+    "total_fat_g": 27.5,
+    "trans_fat_g": 0.4
+   },
+   "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "25027": {
    "allergens": [
     "Soybeans"
@@ -4884,6 +5023,57 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "255112": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Alu Chole (Aw-loo Cho-lay) Water, Garbanzo Beans, Potatoes, Onions, Tomato Paste (Tomatoes, Citric Acid), Canola Oil, Ginger, Garlic, Mango Powder Jalape\u00f1o Peppers, Spices, Salt, Cilantro. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, EGGS)",
+   "name": "Alu Chole",
+   "note": null,
+   "nutrition": {
+    "calories": 20,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.6,
+    "protein_g": 0.8,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 85.8,
+    "sugars_g": 0.8,
+    "total_carb_g": 3.4,
+    "total_fat_g": 0.4
+   },
+   "portion": "1 fl. oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "255116": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Makhni Dal (Water, Urad Dal (Black Lentils), Tomato Paste (Tomatoes, Citric Acid), Onions, Red Kidney Beans, Canola Oil, Salt, Ginger, Garlic, Spices. PRODUCED IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK , EGGS)",
+   "name": "Makhni Dal",
+   "note": null,
+   "nutrition": {
+    "calories": 72,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.0,
+    "protein_g": 4.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 319.4,
+    "sugars_g": 0.8,
+    "total_carb_g": 9.6,
+    "total_fat_g": 2.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -5407,6 +5597,32 @@
    "portion": "3 oz",
    "vegan": false,
    "vegetarian": true
+  },
+  "300057": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Tikka Masala Sauce (Water, Tomato Paste, Lowfat Plain Yogurt (Cultured Pasteurized Milk, Nonfat Milk Solids, Active Cultures, ) Heavy Cream (Heavy Cream, Milk), Canola Oil, Spices, Ginger, Garlic, Salt, Sugar, Tapioca Starch, Paprika, Dried Fenugreek Leaves. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS.), Heavy Cream (Cream, Carrageenan, and Mono & Diglycerides.), Tandoori Marinade (Low Fat Plain Yogurt (Cultured Pasteurized Milk, Nonfat Milk Solids, Active Cultures), Canola Oil, Lime Juice, Spices, Garlic, Ginger, Tapioca Starch, Salt, Jalapeno Peppers, Cilantro, Natural Extractives of Beet ([color] ascorbic acid), Natural Extractives of Annatto [color], Fenugreek Leaves, Black Salt. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS.), Suntan Peppers (Bell Peppers), Butter (Cream (milk), salt.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cilantro (Cilantro)",
+   "name": "Butter Chicken (H)",
+   "note": null,
+   "nutrition": {
+    "calories": 321,
+    "cholesterol_mg": 153.1,
+    "dietary_fiber_g": 0.8,
+    "protein_g": 23.9,
+    "sat_fat_g": 9.5,
+    "sodium_mg": 490.1,
+    "sugars_g": 1.9,
+    "total_carb_g": 4.7,
+    "total_fat_g": 22.5,
+    "trans_fat_g": 0.4
+   },
+   "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "300060": {
    "allergens": [
@@ -6054,6 +6270,51 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300440": {
+   "allergens": [],
+   "ingredients": "Chicken Breast (H) (Chicken Breast Boneless, Skinless.), Red Onions, Garlic (Garlic), Lemons (LEMONS), Queen Olives (Queen Olives, Water, Salt, Citric Acid), Fine Granulated Sugar (Sugar), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Chicken Stock (Chicken Base (Roasted Chicken And Chicken Juices, Salt, Sugar, Corn Starch, Chicken Fat, Dehydrated Onion, Turmeric, Flavoring.)), Ground Turmeric (Turmeric), Cornstarch (Corn Starch), Italian Parsley (Italian Parsley), Saffron (Saffron)",
+   "name": "Saffron Chicken with Lemon & Olives",
+   "note": null,
+   "nutrition": {
+    "calories": 184,
+    "cholesterol_mg": 65.9,
+    "dietary_fiber_g": 0.5,
+    "protein_g": 25.8,
+    "sat_fat_g": 1.7,
+    "sodium_mg": 166.5,
+    "sugars_g": 2.4,
+    "total_carb_g": 5.5,
+    "total_fat_g": 6.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300442": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Beef Brisket, Crushed Tomatoes (Vine Ripened Unpeeled Tomatoes, Tomato Puree, Less than 2% of Citric Acid. Naturally Derived), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Shallots (Shallots), Ginger (Fresh Ginger), Raisins (Raisins), Spanish Paprika (Paprika), Ground Coriander (Coriander), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Cumin (Ground Cumin), Ground Cinnamon (Ground Cinnamon Bark), Kosher Salt, Ground Black Pepper, Italian Parsley (Italian Parsley)",
+   "name": "Cumin & Ginger Braised Beef",
+   "note": null,
+   "nutrition": {
+    "calories": 275,
+    "cholesterol_mg": 79.1,
+    "dietary_fiber_g": 1.2,
+    "protein_g": 23.7,
+    "sat_fat_g": 6.5,
+    "sodium_mg": 194.6,
+    "sugars_g": 2.6,
+    "total_carb_g": 5.2,
+    "total_fat_g": 17.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300443": {
    "allergens": [],
    "ingredients": "Red Bliss Potatoes, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Kosher Salt (Salt), Oregano (Oregano), Ground Black Pepper (Black Pepper)",
@@ -6090,6 +6351,74 @@
     "sugars_g": 1.8,
     "total_carb_g": 14.4,
     "total_fat_g": 1.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300451": {
+   "allergens": [],
+   "ingredients": "Cauliflower Florets (Cauliflower), Tomato Chutney (Tomatoes, Tomato Paste, Sugar, White Vinegar, Garlic, Ginger, Jalapeno Peppers, Canola Oil, Sal, Spices.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Cumin (Ground Cumin), Ground Cardamom (Cardamom), Ground Black Pepper",
+   "name": "Roasted Cauliflower with Cumin & Cardamom",
+   "note": null,
+   "nutrition": {
+    "calories": 52,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.4,
+    "protein_g": 2.2,
+    "sat_fat_g": 0.2,
+    "sodium_mg": 237.8,
+    "sugars_g": 4.2,
+    "total_carb_g": 8.4,
+    "total_fat_g": 1.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300453": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Couscous (Wheat Flour), Celery (Celery), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Oregano (Oregano), Ground Cinnamon (Ground Cinnamon Bark), Ground Turmeric (Turmeric), Italian Parsley (Italian Parsley), Ground Black Pepper",
+   "name": "Herbed Couscous",
+   "note": null,
+   "nutrition": {
+    "calories": 140,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.5,
+    "protein_g": 3.9,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 393.4,
+    "sugars_g": 1.0,
+    "total_carb_g": 26.3,
+    "total_fat_g": 2.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300454": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Garbanzo Beans (Prepared Chick Peas, Water, Salt, Mustard Calcium Chloride (Firming Agent), and Disodium EDTA (Promotes Color Retention).), Roasted Red Peppers, Local Backyard Beauty Tomatoes, Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Ground Cumin (Ground Cumin), Ground Black Pepper, Kosher Salt",
+   "name": "Roasted Red Pepper & Tomato Chickpeas",
+   "note": null,
+   "nutrition": {
+    "calories": 129,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.0,
+    "protein_g": 4.8,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 621.5,
+    "sugars_g": 1.0,
+    "total_carb_g": 18.8,
+    "total_fat_g": 1.6,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -6381,6 +6710,29 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300727": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Beef Top Round (H), Crushed Tomatoes (Vine Ripened Unpeeled Tomatoes, Tomato Puree, Less than 2% of Citric Acid. Naturally Derived), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Shallots (Shallots), Ginger (Fresh Ginger), Raisins (Raisins), Spanish Paprika (Paprika), Ground Coriander (Coriander), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Cumin (Ground Cumin), Ground Cinnamon (Ground Cinnamon Bark), Kosher Salt, Ground Black Pepper, Italian Parsley (Italian Parsley)",
+   "name": "Cumin & Ginger Braised Halal Beef",
+   "note": null,
+   "nutrition": {
+    "calories": 254,
+    "cholesterol_mg": 100.9,
+    "dietary_fiber_g": 1.2,
+    "protein_g": 36.7,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 159.3,
+    "sugars_g": 2.6,
+    "total_carb_g": 5.2,
+    "total_fat_g": 8.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "5 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -8459,6 +8811,33 @@
    "portion": "1 each",
    "vegan": false,
    "vegetarian": true
+  },
+  "507059": {
+   "allergens": [
+    "Crustacean Shellfish",
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Shrimp, Onions, Curry Sauce (Water, Onions, Tomato Paste (Tomatoes, Citric Acid), Canola Oil, Ginger, Garlic, Spices, Jalapeno Peppers, Salt, Turmeric, Black Salt, Fenugreek Leaves, Made in a facility that Processes Wheat, Soy, Milk, Eggs.), Suntan Peppers, Carrot Coins, Cilantro",
+   "name": "Shrimp In Curry & Coconut Milk",
+   "note": null,
+   "nutrition": {
+    "calories": 142,
+    "cholesterol_mg": 156.0,
+    "dietary_fiber_g": 1.7,
+    "protein_g": 18.2,
+    "sat_fat_g": 0.7,
+    "sodium_mg": 877.9,
+    "sugars_g": 4.1,
+    "total_carb_g": 9.2,
+    "total_fat_g": 3.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "560050": {
    "allergens": [],
