@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "fetchedAt": "2026-09-02T13:12:58+00:00",
+ "fetchedAt": "2026-09-03T13:13:48+00:00",
  "itemCount": 171,
  "locationNum": "30",
  "meals": [
@@ -712,7 +712,7 @@
        "name": "Celery"
       },
       {
-       "name": "Italina Lite dressing (pc)"
+       "name": "Italian Lite dressing (pc)"
       },
       {
        "name": "Ranch Dressing"
@@ -726,6 +726,6 @@
    ]
   }
  ],
- "mealsSha256": "30263f5ec8b9b1d6fa3a965acd0048244a0f5a0d6205b80580010a995102e6f3",
+ "mealsSha256": "e55aca50d2bfa872bb8940b7f688e301a208ef47dca2ae924c806ae5491d0026",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

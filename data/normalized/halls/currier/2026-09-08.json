@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "fetchedAt": "2026-09-02T13:12:58+00:00",
+ "fetchedAt": "2026-09-03T13:13:48+00:00",
  "hall": "currier",
  "hallName": "Currier House",
  "itemCount": 161,
@@ -2037,13 +2037,8 @@
        ]
       },
       {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 32,
-       "name": "Italina Lite dressing (pc)",
-       "portion": "1 each",
-       "recipeId": 290056,
+       "allergens": [],
+       "name": "Italian Lite dressing (pc)",
        "tags": []
       },
       {

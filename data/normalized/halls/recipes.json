@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T22:26:57+00:00",
+ "generatedAt": "2026-09-03T13:15:31+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -3844,6 +3844,26 @@
    "vegan": true,
    "vegetarian": true
   },
+  "195009": {
+   "allergens": [],
+   "ingredients": "Raspberry Preserves (Sugar, Raspberries, Gelling Agent (Pectin), Acidifying Agent (Citric Acid), Preservative (Potassium Sorbate))",
+   "name": "Raspberry Preserves",
+   "note": null,
+   "nutrition": {
+    "calories": 71,
+    "dietary_fiber_g": 1.4,
+    "protein_g": 0.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "sugars_g": 17.0,
+    "total_carb_g": 17.0,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "199001": {
    "allergens": [
     "Milk"
@@ -5554,6 +5574,32 @@
    "vegan": false,
    "vegetarian": false
   },
+  "300033": {
+   "allergens": [
+    "Crustacean Shellfish",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Flour Tortilla (Bleached Enriched Wheat Flour (Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine mononitrate, Riboflavin, Folic Acid), Water, Interesterified Soybean Oil and/or Soybean Oil, and/or Canola Oil, Contains 2% or less of the following: Salt, Mono and Diglycerides, Guar Gum, Calcium Propionate (Preservative), Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Fumaric Acid, Sodium Bicarbonate, Wheat Gluten, Dough Conditioner (Sodium Metabisulfite, Microcrystalline Cellulose, Dicalcium Phosphate), Preservative (Sodium Propionate and Potassium Sorbate).), Shrimp, Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Local Backyard Beauty Tomatoes (Tomatoes), Suntan Peppers (Bell Peppers), Scallions (Fresh Scallions), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Kosher Salt (Salt), Ground Black Pepper (BLACK PEPPER), Greek Leaf Oregano (Dried Oregano)",
+   "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Tomato",
+   "note": "Originated in Mexico, quesadillas are cheese-filled tortillas with a range of fillings and toppings.",
+   "nutrition": {
+    "calories": 499,
+    "cholesterol_mg": 105.1,
+    "dietary_fiber_g": 3.5,
+    "protein_g": 24.1,
+    "sat_fat_g": 7.7,
+    "sodium_mg": 1215.7,
+    "sugars_g": 1.6,
+    "total_carb_g": 51.8,
+    "total_fat_g": 14.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300053": {
    "allergens": [],
    "ingredients": "Original Oat Milk (Oatmilk (Filtered Water, Oats), Calcium Carbonate, Dipotassium Phosphate [stabilizer], Sea Salt, Gellan Gum, Vitamin A Palmitate, Vitamin D2, Riboflavin (Vitamin B2) and Vitamin B12), Rolled Oats (Whole grain Rolled Oats), Nectar Syrup (100% Pure Organic Agave Nectar), Ground Cinnamon (Ground Cinnamon Bark)",
@@ -5729,6 +5775,27 @@
    "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "300152": {
+   "allergens": [],
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Lime Juice (Lime Juice), Garlic (Garlic), Oregano (Oregano), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic), Kosher Salt, Ground Black Pepper, Cilantro (Cilantro), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.)",
+   "name": "Chili and Lime Chicken",
+   "note": null,
+   "nutrition": {
+    "calories": 241,
+    "cholesterol_mg": 106.3,
+    "dietary_fiber_g": 0.3,
+    "protein_g": 22.5,
+    "sat_fat_g": 1.8,
+    "sodium_mg": 228.7,
+    "sugars_g": 0.2,
+    "total_carb_g": 1.5,
+    "total_fat_g": 15.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "300158": {
    "allergens": [
@@ -6357,6 +6424,29 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300449": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Jasmine Rice (Thai Hom Mali Jasmine Rice), Serrano Chiles (Serrano Chili Peppers), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Cumin (Ground Cumin), Spanish Paprika (Paprika), Kosher Salt",
+   "name": "Rice with Cumin & Serrano Peppers",
+   "note": null,
+   "nutrition": {
+    "calories": 189,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.3,
+    "protein_g": 3.1,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 314.7,
+    "sugars_g": 0.6,
+    "total_carb_g": 39.8,
+    "total_fat_g": 1.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300451": {
    "allergens": [],
    "ingredients": "Cauliflower Florets (Cauliflower), Tomato Chutney (Tomatoes, Tomato Paste, Sugar, White Vinegar, Garlic, Ginger, Jalapeno Peppers, Canola Oil, Sal, Spices.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Cumin (Ground Cumin), Ground Cardamom (Cardamom), Ground Black Pepper",
@@ -6419,6 +6509,27 @@
     "sugars_g": 1.0,
     "total_carb_g": 18.8,
     "total_fat_g": 1.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300455": {
+   "allergens": [],
+   "ingredients": "Zucchini Squash (Zucchini), Corn (Corn), Red Onions, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Oregano (Oregano), Spanish Paprika (Paprika), Kosher Salt",
+   "name": "Roasted Corn, Zucchini, & Red Onion",
+   "note": null,
+   "nutrition": {
+    "calories": 70,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 2.2,
+    "sat_fat_g": 0.2,
+    "sodium_mg": 34.2,
+    "sugars_g": 3.4,
+    "total_carb_g": 13.4,
+    "total_fat_g": 1.9,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -6691,6 +6802,30 @@
    "portion": "4 fl. oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "300683": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Vegan Cheddar Shredded Cheese (Cheddar-style Cheese (filtered Water, Modified Potato Starch, Palm Oil, Sunflower Oil, Sea Salt, Cellulose Gum, Tapioca Starch, Yeast Extract, Cellulose Gel, Konjac Powder [thickener], Cultured Dextrose, Citric Acid, Locust Bean Gum, Natural Flavors, Annatto [color], Paprika Extract [color], Probiotic Cultures [bacillus Subtilis]), Powdered Cellulose (to Prevent Caking)), Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Happy Little Plant Chorizo Morning Star (Water, Soy Flour, Corn Oil, Onions, Paprika.contains 2% Or Less of Garlic (Garlic, Water), Salt, Soy Protein Isolate, Spices, Citric acid, Cooked Onion And Carrot Juice Concentrate, Garlic powder, Vinegar Solids, Onion Powder, Sugar, Paprika Extract color, Natural Flavor, Faba Bean Protein, Pea Protein.), Black Beans (Prepared Black Beans, Water, Salt, Calcium Chloride, (Firming Agent)), Corn (Corn), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Scallions (Fresh Scallions)",
+   "name": "Plant Sausage, Corn and Black Bean Quesadilla",
+   "note": null,
+   "nutrition": {
+    "calories": 583,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.4,
+    "protein_g": 13.2,
+    "sat_fat_g": 5.3,
+    "sodium_mg": 1147.6,
+    "sugars_g": 3.6,
+    "total_carb_g": 41.1,
+    "total_fat_g": 42.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 quesadilla",
+   "vegan": true,
+   "vegetarian": true
   },
   "300698": {
    "allergens": [],
@@ -7232,6 +7367,29 @@
    "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "300948": {
+   "allergens": [
+    "Fish"
+   ],
+   "ingredients": "Red's Best Catch Of The Day, Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Onions (Onions), Lemons (LEMONS), Lemons (LEMONS), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Parsley (Parsley), Spanish Paprika (Paprika), Kosher Salt, Greek Leaf Oregano (Dried Oregano), Ground Cumin (Ground Cumin), Ground Black Pepper",
+   "name": "Oven Baked Greek Catch of Day",
+   "note": null,
+   "nutrition": {
+    "calories": 105,
+    "cholesterol_mg": 53.3,
+    "dietary_fiber_g": 1.7,
+    "protein_g": 18.1,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 498.1,
+    "sugars_g": 2.6,
+    "total_carb_g": 6.5,
+    "total_fat_g": 0.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "300957": {
    "allergens": [
@@ -7898,6 +8056,75 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "301090": {
+   "allergens": [],
+   "ingredients": "Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Green Beans (Green Beans), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Ground Black Pepper, Kosher Salt",
+   "name": "Fasolakia Latheria (Greek style Green Bean)",
+   "note": null,
+   "nutrition": {
+    "calories": 192,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.9,
+    "protein_g": 3.8,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 529.8,
+    "sugars_g": 10.2,
+    "total_carb_g": 20.7,
+    "total_fat_g": 12.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "301091": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Eggplant (FRESH EGGPLANT), Crumbled Feta Cheese (Pasteurized Whole Milk, Skim Milk, Cream, Whey, Salt, Cultures, Enzymes, Powdered Cellulose, Potassium Sorbate, Guar Gum, Xanthan Gum, Natamycin (A Natural Mold Inhibitor).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Parsley (Parsley), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Mint, Dill (Fresh dill)",
+   "name": "Roasted Eggplant with Feta and Herbs",
+   "note": null,
+   "nutrition": {
+    "calories": 139,
+    "cholesterol_mg": 12.6,
+    "dietary_fiber_g": 2.8,
+    "protein_g": 3.1,
+    "sat_fat_g": 2.7,
+    "sodium_mg": 296.3,
+    "sugars_g": 4.0,
+    "total_carb_g": 10.7,
+    "total_fat_g": 10.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "301092": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Water, Beef Ground (H), Bechamel Sauce (Light Cream, Water, Butter (Cream, Salt), Modified Corn Starch, Contains 2% or less of: Modified Tapioca Starch, Salt, Whey Protein Concentrate, Nonfat Dry Milk, Garlic Powder, Onion Powder, Nisin Preparation and Spices), Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.), Onions (Onions), Bread Crumbs (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate [Vitamin B1], Riboflavin [Vitamin B2], Folic Acid), Water, High Fructose Corn Syrup, Yeast, Salt, Vegetable Oil (Soybean, Cottonseed and/or Canola), Sugar, May contain 2% or less of the following, Wheat Gluten, Dextrose, Soy Flour, Whey, Calcium Propionate (preservative), Sodium Stearoyl Lactylate (Dough Conditioner), Mono- and Diglycerides, Soy Lecithin, Molasses, Honey, Whole Wheat Flour, Corn Flour, Cornmeal, Citric Acid, Grain Vinegar, Wheat Starch, Corn Starch, Potato Flour, Rice Flour, Wheat Bran, Oat Fiber, Calcium Sulfate, Datem, Potassium Iodate, Guar Gum, Calcium Phosphate, Enrichment (Vitamin E Acetate, Vitamin A Palmitate, Vitamin D3), Lactic Acid, Ascorbic Acid (Dough Conditioner), Spice & Coloring, Natural and Artificial Flavor, Sesame Seeds.), Whole Tomatoes (Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Citric Acid.), Butter (Cream (milk), salt.), Parsley (Parsley), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Greek Leaf Oregano (Dried Oregano), Ground Cinnamon (Ground Cinnamon Bark), Kosher Salt, Ground Cloves (Cloves), Ground Black Pepper, Kosher Salt",
+   "name": "Pastitsio",
+   "note": null,
+   "nutrition": {
+    "calories": 481,
+    "cholesterol_mg": 78.0,
+    "dietary_fiber_g": 4.6,
+    "protein_g": 21.1,
+    "sat_fat_g": 12.9,
+    "sodium_mg": 816.4,
+    "sugars_g": 4.9,
+    "total_carb_g": 38.9,
+    "total_fat_g": 28.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -8839,6 +9066,27 @@
    "vegan": false,
    "vegetarian": false
   },
+  "508097": {
+   "allergens": [],
+   "ingredients": "White Rice, Spinach (Spinach), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Dill (Fresh dill), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Garlic (Garlic), Kosher Salt, Ground Black Pepper",
+   "name": "Classic Spanakorizo: Spinach & Rice",
+   "note": "\"Yiasou! That's Greek for \"Hello\" and \"To Your Health\" This is a Diane Kochilas recipe\"",
+   "nutrition": {
+    "calories": 334,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.5,
+    "protein_g": 7.0,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 47.6,
+    "sugars_g": 1.2,
+    "total_carb_g": 61.8,
+    "total_fat_g": 6.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "560050": {
    "allergens": [],
    "ingredients": "Zucchini Squash (Zucchini), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper",
@@ -8884,6 +9132,34 @@
    "portion": "1 sandwich",
    "vegan": false,
    "vegetarian": false
+  },
+  "599017": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Carrot Cake w/ Cream Cheese Frosting (Sugar, Soy Bean Oil, Carrots, Fondant (Liquid Sugar, Corn Syrup), Flour (Bleached Wheat Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Whole Eggs, Cream Cheese (Pasteurized Cultured Milk And Cream, Salt, Stabilizers [Xanthan Gum and/or Carob Bean Gum and/or Tara Gum and/or Guar Gum]), Trans Free Shortening (Palm Oil, Mono-Diglycerides, Polysorbate 60), Pineapple Filling (Pineapple, Sugar, Water, Modified Food Starch, Citric Acid, Salt, Potassium Sorbate And Sodium Benzoate Added As Preservatives, Locust Bean Gum], Erythorbic Acid, Natural and Artificial Flavors, Yellow #5), Walnuts, Raisins, Modified Food Starch, Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Mono-Calcium Phosphate), Spice, Soy Lecithin, Vitamin A Palmitate, Artificial Color, Nonfat Dry Milk, Whey Solids, Milk Protein. MANUFACTURED ON EQUIPMENT THAT ALSO PROCESSES PEANUTS AND TREE NUTS.)",
+   "name": "Carrot, Walnut Cake with Cream Cheese Icing",
+   "note": "Baked at the family-owned Hoff's Bakery, just 3.5 miles away in Medford, MA.",
+   "nutrition": {
+    "calories": 322,
+    "cholesterol_mg": 38.8,
+    "dietary_fiber_g": 1.1,
+    "protein_g": 2.2,
+    "sat_fat_g": 5.0,
+    "sodium_mg": 155.4,
+    "sugars_g": 16.6,
+    "total_carb_g": 35.5,
+    "total_fat_g": 20.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 piece",
+   "vegan": false,
+   "vegetarian": true
   },
   "599020": {
    "allergens": [
@@ -9142,6 +9418,30 @@
     "sugars_g": 8.6,
     "total_carb_g": 32.3,
     "total_fat_g": 19.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "700681": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Sliced Mushrooms (Mushrooms), Cracked Farro (Farro), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Shallots (Shallots), Kosher Salt, Ground Black Pepper",
+   "name": "Farro with Mushroom and Herbs",
+   "note": null,
+   "nutrition": {
+    "calories": 266,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.3,
+    "protein_g": 7.5,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 296.2,
+    "sugars_g": 3.0,
+    "total_carb_g": 45.2,
+    "total_fat_g": 6.3,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",

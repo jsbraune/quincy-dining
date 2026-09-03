@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "fetchedAt": "2026-09-02T13:12:58+00:00",
+ "fetchedAt": "2026-09-03T13:13:48+00:00",
  "itemCount": 168,
  "locationNum": "07",
  "meals": [
@@ -172,7 +172,7 @@
        "name": "Grape Preserves"
       },
       {
-       "name": "Italina Lite dressing (pc)"
+       "name": "Italian Lite dressing (pc)"
       },
       {
        "name": "Mayonnaise packets"
@@ -391,7 +391,7 @@
        "name": "Grape Preserves"
       },
       {
-       "name": "Italina Lite dressing (pc)"
+       "name": "Italian Lite dressing (pc)"
       },
       {
        "name": "Mayonnaise packets"
@@ -610,7 +610,7 @@
        "name": "Grape Preserves"
       },
       {
-       "name": "Italina Lite dressing (pc)"
+       "name": "Italian Lite dressing (pc)"
       },
       {
        "name": "Mayonnaise packets"
@@ -662,6 +662,6 @@
    ]
   }
  ],
- "mealsSha256": "ceb2c82db40e018e16f85940da34c545feeed57785600f141429fdcd5149e334",
+ "mealsSha256": "5f00622fcf52c8b0db2c393792f0e7f124f82ed45f0ff621bd62461d52834154",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
