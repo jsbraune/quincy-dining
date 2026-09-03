@@ -1,7 +1,7 @@
 {
  "date": "2026-09-09",
- "fetchedAt": "2026-09-03T18:17:46+00:00",
- "itemCount": 350,
+ "fetchedAt": "2026-09-03T22:22:04+00:00",
+ "itemCount": 342,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -720,71 +720,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Eggs",
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 255,
-       "name": "French Toast",
-       "portion": "1 each",
-       "recipeId": 36405,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 135,
-       "name": "Plant Protein Breakfast Sausage",
-       "portion": "2 oz",
-       "recipeId": 300606,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs"
-       ],
-       "calories": 180,
-       "name": "Scrambled Cage Free Eggs",
-       "portion": "4 oz",
-       "recipeId": 61203,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 132,
-       "name": "Tofu Scramble",
-       "portion": "4 oz",
-       "recipeId": 142100,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs"
-       ],
-       "calories": 78,
-       "name": "Cage Free Hard Boiled Eggs",
-       "portion": "1 each",
-       "recipeId": 161049,
-       "tags": [
-        "vegetarian"
-       ]
       }
      ],
      "name": "Breakfast Entrees"
@@ -1053,19 +988,6 @@
        "tags": [
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Wheat"
-       ],
-       "calories": 122,
-       "name": "Steel Cut Oatmeal",
-       "portion": "6 fl. oz",
-       "recipeId": 31003,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
       }
      ],
      "name": "Build Your Own"
@@ -1274,37 +1196,6 @@
       }
      ],
      "name": "Fresh Fruit"
-    },
-    {
-     "categoryId": 1,
-     "items": [
-      {
-       "allergens": [],
-       "calories": 247,
-       "name": "Pork Sausage Links",
-       "portion": "2 each",
-       "recipeId": 89002,
-       "tags": []
-      }
-     ],
-     "name": "Breakfast Meats"
-    },
-    {
-     "categoryId": 14,
-     "items": [
-      {
-       "allergens": [],
-       "calories": 107,
-       "name": "Shredded Hashbrowns",
-       "portion": "4 oz",
-       "recipeId": 161048,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      }
-     ],
-     "name": "Starch And Potatoes"
     }
    ]
   },
