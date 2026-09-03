@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-02T18:21:35+00:00",
+ "fetchedAt": "2026-09-03T18:17:46+00:00",
  "rows": [
   {
    "allergens": [
@@ -87496,42 +87496,43 @@
    "allergens": [
     "Fish"
    ],
-   "calories": 68,
-   "calories_from_fat": 44,
+   "calories": 270,
+   "calories_from_fat": 176,
    "cholesterol": {
-    "amount": "15.6mg",
-    "percent": 5.0
+    "amount": "62.4mg",
+    "percent": 21.0
    },
    "dietary_fiber": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 4.0
    },
    "id": 270427,
    "information": null,
    "ingredients": "Salmon, Lemons (LEMONS), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)",
    "name": "Roasted Salmon with Lemon Zest",
    "protein": {
-    "amount": "5.7g",
-    "percent": 11.0
+    "amount": "22.8g",
+    "percent": 45.0
    },
    "sat_fat": {
-    "amount": "0.7g",
-    "percent": 3.0
+    "amount": "2.9g",
+    "percent": 13.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "12.6mg",
-    "percent": 1.0
+    "amount": "50.6mg",
+    "percent": 2.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "0.6g"
+    "amount": "2.3g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "4.9g",
-    "percent": 6.0
+    "amount": "19.5g",
+    "percent": 25.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130180,43 +130181,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 584,
-   "calories_from_fat": 330,
+   "calories": 292,
+   "calories_from_fat": 165,
    "cholesterol": {
-    "amount": "14.3mg",
-    "percent": 5.0
+    "amount": "7.1mg",
+    "percent": 2.0
    },
    "dietary_fiber": {
-    "amount": "4.3g",
-    "percent": 15.0
+    "amount": "2.1g",
+    "percent": 8.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "29.4g",
-    "percent": 58.0
+    "amount": "14.7g",
+    "percent": 29.0
    },
    "sat_fat": {
-    "amount": "9.9g",
-    "percent": 45.0
+    "amount": "4.9g",
+    "percent": 22.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "1849.1mg",
-    "percent": 80.0
+    "amount": "924.6mg",
+    "percent": 40.0
    },
    "sugars": {
-    "amount": "5.7g"
+    "amount": "2.8g"
    },
    "total_carb": {
-    "amount": "38.4g",
-    "percent": 14.0
+    "amount": "19.2g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "36.6g",
-    "percent": 47.0
+    "amount": "18.3g",
+    "percent": 23.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -132566,7 +132567,7 @@
    "id": 301044,
    "information": null,
    "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Butternut Squash (Butternut Squash), Long Grain Rice (Rice), Scallions (Fresh Scallions), Onions (Onions), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
-   "name": "Pumpkin Squah Rice",
+   "name": "Pumpkin Squash Rice",
    "protein": {
     "amount": "4g",
     "percent": 8.0
@@ -132647,43 +132648,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 437,
-   "calories_from_fat": 149,
+   "calories": 472,
+   "calories_from_fat": 176,
    "cholesterol": {
     "amount": "147.3mg",
     "percent": 49.0
    },
    "dietary_fiber": {
-    "amount": "5.6g",
-    "percent": 20.0
+    "amount": "6.2g",
+    "percent": 22.0
    },
    "id": 301046,
    "information": null,
-   "ingredients": "Beef Stew Meat (Beef Stew Meat), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Potatoes, Carrots (Carrots), Onions (Onions), Water, Scallions (Fresh Scallions), Suntan Peppers (Bell Peppers), Fresh Thyme (Fresh Thyme), Curry Powder (Spices (including Cumin, Fennel, Coriander, Mustard, Fenugreek, Chile powder, Clove, Ginger, Cinnamon, Cardamom), Turmeric, Salt. Contains: Mustard.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Green Seasoning Marinade (Scallions (Fresh Scallions), Cilantro (Cilantro), Onions (Onions), Parsley (Parsley), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Celery (Celery), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Spanish Paprika (Paprika), Ground Ginger (Dried Ginger.))",
+   "ingredients": "Beef Stew Meat (Beef Stew Meat), Green Seasoning Marinade (Scallions (Fresh Scallions), Cilantro (Cilantro), Onions (Onions), Parsley (Parsley), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Celery (Celery), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Spanish Paprika (Paprika), Ground Ginger (Dried Ginger.)), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Potatoes, Carrots (Carrots), Onions (Onions), Water, Scallions (Fresh Scallions), Suntan Peppers (Bell Peppers), Fresh Thyme (Fresh Thyme), Curry Powder (Spices (including Cumin, Fennel, Coriander, Mustard, Fenugreek, Chile powder, Clove, Ginger, Cinnamon, Cardamom), Turmeric, Salt. Contains: Mustard.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.)",
    "name": "Beef Stew",
    "protein": {
-    "amount": "51.7g",
-    "percent": 101.0
+    "amount": "52.2g",
+    "percent": 102.0
    },
    "sat_fat": {
-    "amount": "4.6g",
-    "percent": 21.0
+    "amount": "4.8g",
+    "percent": 22.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "578.4mg",
-    "percent": 25.0
+    "amount": "883.4mg",
+    "percent": 38.0
    },
    "sugars": {
-    "amount": "4g"
+    "amount": "4.5g"
    },
    "total_carb": {
-    "amount": "22.5g",
-    "percent": 8.0
+    "amount": "24.8g",
+    "percent": 9.0
    },
    "total_fat": {
-    "amount": "16.6g",
-    "percent": 21.0
+    "amount": "19.5g",
+    "percent": 25.0
    },
    "trans_fat": {
     "amount": "0.1g"
@@ -133690,43 +133691,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 463,
-   "calories_from_fat": 210,
+   "calories": 416,
+   "calories_from_fat": 182,
    "cholesterol": {
-    "amount": "56.9mg",
-    "percent": 19.0
+    "amount": "42.6mg",
+    "percent": 14.0
    },
    "dietary_fiber": {
-    "amount": "3g",
-    "percent": 11.0
+    "amount": "2.8g",
+    "percent": 10.0
    },
    "id": 301095,
    "information": null,
-   "ingredients": "Bok Choy, Sun Noodles (Enriched Wheat Flour (Wheat Flour, Niacin, reduced Iron, Thiamine Mononitrate Riboflavin, Folic Acid, ) Water, Contains 2% or Less of Wheat Gluten, Kansui (Sodium Carbonate, Potassium, Carbonate). Dried Egg White Powder, Salt, Riboflavin (For Color) Cornstarch, Sago Starch), Ground Pork (All natural No artificial ingredient, s Minimally Processed), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Black Vinegar (Water, Vinegar, Sugar, Salt, Onion, Orange Juice (0.6%), Carrot Juice (0.6%), Tomato Paste, Caramel, Spices), Tahini Paste (100% Ground toasted sesame seeds), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Chiu Chow Chili Crisp oil (Soybean Oil, Water, Dehydrated Garlic, Chili Pepper Powder, Salted Chili Peppers (Chili peppers, Salt), Soy Sauce (Water, Salt, Soybeans, Wheat Flour), Salt, Sesame Oil, Sugar.), Ground Black Pepper, Scallions (Scallions)",
+   "ingredients": "Sun Noodles (Enriched Wheat Flour (Wheat Flour, Niacin, reduced Iron, Thiamine Mononitrate Riboflavin, Folic Acid, ) Water, Contains 2% or Less of Wheat Gluten, Kansui (Sodium Carbonate, Potassium, Carbonate). Dried Egg White Powder, Salt, Riboflavin (For Color) Cornstarch, Sago Starch), Bok Choy, Ground Pork (All natural No artificial ingredient, s Minimally Processed), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Black Vinegar (Water, Vinegar, Sugar, Salt, Onion, Orange Juice (0.6%), Carrot Juice (0.6%), Tomato Paste, Caramel, Spices), Tahini Paste (100% Ground toasted sesame seeds), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Chiu Chow Chili Crisp oil (Soybean Oil, Water, Dehydrated Garlic, Chili Pepper Powder, Salted Chili Peppers (Chili peppers, Salt), Soy Sauce (Water, Salt, Soybeans, Wheat Flour), Salt, Sesame Oil, Sugar.), Ground Black Pepper, Scallions (Scallions)",
    "name": "Dan Dan Noodles with Pork",
    "protein": {
-    "amount": "23.9g",
-    "percent": 47.0
+    "amount": "19.8g",
+    "percent": 39.0
    },
    "sat_fat": {
-    "amount": "5.7g",
-    "percent": 26.0
+    "amount": "4.5g",
+    "percent": 20.0
    },
    "serving_size": "8 oz",
    "sodium": {
-    "amount": "1002.7mg",
-    "percent": 44.0
+    "amount": "985.5mg",
+    "percent": 43.0
    },
    "sugars": {
-    "amount": "1.7g"
+    "amount": "1.6g"
    },
    "total_carb": {
-    "amount": "39.5g",
+    "amount": "39.1g",
     "percent": 14.0
    },
    "total_fat": {
-    "amount": "23.3g",
-    "percent": 30.0
+    "amount": "20.2g",
+    "percent": 26.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -144418,7 +144419,7 @@
   },
   {
    "allergens": [],
-   "calories": 30,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -144431,13 +144432,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "2 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -144445,8 +144446,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "7g",
-    "percent": 3.0
+    "amount": "14.1g",
+    "percent": 5.0
    },
    "total_fat": {
     "amount": "0g"
@@ -167233,7 +167234,7 @@
    "id": 540543,
    "information": null,
    "ingredients": "Breaded Chicken Breast (Boneless, Skinless Chicken Breast Filets with Rib Meat CONTAINING: Up To 18% Of A Solution Of Water, Salt Sodium Phosphates, Seasoning (Salt Flavors, Maltodextrin, Sugar Vegetable Stock (Carrot, Onion, Celery, ) Garlic Powder) BREADED WITH: Enriched Wheat Flour, Water Salt, Contains 2% or less of the following: Disodium Inosinate and Disodium Guanylate, Garlic Powder, Leavening (Sodium Bicarbonate, Sodium Acid Pyrophosphate, Sodium Aluminum Phosphate, Monocalcium Phosphate), Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate, Monocalcium Phosphate) Onion Powder, Spice Extractive, Spices, Wheat Gluten Breading set in Vegetable Oil), Hoagie Bun (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, riboflavin, Folic Acid), Water, Yeast, Wheat Gluten, Contains 2% Or Less Of The Following:cornmeal, Salt, High Fructose Corn Syrup, Soybean Oil, Calcium Propionate (Preservative), ), Home Style Cole Slaw (Green Cabbage, Extra Heavy Mayonnaise (Soybean Oil, Distilled Vinegar, Egg Yolk, High Fructose Corn Syrup, Contains Less than 2% of Salt, water, Mustard Seed, Calcium Disodium EDTA), Vinegar Cider, Powdered Sugar, Carrots, Cultured Dextrose, Maltodextrin, Citrus Fiber, Black Pepper.), Kosher Dill Pickles (Cucumbers, Water, Vinegar, Salt, Alum, Calcium Chloride, Sodium Benzoate (Preservative) Spices, Polysorbate 80, Turmeric (Color) Yellow 5.), HOT HONEY (Honey, Real Chili Peppers, Vinegar, )",
-   "name": "Spicy Hot Honey Chicken Sandwich",
+   "name": "Nashville Hot Honey Chicken Sandwich",
    "protein": {
     "amount": "26.3g",
     "percent": 52.0
@@ -187131,6 +187132,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "c8e7be4c4aed7cb183e5de99a03d542b1a7799cf13a3bfb080ee86cb7fea6131",
+ "sha256": "bdbde88832963b3c59b0f92f6f934a74ff17c63abb5866a9cdf698339fd9fd73",
  "table": "recipes"
 }

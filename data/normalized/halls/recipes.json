@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T13:15:31+00:00",
+ "generatedAt": "2026-09-03T18:19:22+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -4317,6 +4317,30 @@
    "vegan": false,
    "vegetarian": true
   },
+  "211028": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Wheat Roll (Whole Wheat Flour, Water, Sugar, Yeast, Wheat Gluten, Soybean Oil, Salt, Calcium Propionate, Sodium Stearoyl Lactylate, DATEM, Wheat Flour, Enzymes, Ascorbic Acid.)",
+   "name": "Wheat Hamburger Rolls",
+   "note": null,
+   "nutrition": {
+    "calories": 160,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 5.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 300.0,
+    "sugars_g": 2.0,
+    "total_carb_g": 30.0,
+    "total_fat_g": 2.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 roll",
+   "vegan": true,
+   "vegetarian": true
+  },
   "211029": {
    "allergens": [
     "Soybeans",
@@ -7403,18 +7427,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 584,
-    "cholesterol_mg": 14.3,
-    "dietary_fiber_g": 4.3,
-    "protein_g": 29.4,
-    "sat_fat_g": 9.9,
-    "sodium_mg": 1849.1,
-    "sugars_g": 5.7,
-    "total_carb_g": 38.4,
-    "total_fat_g": 36.6,
+    "calories": 292,
+    "cholesterol_mg": 7.1,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 14.7,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 924.6,
+    "sugars_g": 2.8,
+    "total_carb_g": 19.2,
+    "total_fat_g": 18.3,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -7700,6 +7724,30 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "301044": {
+   "allergens": [
+    "Soybeans",
+    "Tree Nuts"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Butternut Squash (Butternut Squash), Long Grain Rice (Rice), Scallions (Fresh Scallions), Onions (Onions), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
+   "name": "Pumpkin Squash Rice",
+   "note": null,
+   "nutrition": {
+    "calories": 178,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.0,
+    "protein_g": 4.0,
+    "sat_fat_g": 2.2,
+    "sodium_mg": 333.8,
+    "sugars_g": 2.5,
+    "total_carb_g": 33.0,
+    "total_fat_g": 3.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
   },
   "301045": {
    "allergens": [],
@@ -8157,19 +8205,19 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Bok Choy, Sun Noodles (Enriched Wheat Flour (Wheat Flour, Niacin, reduced Iron, Thiamine Mononitrate Riboflavin, Folic Acid, ) Water, Contains 2% or Less of Wheat Gluten, Kansui (Sodium Carbonate, Potassium, Carbonate). Dried Egg White Powder, Salt, Riboflavin (For Color) Cornstarch, Sago Starch), Ground Pork (All natural No artificial ingredient, s Minimally Processed), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Black Vinegar (Water, Vinegar, Sugar, Salt, Onion, Orange Juice (0.6%), Carrot Juice (0.6%), Tomato Paste, Caramel, Spices), Tahini Paste (100% Ground toasted sesame seeds), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Chiu Chow Chili Crisp oil (Soybean Oil, Water, Dehydrated Garlic, Chili Pepper Powder, Salted Chili Peppers (Chili peppers, Salt), Soy Sauce (Water, Salt, Soybeans, Wheat Flour), Salt, Sesame Oil, Sugar.), Ground Black Pepper, Scallions (Scallions)",
+   "ingredients": "Sun Noodles (Enriched Wheat Flour (Wheat Flour, Niacin, reduced Iron, Thiamine Mononitrate Riboflavin, Folic Acid, ) Water, Contains 2% or Less of Wheat Gluten, Kansui (Sodium Carbonate, Potassium, Carbonate). Dried Egg White Powder, Salt, Riboflavin (For Color) Cornstarch, Sago Starch), Bok Choy, Ground Pork (All natural No artificial ingredient, s Minimally Processed), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Black Vinegar (Water, Vinegar, Sugar, Salt, Onion, Orange Juice (0.6%), Carrot Juice (0.6%), Tomato Paste, Caramel, Spices), Tahini Paste (100% Ground toasted sesame seeds), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Chiu Chow Chili Crisp oil (Soybean Oil, Water, Dehydrated Garlic, Chili Pepper Powder, Salted Chili Peppers (Chili peppers, Salt), Soy Sauce (Water, Salt, Soybeans, Wheat Flour), Salt, Sesame Oil, Sugar.), Ground Black Pepper, Scallions (Scallions)",
    "name": "Dan Dan Noodles with Pork",
    "note": null,
    "nutrition": {
-    "calories": 463,
-    "cholesterol_mg": 56.9,
-    "dietary_fiber_g": 3.0,
-    "protein_g": 23.9,
-    "sat_fat_g": 5.7,
-    "sodium_mg": 1002.7,
-    "sugars_g": 1.7,
-    "total_carb_g": 39.5,
-    "total_fat_g": 23.3,
+    "calories": 416,
+    "cholesterol_mg": 42.6,
+    "dietary_fiber_g": 2.8,
+    "protein_g": 19.8,
+    "sat_fat_g": 4.5,
+    "sodium_mg": 985.5,
+    "sugars_g": 1.6,
+    "total_carb_g": 39.1,
+    "total_fat_g": 20.2,
     "trans_fat_g": 0.0
    },
    "portion": "8 oz",

@@ -1,7 +1,7 @@
 {
  "date": "2026-09-07",
- "fetchedAt": "2026-09-03T13:13:48+00:00",
- "itemCount": 168,
+ "fetchedAt": "2026-09-03T18:17:53+00:00",
+ "itemCount": 156,
  "locationNum": "07",
  "meals": [
   {
@@ -11,215 +11,98 @@
     {
      "items": [
       {
-       "name": "Assorted Bagels"
+       "name": "Hard Cooked Eggs - Cage Free"
       },
       {
-       "name": "Cage Free Hard Boiled Eggs"
-      },
-      {
-       "name": "Granola"
-      },
-      {
-       "name": "Pastry  Of The DAY"
-      },
-      {
-       "name": "Quaker Instant Oatmeal Cups"
+       "name": "Steel Cut Oatmeal"
       }
      ],
-     "name": "Bag Meal Breakfast Options"
+     "name": "Breakfast Entrees"
     },
     {
      "items": [
       {
-       "name": "Halal Chicken and Lettuce wrap"
+       "name": "Cinnamon Roll"
       },
       {
-       "name": "Ham & Swiss on Hearty Wheat"
-      },
-      {
-       "name": "Mozzarella, Tomato & Basil Wrap"
-      },
-      {
-       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat"
-      },
-      {
-       "name": "Tuna Salad and Lettuce on Spinach Wrap"
-      },
-      {
-       "name": "Turkey & Cheddar on Gluten Free Wrap"
-      },
-      {
-       "name": "Turkey & Cheddar on Wheat"
+       "name": "Muffin Assortment"
       }
      ],
-     "name": "Bag Meal Specialty Sandwiches"
+     "name": "Breakfast Bakery"
     },
     {
      "items": [
       {
-       "name": "Falafel Salad"
+       "name": "Baby Spinach"
       },
-      {
-       "name": "Garden Salad"
-      },
-      {
-       "name": "Harvest  Salad"
-      }
-     ],
-     "name": "Bag Meal Salads"
-    },
-    {
-     "items": [
-      {
-       "name": "Homemade Tuna Salad"
-      },
-      {
-       "name": "Roasted Low-Sodium Turkey"
-      },
-      {
-       "name": "Sliced Ham"
-      }
-     ],
-     "name": "Bag Meal Build Your Own"
-    },
-    {
-     "items": [
-      {
-       "name": "Bread, Hearty Wheat"
-      },
-      {
-       "name": "Gluten Free Multi Grain Bread"
-      },
-      {
-       "name": "Gluten Free White Bread"
-      },
-      {
-       "name": "Hearty White Bread"
-      },
-      {
-       "name": "Wheat Tortillas"
-      }
-     ],
-     "name": "Bag MeaL Bread Choices"
-    },
-    {
-     "items": [
       {
        "name": "Cheddar Cheese"
       },
       {
-       "name": "Sliced White American Cheese"
+       "name": "Fried Egg"
       },
       {
-       "name": "Swiss Cheese"
+       "name": "SLiced  White American Cheese"
+      },
+      {
+       "name": "Sliced Ham"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Turkey Bacon"
       }
      ],
-     "name": "Bag Meal Cheese Choices"
+     "name": "MISC"
     },
     {
      "items": [
       {
-       "name": "Chips, Cape Cod"
+       "name": "Assorted Bagels"
+      }
+     ],
+     "name": "Bagel"
+    },
+    {
+     "items": [
+      {
+       "name": "Avocado"
       },
       {
-       "name": "Daily Baked Cookie"
+       "name": "Fresh Fruit Salad"
       },
       {
-       "name": "Dairy Free Vanilla Yogurt"
+       "name": "Grapefruit Wedge"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Orange Wedge"
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Fresh Gala Apple"
       },
       {
        "name": "Fruit, Bananas"
       },
       {
-       "name": "Fruit, Local Apples"
+       "name": "Granny Smith Apples"
       },
       {
-       "name": "Fruit, Oranges"
-      },
-      {
-       "name": "Grilled Chicken"
-      },
-      {
-       "name": "Grilled Spiced Tofu"
-      },
-      {
-       "name": "Peeled Baby Carrots"
-      },
-      {
-       "name": "Pretzel Twists"
-      },
-      {
-       "name": "Yogurt, Greek Plain"
+       "name": "Kiwi"
       }
      ],
-     "name": "Bagged Meal Sides"
-    },
-    {
-     "items": [
-      {
-       "name": "All Natural Peanut Butter"
-      },
-      {
-       "name": "Balsamic dressing (pc)"
-      },
-      {
-       "name": "Butter"
-      },
-      {
-       "name": "Cream Cheese Packets Asst."
-      },
-      {
-       "name": "Grape Preserves"
-      },
-      {
-       "name": "Italian Lite dressing (pc)"
-      },
-      {
-       "name": "Mayonnaise packets"
-      },
-      {
-       "name": "Mustard packets"
-      },
-      {
-       "name": "Ranch Buttermilk Dressing (pc)"
-      }
-     ],
-     "name": "Bagged Meal Condiments"
-    },
-    {
-     "items": [
-      {
-       "name": "1% Milk 8z"
-      },
-      {
-       "name": "Can of Coke"
-      },
-      {
-       "name": "Can of Diet Coke"
-      },
-      {
-       "name": "Chocolate milk 8 oz."
-      },
-      {
-       "name": "Cranberry Lime Seltzer"
-      },
-      {
-       "name": "Plain Soy Milk"
-      },
-      {
-       "name": "Pomegranate  Seltzer Water"
-      },
-      {
-       "name": "Skim milk 8 oz."
-      },
-      {
-       "name": "Tropicana Orange Juice"
-      },
-      {
-       "name": "Water Alum  Can 12oz"
-      }
-     ],
-     "name": "Bag Meal Beverages"
+     "name": "Fresh Fruit"
     }
    ]
   },
@@ -230,215 +113,249 @@
     {
      "items": [
       {
-       "name": "Assorted Bagels"
+       "name": "Lasagna Soup with Chicken Sausage"
       },
       {
-       "name": "Cage Free Hard Boiled Eggs"
-      },
-      {
-       "name": "Granola"
-      },
-      {
-       "name": "Pastry  Of The DAY"
-      },
-      {
-       "name": "Quaker Instant Oatmeal Cups"
+       "name": "Tomato Basil Soup"
       }
      ],
-     "name": "Bag Meal Breakfast Options"
+     "name": "Today's Soup"
     },
     {
      "items": [
       {
-       "name": "Halal Chicken and Lettuce wrap"
+       "name": "Baby Arugula"
       },
       {
-       "name": "Ham & Swiss on Hearty Wheat"
+       "name": "Black  Beans"
       },
       {
-       "name": "Mozzarella, Tomato & Basil Wrap"
+       "name": "Butter   Beans"
       },
       {
-       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat"
+       "name": "Caesar Salad"
       },
       {
-       "name": "Tuna Salad and Lettuce on Spinach Wrap"
+       "name": "Corn Niblets"
       },
       {
-       "name": "Turkey & Cheddar on Gluten Free Wrap"
+       "name": "Cottage Cheese"
       },
       {
-       "name": "Turkey & Cheddar on Wheat"
+       "name": "Diced Onions"
+      },
+      {
+       "name": "Grape Tomatoes"
+      },
+      {
+       "name": "Grilled Tofu"
+      },
+      {
+       "name": "Hard Cooked Eggs"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Kalamata Olives"
+      },
+      {
+       "name": "Little Leaf Greens"
+      },
+      {
+       "name": "Quinoa Black Bean and Rost Corn Salad"
+      },
+      {
+       "name": "Roasted Diced Beets"
+      },
+      {
+       "name": "Roasted Salmon"
+      },
+      {
+       "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Shredded Carrots"
+      },
+      {
+       "name": "Shredded Cheddar Cheese"
+      },
+      {
+       "name": "Sliced Avocado"
+      },
+      {
+       "name": "Sliced Cucumbers"
+      },
+      {
+       "name": "Sorghum"
+      },
+      {
+       "name": "Steamed Broccoli"
+      },
+      {
+       "name": "Suntan Pepper Strips"
+      },
+      {
+       "name": "Tricolor Quinoa"
+      },
+      {
+       "name": "Wonton Strips"
       }
      ],
-     "name": "Bag Meal Specialty Sandwiches"
+     "name": "Salad Bar"
     },
     {
      "items": [
       {
-       "name": "Falafel Salad"
+       "name": "Buffalo Chicken Salad"
       },
       {
-       "name": "Garden Salad"
+       "name": "Cheddar Cheese"
       },
       {
-       "name": "Harvest  Salad"
-      }
-     ],
-     "name": "Bag Meal Salads"
-    },
-    {
-     "items": [
+       "name": "Classic Cole Slaw"
+      },
       {
-       "name": "Homemade Tuna Salad"
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Kosher Dill Pickle Chips"
+      },
+      {
+       "name": "Leaf Lettuce"
+      },
+      {
+       "name": "No Nut Basil Pesto"
       },
       {
        "name": "Roasted Low-Sodium Turkey"
       },
       {
        "name": "Sliced Ham"
-      }
-     ],
-     "name": "Bag Meal Build Your Own"
-    },
-    {
-     "items": [
-      {
-       "name": "Bread, Hearty Wheat"
       },
       {
-       "name": "Gluten Free Multi Grain Bread"
+       "name": "Sliced Red Onions"
       },
       {
-       "name": "Gluten Free White Bread"
-      },
-      {
-       "name": "Hearty White Bread"
-      },
-      {
-       "name": "Wheat Tortillas"
-      }
-     ],
-     "name": "Bag MeaL Bread Choices"
-    },
-    {
-     "items": [
-      {
-       "name": "Cheddar Cheese"
-      },
-      {
-       "name": "Sliced White American Cheese"
+       "name": "Sliced Tomatoes"
       },
       {
        "name": "Swiss Cheese"
+      },
+      {
+       "name": "Tuna Salad"
+      },
+      {
+       "name": "Western Style Guacamole"
       }
      ],
-     "name": "Bag Meal Cheese Choices"
+     "name": "Sand/ Deli"
     },
     {
      "items": [
       {
-       "name": "Chips, Cape Cod"
+       "name": "Grilled Chicken Breast"
       },
       {
-       "name": "Daily Baked Cookie"
+       "name": "Japchae Beef"
       },
       {
-       "name": "Dairy Free Vanilla Yogurt"
-      },
-      {
-       "name": "Fruit, Bananas"
-      },
-      {
-       "name": "Fruit, Local Apples"
-      },
-      {
-       "name": "Fruit, Oranges"
-      },
-      {
-       "name": "Grilled Chicken"
-      },
-      {
-       "name": "Grilled Spiced Tofu"
-      },
-      {
-       "name": "Peeled Baby Carrots"
-      },
-      {
-       "name": "Pretzel Twists"
-      },
-      {
-       "name": "Yogurt, Greek Plain"
+       "name": "Sweet and Sour Chicken"
       }
      ],
-     "name": "Bagged Meal Sides"
+     "name": "Entrees"
     },
     {
      "items": [
       {
-       "name": "All Natural Peanut Butter"
-      },
-      {
-       "name": "Balsamic dressing (pc)"
-      },
-      {
-       "name": "Butter"
-      },
-      {
-       "name": "Cream Cheese Packets Asst."
-      },
-      {
-       "name": "Grape Preserves"
-      },
-      {
-       "name": "Italian Lite dressing (pc)"
-      },
-      {
-       "name": "Mayonnaise packets"
-      },
-      {
-       "name": "Mustard packets"
-      },
-      {
-       "name": "Ranch Buttermilk Dressing (pc)"
+       "name": "Vietnamese Tofu Banh Mi Sandwich"
       }
      ],
-     "name": "Bagged Meal Condiments"
+     "name": "Veg,Vegan"
     },
     {
      "items": [
       {
-       "name": "1% Milk 8z"
-      },
-      {
-       "name": "Can of Coke"
-      },
-      {
-       "name": "Can of Diet Coke"
-      },
-      {
-       "name": "Chocolate milk 8 oz."
-      },
-      {
-       "name": "Cranberry Lime Seltzer"
-      },
-      {
-       "name": "Plain Soy Milk"
-      },
-      {
-       "name": "Pomegranate  Seltzer Water"
-      },
-      {
-       "name": "Skim milk 8 oz."
-      },
-      {
-       "name": "Tropicana Orange Juice"
-      },
-      {
-       "name": "Water Alum  Can 12oz"
+       "name": "Sticky Rice"
       }
      ],
-     "name": "Bag Meal Beverages"
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Roasted Zucchini"
+      },
+      {
+       "name": "Vegetable Stir Fry"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Miso Soy Edamame with Chili"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "Vietnamese Tofu Banh Mi Sandwich"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Chocolate Chip Cookies"
+      },
+      {
+       "name": "Pineapple Soft serve"
+      },
+      {
+       "name": "Strawberry Soft serve"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Warm Buttermilk Cornbread"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "Blueberry   Banana  Smoothie"
+      }
+     ],
+     "name": "Delish"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Rice"
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Beef Stew"
+      }
+     ],
+     "name": "Chili Bar/Stew"
     }
    ]
   },
@@ -449,219 +366,301 @@
     {
      "items": [
       {
-       "name": "Assorted Bagels"
+       "name": "Lasagna Soup with Chicken Sausage"
       },
       {
-       "name": "Cage Free Hard Boiled Eggs"
-      },
-      {
-       "name": "Granola"
-      },
-      {
-       "name": "Pastry  Of The DAY"
-      },
-      {
-       "name": "Quaker Instant Oatmeal Cups"
+       "name": "Tomato Basil Soup"
       }
      ],
-     "name": "Bag Meal Breakfast Options"
+     "name": "Today's Soup"
     },
     {
      "items": [
       {
-       "name": "Halal Chicken and Lettuce wrap"
+       "name": "Baby Arugula"
       },
       {
-       "name": "Ham & Swiss on Hearty Wheat"
+       "name": "Black  Beans"
       },
       {
-       "name": "Mozzarella, Tomato & Basil Wrap"
+       "name": "Butter   Beans"
       },
       {
-       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat"
+       "name": "Caesar Salad"
       },
       {
-       "name": "Tuna Salad and Lettuce on Spinach Wrap"
+       "name": "Corn Niblets"
       },
       {
-       "name": "Turkey & Cheddar on Gluten Free Wrap"
+       "name": "Cottage Cheese"
       },
       {
-       "name": "Turkey & Cheddar on Wheat"
+       "name": "Diced Onions"
+      },
+      {
+       "name": "Grape Tomatoes"
+      },
+      {
+       "name": "Grilled Tofu"
+      },
+      {
+       "name": "Hard Cooked Eggs"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Kalamata Olives"
+      },
+      {
+       "name": "Little Leaf Greens"
+      },
+      {
+       "name": "Quinoa Black Bean and Rost Corn Salad"
+      },
+      {
+       "name": "Roasted Diced Beets"
+      },
+      {
+       "name": "Roasted Salmon"
+      },
+      {
+       "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Shredded Carrots"
+      },
+      {
+       "name": "Shredded Cheddar Cheese"
+      },
+      {
+       "name": "Sliced Avocado"
+      },
+      {
+       "name": "Sliced Cucumbers"
+      },
+      {
+       "name": "Sorghum"
+      },
+      {
+       "name": "Steamed Broccoli"
+      },
+      {
+       "name": "Suntan Pepper Strips"
+      },
+      {
+       "name": "Tricolor Quinoa"
+      },
+      {
+       "name": "Wonton Strips"
       }
      ],
-     "name": "Bag Meal Specialty Sandwiches"
+     "name": "Salad Bar"
     },
     {
      "items": [
       {
-       "name": "Falafel Salad"
+       "name": "Beef Stew"
       },
       {
-       "name": "Garden Salad"
-      },
-      {
-       "name": "Harvest  Salad"
+       "name": "Jerk Chicken"
       }
      ],
-     "name": "Bag Meal Salads"
+     "name": "Entrees"
     },
     {
      "items": [
       {
-       "name": "Homemade Tuna Salad"
-      },
-      {
-       "name": "Roasted Low-Sodium Turkey"
-      },
-      {
-       "name": "Sliced Ham"
+       "name": "JerkTofu"
       }
      ],
-     "name": "Bag Meal Build Your Own"
+     "name": "Veg,Vegan"
     },
     {
      "items": [
       {
-       "name": "Bread, Hearty Wheat"
-      },
-      {
-       "name": "Gluten Free Multi Grain Bread"
-      },
-      {
-       "name": "Gluten Free White Bread"
-      },
-      {
-       "name": "Hearty White Bread"
-      },
-      {
-       "name": "Wheat Tortillas"
+       "name": "Pumpkin Squash Rice"
       }
      ],
-     "name": "Bag MeaL Bread Choices"
+     "name": "Starch And Potatoes"
     },
     {
      "items": [
+      {
+       "name": "Corn on the Cob"
+      },
+      {
+       "name": "Seasoned Cabbage"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Black-Eyed Peas"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "Jerk Chicken"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Banana Pudding"
+      },
+      {
+       "name": "Pineapple Soft serve"
+      },
+      {
+       "name": "Strawberry Soft serve"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Cage Free Eggs Cooked to Order"
+      },
+      {
+       "name": "Cage-Free Egg Whites Cooked to Order"
+      },
       {
        "name": "Cheddar Cheese"
       },
       {
-       "name": "Sliced White American Cheese"
+       "name": "Cheese Quesadilla"
       },
       {
-       "name": "Swiss Cheese"
-      }
-     ],
-     "name": "Bag Meal Cheese Choices"
-    },
-    {
-     "items": [
-      {
-       "name": "Chips, Cape Cod"
+       "name": "Frankfurter Rolls"
       },
       {
-       "name": "Daily Baked Cookie"
+       "name": "French Fries"
       },
       {
-       "name": "Dairy Free Vanilla Yogurt"
+       "name": "Grilled All Beef Old Neighborhood Hot Dog"
       },
       {
-       "name": "Fruit, Bananas"
+       "name": "Grilled Burger"
       },
       {
-       "name": "Fruit, Local Apples"
+       "name": "Grilled Burger Halal"
       },
       {
-       "name": "Fruit, Oranges"
+       "name": "Grilled Cheese Sandwich"
       },
       {
        "name": "Grilled Chicken"
       },
       {
-       "name": "Grilled Spiced Tofu"
+       "name": "Hamburger Rolls"
       },
       {
-       "name": "Peeled Baby Carrots"
+       "name": "Huds Boom Sauce"
       },
       {
-       "name": "Pretzel Twists"
+       "name": "Jackfruit Burger"
       },
       {
-       "name": "Yogurt, Greek Plain"
+       "name": "Leaf Lettuce"
+      },
+      {
+       "name": "Nashville Hot Chicken Sandwich"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Sour Cream"
+      },
+      {
+       "name": "Thick and Chunky Mild Salsa"
+      },
+      {
+       "name": "Wheat Hamburger Rolls"
       }
      ],
-     "name": "Bagged Meal Sides"
+     "name": "From the Grill"
     },
     {
      "items": [
       {
-       "name": "All Natural Peanut Butter"
-      },
-      {
-       "name": "Balsamic dressing (pc)"
-      },
-      {
-       "name": "Butter"
-      },
-      {
-       "name": "Cream Cheese Packets Asst."
-      },
-      {
-       "name": "Grape Preserves"
-      },
-      {
-       "name": "Italian Lite dressing (pc)"
-      },
-      {
-       "name": "Mayonnaise packets"
-      },
-      {
-       "name": "Mustard packets"
-      },
-      {
-       "name": "Ranch Buttermilk Dressing (pc)"
+       "name": "Brown Rice"
       }
      ],
-     "name": "Bagged Meal Condiments"
+     "name": "Brown Rice station"
     },
     {
      "items": [
       {
-       "name": "1% Milk 8z"
+       "name": "Chobani Nonfat Plain Greek Yogurt"
       },
       {
-       "name": "Can of Coke"
+       "name": "Chobani Plain Greek Yogurt"
       },
       {
-       "name": "Can of Diet Coke"
+       "name": "Fresh Fruit Salad"
       },
       {
-       "name": "Chocolate milk 8 oz."
+       "name": "Low  Fat Chobani Plain Yogurt"
       },
       {
-       "name": "Cranberry Lime Seltzer"
+       "name": "Napa kimchi"
       },
       {
-       "name": "Plain Soy Milk"
+       "name": "Pickled Okra"
       },
       {
-       "name": "Pomegranate  Seltzer Water"
+       "name": "Pickled Pepper Hot Cherry"
       },
       {
-       "name": "Skim milk 8 oz."
-      },
-      {
-       "name": "Tropicana Orange Juice"
-      },
-      {
-       "name": "Water Alum  Can 12oz"
+       "name": "Plain Soy Yogurt"
       }
      ],
-     "name": "Bag Meal Beverages"
+     "name": "Gut Health Station"
+    },
+    {
+     "items": [
+      {
+       "name": "Marinara Spaghetti Sauce"
+      },
+      {
+       "name": "Protein Plus Penne Pasta"
+      },
+      {
+       "name": "Vodka Sauce"
+      }
+     ],
+     "name": "Whole Grain Pasta Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Pound Cake"
+      },
+      {
+       "name": "Sliced Strawberries"
+      }
+     ],
+     "name": "Brain Break"
     }
    ]
   }
  ],
- "mealsSha256": "5f00622fcf52c8b0db2c393792f0e7f124f82ed45f0ff621bd62461d52834154",
+ "mealsSha256": "33e61cff068b20b0facf63973662da9f8a3547f034ce4a3b87d631ecaa63c52b",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

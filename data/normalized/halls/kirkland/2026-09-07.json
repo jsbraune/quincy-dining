@@ -1397,9 +1397,18 @@
     {
      "items": [
       {
-       "allergens": [],
+       "allergens": [
+        "Soybeans",
+        "Tree Nuts"
+       ],
+       "calories": 178,
        "name": "Pumpkin Squash Rice",
-       "tags": []
+       "portion": "4 oz",
+       "recipeId": 301044,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Starch And Potatoes"
