@@ -1,7 +1,7 @@
 {
  "date": "2026-09-06",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
- "itemCount": 171,
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
+ "itemCount": 172,
  "locationNum": "07",
  "meals": [
   {
@@ -84,6 +84,14 @@
    "meal": "lunch",
    "sourceLabel": "Lunch",
    "stations": [
+    {
+     "items": [
+      {
+       "name": "Scrambled Cage Free Eggs"
+      }
+     ],
+     "name": "Breakfast Entrees"
+    },
     {
      "items": [
       {
@@ -289,6 +297,9 @@
     },
     {
      "items": [
+      {
+       "name": "Scrambled Cage Free Eggs"
+      },
       {
        "name": "Smoked Salmon"
       }
@@ -621,9 +632,6 @@
       },
       {
        "name": "Thick and Chunky Mild Salsa"
-      },
-      {
-       "name": "Wheat Hamburger Rolls"
       }
      ],
      "name": "From the Grill"
@@ -716,6 +724,6 @@
    ]
   }
  ],
- "mealsSha256": "48015b4d6b926ced1e62c4af94aab09c3884216ff44dcb3293a457467c643ffe",
+ "mealsSha256": "514e06a51e84bdec38c3e7ed5d7957fc621d591edf74407c04e957cebbd4aabf",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

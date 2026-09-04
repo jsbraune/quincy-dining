@@ -1,7 +1,7 @@
 {
  "date": "2026-09-09",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
- "itemCount": 155,
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
+ "itemCount": 154,
  "locationNum": "07",
  "meals": [
   {
@@ -586,9 +586,6 @@
       },
       {
        "name": "Thick and Chunky Mild Salsa"
-      },
-      {
-       "name": "Wheat Hamburger Rolls"
       }
      ],
      "name": "From the Grill"
@@ -658,6 +655,6 @@
    ]
   }
  ],
- "mealsSha256": "3296d1128f6d7b4e3b354668cb53513d3641172b5d5ce3bdf89a73d127f710a4",
+ "mealsSha256": "f1700bac2dafbaadc2a9aa92b2055be2331f83c66e51bf968cdfe974f03584e1",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

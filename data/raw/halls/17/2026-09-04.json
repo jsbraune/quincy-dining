@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
- "itemCount": 123,
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
+ "itemCount": 94,
  "locationNum": "17",
  "meals": [
   {
@@ -409,109 +409,17 @@
     {
      "items": [
       {
-       "name": "Dinner Menu for Yard Fest"
+       "name": "Crimson Jam on Harvard Yard"
       },
       {
        "name": "Dinner Served at Currier,  Dunster, Hillel"
       }
      ],
      "name": "MISC"
-    },
-    {
-     "items": [
-      {
-       "name": "Baby Arugula"
-      },
-      {
-       "name": "Barley"
-      },
-      {
-       "name": "Caesar Salad"
-      },
-      {
-       "name": "Cannellini Beans"
-      },
-      {
-       "name": "Corn Niblets"
-      },
-      {
-       "name": "Cottage Cheese"
-      },
-      {
-       "name": "Cranberries"
-      },
-      {
-       "name": "Currried Cauliflower Salad"
-      },
-      {
-       "name": "Diced Onions"
-      },
-      {
-       "name": "Feta Cheese"
-      },
-      {
-       "name": "Flaked Tuna"
-      },
-      {
-       "name": "Grape Tomatoes"
-      },
-      {
-       "name": "Grilled Tofu"
-      },
-      {
-       "name": "Hard Cooked Eggs"
-      },
-      {
-       "name": "Huds Boom Sauce"
-      },
-      {
-       "name": "Hummus"
-      },
-      {
-       "name": "Kalamata Olives"
-      },
-      {
-       "name": "Kidney Beans"
-      },
-      {
-       "name": "Little Leaf Greens"
-      },
-      {
-       "name": "Roasted Butternut Squash"
-      },
-      {
-       "name": "Seasoned Halal Chicken Breast"
-      },
-      {
-       "name": "Sesame Lime Vinaigrette"
-      },
-      {
-       "name": "Shredded Carrots"
-      },
-      {
-       "name": "Sliced Avocado"
-      },
-      {
-       "name": "Sliced Cucumbers"
-      },
-      {
-       "name": "Steamed Broccoli"
-      },
-      {
-       "name": "Suntan Pepper Strips"
-      },
-      {
-       "name": "Tabouleh Salad"
-      },
-      {
-       "name": "Tricolor Quinoa"
-      }
-     ],
-     "name": "Salad Bar"
     }
    ]
   }
  ],
- "mealsSha256": "1a02017175d696e3c646974aab07ef436e6ffd246836427050e5b06c0bfe5650",
+ "mealsSha256": "35f03020f90ddf671081c53c7bea3899898d4768f396b7cf9d98e360e2ca4ac2",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

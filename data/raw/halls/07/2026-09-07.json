@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
  "itemCount": 156,
  "locationNum": "07",
  "meals": [
@@ -77,6 +77,9 @@
       },
       {
        "name": "Grapefruit Wedge"
+      },
+      {
+       "name": "Huds Boom Sauce"
       },
       {
        "name": "Hummus"
@@ -589,9 +592,6 @@
       },
       {
        "name": "Thick and Chunky Mild Salsa"
-      },
-      {
-       "name": "Wheat Hamburger Rolls"
       }
      ],
      "name": "From the Grill"
@@ -653,7 +653,7 @@
        "name": "Pound Cake"
       },
       {
-       "name": "Sliced Strawberries"
+       "name": "Strawberry Sauce"
       }
      ],
      "name": "Brain Break"
@@ -661,6 +661,6 @@
    ]
   }
  ],
- "mealsSha256": "33e61cff068b20b0facf63973662da9f8a3547f034ce4a3b87d631ecaa63c52b",
+ "mealsSha256": "15a65cfff8898e597d7c2b88f04ff0d54a8eff50df737be395ee1056c2b4480a",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
  "hall": "bagmeals",
  "hallName": "Bag Meals",
  "itemCount": 156,
@@ -220,6 +220,19 @@
        "recipeId": 201000,
        "tags": [
         "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Huds Boom Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 300988,
+       "tags": [
         "vegetarian"
        ]
       },
@@ -1791,20 +1804,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 160,
-       "name": "Wheat Hamburger Rolls",
-       "portion": "1 roll",
-       "recipeId": 211028,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
       }
      ],
      "name": "From the Grill"
@@ -1985,10 +1984,10 @@
       },
       {
        "allergens": [],
-       "calories": 54,
-       "name": "Sliced Strawberries",
-       "portion": "2 oz",
-       "recipeId": 204005,
+       "calories": 34,
+       "name": "Strawberry Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 204108,
        "tags": [
         "vegan",
         "vegetarian"

@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-09-01T18:06:28+00:00",
- "itemCount": 112,
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
+ "itemCount": 85,
  "locationNum": "14",
  "meals": [
   {
@@ -40,6 +40,9 @@
       },
       {
        "name": "Fried Egg"
+      },
+      {
+       "name": "Kirkland House Closed for Special Event"
       },
       {
        "name": "SLiced  White American Cheese"
@@ -364,106 +367,17 @@
     {
      "items": [
       {
+       "name": "Crimson Jam on Harvard Yard"
+      },
+      {
        "name": "Dinner Served at Currier,  Dunster, Hillel"
       }
      ],
      "name": "MISC"
-    },
-    {
-     "items": [
-      {
-       "name": "Baby Arugula"
-      },
-      {
-       "name": "Barley"
-      },
-      {
-       "name": "Caesar Salad"
-      },
-      {
-       "name": "Cannellini Beans"
-      },
-      {
-       "name": "Corn Niblets"
-      },
-      {
-       "name": "Cottage Cheese"
-      },
-      {
-       "name": "Cranberries"
-      },
-      {
-       "name": "Currried Cauliflower Salad"
-      },
-      {
-       "name": "Diced Onions"
-      },
-      {
-       "name": "Feta Cheese"
-      },
-      {
-       "name": "Flaked Tuna"
-      },
-      {
-       "name": "Grape Tomatoes"
-      },
-      {
-       "name": "Grilled Tofu"
-      },
-      {
-       "name": "Hard Cooked Eggs"
-      },
-      {
-       "name": "Huds Boom Sauce"
-      },
-      {
-       "name": "Hummus"
-      },
-      {
-       "name": "Kalamata Olives"
-      },
-      {
-       "name": "Kidney Beans"
-      },
-      {
-       "name": "Little Leaf Greens"
-      },
-      {
-       "name": "Roasted Butternut Squash"
-      },
-      {
-       "name": "Seasoned Halal Chicken Breast"
-      },
-      {
-       "name": "Sesame Lime Vinaigrette"
-      },
-      {
-       "name": "Shredded Carrots"
-      },
-      {
-       "name": "Sliced Avocado"
-      },
-      {
-       "name": "Sliced Cucumbers"
-      },
-      {
-       "name": "Steamed Broccoli"
-      },
-      {
-       "name": "Suntan Pepper Strips"
-      },
-      {
-       "name": "Tabouleh Salad"
-      },
-      {
-       "name": "Tricolor Quinoa"
-      }
-     ],
-     "name": "Salad Bar"
     }
    ]
   }
  ],
- "mealsSha256": "661db092bfe321d633973b0a87f25d44e4e25d889460556afa26ab82fab6338d",
+ "mealsSha256": "c70fac74cd62cbdd48cc60eae4106d7b9a887ad24920f35c4a6594f768a470fa",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

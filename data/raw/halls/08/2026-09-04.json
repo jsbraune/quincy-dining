@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
- "itemCount": 100,
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
+ "itemCount": 102,
  "locationNum": "08",
  "meals": [
   {
@@ -172,12 +172,6 @@
    "stations": [
     {
      "items": [
-      {
-       "name": "Biscuit"
-      },
-      {
-       "name": "Chicken & Dumpling Soup"
-      },
       {
        "name": "New England Clam Chowder"
       },
@@ -423,10 +417,38 @@
       }
      ],
      "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Biscuit"
+      },
+      {
+       "name": "Chicken & Dumpling Soup"
+      }
+     ],
+     "name": "Chili Bar/Stew"
+    }
+   ]
+  },
+  {
+   "meal": "dinner",
+   "sourceLabel": "DINNER",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Crimson Jam on Harvard Yard"
+      },
+      {
+       "name": "Dinner Served at Currier,  Dunster, Hillel"
+      }
+     ],
+     "name": "MISC"
     }
    ]
   }
  ],
- "mealsSha256": "525e900baff3cce73025f5f0701dda8bbe4c91115a361b51dd5a56d868123f86",
+ "mealsSha256": "1c7ff033bf4b2ef37fc9fed2369e8e848f30eedc760d1bd4002fdd4a13f16c8f",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
  "hall": "bagmeals",
  "hallName": "Bag Meals",
  "itemCount": 161,
@@ -219,6 +219,19 @@
        "recipeId": 201000,
        "tags": [
         "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Huds Boom Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 300988,
+       "tags": [
         "vegetarian"
        ]
       },
@@ -1804,20 +1817,6 @@
        "name": "Thick and Chunky Mild Salsa",
        "portion": "2 fl. oz",
        "recipeId": 144018,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 160,
-       "name": "Wheat Hamburger Rolls",
-       "portion": "1 roll",
-       "recipeId": 211028,
        "tags": [
         "vegan",
         "vegetarian"

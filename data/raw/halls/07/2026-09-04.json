@@ -1,13 +1,24 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
- "itemCount": 168,
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
+ "itemCount": 172,
  "locationNum": "07",
  "meals": [
   {
    "meal": "breakfast",
    "sourceLabel": "Breakfast",
    "stations": [
+    {
+     "items": [
+      {
+       "name": "Crimson Jam on Harvard Yard"
+      },
+      {
+       "name": "Dinner Served at Currier,  Dunster, Hillel"
+      }
+     ],
+     "name": "Miscellaneous"
+    },
     {
      "items": [
       {
@@ -77,6 +88,9 @@
       },
       {
        "name": "Grapefruit Wedge"
+      },
+      {
+       "name": "Huds Boom Sauce"
       },
       {
        "name": "Hummus"
@@ -378,6 +392,17 @@
     {
      "items": [
       {
+       "name": "Crimson Jam on Harvard Yard"
+      },
+      {
+       "name": "Mather House Closed for Special Event"
+      }
+     ],
+     "name": "MISC"
+    },
+    {
+     "items": [
+      {
        "name": "New England Clam Chowder"
       },
       {
@@ -610,9 +635,6 @@
       },
       {
        "name": "Thick and Chunky Mild Salsa"
-      },
-      {
-       "name": "Wheat Hamburger Rolls"
       }
      ],
      "name": "From the Grill"
@@ -697,6 +719,6 @@
    ]
   }
  ],
- "mealsSha256": "df218350301128e9a455bccf599e5f0a9b217cf41151eab2578677c55fb510ab",
+ "mealsSha256": "b492993334efa3dca61ebd6d36b361873280356a93346fdaa8b4c3867d9859da",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

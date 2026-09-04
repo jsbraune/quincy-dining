@@ -1,9 +1,9 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
  "hall": "quincy",
  "hallName": "Quincy House",
- "itemCount": 100,
+ "itemCount": 102,
  "locationNum": "08",
  "meals": [
   {
@@ -507,32 +507,6 @@
    "stations": [
     {
      "items": [
-      {
-       "allergens": [
-        "Eggs",
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 181,
-       "name": "Biscuit",
-       "portion": "1 each",
-       "recipeId": 111666,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs",
-        "Wheat"
-       ],
-       "calories": 213,
-       "name": "Chicken & Dumpling Soup",
-       "portion": "8 oz",
-       "recipeId": 10050,
-       "tags": []
-      },
       {
        "allergens": [
         "Crustacean Shellfish",
@@ -1307,6 +1281,61 @@
       }
      ],
      "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 181,
+       "name": "Biscuit",
+       "portion": "1 each",
+       "recipeId": 111666,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Wheat"
+       ],
+       "calories": 213,
+       "name": "Chicken & Dumpling Soup",
+       "portion": "8 oz",
+       "recipeId": 10050,
+       "tags": []
+      }
+     ],
+     "name": "Chili Bar/Stew"
+    }
+   ]
+  },
+  {
+   "meal": "dinner",
+   "stations": [
+    {
+     "items": [
+      {
+       "allergens": [],
+       "name": "Crimson Jam on Harvard Yard",
+       "portion": "1 event",
+       "recipeId": 110055,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "name": "Dinner Served at Currier,  Dunster, Hillel",
+       "portion": "1 each",
+       "recipeId": 999986,
+       "tags": []
+      }
+     ],
+     "name": "MISC"
     }
    ]
   }

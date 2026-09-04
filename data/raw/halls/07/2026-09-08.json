@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
  "itemCount": 161,
  "locationNum": "07",
  "meals": [
@@ -77,6 +77,9 @@
       },
       {
        "name": "Grapefruit Wedge"
+      },
+      {
+       "name": "Huds Boom Sauce"
       },
       {
        "name": "Hummus"
@@ -589,9 +592,6 @@
       },
       {
        "name": "Thick and Chunky Mild Salsa"
-      },
-      {
-       "name": "Wheat Hamburger Rolls"
       }
      ],
      "name": "From the Grill"
@@ -681,6 +681,6 @@
    ]
   }
  ],
- "mealsSha256": "9289b10421dcbe74fabd7f9d12a47886681c1357ac7f9b1bb77a85a745eb57de",
+ "mealsSha256": "b081ec5b4ceb83d2f051ecac775eac3510f0fe5d95020a3f8dc14ccca6fe8a91",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

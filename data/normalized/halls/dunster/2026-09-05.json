@@ -1,9 +1,9 @@
 {
  "date": "2026-09-05",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
  "hall": "dunster",
  "hallName": "Dunster House",
- "itemCount": 163,
+ "itemCount": 167,
  "locationNum": "07",
  "meals": [
   {
@@ -131,6 +131,19 @@
        ]
       },
       {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Huds Boom Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 300988,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
        "allergens": [],
        "calories": 110,
        "name": "Hummus",
@@ -230,6 +243,18 @@
        "name": "Honey Butter",
        "portion": "1 oz",
        "recipeId": 221079,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 180,
+       "name": "Scrambled Cage Free Eggs",
+       "portion": "4 oz",
+       "recipeId": 61003,
        "tags": [
         "vegetarian"
        ]
@@ -1866,26 +1891,49 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 160,
-       "name": "Wheat Hamburger Rolls",
-       "portion": "1 roll",
-       "recipeId": 211028,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
       }
      ],
      "name": "From the Grill"
     },
     {
      "items": [
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 310,
+       "name": "Flour Tortilla",
+       "portion": "1 each",
+       "recipeId": 444111,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 16,
+       "name": "Pico De Gallo",
+       "portion": "1 fl. oz",
+       "recipeId": 153007,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 111,
+       "name": "Shredded Monteray Jack Cheese",
+       "portion": "1 oz",
+       "recipeId": 130055,
+       "tags": [
+        "vegetarian"
+       ]
+      },
       {
        "allergens": [
         "Milk"

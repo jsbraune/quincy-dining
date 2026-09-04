@@ -1,7 +1,7 @@
 {
  "date": "2026-09-05",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
- "itemCount": 163,
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
+ "itemCount": 167,
  "locationNum": "07",
  "meals": [
   {
@@ -50,6 +50,9 @@
        "name": "Grapefruit Wedge"
       },
       {
+       "name": "Huds Boom Sauce"
+      },
+      {
        "name": "Hummus"
       },
       {
@@ -88,6 +91,9 @@
       },
       {
        "name": "Honey Butter"
+      },
+      {
+       "name": "Scrambled Cage Free Eggs"
       },
       {
        "name": "Steel Cut Oatmeal"
@@ -612,15 +618,21 @@
       },
       {
        "name": "Thick and Chunky Mild Salsa"
-      },
-      {
-       "name": "Wheat Hamburger Rolls"
       }
      ],
      "name": "From the Grill"
     },
     {
      "items": [
+      {
+       "name": "Flour Tortilla"
+      },
+      {
+       "name": "Pico De Gallo"
+      },
+      {
+       "name": "Shredded Monteray Jack Cheese"
+      },
       {
        "name": "Sour Cream"
       },
@@ -687,6 +699,6 @@
    ]
   }
  ],
- "mealsSha256": "d2c96b052f33926831c106ba2df67aeb5139d2f01d2c13fba2d77416fab541bf",
+ "mealsSha256": "6cfd5a548ab408a7593c9f192f725ffe5d2b8c6c31abf9719f5da1537392587d",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

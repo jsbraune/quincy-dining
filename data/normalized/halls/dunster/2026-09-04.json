@@ -1,14 +1,33 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
  "hall": "dunster",
  "hallName": "Dunster House",
- "itemCount": 168,
+ "itemCount": 172,
  "locationNum": "07",
  "meals": [
   {
    "meal": "breakfast",
    "stations": [
+    {
+     "items": [
+      {
+       "allergens": [],
+       "name": "Crimson Jam on Harvard Yard",
+       "portion": "1 event",
+       "recipeId": 110055,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "name": "Dinner Served at Currier,  Dunster, Hillel",
+       "portion": "1 each",
+       "recipeId": 999986,
+       "tags": []
+      }
+     ],
+     "name": "Miscellaneous"
+    },
     {
      "items": [
       {
@@ -220,6 +239,19 @@
        "recipeId": 201000,
        "tags": [
         "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Huds Boom Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 300988,
+       "tags": [
         "vegetarian"
        ]
       },
@@ -1118,6 +1150,23 @@
     {
      "items": [
       {
+       "allergens": [],
+       "name": "Crimson Jam on Harvard Yard",
+       "portion": "1 event",
+       "recipeId": 110055,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "name": "Mather House Closed for Special Event",
+       "tags": []
+      }
+     ],
+     "name": "MISC"
+    },
+    {
+     "items": [
+      {
        "allergens": [
         "Crustacean Shellfish",
         "Fish",
@@ -1899,20 +1948,6 @@
        "name": "Thick and Chunky Mild Salsa",
        "portion": "2 fl. oz",
        "recipeId": 144018,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 160,
-       "name": "Wheat Hamburger Rolls",
-       "portion": "1 roll",
-       "recipeId": 211028,
        "tags": [
         "vegan",
         "vegetarian"

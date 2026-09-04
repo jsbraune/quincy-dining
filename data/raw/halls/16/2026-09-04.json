@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
- "itemCount": 132,
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
+ "itemCount": 103,
  "locationNum": "16",
  "meals": [
   {
@@ -438,102 +438,10 @@
       }
      ],
      "name": "MISC"
-    },
-    {
-     "items": [
-      {
-       "name": "Baby Arugula"
-      },
-      {
-       "name": "Barley"
-      },
-      {
-       "name": "Caesar Salad"
-      },
-      {
-       "name": "Cannellini Beans"
-      },
-      {
-       "name": "Corn Niblets"
-      },
-      {
-       "name": "Cottage Cheese"
-      },
-      {
-       "name": "Cranberries"
-      },
-      {
-       "name": "Currried Cauliflower Salad"
-      },
-      {
-       "name": "Diced Onions"
-      },
-      {
-       "name": "Feta Cheese"
-      },
-      {
-       "name": "Flaked Tuna"
-      },
-      {
-       "name": "Grape Tomatoes"
-      },
-      {
-       "name": "Grilled Tofu"
-      },
-      {
-       "name": "Hard Cooked Eggs"
-      },
-      {
-       "name": "Huds Boom Sauce"
-      },
-      {
-       "name": "Hummus"
-      },
-      {
-       "name": "Kalamata Olives"
-      },
-      {
-       "name": "Kidney Beans"
-      },
-      {
-       "name": "Little Leaf Greens"
-      },
-      {
-       "name": "Roasted Butternut Squash"
-      },
-      {
-       "name": "Seasoned Halal Chicken Breast"
-      },
-      {
-       "name": "Sesame Lime Vinaigrette"
-      },
-      {
-       "name": "Shredded Carrots"
-      },
-      {
-       "name": "Sliced Avocado"
-      },
-      {
-       "name": "Sliced Cucumbers"
-      },
-      {
-       "name": "Steamed Broccoli"
-      },
-      {
-       "name": "Suntan Pepper Strips"
-      },
-      {
-       "name": "Tabouleh Salad"
-      },
-      {
-       "name": "Tricolor Quinoa"
-      }
-     ],
-     "name": "Salad Bar"
     }
    ]
   }
  ],
- "mealsSha256": "f719158f47aca8010fc88b825ab7d629c887b30316da7c5996ff95b8c478264b",
+ "mealsSha256": "06e16eb30c6fbb9590ced38d9ef3306a347b8a4ec1276214fc8feb4dbc59fca5",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

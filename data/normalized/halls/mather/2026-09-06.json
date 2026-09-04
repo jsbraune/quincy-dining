@@ -1,9 +1,9 @@
 {
  "date": "2026-09-06",
- "fetchedAt": "2026-09-03T18:17:53+00:00",
+ "fetchedAt": "2026-09-04T17:59:49+00:00",
  "hall": "mather",
  "hallName": "Mather House",
- "itemCount": 171,
+ "itemCount": 172,
  "locationNum": "07",
  "meals": [
   {
@@ -227,6 +227,23 @@
   {
    "meal": "lunch",
    "stations": [
+    {
+     "items": [
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 180,
+       "name": "Scrambled Cage Free Eggs",
+       "portion": "4 oz",
+       "recipeId": 61003,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Breakfast Entrees"
+    },
     {
      "items": [
       {
@@ -866,6 +883,19 @@
     },
     {
      "items": [
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 180,
+       "name": "Scrambled Cage Free Eggs",
+       "portion": "4 oz",
+       "recipeId": 61003,
+       "tags": [
+        "vegetarian",
+        "halal"
+       ]
+      },
       {
        "allergens": [
         "Fish"
@@ -1940,20 +1970,6 @@
        "name": "Thick and Chunky Mild Salsa",
        "portion": "2 fl. oz",
        "recipeId": 144018,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 160,
-       "name": "Wheat Hamburger Rolls",
-       "portion": "1 roll",
-       "recipeId": 211028,
        "tags": [
         "vegan",
         "vegetarian"
