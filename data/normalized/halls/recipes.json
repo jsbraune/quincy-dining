@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T18:01:08+00:00",
+ "generatedAt": "2026-09-04T22:12:21+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2076,7 +2076,6 @@
   "153013": {
    "allergens": [
     "Milk",
-    "Soybeans",
     "Tree Nuts"
    ],
    "ingredients": "Tzatkiki Sauce (Water, Hydrogenated Coconut Oil, Nonfat Dry Milk, Cucumbers, Contains Less Than 2% Of Modified Food Starch, Guar Gum, Mono And Diglycerides, Locust Bean Gum, Carrageenan, Lactic Acid, Citric Acid, Natural Flavor, Granulated Garlic, Salt, Garlic, Lemon Juice Concentrate, Sugar, Potassium Sorbate.)",
@@ -4432,19 +4431,19 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Wheat Roll (Whole Wheat Flour, Water, Sugar, Yeast, Wheat Gluten, Soybean Oil, Salt, Calcium Propionate, Sodium Stearoyl Lactylate, DATEM, Wheat Flour, Enzymes, Ascorbic Acid.)",
+   "ingredients": "Wheat Roll (Ingredients: Whole White Wheat Flour, Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Sugar, Wheat Gluten, Soybean Oil, Contains 2% Or Less Of The Following: Salt, Calcium Propionate (Preservative), Wheat Starch, Enzymes, Ascorbic Acid. Allergens: Contains Wheat Made With Be Ingredients)",
    "name": "Wheat Hamburger Rolls",
    "note": null,
    "nutrition": {
-    "calories": 160,
+    "calories": 150,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 2.0,
-    "protein_g": 5.0,
+    "protein_g": 6.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 300.0,
-    "sugars_g": 2.0,
-    "total_carb_g": 30.0,
-    "total_fat_g": 2.5,
+    "sodium_mg": 260.0,
+    "sugars_g": 3.0,
+    "total_carb_g": 28.0,
+    "total_fat_g": 2.0,
     "trans_fat_g": 0.0
    },
    "portion": "1 roll",
