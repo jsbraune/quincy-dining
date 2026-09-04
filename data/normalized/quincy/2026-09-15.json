@@ -1,7 +1,7 @@
 {
  "date": "2026-09-15",
- "fetchedAt": "2026-09-03T22:22:04+00:00",
- "itemCount": 349,
+ "fetchedAt": "2026-09-04T13:07:35+00:00",
+ "itemCount": 355,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -663,6 +663,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -1068,6 +1082,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -2179,6 +2203,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -2584,6 +2622,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -3758,6 +3806,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -4163,6 +4225,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"

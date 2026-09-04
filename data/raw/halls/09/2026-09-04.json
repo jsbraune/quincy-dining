@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
- "itemCount": 64,
+ "fetchedAt": "2026-09-04T13:07:39+00:00",
+ "itemCount": 99,
  "locationNum": "09",
  "meals": [
   {
@@ -154,10 +154,13 @@
     {
      "items": [
       {
-       "name": "Dinner Served at Currier,  Dunster, Hillel"
+       "name": "New England Clam Chowder"
+      },
+      {
+       "name": "Roasted Vegetable Soup"
       }
      ],
-     "name": "MISC"
+     "name": "Today's Soup"
     },
     {
      "items": [
@@ -250,10 +253,183 @@
       }
      ],
      "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Buffalo Chicken Salad"
+      },
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Classic Cole Slaw"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Kosher Dill Pickle Chips"
+      },
+      {
+       "name": "Leaf Lettuce"
+      },
+      {
+       "name": "No Nut Basil Pesto"
+      },
+      {
+       "name": "Roasted Low-Sodium Turkey"
+      },
+      {
+       "name": "Sliced Ham"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Swiss Cheese"
+      },
+      {
+       "name": "Tuna Salad"
+      },
+      {
+       "name": "Western Style Guacamole"
+      }
+     ],
+     "name": "Sand/ Deli"
+    },
+    {
+     "items": [
+      {
+       "name": "Aji Amarillo & Lime Roasted Chicken"
+      },
+      {
+       "name": "Battered & Fried Locally Caught Fresh Fish"
+      },
+      {
+       "name": "Grilled Chicken Breast"
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "French Onion Grilled Cheese"
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "name": "French Fries"
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Roasted Winter Squash with Citrus & Ginger"
+      },
+      {
+       "name": "Steamed Corn"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Green Lentils with Autumn Vegetables"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "Battered & Fried Locally Caught Fresh Fish"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Oatmeal Raisin Cookies"
+      },
+      {
+       "name": "Orange Soft serve"
+      },
+      {
+       "name": "Raspberry Soft serve"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Lemon Wedges"
+      },
+      {
+       "name": "Tartar Sauce"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "Raspberry  Banana  Smoothie"
+      }
+     ],
+     "name": "Delish"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Rice"
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Biscuit"
+      },
+      {
+       "name": "Chicken & Dumpling Soup"
+      }
+     ],
+     "name": "Chili Bar/Stew"
+    }
+   ]
+  },
+  {
+   "meal": "dinner",
+   "sourceLabel": "Dinner",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Crimson Jam on Harvard Yard"
+      },
+      {
+       "name": "Dinner Served at Currier,  Dunster, Hillel"
+      }
+     ],
+     "name": "MISC"
     }
    ]
   }
  ],
- "mealsSha256": "da71e0dad229a7866188c881ed6196a9e1e295e624144e3fb9fb9818b698ffee",
+ "mealsSha256": "3095c836e2a2fce81f4e1995efcc3c1b21b3563b45571e4a27f54871932ad0ab",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

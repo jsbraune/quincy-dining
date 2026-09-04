@@ -1,7 +1,7 @@
 {
  "date": "2026-09-04",
- "fetchedAt": "2026-08-31T19:32:28-04:00",
- "itemCount": 117,
+ "fetchedAt": "2026-09-04T13:07:39+00:00",
+ "itemCount": 88,
  "locationNum": "80",
  "meals": [
   {
@@ -115,12 +115,6 @@
    "stations": [
     {
      "items": [
-      {
-       "name": "Biscuit"
-      },
-      {
-       "name": "Chicken & Dumpling Soup"
-      },
       {
        "name": "New England Clam Chowder"
       },
@@ -366,6 +360,17 @@
       }
      ],
      "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Biscuit"
+      },
+      {
+       "name": "Chicken & Dumpling Soup"
+      }
+     ],
+     "name": "Chili Bar/Stew"
     }
    ]
   },
@@ -376,109 +381,17 @@
     {
      "items": [
       {
-       "name": "Dinner Menu for Yard Fest"
+       "name": "Crimson Jam on Harvard Yard"
       },
       {
        "name": "Dinner Served at Currier,  Dunster, Hillel"
       }
      ],
      "name": "MISC"
-    },
-    {
-     "items": [
-      {
-       "name": "Baby Arugula"
-      },
-      {
-       "name": "Barley"
-      },
-      {
-       "name": "Caesar Salad"
-      },
-      {
-       "name": "Cannellini Beans"
-      },
-      {
-       "name": "Corn Niblets"
-      },
-      {
-       "name": "Cottage Cheese"
-      },
-      {
-       "name": "Cranberries"
-      },
-      {
-       "name": "Currried Cauliflower Salad"
-      },
-      {
-       "name": "Diced Onions"
-      },
-      {
-       "name": "Feta Cheese"
-      },
-      {
-       "name": "Flaked Tuna"
-      },
-      {
-       "name": "Grape Tomatoes"
-      },
-      {
-       "name": "Grilled Tofu"
-      },
-      {
-       "name": "Hard Cooked Eggs"
-      },
-      {
-       "name": "Huds Boom Sauce"
-      },
-      {
-       "name": "Hummus"
-      },
-      {
-       "name": "Kalamata Olives"
-      },
-      {
-       "name": "Kidney Beans"
-      },
-      {
-       "name": "Little Leaf Greens"
-      },
-      {
-       "name": "Roasted Butternut Squash"
-      },
-      {
-       "name": "Seasoned Halal Chicken Breast"
-      },
-      {
-       "name": "Sesame Lime Vinaigrette"
-      },
-      {
-       "name": "Shredded Carrots"
-      },
-      {
-       "name": "Sliced Avocado"
-      },
-      {
-       "name": "Sliced Cucumbers"
-      },
-      {
-       "name": "Steamed Broccoli"
-      },
-      {
-       "name": "Suntan Pepper Strips"
-      },
-      {
-       "name": "Tabouleh Salad"
-      },
-      {
-       "name": "Tricolor Quinoa"
-      }
-     ],
-     "name": "Salad Bar"
     }
    ]
   }
  ],
- "mealsSha256": "57f5f98590e7c6f28d640770323187c74e06dcdf74164b94c4c882a248862e55",
+ "mealsSha256": "50da89d5806986c1cd2d8ccd8319be52ac8493e3ce23bd4f9e12dda9a78689aa",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

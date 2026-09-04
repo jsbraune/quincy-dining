@@ -1,7 +1,7 @@
 {
  "date": "2026-09-16",
- "fetchedAt": "2026-09-03T18:17:46+00:00",
- "itemCount": 165,
+ "fetchedAt": "2026-09-04T13:07:35+00:00",
+ "itemCount": 348,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -157,6 +157,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -562,6 +576,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -668,6 +692,510 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 2,
+     "items": [
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 70,
+       "name": "Hard Cooked Eggs - Cage Free",
+       "portion": "1 each",
+       "recipeId": 61009,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Breakfast Entrees"
+    },
+    {
+     "categoryId": 3,
+     "items": [
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 327,
+       "name": "Cinnamon Roll",
+       "portion": "1 each",
+       "recipeId": 214016,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 200,
+       "name": "Muffin Assortment",
+       "portion": "1 each",
+       "recipeId": 300881,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Breakfast Bakery"
+    },
+    {
+     "categoryId": 4,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 6,
+       "name": "Baby Spinach",
+       "portion": "1 oz",
+       "recipeId": 175150,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 140,
+       "name": "Cheddar Cheese",
+       "portion": "1 oz",
+       "recipeId": 130029,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk"
+       ],
+       "calories": 90,
+       "name": "Fried Egg",
+       "portion": "1 each",
+       "recipeId": 300837,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans"
+       ],
+       "calories": 104,
+       "name": "SLiced White American Cheese",
+       "portion": "1 oz",
+       "recipeId": 130001,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 125,
+       "name": "Sliced Ham",
+       "portion": "4 oz",
+       "recipeId": 319044,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "name": "Sliced Red Onions",
+       "portion": "1 oz",
+       "recipeId": 176007,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 12,
+       "name": "Sliced Tomatoes",
+       "portion": "2 oz",
+       "recipeId": 175036,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 66,
+       "name": "Turkey Bacon",
+       "portion": "2 each",
+       "recipeId": 89006,
+       "tags": []
+      }
+     ],
+     "name": "MISC"
+    },
+    {
+     "categoryId": 5,
+     "items": [
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Bagel"
+    },
+    {
+     "categoryId": 10,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 115,
+       "name": "Avocado",
+       "portion": "2 oz",
+       "recipeId": 300561,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 39,
+       "name": "Fresh Fruit Salad",
+       "portion": "4 oz",
+       "recipeId": 504073,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 14,
+       "name": "Grapefruit Wedge",
+       "portion": "1 each",
+       "recipeId": 201000,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 110,
+       "name": "Hummus",
+       "portion": "2 oz",
+       "recipeId": 300560,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 10,
+       "name": "Orange Wedge",
+       "portion": "1 each",
+       "recipeId": 120003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "categoryId": 23,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 114,
+       "name": "Chia Pudding with Oat Milk",
+       "portion": "5 oz",
+       "recipeId": 300052,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 334,
+       "name": "Malted Belgian Waffles",
+       "portion": "1 each",
+       "recipeId": 36014,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 337,
+       "name": "Multi-Grain Waffles",
+       "portion": "1 each",
+       "recipeId": 501072,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 96,
+       "name": "Pancake Syrup",
+       "portion": "1 fl. oz",
+       "recipeId": 191001,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 49,
+       "name": "Whipped Topping",
+       "portion": "1 fl. oz",
+       "recipeId": 199001,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Build Your Own"
+    },
+    {
+     "categoryId": 24,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 32,
+       "name": "Blueberries",
+       "portion": "2 fl. oz",
+       "recipeId": 204016,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 60,
+       "name": "Chobani Nonfat Plain Greek Yogurt",
+       "portion": "4 oz",
+       "recipeId": 143028,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 113,
+       "name": "Chobani Plain Greek Yogurt",
+       "portion": "4 fl. oz",
+       "recipeId": 301094,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 30,
+       "name": "Cottage Cheese",
+       "portion": "1 oz",
+       "recipeId": 130005,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 111,
+       "name": "Granola",
+       "portion": "1 oz",
+       "recipeId": 300945,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 71,
+       "name": "Grape Preserves",
+       "portion": "1 oz",
+       "recipeId": 195004,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 83,
+       "name": "Low Fat Chobani Plain Yogurt",
+       "portion": "4 oz",
+       "recipeId": 143115,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 73,
+       "name": "Plain Soy Yogurt",
+       "portion": "4 oz",
+       "recipeId": 700106,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 71,
+       "name": "Raspberry Preserves",
+       "portion": "1 oz",
+       "recipeId": 195009,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 41,
+       "name": "Sliced Strawberries",
+       "portion": "4 oz",
+       "recipeId": 300938,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 71,
+       "name": "Strawberry Preserves",
+       "portion": "1 oz",
+       "recipeId": 195003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 177,
+       "name": "Sun Butter",
+       "portion": "1 oz",
+       "recipeId": 143404,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Featured Special Bar"
+    },
+    {
+     "categoryId": 32,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 98,
+       "name": "Fresh Gala Apple",
+       "portion": "1 each",
+       "recipeId": 201040,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 56,
+       "name": "Fresh Gala Apple",
+       "portion": "1 each",
+       "recipeId": 201041,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 76,
+       "name": "Fresh Pear",
+       "portion": "1 each",
+       "recipeId": 201042,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 134,
+       "name": "Fruit, Bananas",
+       "portion": "1 each",
+       "recipeId": 201004,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Fresh Fruit"
     }
    ]
   },
@@ -823,6 +1351,20 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Bag Meal Breakfast Options"
@@ -1228,6 +1770,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -1334,6 +1886,787 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 7,
+     "items": [
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 280,
+       "name": "Cream of Jalapeno Soup",
+       "portion": "8 oz",
+       "recipeId": 10068,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Wheat"
+       ],
+       "calories": 130,
+       "name": "Italian Meatball Soup",
+       "portion": "8 fl. oz",
+       "recipeId": 10022,
+       "tags": []
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "categoryId": 10,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 96,
+       "name": "Black Eyed Peas",
+       "portion": "4 oz",
+       "recipeId": 300811,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 51,
+       "name": "Broccoli and Vegetable Honey Dijon Slaw",
+       "portion": "2 oz",
+       "recipeId": 300896,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 289,
+       "name": "Caesar Salad",
+       "portion": "4 oz",
+       "recipeId": 300895,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 29,
+       "name": "Chick Peas",
+       "portion": "1 oz",
+       "recipeId": 173012,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 44,
+       "name": "Corn Niblets",
+       "portion": "2 oz",
+       "recipeId": 171060,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 30,
+       "name": "Cottage Cheese",
+       "portion": "1 oz",
+       "recipeId": 130005,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 88,
+       "name": "Cranberries",
+       "portion": "1 oz",
+       "recipeId": 204012,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 11,
+       "name": "Diced Onions",
+       "portion": "1 oz",
+       "recipeId": 175040,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 26,
+       "name": "Farro with Dill",
+       "portion": "1 oz",
+       "recipeId": 150045,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 75,
+       "name": "Feta Cheese",
+       "portion": "1 oz",
+       "recipeId": 130003,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Fish"
+       ],
+       "calories": 120,
+       "name": "Flaked Tuna",
+       "portion": "4 oz",
+       "recipeId": 48006,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 10,
+       "name": "Grape Tomatoes",
+       "portion": "1 oz",
+       "recipeId": 177073,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 55,
+       "name": "Grilled Tofu",
+       "portion": "2 oz",
+       "recipeId": 138020,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 78,
+       "name": "Hard Cooked Eggs",
+       "portion": "1 each",
+       "recipeId": 161056,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Huds Boom Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 300988,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 110,
+       "name": "Hummus",
+       "portion": "2 oz",
+       "recipeId": 142539,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 70,
+       "name": "Kalamata Olives",
+       "portion": "1 oz",
+       "recipeId": 501086,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 8,
+       "name": "Little Leaf Greens",
+       "portion": "2 oz",
+       "recipeId": 176066,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 84,
+       "name": "Millet",
+       "portion": "1 oz",
+       "recipeId": 25027,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 63,
+       "name": "Seasoned Halal Chicken Breast",
+       "portion": "2 oz",
+       "recipeId": 111049,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 12,
+       "name": "Shredded Carrots",
+       "portion": "1 oz",
+       "recipeId": 176034,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 45,
+       "name": "Sliced Avocado",
+       "portion": "1 oz",
+       "recipeId": 221115,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 3,
+       "name": "Sliced Cucumbers",
+       "portion": "1 oz",
+       "recipeId": 175022,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 19,
+       "name": "Spinach Salad Base",
+       "portion": "4 oz",
+       "recipeId": 175050,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 19,
+       "name": "Steamed Broccoli",
+       "portion": "2 oz",
+       "recipeId": 175188,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 5,
+       "name": "Suntan Pepper Strips",
+       "portion": "1 oz",
+       "recipeId": 176067,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 59,
+       "name": "Sweet Roasted Potatoes",
+       "portion": "2 oz",
+       "recipeId": 161071,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 70,
+       "name": "Tabouleh Salad",
+       "portion": "2 oz",
+       "recipeId": 142020,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "categoryId": 11,
+     "items": [
+      {
+       "allergens": [],
+       "name": "Sliced Red Onions",
+       "portion": "1 oz",
+       "recipeId": 176007,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 238,
+       "name": "Buffalo Chicken Salad",
+       "portion": "4 oz",
+       "recipeId": 300897,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 140,
+       "name": "Cheddar Cheese",
+       "portion": "1 oz",
+       "recipeId": 130029,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 181,
+       "name": "Classic Cole Slaw",
+       "portion": "4 oz",
+       "recipeId": 440038,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Huds Boom Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 300988,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "name": "Kosher Dill Pickle Chips",
+       "portion": "3 each",
+       "recipeId": 221019,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 4,
+       "name": "Leaf Lettuce",
+       "portion": "1 oz",
+       "recipeId": 175035,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 530,
+       "name": "No Nut Basil Pesto",
+       "portion": "4 fl. oz",
+       "recipeId": 155010,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 122,
+       "name": "Roasted Low-Sodium Turkey",
+       "portion": "4 oz",
+       "recipeId": 113520,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 125,
+       "name": "Sliced Ham",
+       "portion": "4 oz",
+       "recipeId": 319044,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 12,
+       "name": "Sliced Tomatoes",
+       "portion": "2 oz",
+       "recipeId": 175036,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 108,
+       "name": "Swiss Cheese",
+       "portion": "1 oz",
+       "recipeId": 130006,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Fish",
+        "Soybeans"
+       ],
+       "calories": 312,
+       "name": "Tuna Salad",
+       "portion": "4 oz",
+       "recipeId": 48511,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 43,
+       "name": "Western Style Guacamole",
+       "portion": "1 oz",
+       "recipeId": 144002,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Sand/ Deli"
+    },
+    {
+     "categoryId": 12,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 156,
+       "name": "Grilled Chicken Breast",
+       "portion": "4 oz",
+       "recipeId": 111250,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Wheat"
+       ],
+       "calories": 36,
+       "name": "Halal Red Spiced Chicken",
+       "portion": "1 oz",
+       "recipeId": 300063,
+       "tags": [
+        "halal"
+       ]
+      },
+      {
+       "allergens": [
+        "Fish"
+       ],
+       "calories": 237,
+       "name": "Honey Mustard Salmon",
+       "portion": "4 oz",
+       "recipeId": 300523,
+       "tags": []
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "categoryId": 13,
+     "items": [
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 442,
+       "name": "Cheese and Tomato Panini",
+       "portion": "1 piece",
+       "recipeId": 300522,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Veg, Vegan"
+    },
+    {
+     "categoryId": 14,
+     "items": [
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans"
+       ],
+       "calories": 260,
+       "name": "Madison Baked Shredded Potato Casserole",
+       "portion": "3 oz",
+       "recipeId": 300983,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "categoryId": 15,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 61,
+       "name": "Roasted Broccoli",
+       "portion": "4 oz",
+       "recipeId": 508585,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 51,
+       "name": "Sauteed Savoy Cabbage with Mushrooms",
+       "portion": "4 oz",
+       "recipeId": 176030,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "categoryId": 16,
+     "items": [
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 197,
+       "name": "Green Lentils & Roasted Butternut Squash",
+       "portion": "4 oz",
+       "recipeId": 300524,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "categoryId": 17,
+     "items": [
+      {
+       "allergens": [
+        "Milk",
+        "Wheat"
+       ],
+       "calories": 36,
+       "name": "Halal Red Spiced Chicken",
+       "portion": "1 oz",
+       "recipeId": 300063,
+       "tags": [
+        "halal"
+       ]
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "categoryId": 18,
+     "items": [
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 119,
+       "name": "Carnival Cookie",
+       "portion": "1 each",
+       "recipeId": 182046,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Tree Nuts"
+       ],
+       "calories": 110,
+       "name": "Lime Soft Serve",
+       "portion": "4 oz",
+       "recipeId": 300857,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Tree Nuts"
+       ],
+       "calories": 110,
+       "name": "Mango Soft serve",
+       "portion": "4 oz",
+       "recipeId": 300858,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "categoryId": 20,
+     "items": [
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 121,
+       "name": "Warm Buttermilk Cornbread",
+       "portion": "1 piece",
+       "recipeId": 375111,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "categoryId": 21,
+     "items": [
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 104,
+       "name": "Tart Cherry Smoothie",
+       "portion": "8 fl. oz",
+       "recipeId": 301079,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Delish"
+    },
+    {
+     "categoryId": 22,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 107,
+       "name": "Brown Rice",
+       "portion": "3 oz",
+       "recipeId": 505064,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "categoryId": 45,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 210,
+       "name": "Beef Chili",
+       "portion": "8 oz",
+       "recipeId": 10037,
+       "tags": []
+      }
+     ],
+     "name": "Chili Bar/Stew"
     }
    ]
   },
@@ -1393,6 +2726,20 @@
        "name": "Quaker Instant Oatmeal Cups",
        "portion": "1 each",
        "recipeId": 790513,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 230,
+       "name": "Assorted Bagels",
+       "portion": "1 each",
+       "recipeId": 213014,
        "tags": [
         "vegan",
         "vegetarian"
@@ -1894,6 +3241,16 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 130,
+       "name": "Dairy Free Vanilla Yogurt",
+       "portion": "1 each",
+       "recipeId": 10046,
+       "tags": []
       }
      ],
      "name": "Bagged Meal Sides"
@@ -2000,6 +3357,1017 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 7,
+     "items": [
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 280,
+       "name": "Cream of Jalapeno Soup",
+       "portion": "8 oz",
+       "recipeId": 10068,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Wheat"
+       ],
+       "calories": 130,
+       "name": "Italian Meatball Soup",
+       "portion": "8 fl. oz",
+       "recipeId": 10022,
+       "tags": []
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "categoryId": 10,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 96,
+       "name": "Black Eyed Peas",
+       "portion": "4 oz",
+       "recipeId": 300811,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 51,
+       "name": "Broccoli and Vegetable Honey Dijon Slaw",
+       "portion": "2 oz",
+       "recipeId": 300896,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 289,
+       "name": "Caesar Salad",
+       "portion": "4 oz",
+       "recipeId": 300895,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 29,
+       "name": "Chick Peas",
+       "portion": "1 oz",
+       "recipeId": 173012,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 44,
+       "name": "Corn Niblets",
+       "portion": "2 oz",
+       "recipeId": 171060,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 30,
+       "name": "Cottage Cheese",
+       "portion": "1 oz",
+       "recipeId": 130005,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 88,
+       "name": "Cranberries",
+       "portion": "1 oz",
+       "recipeId": 204012,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 11,
+       "name": "Diced Onions",
+       "portion": "1 oz",
+       "recipeId": 175040,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 26,
+       "name": "Farro with Dill",
+       "portion": "1 oz",
+       "recipeId": 150045,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 75,
+       "name": "Feta Cheese",
+       "portion": "1 oz",
+       "recipeId": 130003,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Fish"
+       ],
+       "calories": 120,
+       "name": "Flaked Tuna",
+       "portion": "4 oz",
+       "recipeId": 48006,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 10,
+       "name": "Grape Tomatoes",
+       "portion": "1 oz",
+       "recipeId": 177073,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 55,
+       "name": "Grilled Tofu",
+       "portion": "2 oz",
+       "recipeId": 138020,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 78,
+       "name": "Hard Cooked Eggs",
+       "portion": "1 each",
+       "recipeId": 161056,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Huds Boom Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 300988,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 110,
+       "name": "Hummus",
+       "portion": "2 oz",
+       "recipeId": 142539,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 70,
+       "name": "Kalamata Olives",
+       "portion": "1 oz",
+       "recipeId": 501086,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 8,
+       "name": "Little Leaf Greens",
+       "portion": "2 oz",
+       "recipeId": 176066,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 84,
+       "name": "Millet",
+       "portion": "1 oz",
+       "recipeId": 25027,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 63,
+       "name": "Seasoned Halal Chicken Breast",
+       "portion": "2 oz",
+       "recipeId": 111049,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 12,
+       "name": "Shredded Carrots",
+       "portion": "1 oz",
+       "recipeId": 176034,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 45,
+       "name": "Sliced Avocado",
+       "portion": "1 oz",
+       "recipeId": 221115,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 3,
+       "name": "Sliced Cucumbers",
+       "portion": "1 oz",
+       "recipeId": 175022,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 19,
+       "name": "Spinach Salad Base",
+       "portion": "4 oz",
+       "recipeId": 175050,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 19,
+       "name": "Steamed Broccoli",
+       "portion": "2 oz",
+       "recipeId": 175188,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 5,
+       "name": "Suntan Pepper Strips",
+       "portion": "1 oz",
+       "recipeId": 176067,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 59,
+       "name": "Sweet Roasted Potatoes",
+       "portion": "2 oz",
+       "recipeId": 161071,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 70,
+       "name": "Tabouleh Salad",
+       "portion": "2 oz",
+       "recipeId": 142020,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "categoryId": 12,
+     "items": [
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 180,
+       "name": "Chicken & Veggie Stir Fry",
+       "portion": "6 oz",
+       "recipeId": 300829,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Fish",
+        "Soybeans"
+       ],
+       "calories": 55,
+       "name": "Locally Caught Fresh Fish Soy Glazed",
+       "portion": "1 oz",
+       "recipeId": 300458,
+       "tags": [
+        "halal"
+       ]
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "categoryId": 13,
+     "items": [
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 230,
+       "name": "Garlic Chili Glazed Tofu",
+       "portion": "4 oz",
+       "recipeId": 501093,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Veg, Vegan"
+    },
+    {
+     "categoryId": 14,
+     "items": [
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 176,
+       "name": "Vegetable Lo Mein",
+       "portion": "8 oz",
+       "recipeId": 300825,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "categoryId": 15,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 47,
+       "name": "Steamed Sugar Snap Peas",
+       "portion": "4 oz",
+       "recipeId": 300513,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 70,
+       "name": "Stir Fry Vegetables",
+       "portion": "3 oz",
+       "recipeId": 300827,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "categoryId": 16,
+     "items": [
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 231,
+       "name": "Quinoa with Shoyu, Sesame and Greens",
+       "portion": "4 oz",
+       "recipeId": 300828,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "categoryId": 17,
+     "items": [
+      {
+       "allergens": [
+        "Fish",
+        "Soybeans"
+       ],
+       "calories": 55,
+       "name": "Locally Caught Fresh Fish Soy Glazed",
+       "portion": "1 oz",
+       "recipeId": 300458,
+       "tags": [
+        "halal"
+       ]
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "categoryId": 18,
+     "items": [
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Peanuts",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 330,
+       "name": "Banana Cream Square",
+       "portion": "1 piece",
+       "recipeId": 599085,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Tree Nuts"
+       ],
+       "calories": 110,
+       "name": "Lime Soft Serve",
+       "portion": "4 oz",
+       "recipeId": 300857,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Tree Nuts"
+       ],
+       "calories": 110,
+       "name": "Mango Soft serve",
+       "portion": "4 oz",
+       "recipeId": 300858,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "categoryId": 19,
+     "items": [
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 70,
+       "name": "Cage Free Eggs Cooked to Order",
+       "portion": "1 each",
+       "recipeId": 61056,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 57,
+       "name": "Cage-Free Egg Whites Cooked to Order",
+       "portion": "4 oz",
+       "recipeId": 61041,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 140,
+       "name": "Cheddar Cheese",
+       "portion": "1 oz",
+       "recipeId": 130029,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 293,
+       "name": "Cheese Quesadilla",
+       "portion": "1 each",
+       "recipeId": 250066,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 110,
+       "name": "Frankfurter Rolls",
+       "portion": "1 each",
+       "recipeId": 211029,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 246,
+       "name": "French Fries",
+       "portion": "4 oz",
+       "recipeId": 161008,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 151,
+       "name": "Grilled All Beef Old Neighborhood Hot Dog",
+       "portion": "1 each",
+       "recipeId": 77022,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 271,
+       "name": "Grilled Burger",
+       "portion": "1 each",
+       "recipeId": 77003,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 320,
+       "name": "Grilled Burger Halal",
+       "portion": "1 each",
+       "recipeId": 300873,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 480,
+       "name": "Grilled Cheese Sandwich",
+       "portion": "1 each",
+       "recipeId": 138003,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 156,
+       "name": "Grilled Chicken",
+       "portion": "1 each",
+       "recipeId": 138014,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 180,
+       "name": "Hamburger Rolls",
+       "portion": "1 roll",
+       "recipeId": 211020,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Huds Boom Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 300988,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 211,
+       "name": "Jackfruit Burger",
+       "portion": "1 each",
+       "recipeId": 301000,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 4,
+       "name": "Leaf Lettuce",
+       "portion": "1 oz",
+       "recipeId": 175135,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 597,
+       "name": "Nashville Hot Chicken Sandwich",
+       "portion": "1 each",
+       "recipeId": 300225,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 11,
+       "name": "Sliced Red Onions",
+       "portion": "1 oz",
+       "recipeId": 175033,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 12,
+       "name": "Sliced Tomatoes",
+       "portion": "2 oz",
+       "recipeId": 175036,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 55,
+       "name": "Sour Cream",
+       "portion": "1 oz",
+       "recipeId": 221104,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 18,
+       "name": "Thick and Chunky Mild Salsa",
+       "portion": "2 fl. oz",
+       "recipeId": 144018,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 160,
+       "name": "Wheat Hamburger Rolls",
+       "portion": "1 roll",
+       "recipeId": 211028,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "From the Grill"
+    },
+    {
+     "categoryId": 20,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 2,
+       "name": "Chopped Scallions",
+       "portion": "1/4 oz",
+       "recipeId": 175130,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 66,
+       "name": "Sweet Chili Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 157044,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "categoryId": 22,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 107,
+       "name": "Brown Rice",
+       "portion": "3 oz",
+       "recipeId": 505064,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "categoryId": 36,
+     "items": [
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 60,
+       "name": "Chobani Nonfat Plain Greek Yogurt",
+       "portion": "4 oz",
+       "recipeId": 143028,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 113,
+       "name": "Chobani Plain Greek Yogurt",
+       "portion": "4 fl. oz",
+       "recipeId": 301094,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 39,
+       "name": "Fresh Fruit Salad",
+       "portion": "4 oz",
+       "recipeId": 504073,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 83,
+       "name": "Low Fat Chobani Plain Yogurt",
+       "portion": "4 oz",
+       "recipeId": 143115,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 15,
+       "name": "Napa kimchi",
+       "portion": "2 oz",
+       "recipeId": 300911,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 14,
+       "name": "Pickled Okra",
+       "portion": "3 oz",
+       "recipeId": 270434,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 19,
+       "name": "Pickled Pepper Hot Cherry",
+       "portion": "2 oz",
+       "recipeId": 270433,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 73,
+       "name": "Plain Soy Yogurt",
+       "portion": "4 oz",
+       "recipeId": 700106,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Gut Health Station"
+    },
+    {
+     "categoryId": 46,
+     "items": [
+      {
+       "allergens": [
+        "Eggs",
+        "Milk"
+       ],
+       "calories": 191,
+       "name": "Carbonara with Bacon Sauce",
+       "portion": "4 oz",
+       "recipeId": 300965,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 64,
+       "name": "Marinara Spaghetti Sauce",
+       "portion": "4 fl. oz",
+       "recipeId": 153005,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 77,
+       "name": "Protein Plus Cavatappi",
+       "portion": "2 oz",
+       "recipeId": 300970,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Whole Grain Pasta Bar"
+    },
+    {
+     "categoryId": 90,
+     "items": [
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 49,
+       "name": "Instant Whipped Topping",
+       "portion": "1 fl. oz",
+       "recipeId": 501082,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 27,
+       "name": "Peaches",
+       "portion": "1 oz",
+       "recipeId": 204011,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Brain Break"
     }
    ]
   }

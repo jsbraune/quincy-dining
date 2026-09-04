@@ -1,0 +1,653 @@
+{
+ "date": "2026-09-10",
+ "fetchedAt": "2026-09-04T13:07:39+00:00",
+ "itemCount": 155,
+ "locationNum": "14",
+ "meals": [
+  {
+   "meal": "breakfast",
+   "sourceLabel": "Breakfast",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Hard Cooked Eggs - Cage Free"
+      },
+      {
+       "name": "Steel Cut Oatmeal"
+      }
+     ],
+     "name": "Breakfast Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Muffin Assortment"
+      },
+      {
+       "name": "Rudi's Mini Croissant"
+      }
+     ],
+     "name": "Breakfast Bakery"
+    },
+    {
+     "items": [
+      {
+       "name": "Baby Spinach"
+      },
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Fried Egg"
+      },
+      {
+       "name": "SLiced  White American Cheese"
+      },
+      {
+       "name": "Sliced Ham"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Turkey Bacon"
+      }
+     ],
+     "name": "MISC"
+    },
+    {
+     "items": [
+      {
+       "name": "Assorted Bagels"
+      }
+     ],
+     "name": "Bagel"
+    },
+    {
+     "items": [
+      {
+       "name": "Avocado"
+      },
+      {
+       "name": "Fresh Fruit Salad"
+      },
+      {
+       "name": "Grapefruit Wedge"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Orange Wedge"
+      }
+     ],
+     "name": "Salad Bar"
+    }
+   ]
+  },
+  {
+   "meal": "lunch",
+   "sourceLabel": "Lunch",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Chicken Noodle Soup"
+      },
+      {
+       "name": "Sweet Potato Chipotle"
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "name": "Baby Arugula"
+      },
+      {
+       "name": "Black  Beans"
+      },
+      {
+       "name": "Butter   Beans"
+      },
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Corn Niblets"
+      },
+      {
+       "name": "Cottage Cheese"
+      },
+      {
+       "name": "Diced Onions"
+      },
+      {
+       "name": "Grape Tomatoes"
+      },
+      {
+       "name": "Grilled Tofu"
+      },
+      {
+       "name": "Hard Cooked Eggs"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Kalamata Olives"
+      },
+      {
+       "name": "Little Leaf Greens"
+      },
+      {
+       "name": "Quinoa Black Bean and Rost Corn Salad"
+      },
+      {
+       "name": "Roasted Diced Beets"
+      },
+      {
+       "name": "Roasted Salmon"
+      },
+      {
+       "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Shredded Carrots"
+      },
+      {
+       "name": "Shredded Cheddar Cheese"
+      },
+      {
+       "name": "Sliced Avocado"
+      },
+      {
+       "name": "Sliced Cucumbers"
+      },
+      {
+       "name": "Sorghum"
+      },
+      {
+       "name": "Steamed Broccoli"
+      },
+      {
+       "name": "Suntan Pepper Strips"
+      },
+      {
+       "name": "Tricolor Quinoa"
+      },
+      {
+       "name": "Wonton Strips"
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Buffalo Chicken Salad"
+      },
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Classic Cole Slaw"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Kosher Dill Pickle Chips"
+      },
+      {
+       "name": "Leaf Lettuce"
+      },
+      {
+       "name": "No Nut Basil Pesto"
+      },
+      {
+       "name": "Roasted Low-Sodium Turkey"
+      },
+      {
+       "name": "Sliced Ham"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Swiss Cheese"
+      },
+      {
+       "name": "Tuna Salad"
+      },
+      {
+       "name": "Western Style Guacamole"
+      }
+     ],
+     "name": "Sand/ Deli"
+    },
+    {
+     "items": [
+      {
+       "name": "Broccoli Alfredo Pizza"
+      },
+      {
+       "name": "Grilled Chicken Breast"
+      },
+      {
+       "name": "Pepperoni Pizza"
+      },
+      {
+       "name": "Rosemary Lemon Garlic Roasted Chicken"
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Portobello & Eggplant Parm"
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "name": "Protein Plus Spaghetti Cacio e Pepe with Shaved Zucchini"
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Roasted Local Seasonal Squash"
+      },
+      {
+       "name": "Steamed Broccoli, Carrots and Cauliflower"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Kidney and Cannelini Bean Stew"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "Rosemary Lemon Garlic Roasted Chicken"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Chocolate Chip Cookies"
+      },
+      {
+       "name": "Pineapple Soft serve"
+      },
+      {
+       "name": "Strawberry Soft serve"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Plant Based Strawberry Banana Smoothie"
+      }
+     ],
+     "name": "Delish"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Rice"
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Albondigas"
+      },
+      {
+       "name": "Kings Hawaiian"
+      }
+     ],
+     "name": "Chili Bar/Stew"
+    }
+   ]
+  },
+  {
+   "meal": "dinner",
+   "sourceLabel": "Dinner",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Chicken Noodle Soup"
+      },
+      {
+       "name": "Sweet Potato Chipotle"
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "name": "Baby Arugula"
+      },
+      {
+       "name": "Black  Beans"
+      },
+      {
+       "name": "Butter   Beans"
+      },
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Corn Niblets"
+      },
+      {
+       "name": "Cottage Cheese"
+      },
+      {
+       "name": "Diced Onions"
+      },
+      {
+       "name": "Grape Tomatoes"
+      },
+      {
+       "name": "Grilled Tofu"
+      },
+      {
+       "name": "Hard Cooked Eggs"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Kalamata Olives"
+      },
+      {
+       "name": "Little Leaf Greens"
+      },
+      {
+       "name": "Quinoa Black Bean and Rost Corn Salad"
+      },
+      {
+       "name": "Roasted Diced Beets"
+      },
+      {
+       "name": "Roasted Salmon"
+      },
+      {
+       "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Shredded Carrots"
+      },
+      {
+       "name": "Shredded Cheddar Cheese"
+      },
+      {
+       "name": "Sliced Avocado"
+      },
+      {
+       "name": "Sliced Cucumbers"
+      },
+      {
+       "name": "Sorghum"
+      },
+      {
+       "name": "Steamed Broccoli"
+      },
+      {
+       "name": "Suntan Pepper Strips"
+      },
+      {
+       "name": "Tricolor Quinoa"
+      },
+      {
+       "name": "Wonton Strips"
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Pad Ka Prow"
+      },
+      {
+       "name": "Sweet and Sour Pork"
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Teriyaki Tofu"
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "name": "Jasmine Rice"
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Steamed Fresh Green Beans"
+      },
+      {
+       "name": "Stir Fry Vegetables"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Shanso Sesame Edamame"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "Teriyaki Tofu"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Pineapple Soft serve"
+      },
+      {
+       "name": "Salted Caramel Cake"
+      },
+      {
+       "name": "Strawberry Soft serve"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Cage Free Eggs Cooked to Order"
+      },
+      {
+       "name": "Cage-Free Egg Whites Cooked to Order"
+      },
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Cheese Quesadilla"
+      },
+      {
+       "name": "Frankfurter Rolls"
+      },
+      {
+       "name": "French Fries"
+      },
+      {
+       "name": "Grilled All Beef Old Neighborhood Hot Dog"
+      },
+      {
+       "name": "Grilled Burger"
+      },
+      {
+       "name": "Grilled Burger Halal"
+      },
+      {
+       "name": "Grilled Cheese Sandwich"
+      },
+      {
+       "name": "Grilled Chicken"
+      },
+      {
+       "name": "Hamburger Rolls"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Jackfruit Burger"
+      },
+      {
+       "name": "Leaf Lettuce"
+      },
+      {
+       "name": "Nashville Hot Chicken Sandwich"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Thick and Chunky Mild Salsa"
+      }
+     ],
+     "name": "From the Grill"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Rice"
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Chobani Nonfat Plain Greek Yogurt"
+      },
+      {
+       "name": "Chobani Plain Greek Yogurt"
+      },
+      {
+       "name": "Fresh Fruit Salad"
+      },
+      {
+       "name": "Low  Fat Chobani Plain Yogurt"
+      },
+      {
+       "name": "Napa kimchi"
+      },
+      {
+       "name": "Pickled Okra"
+      },
+      {
+       "name": "Pickled Pepper Hot Cherry"
+      },
+      {
+       "name": "Plain Soy Yogurt"
+      }
+     ],
+     "name": "Gut Health Station"
+    },
+    {
+     "items": [
+      {
+       "name": "Alfredo Sauce"
+      },
+      {
+       "name": "Marinara Spaghetti Sauce"
+      },
+      {
+       "name": "Protein Plus Penne Pasta"
+      }
+     ],
+     "name": "Whole Grain Pasta Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Lettuce"
+      },
+      {
+       "name": "Pita Pocket"
+      },
+      {
+       "name": "Radishes"
+      },
+      {
+       "name": "Shredded Carrots"
+      },
+      {
+       "name": "Sliced Onions"
+      }
+     ],
+     "name": "Brain Break"
+    }
+   ]
+  }
+ ],
+ "mealsSha256": "32ba3dafb17d727720d59767170f94dc724f3c2d132f68721d9c7644c1b25f89",
+ "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
+}

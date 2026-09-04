@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T22:23:05+00:00",
+ "generatedAt": "2026-09-04T13:08:55+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -726,6 +726,27 @@
    "vegan": false,
    "vegetarian": false
   },
+  "111070": {
+   "allergens": [],
+   "ingredients": "Chicken Breast (H) (Chicken Breast Boneless, Skinless.), Lemons (LEMONS), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Greek Leaf Oregano (Dried Oregano), Rosemary (Rosemary), Parsley (Parsley)",
+   "name": "Rosemary Lemon Garlic Roasted Chicken",
+   "note": null,
+   "nutrition": {
+    "calories": 189,
+    "cholesterol_mg": 65.8,
+    "dietary_fiber_g": 0.5,
+    "protein_g": 25.5,
+    "sat_fat_g": 1.9,
+    "sodium_mg": 40.9,
+    "sugars_g": 0.0,
+    "total_carb_g": 1.2,
+    "total_fat_g": 9.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "111160": {
    "allergens": [],
    "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Kosher Salt, Ground Black Pepper",
@@ -1218,6 +1239,30 @@
    "portion": "2 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "140001": {
+   "allergens": [
+    "Milk",
+    "Wheat"
+   ],
+   "ingredients": "Thin Cooked Pizza Shell (Enriched Wheat Flour (Flour, Niacin, Iron, Amylase, Ascorbic Acid, Thiamin Mononitrate, Riboflavin, Folic Acid). Water, Salt, Yeast, Sugar, Canola Oil, Salt, Sugar, Calcium Propionate (Preservative). L-Cysteine, Hydrochloride, Canola Oil. Mono-and Diglycerides.), Tri Blend Pizza Cheese (Pasteurized Part Skim Milk, Pasteurized Milk, Cheese Culture, Salt, Enzymes, Powdered Cellulose and Dextrose (to Prevent Caking)), Pizza Sauce (Vine-Ripened Fresh Tomatoes, Extra Virgin Olive Oil, Sunflower Oil, Salt, Oregano, Seasonings, Granulated Garlic, Naturally Derived Citric Acid.)",
+   "name": "Pepperoni Pizza",
+   "note": null,
+   "nutrition": {
+    "calories": 263,
+    "cholesterol_mg": 15.2,
+    "dietary_fiber_g": 1.3,
+    "protein_g": 12.1,
+    "sat_fat_g": 4.6,
+    "sodium_mg": 572.7,
+    "sugars_g": 0.5,
+    "total_carb_g": 31.6,
+    "total_fat_g": 9.6,
+    "trans_fat_g": 0.2
+   },
+   "portion": "1 slice",
+   "vegan": false,
+   "vegetarian": false
   },
   "140050": {
    "allergens": [],
@@ -2668,6 +2713,27 @@
    "vegan": false,
    "vegetarian": false
   },
+  "171007": {
+   "allergens": [],
+   "ingredients": "Green Beans (Green Beans)",
+   "name": "Steamed Fresh Green Beans",
+   "note": null,
+   "nutrition": {
+    "calories": 35,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.1,
+    "protein_g": 2.1,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 6.8,
+    "sugars_g": 3.7,
+    "total_carb_g": 7.9,
+    "total_fat_g": 0.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "171009": {
    "allergens": [],
    "ingredients": "Green Peas (Green Peas, Salt)",
@@ -3295,6 +3361,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "176099": {
+   "allergens": [],
+   "ingredients": "Local Winter Squash (Winter Squash), Kosher Salt, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Black Pepper",
+   "name": "Roasted Local Seasonal Squash",
+   "note": null,
+   "nutrition": {
+    "calories": 42,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.2,
+    "protein_g": 1.0,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 18.6,
+    "sugars_g": 3.7,
+    "total_carb_g": 10.0,
+    "total_fat_g": 0.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "177073": {
    "allergens": [],
    "ingredients": "Grape Tomato",
@@ -3640,6 +3727,29 @@
    },
    "portion": "1 slice",
    "vegan": false,
+   "vegetarian": true
+  },
+  "186034": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Celery (Celery), Slim Carrots, Button White Mushrooms (Fresh White Button Mushrooms), Onions (Onions), Green Beans (Green Beans), Suntan Peppers (Bell Peppers), Soy Beans Edamame (Soybeans), Scallions (Fresh Scallions), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.)",
+   "name": "Stir Fry Vegetables",
+   "note": null,
+   "nutrition": {
+    "calories": 79,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.8,
+    "protein_g": 4.5,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 26.8,
+    "sugars_g": 3.2,
+    "total_carb_g": 8.4,
+    "total_fat_g": 3.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
    "vegetarian": true
   },
   "188001": {
@@ -5800,6 +5910,29 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300147": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Diced Pork, Pineapple (Pineapple, Pineapple Juice), Ketchup (Tomato Concentrate From Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Onion Powder, Natural Flavoring.), Suntan Peppers (Bell Peppers), Carrot Coins (Carrots), Onions (Onions), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Lite Brown Sugar (Brown Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of Potassium Chloride , Lactic Acid , Potassium Sorbate Added As A Preservative.), Canola & Olive Oil Blend (Canola Oil and Extra Virgin Olive Oil), Garlic (Garlic), Ground Black Pepper (Black Pepper), Ground Ginger (Dried Ginger.)",
+   "name": "Sweet and Sour Pork",
+   "note": null,
+   "nutrition": {
+    "calories": 350,
+    "cholesterol_mg": 86.8,
+    "dietary_fiber_g": 1.9,
+    "protein_g": 29.4,
+    "sat_fat_g": 3.7,
+    "sodium_mg": 614.1,
+    "sugars_g": 21.5,
+    "total_carb_g": 26.9,
+    "total_fat_g": 14.2,
+    "trans_fat_g": 0.1
+   },
+   "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300152": {
    "allergens": [],
    "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Lime Juice (Lime Juice), Garlic (Garlic), Oregano (Oregano), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic), Kosher Salt, Ground Black Pepper, Cilantro (Cilantro), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.)",
@@ -6554,6 +6687,76 @@
     "sugars_g": 3.4,
     "total_carb_g": 13.4,
     "total_fat_g": 1.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300459": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Soy Beans Edamame (Soybeans), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Pure Toasted Sesame Oil (Sesame oil), Chili Garlic Sauce (Salted Chili Peppers (Chili peppers, salt), Water, Sugar, Rice Vinegar, Dehydrated Garlic, Modified Corn Starch, Acetic Acid.), Lemons (LEMONS), Black Sesame Seeds (Black Sesame Seeds), Kosher Salt, Szechwan Peppercorns",
+   "name": "Shanso Sesame Edamame",
+   "note": null,
+   "nutrition": {
+    "calories": 554,
+    "cholesterol_mg": 0.1,
+    "dietary_fiber_g": 10.8,
+    "protein_g": 41.9,
+    "sat_fat_g": 3.7,
+    "sodium_mg": 161.6,
+    "sugars_g": 8.5,
+    "total_carb_g": 34.8,
+    "total_fat_g": 27.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300466": {
+   "allergens": [
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Eggplant (FRESH EGGPLANT), Portobello Mushroom Caps, Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.), Balsamic Vinegar (Balsamic Vinegar of Moderna. Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Basil (Basil), Basil (Basil), Vegan Shredded Mozzarella Cheese (Daiya Oat Cream\u2122 Blend (Water, Gluten-free Oat Flour, Pea Protein, Cultures, Enzymes), Tapioca Starch, Coconut Oil, Corn Starch, Expeller Pressed Safflower Oil, Calcium Phosphate, Less Than 2 Percent Of: Konjac Flour, Fruit Juice (For Color), Yeast Extract, Salt, Dextrose, Xanthan Gum, Lactic Acid, Natural Flavors.), Japanese Bread Crumbs (Wheat Flour, Sugar, Yeast, Salt.), Kosher Salt, Ground Black Pepper",
+   "name": "Portobello & Eggplant Parm",
+   "note": null,
+   "nutrition": {
+    "calories": 200,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.0,
+    "protein_g": 2.8,
+    "sat_fat_g": 1.2,
+    "sodium_mg": 283.9,
+    "sugars_g": 6.3,
+    "total_carb_g": 16.8,
+    "total_fat_g": 15.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300471": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Kidney Beans (Prepared Kidney Beans, Water, Sugar, Dextrose, Salt, Calcium Chloride (Firming Agent) , and Disodium EDTA (To Promote Color Retention).), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Cannellini Beans (Prepared Cannellini Beans, Water, Salt, and Calcium Chloride. Disodium EDTA added as a preservative.), Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Onions (Onions), Diced Celery, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Basil (Basil), Italian Parsley (Italian Parsley), Kosher Salt, Ground Black Pepper, Whole Bay Leaves (Bay Leaves)",
+   "name": "Kidney and Cannelini Bean Stew",
+   "note": null,
+   "nutrition": {
+    "calories": 139,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 9.4,
+    "protein_g": 8.3,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 463.4,
+    "sugars_g": 3.1,
+    "total_carb_g": 24.7,
+    "total_fat_g": 1.4,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -7427,18 +7630,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 584,
-    "cholesterol_mg": 14.3,
-    "dietary_fiber_g": 4.3,
-    "protein_g": 29.4,
-    "sat_fat_g": 9.9,
-    "sodium_mg": 1849.1,
-    "sugars_g": 5.7,
-    "total_carb_g": 38.4,
-    "total_fat_g": 36.6,
+    "calories": 292,
+    "cholesterol_mg": 7.1,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 14.7,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 924.6,
+    "sugars_g": 2.8,
+    "total_carb_g": 19.2,
+    "total_fat_g": 18.3,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -7464,6 +7667,31 @@
     "trans_fat_g": 0.0
    },
    "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300961": {
+   "allergens": [
+    "Crustacean Shellfish",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Ground Turkey, Broccoli Florets (Broccoli), Sliced Water Chestnuts (Water Chestnuts, Water, Citric Acid.), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Fine Granulated Sugar (Sugar), Garlic (Garlic), Red Chili Peppers, Basil (Basil), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
+   "name": "Pad Ka Prow",
+   "note": null,
+   "nutrition": {
+    "calories": 319,
+    "cholesterol_mg": 86.1,
+    "dietary_fiber_g": 1.4,
+    "protein_g": 24.7,
+    "sat_fat_g": 0.2,
+    "sodium_mg": 953.8,
+    "sugars_g": 6.0,
+    "total_carb_g": 16.1,
+    "total_fat_g": 8.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -7607,6 +7835,30 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300977": {
+   "allergens": [
+    "Milk",
+    "Wheat"
+   ],
+   "ingredients": "Water, Zucchini Squash (Zucchini), Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.), Half & Half Cream (Milk, Cream and Disodium Phosphate), Romano Cheese, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Butter (Cream (milk), salt.), Chives (Fresh chives), Italian Parsley (Italian Parsley), Cracked Black Pepper (Black Pepper)",
+   "name": "Protein Plus Spaghetti Cacio e Pepe with Shaved Zucchini",
+   "note": null,
+   "nutrition": {
+    "calories": 427,
+    "cholesterol_mg": 28.1,
+    "dietary_fiber_g": 6.4,
+    "protein_g": 18.0,
+    "sat_fat_g": 6.0,
+    "sodium_mg": 222.9,
+    "sugars_g": 4.2,
+    "total_carb_g": 47.1,
+    "total_fat_g": 20.9,
+    "trans_fat_g": 0.1
+   },
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "300978": {
    "allergens": [
     "Milk",
@@ -7679,6 +7931,32 @@
    "vegan": false,
    "vegetarian": true
   },
+  "300996": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Tri Blend Pizza Cheese (Pasteurized Part Skim Milk, Pasteurized Milk, Cheese Culture, Salt, Enzymes, Powdered Cellulose and Dextrose (to Prevent Caking)), PIZZA DOUGH (Enriched Unbleached Wheat Flour (Wheat Flour, Niacin, Iron As Ferrous Sulfate, Thiamine Mononitrate, Enzyme, Riboflavin, Folic Acid), Water, yeast, Contains Less Than 2% Of The Following: Bread Crumbs (Bleached Wheat Flour, Yeast, Sugar, Salt), Sugar, Soybean Oil, Palm Oil, Leavening (Baking Soda, Sodium Aluminum Phosphate), Salt, Buttermilk, Wheat Gluten, Pasteurized Part Skim Milk, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Guar Gum, Whey Powder (A Milk Derivative), Xanthan Gum, Garlic Powder, Datem, Malted Barley Flour, Dextrose, Cheese Culture, Sodium Phosphate, Lactic Acid, Enzymes, Ascorbic Acid, Calcium Chloride, Powdered Cellulose, Natamycin (A Natural Mold Inhibitor). MAY CONTAIN EGGS AND SOY), Alfredo Sauce (Half & Half (Milk, Cream), Water, Parmesan Cheese (Pasteurized Cow's Milk, Cheese Culture, Salt, Enzymes), Heavy Cream, Butter (Cream, Salt), Cornstarch, Parmesan Cheese Flavor, Modified Food Starch, Natural Butter Flavor, Sea Salt, Granulated Garlic, Spices), Broccoli Florets (Broccoli), Garlic (Garlic)",
+   "name": "Broccoli Alfredo Pizza",
+   "note": null,
+   "nutrition": {
+    "calories": 145,
+    "cholesterol_mg": 21.1,
+    "dietary_fiber_g": 0.4,
+    "protein_g": 9.0,
+    "sat_fat_g": 5.3,
+    "sodium_mg": 307.5,
+    "sugars_g": 0.5,
+    "total_carb_g": 7.5,
+    "total_fat_g": 8.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
+   "vegan": false,
+   "vegetarian": true
+  },
   "301000": {
    "allergens": [
     "Soybeans"
@@ -7724,6 +8002,30 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "301044": {
+   "allergens": [
+    "Soybeans",
+    "Tree Nuts"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Butternut Squash (Butternut Squash), Long Grain Rice (Rice), Scallions (Fresh Scallions), Onions (Onions), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
+   "name": "Pumpkin Squash Rice",
+   "note": null,
+   "nutrition": {
+    "calories": 178,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.0,
+    "protein_g": 4.0,
+    "sat_fat_g": 2.2,
+    "sodium_mg": 333.8,
+    "sugars_g": 2.5,
+    "total_carb_g": 33.0,
+    "total_fat_g": 3.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
   },
   "301045": {
    "allergens": [],
@@ -8181,19 +8483,19 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Bok Choy, Sun Noodles (Enriched Wheat Flour (Wheat Flour, Niacin, reduced Iron, Thiamine Mononitrate Riboflavin, Folic Acid, ) Water, Contains 2% or Less of Wheat Gluten, Kansui (Sodium Carbonate, Potassium, Carbonate). Dried Egg White Powder, Salt, Riboflavin (For Color) Cornstarch, Sago Starch), Ground Pork (All natural No artificial ingredient, s Minimally Processed), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Black Vinegar (Water, Vinegar, Sugar, Salt, Onion, Orange Juice (0.6%), Carrot Juice (0.6%), Tomato Paste, Caramel, Spices), Tahini Paste (100% Ground toasted sesame seeds), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Chiu Chow Chili Crisp oil (Soybean Oil, Water, Dehydrated Garlic, Chili Pepper Powder, Salted Chili Peppers (Chili peppers, Salt), Soy Sauce (Water, Salt, Soybeans, Wheat Flour), Salt, Sesame Oil, Sugar.), Ground Black Pepper, Scallions (Scallions)",
+   "ingredients": "Sun Noodles (Enriched Wheat Flour (Wheat Flour, Niacin, reduced Iron, Thiamine Mononitrate Riboflavin, Folic Acid, ) Water, Contains 2% or Less of Wheat Gluten, Kansui (Sodium Carbonate, Potassium, Carbonate). Dried Egg White Powder, Salt, Riboflavin (For Color) Cornstarch, Sago Starch), Bok Choy, Ground Pork (All natural No artificial ingredient, s Minimally Processed), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Black Vinegar (Water, Vinegar, Sugar, Salt, Onion, Orange Juice (0.6%), Carrot Juice (0.6%), Tomato Paste, Caramel, Spices), Tahini Paste (100% Ground toasted sesame seeds), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Chiu Chow Chili Crisp oil (Soybean Oil, Water, Dehydrated Garlic, Chili Pepper Powder, Salted Chili Peppers (Chili peppers, Salt), Soy Sauce (Water, Salt, Soybeans, Wheat Flour), Salt, Sesame Oil, Sugar.), Ground Black Pepper, Scallions (Scallions)",
    "name": "Dan Dan Noodles with Pork",
    "note": null,
    "nutrition": {
-    "calories": 463,
-    "cholesterol_mg": 56.9,
-    "dietary_fiber_g": 3.0,
-    "protein_g": 23.9,
-    "sat_fat_g": 5.7,
-    "sodium_mg": 1002.7,
-    "sugars_g": 1.7,
-    "total_carb_g": 39.5,
-    "total_fat_g": 23.3,
+    "calories": 416,
+    "cholesterol_mg": 42.6,
+    "dietary_fiber_g": 2.8,
+    "protein_g": 19.8,
+    "sat_fat_g": 4.5,
+    "sodium_mg": 985.5,
+    "sugars_g": 1.6,
+    "total_carb_g": 39.1,
+    "total_fat_g": 20.2,
     "trans_fat_g": 0.0
    },
    "portion": "8 oz",
@@ -8591,6 +8893,30 @@
    },
    "portion": "1 each",
    "vegan": false,
+   "vegetarian": true
+  },
+  "444308": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Teriyaki Glaze (Soy Sauce (Water, Soybean, Wheat, Salt, Sugar, Water, Modified Corn Starch, Onion Juice, Vinegar, Natural Flavor, Garlic Powder, Malic Acid, Spice , Sodium Benzoate, Less than 1/10 of 1% as a preservative. Disodium Inosinate, Disodium Guanylate.), Ground Black Pepper, Kosher Salt",
+   "name": "Teriyaki Tofu",
+   "note": null,
+   "nutrition": {
+    "calories": 123,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.2,
+    "protein_g": 11.9,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 1545.0,
+    "sugars_g": 4.3,
+    "total_carb_g": 7.7,
+    "total_fat_g": 5.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
    "vegetarian": true
   },
   "47046": {
