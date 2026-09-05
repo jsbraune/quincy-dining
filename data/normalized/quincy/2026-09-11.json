@@ -1,7 +1,7 @@
 {
  "date": "2026-09-11",
- "fetchedAt": "2026-09-01T22:26:29+00:00",
- "itemCount": 349,
+ "fetchedAt": "2026-09-05T12:20:41+00:00",
+ "itemCount": 357,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -125,6 +125,71 @@
        "recipeId": 31003,
        "tags": [
         "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 255,
+       "name": "French Toast",
+       "portion": "1 each",
+       "recipeId": 36405,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 135,
+       "name": "Plant Protein Breakfast Sausage",
+       "portion": "2 oz",
+       "recipeId": 300606,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 180,
+       "name": "Scrambled Cage Free Eggs",
+       "portion": "4 oz",
+       "recipeId": 61203,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Tofu Scramble",
+       "portion": "4 oz",
+       "recipeId": 142100,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 78,
+       "name": "Cage Free Hard Boiled Eggs",
+       "portion": "1 each",
+       "recipeId": 161049,
+       "tags": [
         "vegetarian"
        ]
       }
@@ -301,6 +366,19 @@
        "portion": "1 fl. oz",
        "recipeId": 199001,
        "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
         "vegetarian"
        ]
       }
@@ -1158,7 +1236,7 @@
         "Soybeans"
        ],
        "calories": 32,
-       "name": "Italina Lite dressing (pc)",
+       "name": "Italian Lite dressing (pc)",
        "portion": "1 each",
        "recipeId": 290056,
        "tags": []
@@ -1196,6 +1274,37 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 1,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 160,
+       "name": "Chicken Sausage",
+       "portion": "2 each",
+       "recipeId": 89020,
+       "tags": []
+      }
+     ],
+     "name": "Breakfast Meats"
+    },
+    {
+     "categoryId": 14,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 107,
+       "name": "Shredded Hashbrowns",
+       "portion": "4 oz",
+       "recipeId": 161048,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Starch And Potatoes"
     }
    ]
   },
@@ -2671,7 +2780,7 @@
         "Soybeans"
        ],
        "calories": 32,
-       "name": "Italina Lite dressing (pc)",
+       "name": "Italian Lite dressing (pc)",
        "portion": "1 each",
        "recipeId": 290056,
        "tags": []
@@ -4346,7 +4455,7 @@
         "Soybeans"
        ],
        "calories": 32,
-       "name": "Italina Lite dressing (pc)",
+       "name": "Italian Lite dressing (pc)",
        "portion": "1 each",
        "recipeId": 290056,
        "tags": []

@@ -2251,8 +2251,13 @@
        ]
       },
       {
-       "allergens": [],
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 32,
        "name": "Italian Lite dressing (pc)",
+       "portion": "1 each",
+       "recipeId": 290056,
        "tags": []
       },
       {
