@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05T21:57:24+00:00",
+ "generatedAt": "2026-09-06T12:35:45+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -664,6 +664,29 @@
    "vegan": false,
    "vegetarian": false
   },
+  "111093": {
+   "allergens": [
+    "Tree Nuts"
+   ],
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Water, Red Curry Paste (Chili Pepper, Garlic, Shallot, Salt, Lemongrass, Sugar, Kaffir Lime, Galangal, Spices (Coriander Seeds, Cumin, Cardamom).), Garlic (Garlic), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Montreal Seasoning (GARLIC, ONION, SALT, SPICES (INCLUDING BLACK PEPPER, PARSLEY, RED PEPPER, PAPRIKA), ORANGE PEEL, GREEN BELL PEPPER, AND SULFITING AGENT COARSE SALT, SPICES (INCLUDING BLACK PEPPER AND RED PEPPER), GARLIC, ONION, SUNFLOWER OIL, NATURAL FLAVOR AND EXTRACTIVES OF PAPRIKA.)",
+   "name": "Coconut Ginger & Red Curry Chicken",
+   "note": null,
+   "nutrition": {
+    "calories": 161,
+    "cholesterol_mg": 106.3,
+    "dietary_fiber_g": 0.1,
+    "protein_g": 22.5,
+    "sat_fat_g": 2.4,
+    "sodium_mg": 147.5,
+    "sugars_g": 0.2,
+    "total_carb_g": 0.7,
+    "total_fat_g": 6.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "111103": {
    "allergens": [
     "Wheat"
@@ -1121,6 +1144,28 @@
     "sugars_g": 0.0,
     "total_carb_g": 0.5,
     "total_fat_g": 10.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "130263": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.)",
+   "name": "Goat Cheese",
+   "note": null,
+   "nutrition": {
+    "calories": 81,
+    "cholesterol_mg": 20.2,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 5.1,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 45.6,
+    "total_carb_g": 0.3,
+    "total_fat_g": 6.1,
     "trans_fat_g": 0.0
    },
    "portion": "1 oz",
@@ -1806,6 +1851,31 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "144059": {
+   "allergens": [
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Medium Pearl Barley, Lentils (Lentils. MAY CONTAINS TRACES OF WHEAT.), Onions (Onions), Coconut (Coconut, Sugar, Water, Propylene Glycol (sustains freshness), Salt, Sodium Metabisulfite (preserves whiteness of coconut). Contains tree nuts, sulfites.), Limes (Fresh Limes), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ginger (Fresh Ginger), Cilantro (Cilantro), Kosher Salt, Ground Black Pepper",
+   "name": "Coconut Scented Barley & Lentils with Lime",
+   "note": null,
+   "nutrition": {
+    "calories": 381,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 15.3,
+    "protein_g": 11.8,
+    "sat_fat_g": 12.3,
+    "sodium_mg": 392.0,
+    "sugars_g": 5.4,
+    "total_carb_g": 48.9,
+    "total_fat_g": 16.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -2602,6 +2672,29 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "163072": {
+   "allergens": [
+    "Tree Nuts"
+   ],
+   "ingredients": "Sticky Rice (Water, Sticky Rice (Long Grain Rice Enriched With Iron (ferric Phosphate), Niacin, Thiamine, Mononitrate, & Folic Acid. Kosher)), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Mangos (Mangoes), Sugar (Sugar), Kosher Salt",
+   "name": "Coconut Rice Pudding with Mango",
+   "note": null,
+   "nutrition": {
+    "calories": 386,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.8,
+    "protein_g": 4.0,
+    "sat_fat_g": 14.2,
+    "sodium_mg": 319.6,
+    "sugars_g": 24.6,
+    "total_carb_g": 45.3,
+    "total_fat_g": 20.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -4613,17 +4706,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 32,
+    "calories": 81,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.5,
+    "dietary_fiber_g": 6.3,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 1.7,
-    "total_carb_g": 7.9,
-    "total_fat_g": 0.1,
+    "sodium_mg": 4.3,
+    "total_carb_g": 19.6,
+    "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "5 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -6419,6 +6512,32 @@
    "vegan": false,
    "vegetarian": true
   },
+  "300286": {
+   "allergens": [
+    "Crustacean Shellfish",
+    "Eggs",
+    "Fish",
+    "Soybeans"
+   ],
+   "ingredients": "Pad Thai Rice Stick (Rice Flour, Water), Shrimp (Shrimp, Water, Salt), Water, Liquid Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added To Preserve Color.), Tamarind Paste, Fish Sauce (Anchovy Fish, Salt, sugar, Water.), White Vinegar (White Distilled Vinegar dilluted with Water to 5% Acidity.), Light Brown Sugar (Brown Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Scallions (Fresh Scallions), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Chili Garlic Sauce (Salted Chili Peppers (Chili peppers, salt), Water, Sugar, Rice Vinegar, Dehydrated Garlic, Modified Corn Starch, Acetic Acid.), Cilantro (Cilantro), Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Garlic (Garlic)",
+   "name": "Shrimp Pad Thai with Egg",
+   "note": null,
+   "nutrition": {
+    "calories": 418,
+    "cholesterol_mg": 157.0,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 18.5,
+    "sat_fat_g": 0.7,
+    "sodium_mg": 873.2,
+    "sugars_g": 3.3,
+    "total_carb_g": 75.2,
+    "total_fat_g": 5.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300290": {
    "allergens": [],
    "ingredients": "Carrots (Carrots), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garam Masala Spice Blend (Spices, Turmeric, Canola Oil), Mint, Kosher Salt, Ground Black Pepper",
@@ -6805,6 +6924,29 @@
     "sugars_g": 3.2,
     "total_carb_g": 4.6,
     "total_fat_g": 7.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300402": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Tempeh Soy (Cultured Organic Soybean, White Rice , Water.Lactic Acid from Plant Sources, Organic Brown Rice.), Diced Celery, Suntan Peppers (Bell Peppers), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Water, Thai Basil, Shallots (Shallots), Garlic (Garlic), Red Chili Peppers, Fine Granulated Sugar (Sugar)",
+   "name": "Tempeh & Thai Basil Stir Fry",
+   "note": null,
+   "nutrition": {
+    "calories": 249,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 13.9,
+    "sat_fat_g": 2.3,
+    "sodium_mg": 686.2,
+    "sugars_g": 2.4,
+    "total_carb_g": 11.3,
+    "total_fat_g": 18.4,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -7805,6 +7947,69 @@
    "vegan": false,
    "vegetarian": false
   },
+  "300549": {
+   "allergens": [],
+   "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice), Lemon Grass, Kosher Salt, Ground Cardamom (Cardamom)",
+   "name": "Lemongrass Scented Rice",
+   "note": null,
+   "nutrition": {
+    "calories": 163,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.1,
+    "protein_g": 2.7,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 218.4,
+    "sugars_g": 0.0,
+    "total_carb_g": 38.1,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300550": {
+   "allergens": [],
+   "ingredients": "Sweet Potatoes (Sweet Potatoes), Water, Fine Granulated Sugar (Sugar), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Scallions (Fresh Scallions), Tamarind Paste, Kosher Salt",
+   "name": "Roasted Sweet Potato with Tamarind",
+   "note": null,
+   "nutrition": {
+    "calories": 116,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.9,
+    "protein_g": 1.6,
+    "sat_fat_g": 0.2,
+    "sodium_mg": 74.7,
+    "sugars_g": 9.2,
+    "total_carb_g": 23.1,
+    "total_fat_g": 2.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300551": {
+   "allergens": [],
+   "ingredients": "Chinese Pea Pods, Red Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
+   "name": "Roasted Bell Peppers & Snow Peas",
+   "note": null,
+   "nutrition": {
+    "calories": 104,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.8,
+    "protein_g": 3.8,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 180.5,
+    "sugars_g": 5.9,
+    "total_carb_g": 9.9,
+    "total_fat_g": 5.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300554": {
    "allergens": [
     "Milk",
@@ -8099,6 +8304,30 @@
     "sugars_g": 3.4,
     "total_carb_g": 57.9,
     "total_fat_g": 12.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300772": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.), Vegan Ricotta (Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Yeast Flakes (Inactive Dry Yeast, Pyridoxine Hydrochloride (Vitamin B6), Thiamin Hydrochloride (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid (Vitamin B9), Vitamin B12.), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Garlic (Garlic), Ground Black Pepper, Kosher Salt), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Basil (Fresh Basil.), Parmesan Vegan Cheese (Filtered Water, Organic Palm Fruit Oil\u2020, Modifi ed Food Starch, Canola Oil, Natural Flavors (Plant Sources [Contains Autolyzed Yeast]), VegetableGlycerin, Less than 2% of: Lactic Acid (Vegetable Source), Calcium Lactate (Vegetable Source), Sea Salt, Sodium Phosphate, Carrageenan, BambooFiber, Nutritional Yeast, Calcium Phosphate, Organic Chickpea Miso (Organic Handmade Rice Koji, Organic Whole Chickpeas, Sea Salt, Water, KojiSpores), Sunfl ower Lecithin, Citric Acid, Annatto.), Kosher Salt, Ground Black Pepper",
+   "name": "Tofu Ricotta and Protein Plus Penne with Tomato Basil Sauce",
+   "note": null,
+   "nutrition": {
+    "calories": 234,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.3,
+    "protein_g": 9.2,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 207.1,
+    "sugars_g": 1.7,
+    "total_carb_g": 35.6,
+    "total_fat_g": 7.9,
     "trans_fat_g": 0.0
    },
    "portion": "8 oz",
@@ -8898,18 +9127,18 @@
    "name": "Roasted Hot Honey Chicken",
    "note": null,
    "nutrition": {
-    "calories": 40,
-    "cholesterol_mg": 29.0,
-    "dietary_fiber_g": 0.0,
-    "protein_g": 6.1,
-    "sat_fat_g": 0.3,
-    "sodium_mg": 138.9,
-    "sugars_g": 0.2,
-    "total_carb_g": 0.2,
-    "total_fat_g": 1.2,
+    "calories": 159,
+    "cholesterol_mg": 116.0,
+    "dietary_fiber_g": 0.1,
+    "protein_g": 24.3,
+    "sat_fat_g": 1.1,
+    "sodium_mg": 555.4,
+    "sugars_g": 0.7,
+    "total_carb_g": 1.0,
+    "total_fat_g": 5.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -9306,6 +9535,30 @@
    "portion": "2 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "300972": {
+   "allergens": [
+    "Milk",
+    "Soybeans"
+   ],
+   "ingredients": "Golden Nugget Tater Tot (Potatoes, Vegetable Oil (Contains one or more of the following Oils: Canola, Soybean, Cottonseed, Sunflower, Corn, ), Contains 2% or less of Dextrose, Natural Flavor, Salt, Sodium Acid Pyrophosphate added to maintain color.), Pulled Chicken (Dark chicken meat, water, tomatoes (water, tomato paste), seasoning (salt, sugar, spices, dehydrated garlic, xanthan gum, mustard, dehydrated onion, corn syrup solids, paprika, canola oil, chili pepper, lemon juice solids, natural flavors, garlic powder), chicken fat, sodium phosphates, rice flour, chicken type flavor (autolyzed yeast extract, flavors, salt, chicken fat), chili powder (chili peppers, flavoring), curry powder (spices, turmeric).), Onions (Onions), Neufch\u00e2tel cheese (Pasteurized Cultured Milk and Cream, Sal, t Caron Bean Gum, Cheese Cultures.), Hot Sauce (Aged Cayenne Red Peppers, Distilled Vinegar, Water, Salt & Garlic Powder), Bleu Crumbles Cheese (Blue Cheese (Cultured Milk, salt Enzymes, Penicillium Roquefort), Potato Starch to prevent caking)), Butter (Cream (milk), salt.), Scallions (Fresh Scallions), Ranch Dry Dressing Hidden Valley (Salt, Monosodium Glutamate, Garlic*, Modified Corn Starch, Spices, Onion*, Maltodextrin, Less Than 2% of: Natural Flavor, Guar Gum, Calcium Stearate. *Dried. Contains: Milk, Soy)",
+   "name": "Buffalo Chicken Tots",
+   "note": null,
+   "nutrition": {
+    "calories": 351,
+    "cholesterol_mg": 106.5,
+    "dietary_fiber_g": 0.4,
+    "protein_g": 17.4,
+    "sat_fat_g": 8.8,
+    "sodium_mg": 1089.2,
+    "sugars_g": 2.5,
+    "total_carb_g": 18.1,
+    "total_fat_g": 23.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "300973": {
    "allergens": [
@@ -11351,6 +11604,27 @@
    "portion": "6 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "508067": {
+   "allergens": [],
+   "ingredients": "Water, Quinoa (Quinoa), Eggplant (FRESH EGGPLANT), Fennel, Onions (Onions), Butternut Squash (Butternut Squash), Leeks, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Italian Parsley (Italian Parsley), Suntan Peppers (Bell Peppers), Saffron (Saffron)",
+   "name": "Vegetable Quinoa Paella",
+   "note": "Paella originated in Valencia and Spain, with the name referencing the shallow pan - or paella - in which the dish is cooked.",
+   "nutrition": {
+    "calories": 113,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.7,
+    "protein_g": 3.5,
+    "sat_fat_g": 0.2,
+    "sodium_mg": 11.1,
+    "sugars_g": 1.9,
+    "total_carb_g": 16.4,
+    "total_fat_g": 3.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
   },
   "508097": {
    "allergens": [],

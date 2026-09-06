@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-05T12:20:41+00:00",
+ "fetchedAt": "2026-09-06T12:35:40+00:00",
  "rows": [
   {
    "allergens": [
@@ -70801,14 +70801,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -70820,17 +70820,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -79405,6 +79405,52 @@
    },
    "trans_fat": {
     "amount": "0.1g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [],
+   "calories": 67,
+   "calories_from_fat": 12,
+   "cholesterol": {
+    "amount": "24mg",
+    "percent": 8.0
+   },
+   "dietary_fiber": {
+    "amount": "0.6g",
+    "percent": 2.0
+   },
+   "id": 250053,
+   "information": null,
+   "ingredients": "Grilled Chicken Breast (Chicken Breast (H) (Chicken), Rotisserie Spice (Salt, Onion, Spices, Paprika, Garlic, and Citric Acid)), Fig & Peach Chutney (Sliced Peaches (Peaches, Ascorbic Acid (To Promote Color Retention), Citric Acid, Malic Acid, and Natural Flavors.), Dried Figs, Onions (Onions), Red Peppers, Raisins (Raisins), White Vinegar (White Distilled Vinegar dilluted with Water to 5% Acidity.), Sugar (Sugar), Light Brown Sugar (Brown Sugar), Orange Juice (Concentrated Orange Juice, Water, Natural Flavors< Citric Acid, Pectin, Acorbic Acid (Vitamin C), Stevia leaf Extract, Magnesium Phosphate, Beta Carotene (for color) Niacinamide (Vitamin B3) Thiamin Hydrochloride (Vitamin B1) Pyridoxine, Hydrochloride (Vitamin B6)), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Barbados Molasses (Molasses), Kosher Salt, Ground Coriander (Coriander), Ground Black Pepper)",
+   "name": "Chicken Breast w/Fig & Pchs",
+   "protein": {
+    "amount": "7.6g",
+    "percent": 15.0
+   },
+   "sat_fat": {
+    "amount": "0.2g",
+    "percent": 1.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "193.4mg",
+    "percent": 8.0
+   },
+   "sugars": {
+    "amount": "5.2g"
+   },
+   "total_carb": {
+    "amount": "6.5g",
+    "percent": 2.0
+   },
+   "total_fat": {
+    "amount": "1.3g",
+    "percent": 2.0
+   },
+   "trans_fat": {
+    "amount": "0g"
    },
    "vegan": false,
    "vegetarian": false
@@ -124449,18 +124495,18 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 235,
+   "calories": 234,
    "calories_from_fat": 71,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "5.4g",
+    "amount": "5.3g",
     "percent": 19.0
    },
    "id": 300772,
    "information": null,
-   "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.), Vegan Ricotta (Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Yeast Flakes (Inactive Dry Yeast, Pyridoxine Hydrochloride (Vitamin B6), Thiamin Hydrochloride (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid (Vitamin B9), Vitamin B12.), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Garlic (Garlic), Ground Black Pepper, Kosher Salt), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Basil (Fresh Basil.), Garlic (Garlic), Parmesan Vegan Cheese (Filtered Water, Organic Palm Fruit Oil\u2020, Modifi ed Food Starch, Canola Oil, Natural Flavors (Plant Sources [Contains Autolyzed Yeast]), VegetableGlycerin, Less than 2% of: Lactic Acid (Vegetable Source), Calcium Lactate (Vegetable Source), Sea Salt, Sodium Phosphate, Carrageenan, BambooFiber, Nutritional Yeast, Calcium Phosphate, Organic Chickpea Miso (Organic Handmade Rice Koji, Organic Whole Chickpeas, Sea Salt, Water, KojiSpores), Sunfl ower Lecithin, Citric Acid, Annatto.), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.), Vegan Ricotta (Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Yeast Flakes (Inactive Dry Yeast, Pyridoxine Hydrochloride (Vitamin B6), Thiamin Hydrochloride (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid (Vitamin B9), Vitamin B12.), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Garlic (Garlic), Ground Black Pepper, Kosher Salt), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Basil (Fresh Basil.), Parmesan Vegan Cheese (Filtered Water, Organic Palm Fruit Oil\u2020, Modifi ed Food Starch, Canola Oil, Natural Flavors (Plant Sources [Contains Autolyzed Yeast]), VegetableGlycerin, Less than 2% of: Lactic Acid (Vegetable Source), Calcium Lactate (Vegetable Source), Sea Salt, Sodium Phosphate, Carrageenan, BambooFiber, Nutritional Yeast, Calcium Phosphate, Organic Chickpea Miso (Organic Handmade Rice Koji, Organic Whole Chickpeas, Sea Salt, Water, KojiSpores), Sunfl ower Lecithin, Citric Acid, Annatto.), Kosher Salt, Ground Black Pepper",
    "name": "Tofu Ricotta and Protein Plus Penne with Tomato Basil Sauce",
    "protein": {
     "amount": "9.2g",
@@ -129566,41 +129612,41 @@
   },
   {
    "allergens": [],
-   "calories": 40,
-   "calories_from_fat": 11,
+   "calories": 159,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "29mg",
-    "percent": 10.0
+    "amount": "116mg",
+    "percent": 39.0
    },
    "dietary_fiber": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
    "id": 300926,
    "information": null,
    "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Hot Sauce (Aged Cayenne Red Peppers, Distilled Vinegar, Water, Salt & Garlic Powder), Rotisserie Spice (Salt, Onion, Spices, Paprika, Garlic, and Citric Acid), HOT HONEY (Honey, Real Chili Peppers, Vinegar, ), Sage (Sage), Ground Cayenne Pepper (Dried Chilies), Kosher Dill Pickle Spears (Fresh Cucumbers, Water, Vinegar, Salt, Calcium Chloride, Natural Flavors, Polysorbate 80, Garlic Oil, Yellow 5.), Parsley (Parsley)",
    "name": "Roasted Hot Honey Chicken",
    "protein": {
-    "amount": "6.1g",
-    "percent": 12.0
+    "amount": "24.3g",
+    "percent": 48.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "1.1g",
+    "percent": 5.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "138.9mg",
-    "percent": 6.0
+    "amount": "555.4mg",
+    "percent": 24.0
    },
    "sugars": {
-    "amount": "0.2g"
+    "amount": "0.7g"
    },
    "total_carb": {
-    "amount": "0.2g"
+    "amount": "1g"
    },
    "total_fat": {
-    "amount": "1.2g",
-    "percent": 2.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -140307,12 +140353,9 @@
   },
   {
    "allergens": [
-    "Eggs",
-    "Milk",
-    "Soybeans",
-    "Wheat"
+    "Soybeans"
    ],
-   "calories": 336,
+   "calories": 332,
    "calories_from_fat": 225,
    "cholesterol": {
     "amount": "65.5mg",
@@ -140323,7 +140366,7 @@
    },
    "id": 440102,
    "information": null,
-   "ingredients": "Shaved Steak (Beef Shaved Steak), Bulgogi Marinade (Soy Sauce (Water, Wheat, Soybeans, Salt, Alcohol, Vinegar and Lactic Acid), Sugar, Rice Wine Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Onions, Ginger, Sesame Oil, Garlic, Water, Sesame Seeds, Tapioca Starch, Spices. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS.), Teriyaki Sauce GF (Liquid Sugar (Sugar, Water) Organic Gluten Free Tamari Sauce (Water Organic Soybeans, Salt, Organic Vinegar), Sherry Cooking Wine (Salt Potassium Sorbate and Potassium, Metabisulfite (Added as preservatives) Dijon Mustard (Water, Vinegar, Mustard Seed, Salt, White Wine, Citric Acid, Tartaric Acid, Fruit Pectin, Sugar, Spices, ) Soybean Oil, Water Vinegar, Modified Food Starch, Molasses, Pineapple Juice Concentrate, Ginger Puree (Ginger, Water, Citric Acid) Garlic Spice, Potassium Sorbate, (Preservative) Xanthan Gum.)",
+   "ingredients": "Shaved Steak (Beef Shaved Steak), Bulgogi Marinade (Soy Sauce (Water, Soybeans, Rice, Salt), Sugar, Water, Rice Wine Vinegar (Water, Rice, Sugar, Corn Syrup, Salt), Onions, Ginger, Sesame Oil, Garlic, Sesame Seeds, Tapioca Starch, Black Pepper, Chili Flakes Spices, Xanthan Gum.), Teriyaki Sauce GF (Liquid Sugar (Sugar, Water) Organic Gluten Free Tamari Sauce (Water Organic Soybeans, Salt, Organic Vinegar), Sherry Cooking Wine (Salt Potassium Sorbate and Potassium, Metabisulfite (Added as preservatives) Dijon Mustard (Water, Vinegar, Mustard Seed, Salt, White Wine, Citric Acid, Tartaric Acid, Fruit Pectin, Sugar, Spices, ) Soybean Oil, Water Vinegar, Modified Food Starch, Molasses, Pineapple Juice Concentrate, Ginger Puree (Ginger, Water, Citric Acid) Garlic Spice, Potassium Sorbate, (Preservative) Xanthan Gum.)",
    "name": "Bulogi Beef",
    "protein": {
     "amount": "19.6g",
@@ -140335,11 +140378,11 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "389.9mg",
-    "percent": 17.0
+    "amount": "414.2mg",
+    "percent": 18.0
    },
    "sugars": {
-    "amount": "5.8g"
+    "amount": "5g"
    },
    "total_carb": {
     "amount": "6.6g",
@@ -144517,7 +144560,7 @@
   },
   {
    "allergens": [],
-   "calories": 30,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -144530,13 +144573,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "2 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -144544,8 +144587,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "7g",
-    "percent": 3.0
+    "amount": "14.1g",
+    "percent": 5.0
    },
    "total_fat": {
     "amount": "0g"
@@ -169174,6 +169217,54 @@
   },
   {
    "allergens": [
+    "Soybeans"
+   ],
+   "calories": 142,
+   "calories_from_fat": 69,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "1.4g",
+    "percent": 5.0
+   },
+   "id": 566010,
+   "information": null,
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper",
+   "name": "Tofu with a Garlic Lemon Sauce",
+   "protein": {
+    "amount": "13g",
+    "percent": 26.0
+   },
+   "sat_fat": {
+    "amount": "0.9g",
+    "percent": 4.0
+   },
+   "serving_size": "5 oz",
+   "sodium": {
+    "amount": "49.3mg",
+    "percent": 2.0
+   },
+   "sugars": {
+    "amount": "0.9g"
+   },
+   "total_carb": {
+    "amount": "6.1g",
+    "percent": 2.0
+   },
+   "total_fat": {
+    "amount": "7.6g",
+    "percent": 10.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [
     "Milk"
    ],
    "calories": 58,
@@ -170039,7 +170130,7 @@
    },
    "id": 566244,
    "information": null,
-   "ingredients": "Stir Fry Vegetables (Ingredients: Broccoli, Zucchini, Summer Squash, Celery, Carrots and Red Pepper), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Ground Black Pepper (), Kosher Salt (Salt)",
+   "ingredients": "Stir Fry Vegetables (Ingredients: Broccoli, Zucchini, Summer Squash, Celery, Carrots and Red Pepper), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Ground Black Pepper, Kosher Salt",
    "name": "Roasted Mixed Vegetables",
    "protein": {
     "amount": "2.1g",
@@ -175037,8 +175128,7 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "0.9g",
-    "percent": 0.0
+    "amount": "0.9g"
    },
    "total_fat": {
     "amount": "7.1g",
@@ -175114,7 +175204,7 @@
    },
    "id": 700359,
    "information": null,
-   "ingredients": "Vegan Vegetable Ravioli (Pasta Dough Ingredients: Semolina Flour (Durum Wheat, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water. Filling: Roasted Broccoli, Cauliflower, String Beans, Carrots, Roasted Red Bell Peppers, Caramelized Onions (onions, vegetable oil blend), Sweet Corn, Sweet Peas, Panko Bread Crumbs (Unbleached Wheat Flour, Cane Sugar, Yeast, Sea Salt), Salt, White Pepper.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Kosher Salt (Salt), Ground White Pepper (White Peppercorns)",
+   "ingredients": "Vegan Vegetable Ravioli (Pasta Dough Ingredients: Semolina Flour (Durum Wheat, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water. Filling: Roasted Broccoli, Cauliflower, String Beans, Carrots, Roasted Red Bell Peppers, Caramelized Onions (onions, vegetable oil blend), Sweet Corn, Sweet Peas, Panko Bread Crumbs (Unbleached Wheat Flour, Cane Sugar, Yeast, Sea Salt), Salt, White Pepper.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Kosher Salt, Ground White Pepper (White Peppercorns)",
    "name": "Roasted Vegetable Vegan Ravioli with Garlic",
    "protein": {
     "amount": "12.6g",
@@ -183020,40 +183110,41 @@
   },
   {
    "allergens": [],
-   "calories": 24,
-   "calories_from_fat": 1,
+   "calories": 96,
+   "calories_from_fat": 4,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.1g",
-    "percent": 4.0
+    "amount": "4.4g",
+    "percent": 16.0
    },
    "id": 791557,
    "information": null,
    "ingredients": "Black Beans (Prepared Black Beans, Water, Salt, Calcium Chloride, (Firming Agent))",
    "name": "Black Beans",
    "protein": {
-    "amount": "1.3g",
-    "percent": 3.0
+    "amount": "5.2g",
+    "percent": 10.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "76.3mg",
-    "percent": 3.0
+    "amount": "305.3mg",
+    "percent": 13.0
    },
    "sugars": {
-    "amount": "0.4g"
+    "amount": "1.7g"
    },
    "total_carb": {
-    "amount": "4.4g",
-    "percent": 2.0
+    "amount": "17.4g",
+    "percent": 6.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.4g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -186837,7 +186928,7 @@
    },
    "id": 999122,
    "information": null,
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Cracked Farro (Farro), Eggplant (FRESH EGGPLANT), Butternut Squash (Butternut Squash), Zucchini Squash, Lemons (LEMONS), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Ground Black Pepper ()",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Cracked Farro (Farro), Eggplant (FRESH EGGPLANT), Butternut Squash (Butternut Squash), Zucchini Squash, Lemons (LEMONS), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Ground Black Pepper",
    "name": "Farro & Confetti Vegetables",
    "protein": {
     "amount": "5.7g",
@@ -186868,6 +186959,27 @@
    },
    "vegan": true,
    "vegetarian": true
+  },
+  {
+   "allergens": [],
+   "calories": null,
+   "calories_from_fat": null,
+   "cholesterol": null,
+   "dietary_fiber": null,
+   "id": 999889,
+   "information": null,
+   "ingredients": null,
+   "name": "Mather House Closed for Special Event",
+   "protein": null,
+   "sat_fat": null,
+   "serving_size": "1 ea",
+   "sodium": null,
+   "sugars": null,
+   "total_carb": null,
+   "total_fat": null,
+   "trans_fat": null,
+   "vegan": false,
+   "vegetarian": false
   },
   {
    "allergens": [],
@@ -187278,6 +187390,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "fed600112721f9d7cf6c6f0d9f3dd02f2f669caf05ec1cab0659a3efa8402488",
+ "sha256": "09c949f2060b96dafe0746b02360bf747592613df1a7c56526614e584276b760",
  "table": "recipes"
 }

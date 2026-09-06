@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05T21:59:04+00:00",
+ "generatedAt": "2026-09-06T12:36:43+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -660,6 +660,30 @@
    "vegan": true,
    "vegetarian": true
   },
+  "111003": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Boneless Skinless Chicken Breast (Ice Glazed Boneless, Skinless 4 oz. Avg. Chicken Breast Fillets with Rib Meat Containing Up to 15% of a solution of water and Sea Salt), Picatta Sauce (Water, Chablis, Lemon Juice (Lemon Juice from concentrate (water, concentrated lemon Juice) and less than 2% of Sodium Benzoate, sodium Metabisulfite and sodium sulfite (preservatives) Lemon Oil), Gluten Free Roux with Oil (Gluten Free Flour (Specialty Flour Blend, (rice flour, tapioca starch), Potato Starch, Whole Grain Brown Rice Flour, Vitamin and Mineral Blend [Calcium Carbonate, Niacinamide (Vitamin B3), Reduced Iron, Thiamin Hydrochloride (Vitamin B1), Riboflavin (Vitamin B2)]), Canola Oil (High monounsaturated canola oil, Silicone added as an anti foaming agent.)), Capers (Capers, Water, and Salt Vinegar, ), Corn Starch (Derived from Waxy Maize), Chicken Base (Roasted Ground Chicken Meat, Sugar, Salt, Rendered Chicken Fat, Seasoning [Soy Sauce (Hydrolyzed Corn and Soy Protein, Maltodextrin), Yeast Extract, Onion, Soybean oil, Natural Flavors], Potassium Chloride, Disodium Inosinate/Disodium Guanylate, Flavorings, Corn Starch, Dextrose, Spices. Contains Soy.), Garlic Chopped in Oil (Garlic, Canola Oil (High monounsaturated canola oil, Silicone added as an anti foaming agent.)), Parsley, Kosher Salt (Salt)), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Capers (Capers, Water, and Salt Vinegar, ), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil, ), Kosher Salt (Salt), Ground Black Pepper (Black pepper), Parsley",
+   "name": "Chicken Piccatta",
+   "note": null,
+   "nutrition": {
+    "calories": 275,
+    "cholesterol_mg": 55.2,
+    "dietary_fiber_g": 0.3,
+    "protein_g": 24.2,
+    "sat_fat_g": 2.1,
+    "sodium_mg": 1407.2,
+    "sugars_g": 0.2,
+    "total_carb_g": 24.2,
+    "total_fat_g": 7.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "111037": {
    "allergens": [
     "Milk",
@@ -1194,6 +1218,28 @@
    "vegan": false,
    "vegetarian": true
   },
+  "130063": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.)",
+   "name": "Goat Cheese",
+   "note": null,
+   "nutrition": {
+    "calories": 81,
+    "cholesterol_mg": 20.2,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 5.1,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 45.6,
+    "total_carb_g": 0.3,
+    "total_fat_g": 6.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "138003": {
    "allergens": [
     "Milk",
@@ -1546,6 +1592,30 @@
    "vegan": false,
    "vegetarian": true
   },
+  "141000": {
+   "allergens": [
+    "Soybeans",
+    "Tree Nuts"
+   ],
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Local Backyard Beauty Tomatoes, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Basil (Basil), Vegan Shredded Mozzarella Cheese (Daiya Oat Cream\u2122 Blend (Water, Gluten-free Oat Flour, Pea Protein, Cultures, Enzymes), Tapioca Starch, Coconut Oil, Corn Starch, Expeller Pressed Safflower Oil, Calcium Phosphate, Less Than 2 Percent Of: Konjac Flour, Fruit Juice (For Color), Yeast Extract, Salt, Dextrose, Xanthan Gum, Lactic Acid, Natural Flavors.), Kosher Salt, Ground Black Pepper",
+   "name": "Roasted Tofu with Tomato and Basil and Vegan Cheese",
+   "note": null,
+   "nutrition": {
+    "calories": 188,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.4,
+    "protein_g": 10.6,
+    "sat_fat_g": 1.7,
+    "sodium_mg": 215.9,
+    "sugars_g": 0.5,
+    "total_carb_g": 5.1,
+    "total_fat_g": 14.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "141087": {
    "allergens": [
     "Soybeans"
@@ -1880,6 +1950,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "2 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "144042": {
+   "allergens": [],
+   "ingredients": "Cannellini Beans (Prepared Cannellini Beans, Water, Salt, and Calcium Chloride. Disodium EDTA added as a preservative.), Broccoli Rabe, Lemons (LEMONS), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Kosher Salt, Crushed Red Pepper (Red chile peppers)",
+   "name": "White Beans with Broccoli Rabe and Lemon",
+   "note": null,
+   "nutrition": {
+    "calories": 121,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.1,
+    "protein_g": 4.9,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 225.9,
+    "sugars_g": 0.6,
+    "total_carb_g": 13.4,
+    "total_fat_g": 6.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -2318,6 +2409,30 @@
     "sugars_g": 1.0,
     "total_carb_g": 22.7,
     "total_fat_g": 1.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "161011": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Twister Fries (Potatoes, Vegetable Oil (Contains one or more of the following Oils: Canola, Soybean, Cottonseed, Sunflower, Corn), Bleached Enriched Wheat Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Contains 2% or less of Caramel Color, Cocoa Powder (Processed with Alkali), Degermed Yellow Corn Meal, Dextrin, Dextrose, Garlic Powder, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Natural Garlic Flavor, Onion Powder, Paprika Extract (color), Rice Flour, Salt, Sodium Acid Pyrophosphate Added to Maintain Color, Spices, Tapioca Starch, Tapioca Starch-Modified Xanthan Gum.), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Kosher Salt",
+   "name": "Curly French Fries",
+   "note": null,
+   "nutrition": {
+    "calories": 386,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.7,
+    "protein_g": 2.7,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 451.4,
+    "sugars_g": 0.0,
+    "total_carb_g": 27.0,
+    "total_fat_g": 30.6,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -4392,17 +4507,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 32,
+    "calories": 81,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.5,
+    "dietary_fiber_g": 6.3,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 1.7,
-    "total_carb_g": 7.9,
-    "total_fat_g": 0.1,
+    "sodium_mg": 4.3,
+    "total_carb_g": 19.6,
+    "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "5 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -4561,6 +4676,30 @@
     "sodium_mg": 200.0,
     "sugars_g": 2.0,
     "total_carb_g": 20.0,
+    "total_fat_g": 2.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "211030": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED)",
+   "name": "Calise Sub Roll",
+   "note": null,
+   "nutrition": {
+    "calories": 180,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 6.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 350.0,
+    "sugars_g": 1.0,
+    "total_carb_g": 35.0,
     "total_fat_g": 2.0,
     "trans_fat_g": 0.0
    },
@@ -5949,6 +6088,27 @@
    "vegan": false,
    "vegetarian": false
   },
+  "300076": {
+   "allergens": [],
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Light Brown Sugar (Brown Sugar), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.)",
+   "name": "Chipotle Chicken (H)",
+   "note": null,
+   "nutrition": {
+    "calories": 179,
+    "cholesterol_mg": 106.3,
+    "dietary_fiber_g": 0.8,
+    "protein_g": 22.7,
+    "sat_fat_g": 1.2,
+    "sodium_mg": 116.2,
+    "sugars_g": 1.6,
+    "total_carb_g": 4.7,
+    "total_fat_g": 6.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300086": {
    "allergens": [
     "Milk"
@@ -6189,6 +6349,27 @@
    },
    "portion": "1 each",
    "vegan": false,
+   "vegetarian": true
+  },
+  "300288": {
+   "allergens": [],
+   "ingredients": "Zucchini Squash (Zucchini), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Rosemary (Fresh Rosemary), Oregano (Oregano), Kosher Salt (Salt), Ground Black Pepper (Black Pepper), Balsamic Vinegar Glaze (Balsamic Vinegar of Modena, (Wine Vinegar, Cooked Grape Must) 61%, , Sugar, Xanthan Gum Stabilizer. Contains naturally occurring sulfites.)",
+   "name": "Herb Grilled Zucchini with Balsamic Glaze",
+   "note": null,
+   "nutrition": {
+    "calories": 79,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.4,
+    "protein_g": 1.8,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 156.7,
+    "sugars_g": 3.2,
+    "total_carb_g": 4.6,
+    "total_fat_g": 6.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
    "vegetarian": true
   },
   "300290": {
@@ -6587,6 +6768,32 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300400": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Meatball Beef /Chicken (H) (Chicken Thigh Meat with Skin, Chicken Breast Meat with Rib Meat, Beef, Water, Bread Crumbs (Wheat Flour, Salt, and Yeast), Romano Cheese (Pasteurized Cow's Milk, Cheese Cultures, Salt, Enzymes), Ricotta Cheese (Whey, Part Skim Milk, Cream, Vinegar, and Xanthan Gum, Locust Bean Gum, Guar Gum (stabilizers)), Liquid Egg Whites, Textured Vegetable Protein (Soy Protein Concentrate, Caramel Color), Contains 2% or less of Salt, Dried Garlic, Spices, Parsley, Brown Sugar, Caramel Color, BHA, BHT, Disodium Inosinate and Disodium Guanylate, Citric Acid.), Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.)",
+   "name": "Halal Meatballs in Marinara Sauce",
+   "note": "A serving includes 3 meatballs. Meatballs origins can be traced back to ancient Roman times.",
+   "nutrition": {
+    "calories": 237,
+    "cholesterol_mg": 60.8,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 15.0,
+    "sat_fat_g": 5.3,
+    "sodium_mg": 952.9,
+    "sugars_g": 0.0,
+    "total_carb_g": 12.1,
+    "total_fat_g": 15.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "3 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300435": {
    "allergens": [
     "Soybeans"
@@ -6921,6 +7128,31 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300475": {
+   "allergens": [
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.), Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED), Plant Protein Breakfast Sausage Patties (Water, Soy Protein Concentrate, High Oleic Sunflower Oil, Natural Flavor, Seasoning (Salt, Spices, Brown Sugar, Natural Flavors), Soy Protein Isolate, Modified Vegetable Gum, Distilled White Vinegar, Caramel Color, Fruit and Vegetable Juice (Color)), Onions (Onions), Suntan Peppers (Bell Peppers), Sliced Mushrooms (Mushrooms), Vegan Shredded Mozzarella Cheese (Daiya Oat Cream\u2122 Blend (Water, Gluten-free Oat Flour, Pea Protein, Cultures, Enzymes), Tapioca Starch, Coconut Oil, Corn Starch, Expeller Pressed Safflower Oil, Calcium Phosphate, Less Than 2 Percent Of: Konjac Flour, Fruit Juice (For Color), Yeast Extract, Salt, Dextrose, Xanthan Gum, Lactic Acid, Natural Flavors.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper",
+   "name": "Seitan Sub",
+   "note": null,
+   "nutrition": {
+    "calories": 460,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 6.2,
+    "protein_g": 32.8,
+    "sat_fat_g": 2.3,
+    "sodium_mg": 2060.5,
+    "sugars_g": 4.3,
+    "total_carb_g": 52.7,
+    "total_fat_g": 14.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
    "vegan": true,
    "vegetarian": true
   },
@@ -9617,6 +9849,57 @@
    "vegan": false,
    "vegetarian": true
   },
+  "505051": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Tiramisu (Sugar, Topping (Water, Hydrogenated Palm Kernel Oil, Sugar, Corn Syrup, CONTAINS 2% or less of Polysorbate 60, Carbohydrate Gum, Artificial Flavor, Salt, Sodium Stearoyl Lactylate, Sorbitan Monostearate, Sodium Citrate, Soy Lecithin, Xanthan Gum, Colored With Annatto), Eggs, Bromated Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Potassium Bromate, Thiamin Mononitrate, Riboflavin, Folic Acid), Mascarpone Cheese (Pasteurized Milk and Cream, Citric Acid), Corn Syrup, Sugared Egg Yolks (Egg Yolks, Sugar), Soybean Oil, Stabilizer (Sugar, Modified Corn Starch, Vegetable Gums, Natural And Artificial Flavors), Bleached Flour (Bleached Wheat Flour, Iron, Niacin, Thiamin Mononitrate, Riboflavin, Folic Acid). CONTAINS 2% OR LESS OF THE FOLLOWING: Dextrose, Cocoa [Processed With Alkali], Palm Oil, Coffee, Food Starch-Modified, Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate, Mono- And Diglycerides, Preservatives [Phosphoric Acid, Sodium Propionate], Heavy Cream, Nonfat Dry Milk, Whey Solids, Milk Proteins, Artificial Color, Salt. MANUFACTURED ON EQUIPMENT THAT ALSO PROCESSES PEANUTS AND TREE NUTS.)",
+   "name": "Tiramisu",
+   "note": "Baked at Hoff's Bakery, just 3.5 miles away in Medford, MA. Italian tiramis\u00f9 means \"pick-me-up\"or \"make me happy\").",
+   "nutrition": {
+    "calories": 430,
+    "cholesterol_mg": 144.9,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 4.0,
+    "sat_fat_g": 10.0,
+    "sodium_mg": 359.6,
+    "sugars_g": 36.0,
+    "total_carb_g": 58.9,
+    "total_fat_g": 21.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 portn",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "507052": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Onions (Onions), Medium Pearl Barley, Suntan Peppers (Bell Peppers), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Thyme (Dried Thyme), Ground Black Pepper",
+   "name": "Barley Hash",
+   "note": null,
+   "nutrition": {
+    "calories": 77,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.9,
+    "protein_g": 1.8,
+    "sat_fat_g": 0.2,
+    "sodium_mg": 551.2,
+    "sugars_g": 1.6,
+    "total_carb_g": 14.3,
+    "total_fat_g": 1.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "507059": {
    "allergens": [
     "Crustacean Shellfish",
@@ -10071,6 +10354,32 @@
    "vegan": false,
    "vegetarian": false
   },
+  "73513": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.), Beef & Chicken Meatball (Beef, Mechanically Separated Chicken, Water, Seasoning (bread Crumbs [wheat Flour, Salt, Yeast], Dried Onion, Parmesan/romano Cheeses Made From Cow's Milk [pasteurized Milk, Cheese Cultures, Salt, Enzymes], Salt, Dried Celery, Garlic Powder, Spices, Rice Flour, Malt Extract), Textured Soy Protein Concentrate (soy Protein Concentrate, Caramel Color), Textured Soy Flour (soy Flour, Caramel Color, Zinc Oxide, Niacinamide, Ferrous Sulfate, Copper Gluconate, Vitamin A Palmitate, Calcium Pantothenate, Thiamine Mononitrate [b1], Pyridoxine Hydrochloride [b6], Riboflavin [b2], And Cyanocobalamin [b12]), Tomato Paste, Sodium Phosphate. Contains: Milk, Wheat, Soy.)",
+   "name": "Meatballs in Marinara Sauce",
+   "note": "A serving includes 3 meatballs. Meatballs origins can be traced back to ancient Roman times.",
+   "nutrition": {
+    "calories": 278,
+    "cholesterol_mg": 55.0,
+    "dietary_fiber_g": 4.0,
+    "protein_g": 13.4,
+    "sat_fat_g": 6.0,
+    "sodium_mg": 880.9,
+    "sugars_g": 2.0,
+    "total_carb_g": 14.8,
+    "total_fat_g": 19.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "3 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "75006": {
    "allergens": [],
    "ingredients": "Corned Beef Hash (Cooked Corned Beef (Cooked Beef, Salt, Sugar, Sodium Nitrite), Water, Potatoes (Contains Sulfites) and Re Hydrated Potatoes, Dehydrated Onions, Salt, Sugar, Natural Flavoring)",
@@ -10110,6 +10419,32 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "77016": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Marble Rye Panini Loaf (Enriched Flour (Wheat Flour Unbleached, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid) Water, Rye Flour, Salt, Ground Caraway Seeds, Sugar, Acetic Acid, Lactic Acid, Ground Dill Seed, Natural Flavor, Yeast, Wheat Gluten, Yeast, Rye Meal, Contains Less Than 2% Of The Following: Soybean Oil, Dough Conditioner (Calcium Sulfate, Enzymes, Ascorbic Acid), Caramel Color, Caraway Seeds, Monoglycerides, Propionic Acid, Vinegar, Calcium Propionate [To Retain Freshness].), Corned Beef (Beef. Cured with a 10% solution of: Water, Salt. Contains less than 2% of: Brown Sugar, Cane Sugar, Natural Garlic Oil (Sunflower Oil and Flavor), Sodium Phosphate, Potassium Lactate, Sodium Diacetate, Sodium Erythorbate, Sodium Nitrite, Flavorings.), Swiss Cheese (Pasteurized Part-Skim Milk, Cheese Cultures, Salt, Enzymes.), Sauerkraut (Cabbage, Water, Salt.), Russian Dressing (Relish (Cucumbers, Water, Vinegar, Salt, Xantham Gum, Natural Flavors), Tomato Concentrate (MAde from Red Ripe Tomatoes, Vinegar, Sugar, Salt, Onion Powder, Spices, Natural Flavorings), Water, Liquid Sugar (Sugar, Water), Vinegar, Modified Food Starch, Salt, Egg Yolk, Worcestershire Sauce (Vinegar, Molasses, Corn Syrup, Water, Salt, Caramel Color, Garlic Powder, Sugar, Spices, Celery Seed, Tamarind Extract, Natural Flavor), Spice, Mustard Flour, Citric Acid, Xantham Gum, Potassium Sorbate (Preservative), Onion, Garlic, Tabasco Sauce (Vinegar, Red Pepper, Salt), Calcium Disodium EDTA to Protect Flavor, Paprika Contains: Egg)",
+   "name": "Grilled Reuben Sandwich",
+   "note": "Sauerkraut is a chopped cabbage that is salted and then fermented in its own juice. The word in German means \"sour cabbage.\"",
+   "nutrition": {
+    "calories": 316,
+    "cholesterol_mg": 36.3,
+    "dietary_fiber_g": 3.6,
+    "protein_g": 19.7,
+    "sat_fat_g": 3.8,
+    "sodium_mg": 1007.1,
+    "sugars_g": 0.3,
+    "total_carb_g": 35.2,
+    "total_fat_g": 10.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1/2 sandwich",
    "vegan": false,
    "vegetarian": false
   },
@@ -10539,6 +10874,16 @@
     "trans_fat_g": 0.0
    },
    "portion": "6 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "999889": {
+   "allergens": [],
+   "ingredients": null,
+   "name": "Mather House Closed for Special Event",
+   "note": null,
+   "nutrition": {},
+   "portion": "1 ea",
    "vegan": false,
    "vegetarian": false
   },
