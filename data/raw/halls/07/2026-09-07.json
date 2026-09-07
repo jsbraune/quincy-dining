@@ -1,7 +1,7 @@
 {
  "date": "2026-09-07",
- "fetchedAt": "2026-09-04T17:59:49+00:00",
- "itemCount": 156,
+ "fetchedAt": "2026-09-07T18:57:28+00:00",
+ "itemCount": 155,
  "locationNum": "07",
  "meals": [
   {
@@ -264,9 +264,6 @@
       },
       {
        "name": "Japchae Beef"
-      },
-      {
-       "name": "Sweet and Sour Chicken"
       }
      ],
      "name": "Entrees"
@@ -520,7 +517,7 @@
     {
      "items": [
       {
-       "name": "Banana Pudding"
+       "name": "Caramel Brownie"
       },
       {
        "name": "Pineapple Soft serve"
@@ -661,6 +658,6 @@
    ]
   }
  ],
- "mealsSha256": "15a65cfff8898e597d7c2b88f04ff0d54a8eff50df737be395ee1056c2b4480a",
+ "mealsSha256": "e88325253bf83db92478a59942023544bd04f1732fc963fbbff316096d795edc",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

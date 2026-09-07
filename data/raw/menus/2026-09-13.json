@@ -1,8 +1,8 @@
 {
  "date": "2026-09-13",
- "fetchedAt": "2026-09-01T22:26:29+00:00",
- "quincyRowCount": 345,
- "rowCount": 345,
+ "fetchedAt": "2026-09-07T18:57:23+00:00",
+ "quincyRowCount": 347,
+ "rowCount": 350,
  "rows": [
   {
    "category": 2,
@@ -5523,8 +5523,67 @@
    ],
    "meal": 2,
    "recipe": 10046
+  },
+  {
+   "category": 23,
+   "date": "2026-09-13",
+   "location": [
+    5,
+    7,
+    8,
+    9,
+    14,
+    16,
+    30,
+    38
+   ],
+   "meal": 0,
+   "recipe": 31003
+  },
+  {
+   "category": 24,
+   "date": "2026-09-13",
+   "location": [
+    5,
+    7,
+    8,
+    9,
+    14,
+    16,
+    30,
+    38
+   ],
+   "meal": 0,
+   "recipe": 204016
+  },
+  {
+   "category": 17,
+   "date": "2026-09-13",
+   "location": [
+    30
+   ],
+   "meal": 1,
+   "recipe": 111160
+  },
+  {
+   "category": 17,
+   "date": "2026-09-13",
+   "location": [
+    30
+   ],
+   "meal": 2,
+   "recipe": 111160
+  },
+  {
+   "category": 37,
+   "date": "2026-09-13",
+   "location": [
+    30
+   ],
+   "meal": 2,
+   "recipe": 211038
   }
  ],
- "rowsSha256": "6aae77664813795e8633a31137e8bde5a77f52c8b3dfced2b62b54b8c9a7d554",
+ "rowsSha256": "6b5d0025eb0bed107613b96eff04403bb88e2937ad4691a92c71e4bc1c4edbce",
  "source": "api.cs50.io/dining/menus"
 }

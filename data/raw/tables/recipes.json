@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-06T12:35:40+00:00",
+ "fetchedAt": "2026-09-07T18:57:23+00:00",
  "rows": [
   {
    "allergens": [
@@ -768,43 +768,43 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 340,
-   "calories_from_fat": 180,
+   "calories": 250,
+   "calories_from_fat": 142,
    "cholesterol": {
-    "amount": "64.9mg",
-    "percent": 22.0
+    "amount": "50.9mg",
+    "percent": 17.0
    },
    "dietary_fiber": {
-    "amount": "1g",
-    "percent": 4.0
+    "amount": "1.9g",
+    "percent": 7.0
    },
    "id": 10027,
    "information": null,
-   "ingredients": "Loaded Potato Soup (Potatoes, Water, Chicken Stock, (Chicken Onions, celery, carrots, sea salt, garlic, parsley, white pepper, thyme, leaves, marjoram), Cheddar Cheese (milk, cheese cultures, salt, enzymes), Uncured Bacon with no nitrites or nitrates added (pork, sea salt, raw sugar, spices), Light Cream (milk, cream), Leeks, Celery, Beef Stock, Onions, Rice Starch, Scallions, Sea Salt, Garlic, Spices. Contains Milk.Pork)",
+   "ingredients": "Loaded Potato Soup (Potatoes, Water, Chicken Stock (water, chicken bones, onions, celery, carrots, sea salt, garlic, parsley, white pepper, thyme, bay leaves, marjoram), Cheddar Cheese (milk, cheese cultures, salt, enzymes), Uncured Bacon* (pork bellies, sea salt, cane sugar, celery powder, spices) *No nitrates/ nitrites added except for those naturally occurring in sea salt and celery powder, Light Cream (milk, cream), Leeks, Celery, Onions, Rice Starch, Scallions, Beef Stock, Sea Salt, Garlic, Bay Leaves, Cloves, Nutmeg, Dried Marjoram.)",
    "name": "Loaded Potato Soup",
    "protein": {
-    "amount": "17g",
-    "percent": 33.0
+    "amount": "10.2g",
+    "percent": 20.0
    },
    "sat_fat": {
-    "amount": "11g",
-    "percent": 55.0
+    "amount": "10.2g",
+    "percent": 46.0
    },
    "serving_size": "8 oz",
    "sodium": {
-    "amount": "869.2mg",
-    "percent": 43.0
+    "amount": "518.4mg",
+    "percent": 23.0
    },
    "sugars": {
-    "amount": "2g"
+    "amount": "1.9g"
    },
    "total_carb": {
-    "amount": "22g",
-    "percent": 7.0
+    "amount": "16.7g",
+    "percent": 6.0
    },
    "total_fat": {
-    "amount": "20g",
-    "percent": 27.0
+    "amount": "15.7g",
+    "percent": 20.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -11200,7 +11200,7 @@
    },
    "id": 40048,
    "information": "Both are rich in potassium.",
-   "ingredients": "Sweet Potatoes (Sweet Potatoes), Light Brown Sugar (Brown Sugar), Unsalted Butter (Cream (Milk), Natural Flavoring.), Ground Cinnamon (Ground Cinnamon Bark), Kosher Salt (Salt)",
+   "ingredients": "Sweet Potatoes (Sweet Potatoes), Light Brown Sugar (Brown Sugar), Unsalted Butter (Cream (Milk), Natural Flavoring.), Ground Cinnamon (Ground Cinnamon Bark), Kosher Salt",
    "name": "Mashed Sweet Potatoes",
    "protein": {
     "amount": "1.5g",
@@ -22225,7 +22225,7 @@
    "name": "Chefs Choice",
    "protein": null,
    "sat_fat": null,
-   "serving_size": "1 each",
+   "serving_size": "4 each",
    "sodium": null,
    "sugars": null,
    "total_carb": null,
@@ -22829,7 +22829,7 @@
    },
    "id": 111038,
    "information": null,
-   "ingredients": "Chicken Wings (Chicken wing sections, Water, Contains 2% or less of the following: Corn Starch, Dextrose, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Modified Food Starch, Natural Flavor, Rice Flour, Salt, Sodium Phosphates, Tapioca Starch, Yellow Corn Flour. Blanched in Vegetable Oil), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Light Brown Sugar (Brown Sugar), Ground Black Pepper (), Ground Cumin (Ground Cumin), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Spanish Paprika (Paprika), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.)",
+   "ingredients": "Chicken Wings (Chicken wing sections, Water, Contains 2% or less of the following: Corn Starch, Dextrose, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Modified Food Starch, Natural Flavor, Rice Flour, Salt, Sodium Phosphates, Tapioca Starch, Yellow Corn Flour. Blanched in Vegetable Oil), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Light Brown Sugar (Brown Sugar), Ground Black Pepper, Ground Cumin (Ground Cumin), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Spanish Paprika (Paprika), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.)",
    "name": "Dry Rubbed Chicken Wings",
    "protein": {
     "amount": "19.8g",
@@ -28249,11 +28249,11 @@
     "Crustacean Shellfish",
     "Milk"
    ],
-   "calories": 279,
-   "calories_from_fat": 112,
+   "calories": 221,
+   "calories_from_fat": 100,
    "cholesterol": {
-    "amount": "343.6mg",
-    "percent": 115.0
+    "amount": "307.2mg",
+    "percent": 102.0
    },
    "dietary_fiber": {
     "amount": "0.5g",
@@ -28261,34 +28261,34 @@
    },
    "id": 121035,
    "information": null,
-   "ingredients": "Shrimp (Shrimp, Water, Salt and Sodium Tripolyphosphate (to retain moisture).), Unsalted Butter (Cream (Milk), Natural Flavoring.), Lemons (LEMONS), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Garlic (Garlic), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Parsley (Parsley), Cilantro (Cilantro), Kosher Salt (Salt), Spanish Paprika (Paprika), Ground Black Pepper ()",
+   "ingredients": "Shrimp (Shrimp, Water, Salt), Unsalted Butter (Cream (Milk), Natural Flavoring.), Lemons (LEMONS), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Cilantro (Cilantro), Kosher Salt, Spanish Paprika (Paprika), Ground Black Pepper",
    "name": "Cajun Shrimp",
    "protein": {
-    "amount": "35.5g",
-    "percent": 70.0
+    "amount": "29.3g",
+    "percent": 57.0
    },
    "sat_fat": {
-    "amount": "6g",
-    "percent": 27.0
+    "amount": "5g",
+    "percent": 23.0
    },
    "serving_size": "6 oz",
    "sodium": {
-    "amount": "1508.9mg",
-    "percent": 66.0
+    "amount": "754.9mg",
+    "percent": 33.0
    },
    "sugars": {
     "amount": "0.1g"
    },
    "total_carb": {
-    "amount": "4.4g",
-    "percent": 2.0
+    "amount": "3.6g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "12.4g",
-    "percent": 16.0
+    "amount": "11.1g",
+    "percent": 14.0
    },
    "trans_fat": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
    "vegan": false,
    "vegetarian": false
@@ -37894,10 +37894,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 60,
+   "calories": 45,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "6.7mg",
+    "amount": "5mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -37908,22 +37908,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "10.7g",
-    "percent": 21.0
+    "amount": "8g",
+    "percent": 16.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "40mg",
-    "percent": 2.0
+    "amount": "30mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "2.7g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "3g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38411,11 +38411,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 83,
-   "calories_from_fat": 22,
+   "calories": 63,
+   "calories_from_fat": 16,
    "cholesterol": {
-    "amount": "13.9mg",
-    "percent": 5.0
+    "amount": "10.4mg",
+    "percent": 3.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38425,28 +38425,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "7.8g",
+    "percent": 15.0
    },
    "sat_fat": {
-    "amount": "1.7g",
-    "percent": 8.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "41.7mg",
-    "percent": 2.0
+    "amount": "31.3mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "4.2g"
+    "amount": "3.1g"
    },
    "total_carb": {
-    "amount": "4.9g",
-    "percent": 2.0
+    "amount": "3.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.4g",
-    "percent": 3.0
+    "amount": "1.8g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -70801,14 +70801,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 32,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "2.5g",
+    "percent": 9.0
    },
    "id": 204010,
    "information": null,
@@ -70820,17 +70820,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "1.7mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -137197,7 +137197,7 @@
    },
    "id": 400344,
    "information": null,
-   "ingredients": "Collard Greens (Fresh Collard Greens), Onions (Onions), Local Backyard Beauty Tomatoes (Tomatoes), Scallions (Fresh Scallions), Garlic (Garlic), Jalapeno Peppers, Vegetable broth (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt (Salt), Ground Black Pepper ()",
+   "ingredients": "Collard Greens (Fresh Collard Greens), Onions (Onions), Local Backyard Beauty Tomatoes, Scallions (Fresh Scallions), Garlic (Garlic), Jalapeno Peppers, Vegetable broth (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper",
    "name": "Chile Braised Collard Greens",
    "protein": {
     "amount": "2.7g",
@@ -158350,6 +158350,54 @@
   },
   {
    "allergens": [
+    "Soybeans"
+   ],
+   "calories": 181,
+   "calories_from_fat": 86,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "1.5g",
+    "percent": 5.0
+   },
+   "id": 506316,
+   "information": null,
+   "ingredients": "Sauteed Peppers & Onions (Sliced White Onions (Onions), Bell Peppers (Bell Peppers), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper), Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), BBQ Sauce (High Fructose Corn Syrup, Distilled Vinegar, Tomato Paste, Modified Corn Starch Contains less than 2% of: Salt, Pineapple Juice Concentrate, Natural Smoke Flavor, Spices, Caramel Color, Molasses, Sodium Benzoate as preservative, Garlic*, Mustard Flour, Corn Syrup, Sugar, Tamarind, Natural Flavor, Celery Seed *Dried)",
+   "name": "Crispy Bbq Tofu",
+   "protein": {
+    "amount": "8.7g",
+    "percent": 17.0
+   },
+   "sat_fat": {
+    "amount": "1.3g",
+    "percent": 6.0
+   },
+   "serving_size": "6 oz",
+   "sodium": {
+    "amount": "213.3mg",
+    "percent": 9.0
+   },
+   "sugars": {
+    "amount": "11.1g"
+   },
+   "total_carb": {
+    "amount": "15.3g",
+    "percent": 6.0
+   },
+   "total_fat": {
+    "amount": "9.5g",
+    "percent": 12.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
     "Eggs",
     "Milk",
     "Wheat"
@@ -169222,8 +169270,7 @@
    "calories": 142,
    "calories_from_fat": 69,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "1.4g",
@@ -174106,42 +174153,40 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 73,
-   "calories_from_fat": 24,
+   "calories": 18,
+   "calories_from_fat": 6,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.3g",
-    "percent": 5.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "4.7g",
-    "percent": 9.0
+    "amount": "1.2g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "43.4mg",
-    "percent": 2.0
+    "amount": "10.8mg"
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "6.7g",
-    "percent": 2.0
+    "amount": "1.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.7g",
-    "percent": 3.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -183110,41 +183155,40 @@
   },
   {
    "allergens": [],
-   "calories": 96,
-   "calories_from_fat": 4,
+   "calories": 24,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "4.4g",
-    "percent": 16.0
+    "amount": "1.1g",
+    "percent": 4.0
    },
    "id": 791557,
    "information": null,
    "ingredients": "Black Beans (Prepared Black Beans, Water, Salt, Calcium Chloride, (Firming Agent))",
    "name": "Black Beans",
    "protein": {
-    "amount": "5.2g",
-    "percent": 10.0
+    "amount": "1.3g",
+    "percent": 3.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "305.3mg",
-    "percent": 13.0
+    "amount": "76.3mg",
+    "percent": 3.0
    },
    "sugars": {
-    "amount": "1.7g"
+    "amount": "0.4g"
    },
    "total_carb": {
-    "amount": "17.4g",
-    "percent": 6.0
+    "amount": "4.4g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "0.4g",
-    "percent": 1.0
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -183351,9 +183395,9 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1/2 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "0mg"
+    "amount": "0.1mg"
    },
    "sugars": {
     "amount": "0g"
@@ -187390,6 +187434,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "09c949f2060b96dafe0746b02360bf747592613df1a7c56526614e584276b760",
+ "sha256": "c8ddbf390c264a6160545396e714542a27405029941875bd765d59af68d94ff1",
  "table": "recipes"
 }
