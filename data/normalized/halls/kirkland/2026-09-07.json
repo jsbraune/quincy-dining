@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "fetchedAt": "2026-09-01T18:06:28+00:00",
+ "fetchedAt": "2026-09-07T22:35:13+00:00",
  "hall": "kirkland",
  "hallName": "Kirkland House",
  "itemCount": 152,
@@ -1386,7 +1386,7 @@
         "Soybeans"
        ],
        "calories": 147,
-       "name": "JerkTofu",
+       "name": "Jerk Tofu",
        "portion": "4 oz",
        "recipeId": 301098,
        "tags": []

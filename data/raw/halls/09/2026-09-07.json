@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "fetchedAt": "2026-09-01T13:54:24+00:00",
+ "fetchedAt": "2026-09-07T22:35:13+00:00",
  "itemCount": 167,
  "locationNum": "09",
  "meals": [
@@ -515,7 +515,7 @@
     {
      "items": [
       {
-       "name": "JerkTofu"
+       "name": "Jerk Tofu"
       }
      ],
      "name": "Veg,Vegan"
@@ -699,6 +699,6 @@
    ]
   }
  ],
- "mealsSha256": "ae15f05865a48b8b71f376a1fbd3e3d22c1d2036dcc36a0bb613c0c09ff78fd8",
+ "mealsSha256": "3d2071a768991b2606e043a39f41a814186728b327ac0e0ec076eabd80310bcc",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
