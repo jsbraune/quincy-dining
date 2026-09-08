@@ -170,9 +170,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -416,9 +416,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -571,9 +571,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 345,
+       "calories": 173,
        "name": "Protein Plus Penne with Creamy Tomato,Bacon,  Basil Sauce",
-       "portion": "8 oz",
+       "portion": "4 oz",
        "recipeId": 300978,
        "tags": []
       }
@@ -1087,9 +1087,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1261,9 +1261,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 374,
+       "calories": 187,
        "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
-       "portion": "8 oz",
+       "portion": "4 oz",
        "recipeId": 300979,
        "tags": [
         "vegetarian"
@@ -1765,9 +1765,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -1800,9 +1800,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low  Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -1847,9 +1847,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",

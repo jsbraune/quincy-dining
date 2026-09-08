@@ -380,9 +380,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -438,9 +438,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low  Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -450,9 +450,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -778,9 +778,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1078,9 +1078,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 787,
+       "calories": 415,
        "name": "Halal Burrito Beef",
-       "portion": "2 each",
+       "portion": "1 each",
        "recipeId": 300918,
        "tags": []
       },
@@ -1090,9 +1090,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 1000,
+       "calories": 540,
        "name": "Pulled Chicken Burrito",
-       "portion": "2 each",
+       "portion": "1 each",
        "recipeId": 300919,
        "tags": []
       }
@@ -1106,9 +1106,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 863,
+       "calories": 434,
        "name": "Vegetarian Chorizo  Burrito",
-       "portion": "2 each",
+       "portion": "1 each",
        "recipeId": 142083,
        "tags": [
         "vegan",
@@ -1152,9 +1152,9 @@
         "Milk",
         "Soybeans"
        ],
-       "calories": 217,
+       "calories": 49,
        "name": "Street Corn",
-       "portion": "1 each",
+       "portion": "1 oz",
        "recipeId": 300267,
        "tags": [
         "vegetarian"
@@ -1167,9 +1167,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 143,
+       "calories": 36,
        "name": "Seasoned Red Beans",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 144044,
        "tags": [
         "vegan",
@@ -1187,9 +1187,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 787,
+       "calories": 415,
        "name": "Halal Burrito Beef",
-       "portion": "2 each",
+       "portion": "1 each",
        "recipeId": 300918,
        "tags": [
         "halal"
@@ -1547,9 +1547,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -2106,9 +2106,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -2141,9 +2141,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low  Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -2188,9 +2188,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
