@@ -3164,10 +3164,13 @@
         "Soybeans"
        ],
        "calories": 147,
-       "name": "JerkTofu",
+       "name": "Jerk Tofu",
        "portion": "4 oz",
        "recipeId": 301098,
-       "tags": []
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Veg, Vegan"
@@ -3202,6 +3205,7 @@
        "portion": "1 each",
        "recipeId": 502003,
        "tags": [
+        "vegan",
         "vegetarian"
        ]
       },

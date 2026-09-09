@@ -1639,7 +1639,10 @@
        "name": "Jerk Tofu",
        "portion": "4 oz",
        "recipeId": 301098,
-       "tags": []
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Veg,Vegan"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T13:21:52+00:00",
+ "generatedAt": "2026-09-09T18:15:15+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -1569,6 +1569,30 @@
    "vegan": true,
    "vegetarian": true
   },
+  "141091": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Edamame Dumpling (Filling: Edamame, Cabbage, Canola Oil, Chive, Scallion, Carrot, Corn, Water, Rehydrated Shiitake Mushroom (Water, Shiitake Mushroom), Sesame Oil, Cane Juice, Ginger, Sea Salt, Garlic, Modified Tapioca Starch, Black Pepper. Dough: Wheat Flour, Water, Modified Tapioca Starch, Wheat Gluten, Canola Oil, Salt. Sub 6094 Kale, Spinach, Corn, Tofu (Water, Soybeans, Glucono Delta Lactone, Calcium Sulfate and Magnesium Chloride), Cabbage, Green Soybean, Carrot, Water, Canola/Soybean Oil, Onion (Water, Dried Onion), Sugar, Cilantro, Sesame Oil, Garlic, Textured Soy Protein (Water, Soy Protein Concentrate), Potato Flake, Salt, Yeast Extract, Black Pepper Dough: Wheat Flour, Water, Wheat Gluten, Corn Starch, Salt), Vegetable Pan Coating Spray (Canola Oil, Canola Lecithin, Mono and Diglycerides, Natural Flavor and Propellant), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Pure Toasted Sesame Oil (Sesame oil), Scallions (Fresh Scallions), Ground Ginger (Dried Ginger.)",
+   "name": "Edamame and Vegetable Potstickers",
+   "note": null,
+   "nutrition": {
+    "calories": 279,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.7,
+    "protein_g": 7.8,
+    "sat_fat_g": 0.9,
+    "sodium_mg": 637.3,
+    "sugars_g": 3.1,
+    "total_carb_g": 31.3,
+    "total_fat_g": 13.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "5 each",
+   "vegan": true,
+   "vegetarian": true
+  },
   "142020": {
    "allergens": [
     "Soybeans",
@@ -1933,18 +1957,18 @@
    "name": "Seasoned Red Beans",
    "note": null,
    "nutrition": {
-    "calories": 36,
+    "calories": 143,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.7,
-    "protein_g": 1.5,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 72.3,
-    "sugars_g": 0.6,
-    "total_carb_g": 4.6,
-    "total_fat_g": 1.6,
+    "dietary_fiber_g": 6.7,
+    "protein_g": 5.8,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 289.4,
+    "sugars_g": 2.5,
+    "total_carb_g": 18.4,
+    "total_fat_g": 6.4,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -2573,6 +2597,27 @@
     "total_carb_g": 27.0,
     "total_fat_g": 30.6,
     "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "161029": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Plantains (Sweet Ripe Plantains and Vegetable Oil (contains one or more of the following: soybean oil or palm oil).), Kosher Salt",
+   "name": "Plantains",
+   "note": null,
+   "nutrition": {
+    "calories": 439,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.9,
+    "protein_g": 1.0,
+    "sodium_mg": 442.5,
+    "sugars_g": 0.0,
+    "total_carb_g": 40.0,
+    "total_fat_g": 32.4
    },
    "portion": "4 oz",
    "vegan": true,
@@ -3281,6 +3326,29 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "173020": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Soy Beans Edamame (Soybeans)",
+   "name": "Steamed Edamame",
+   "note": null,
+   "nutrition": {
+    "calories": 85,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.0,
+    "protein_g": 6.1,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 222.8,
+    "sugars_g": 1.0,
+    "total_carb_g": 8.1,
+    "total_fat_g": 3.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -6994,6 +7062,98 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300298": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Gardein Chicken Protein (Water, Soy Protein Isolate, Vital Wheat Gluten, Natural Flavors (from Plant Sources), Yeast Extract, Organic Cane Sugar, Expeller Pressed Canola Oil, Sea Salt, Pea Protein, Onion Powder, Color Added, Paprika and Turmeric Extracts.), Crushed Tomatoes (Vine Ripened Unpeeled Tomatoes, Tomato Puree, Less than 2% of Citric Acid. Naturally Derived), Onions (Onions), Red Peppers, Water, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Oregano (Oregano), Kosher Salt, Ground Cumin (Ground Cumin), Ground Black Pepper, Greek Leaf Oregano (Dried Oregano), Ground Cayenne Pepper (Dried Chilies), Ground Allspice (Allspice), Whole Bay Leaves (Bay Leaves)",
+   "name": "Cumin & Tomato Braised Vegan Chick'n",
+   "note": null,
+   "nutrition": {
+    "calories": 227,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 29.0,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 681.8,
+    "sugars_g": 5.9,
+    "total_carb_g": 13.3,
+    "total_fat_g": 8.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300303": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Water, Scallions (Fresh Scallions), Ginger (Fresh Ginger), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cilantro (Cilantro), Fine Granulated Sugar (Sugar), Kosher Salt",
+   "name": "Steamed Tofu with Ginger, Scallion & Cilantro",
+   "note": null,
+   "nutrition": {
+    "calories": 126,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.2,
+    "protein_g": 10.8,
+    "sat_fat_g": 0.8,
+    "sodium_mg": 483.1,
+    "sugars_g": 0.9,
+    "total_carb_g": 4.3,
+    "total_fat_g": 7.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300304": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Water, Green Lentils (French Green Lentils), Suntan Peppers (Bell Peppers), Water, Black Bean Sauce (Soy Sauce (Water, Salt, Soybeans, Wheat Flour), Fermented Black Beans (Black Beans, Salt, Water, ) Water, Sugar, Dehydrated Garlic, Salt, Soybean Oil, Rice Wine (Water, Rice, Wheat), Modified Corn Starch.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Scallions (Fresh Scallions), Sherry (Sherry Wine, Salt, Malic Acid, Caramel Color, Potassium Metabisulfite (Preservative), Potassium Sorbate (Preservative). Contains Sulfites.), Garlic (Garlic), Fine Granulated Sugar (Sugar)",
+   "name": "Fermented Black Bean & Garlic Lentils",
+   "note": null,
+   "nutrition": {
+    "calories": 192,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 12.7,
+    "protein_g": 10.8,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 29.0,
+    "sugars_g": 2.2,
+    "total_carb_g": 27.1,
+    "total_fat_g": 4.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300305": {
+   "allergens": [],
+   "ingredients": "Broccoli Florets (Broccoli), Pure Toasted Sesame Oil (Sesame oil), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Whole Hulled Sesame Seeds (Sesame Seeds), Kosher Salt, Ground Black Pepper",
+   "name": "Roasted Broccoli with Garlic & Sesame",
+   "note": null,
+   "nutrition": {
+    "calories": 86,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.5,
+    "protein_g": 3.5,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 79.3,
+    "sugars_g": 0.0,
+    "total_carb_g": 6.6,
+    "total_fat_g": 6.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300311": {
    "allergens": [
     "Eggs",
@@ -8495,6 +8655,29 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300594": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "White Rice, Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Diced Tomato (Fresh Diced Tomatoes), Onions (Onions), Suntan Peppers (Bell Peppers), Garlic (Garlic), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cilantro (Cilantro), Ground Coriander (Coriander), Ground Cumin (Ground Cumin), Kosher Salt, Parsley (Parsley)",
+   "name": "Arroz Con Pollo",
+   "note": null,
+   "nutrition": {
+    "calories": 746,
+    "cholesterol_mg": 85.1,
+    "dietary_fiber_g": 3.5,
+    "protein_g": 30.6,
+    "sat_fat_g": 1.4,
+    "sodium_mg": 366.1,
+    "sugars_g": 2.0,
+    "total_carb_g": 134.5,
+    "total_fat_g": 6.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300606": {
    "allergens": [
     "Soybeans"
@@ -9763,6 +9946,33 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300957": {
+   "allergens": [
+    "Crustacean Shellfish",
+    "Fish",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
+   "name": "Shaking Beef and Protein Plus Pasta with Garlic",
+   "note": null,
+   "nutrition": {
+    "calories": 584,
+    "cholesterol_mg": 14.3,
+    "dietary_fiber_g": 4.3,
+    "protein_g": 29.4,
+    "sat_fat_g": 9.9,
+    "sodium_mg": 1849.1,
+    "sugars_g": 5.7,
+    "total_carb_g": 38.4,
+    "total_fat_g": 36.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -11061,7 +11271,7 @@
     "Soybeans"
    ],
    "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Jerk Marinade (Spanish Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Water, Ground Allspice (Allspice), Ginger (Fresh Ginger), Fresh Thyme (Fresh Thyme), Ground Nutmeg (Nutmeg), Ground Cinnamon (Ground Cinnamon Bark), Ground Black Pepper, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Scallions (Scallions)), Shredded Carrots (Carrots), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.)",
-   "name": "JerkTofu",
+   "name": "Jerk Tofu",
    "note": null,
    "nutrition": {
     "calories": 147,
@@ -11076,8 +11286,8 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
-   "vegan": false,
-   "vegetarian": false
+   "vegan": true,
+   "vegetarian": true
   },
   "31003": {
    "allergens": [
@@ -11350,6 +11560,31 @@
    "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "400086": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "BBQ Pulled Pork (Smoked Cooked Pork, Cider Vinegar, Sugar, Salt, Spices.), Ham (After cooking, Pork Leg (FreshHam) and Ground Pork (not more than 30% fat). Contains up to 11% of a solution. Solution ingredients: Water, Natural Salt Blend (Potassium Chloride, Sea Salt). Turbinado Sugar, Salt, Cultured Celery Powder, Cherry Powder, Sea Salt.), French Bread (Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Salt (Salt, Yellow Prussiate Of Soda), Soybean Oil, Liquid Sugar, Dough Conditioner (Corn Flour, Calcium Sulfate, L-cysteine, Enzymes), Wheat Gluten, Monoglycerides [Water, Monoglycerides, And 2% Or Less Of Each Of The Following: Preservatives: Propionic Acid, Phosphoric Acid, Calcium Propionate], Enzymes (Corn Flour, Enzymes), Microcrystalline Cellulose, Sodium Bicarbonate, Sodium Acid Pyrophosphate, Tricalcium Phosphate, Magnesium Stearate (Processing Aid), And Tricalcium Phosphate].), Kosher Dill Pickles (Cucumbers, Water, Vinegar, Salt, Alum, Calcium Chloride, Sodium Benzoate (Preservative) Spices, Polysorbate 80, Turmeric (Color) Yellow 5.), Swiss Cheese (Pasteurized Part-Skim Milk, Cheese Cultures, Salt, Enzymes.), Dijon Mustard (Mustard Seeds, Water, Alcohol Vinegar, White Wine 5% (Sulphites), Salt, Preservative: Sodium Bisulphite.)",
+   "name": "Cuban Pork Sandwich",
+   "note": "The sandwich is the invention of cigar workers in Tampa's Ybor City.",
+   "nutrition": {
+    "calories": 335,
+    "cholesterol_mg": 72.2,
+    "dietary_fiber_g": 0.5,
+    "protein_g": 24.5,
+    "sat_fat_g": 6.6,
+    "sodium_mg": 1142.0,
+    "sugars_g": 2.8,
+    "total_carb_g": 20.8,
+    "total_fat_g": 16.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
   },
   "440038": {
    "allergens": [
@@ -11697,7 +11932,7 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 each",
-   "vegan": false,
+   "vegan": true,
    "vegetarian": true
   },
   "502008": {
@@ -11721,6 +11956,27 @@
    },
    "portion": "4 oz",
    "vegan": false,
+   "vegetarian": true
+  },
+  "502068": {
+   "allergens": [],
+   "ingredients": "Brown Rice (Water, Brown Rice (Long Grain Brown Rice.)), Black Beans (Prepared Black Beans, Water, Salt, Calcium Chloride, (Firming Agent)), Onions (Onions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Cumin (Ground Cumin), Ground Black Pepper, Greek Leaf Oregano (Dried Oregano), Ground Cayenne Pepper (Dried Chilies)",
+   "name": "Black Beans and Rice",
+   "note": null,
+   "nutrition": {
+    "calories": 127,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 3.1,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 235.3,
+    "sugars_g": 1.0,
+    "total_carb_g": 21.8,
+    "total_fat_g": 2.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
    "vegetarian": true
   },
   "502072": {
@@ -11857,6 +12113,30 @@
    "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "503080": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Pork Potsticker (Pork, Enriched Bleached Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Cabbage, Soy Sauce (Water, Soybeans, Salt, Wheat Flour), Contains Less Than 2% Of: Green Onions, Garlic, Ginger, Rice Flour, Spice, Modified Food Starch, Sodium Tripolyphosphate, Sesame Seed Oil, Soybean Oil, Sugar, Salt), Vegetable Pan Coating Spray (Canola Oil, Canola Lecithin, Mono and Diglycerides, Natural Flavor and Propellant), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Pure Toasted Sesame Oil (Sesame oil), Scallions (Fresh Scallions), Ground Ginger (Dried Ginger.)",
+   "name": "Pork Potsticker's",
+   "note": "The ingredients, serving customs and cooking methods (steamed, fried, boiled) vary according to cultural taste.",
+   "nutrition": {
+    "calories": 409,
+    "cholesterol_mg": 30.1,
+    "dietary_fiber_g": 1.2,
+    "protein_g": 15.2,
+    "sat_fat_g": 3.7,
+    "sodium_mg": 1553.9,
+    "sugars_g": 2.3,
+    "total_carb_g": 33.8,
+    "total_fat_g": 23.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "5 each",
+   "vegan": false,
+   "vegetarian": false
   },
   "503091": {
    "allergens": [
@@ -12807,6 +13087,27 @@
    "vegan": false,
    "vegetarian": true
   },
+  "700011": {
+   "allergens": [],
+   "ingredients": "Okra, Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Kosher Salt, Ground Black Pepper, Oregano (Oregano), Rosemary (Rosemary), Onions (Onions), Crushed Red Pepper (Red chile peppers), Whole Bay Leaves (Bay Leaves)",
+   "name": "Stewed Okra",
+   "note": null,
+   "nutrition": {
+    "calories": 89,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.3,
+    "protein_g": 1.5,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 1200.5,
+    "sugars_g": 2.5,
+    "total_carb_g": 9.0,
+    "total_fat_g": 5.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "700050": {
    "allergens": [],
    "ingredients": "Lime Juice (Lime Juice), Shallots (Shallots), Pure Toasted Sesame Oil (Sesame oil), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Fine Granulated Sugar (Sugar), Kosher Salt",
@@ -13086,6 +13387,27 @@
    "vegan": false,
    "vegetarian": true
   },
+  "777716": {
+   "allergens": [],
+   "ingredients": "Yellow Summer Squash (Summer Squash), Zucchini Squash (Zucchini), Eggplant (FRESH EGGPLANT), Red Onions, Suntan Peppers (Bell Peppers), Basil (Fresh Basil.)",
+   "name": "Steamed Vegetable Medley",
+   "note": null,
+   "nutrition": {
+    "calories": 36,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.3,
+    "protein_g": 1.5,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 4.2,
+    "sugars_g": 3.9,
+    "total_carb_g": 8.1,
+    "total_fat_g": 0.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "790513": {
    "allergens": [],
    "ingredients": "Brown Sugar Oatmeal (Whole Grain Rolled Oats, Sugar, Natural And Artificial Flavor, (123-64) Salt, Calcium Carbonate, Guar Gum, Caramel Color, Niacinamide*, Reduced Iron, Vitamin A Palmitate, Pyridoxine Hydrochloride*, Riboflavin*, Thiamin Mononitrate*, Folic Acid*.)",
@@ -13178,13 +13500,13 @@
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 0.1,
+    "sodium_mg": 0.0,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "1/2 oz",
    "vegan": true,
    "vegetarian": true
   },

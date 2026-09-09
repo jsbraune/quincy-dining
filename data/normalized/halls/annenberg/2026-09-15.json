@@ -240,7 +240,7 @@
       {
        "allergens": [],
        "name": "Scallions",
-       "portion": "1 oz",
+       "portion": "1/2 oz",
        "recipeId": 791567,
        "tags": [
         "vegan",
@@ -1738,8 +1738,13 @@
        "tags": []
       },
       {
-       "allergens": [],
+       "allergens": [
+        "Crustacean Shellfish"
+       ],
+       "calories": 382,
        "name": "Steamed Mussels Garlic and White Wine",
+       "portion": "8 oz",
+       "recipeId": 500995,
        "tags": []
       }
      ],
@@ -1764,9 +1769,17 @@
     {
      "items": [
       {
-       "allergens": [],
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 104,
        "name": "Corn On The Cob with buttter and Salt",
-       "tags": []
+       "portion": "1 half ear",
+       "recipeId": 300999,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Vegetables"

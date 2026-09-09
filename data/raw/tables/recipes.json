@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-08T22:25:27+00:00",
+ "fetchedAt": "2026-09-09T18:15:11+00:00",
  "rows": [
   {
    "allergens": [
@@ -39700,42 +39700,42 @@
   },
   {
    "allergens": [],
-   "calories": 36,
-   "calories_from_fat": 15,
+   "calories": 143,
+   "calories_from_fat": 58,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.7g",
-    "percent": 6.0
+    "amount": "6.7g",
+    "percent": 24.0
    },
    "id": 144044,
    "information": null,
    "ingredients": "Kidney Beans (Prepared Kidney Beans, Water, Sugar, Dextrose, Salt, Calcium Chloride (Firming Agent) , and Disodium EDTA (To Promote Color Retention).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper, Fresh Thyme (Fresh Thyme), Parsley (Parsley)",
    "name": "Seasoned Red Beans",
    "protein": {
-    "amount": "1.5g",
-    "percent": 3.0
+    "amount": "5.8g",
+    "percent": 11.0
    },
    "sat_fat": {
-    "amount": "0.1g",
-    "percent": 1.0
+    "amount": "0.5g",
+    "percent": 2.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "72.3mg",
-    "percent": 3.0
+    "amount": "289.4mg",
+    "percent": 13.0
    },
    "sugars": {
-    "amount": "0.6g"
+    "amount": "2.5g"
    },
    "total_carb": {
-    "amount": "4.6g",
-    "percent": 2.0
+    "amount": "18.4g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "1.6g",
-    "percent": 2.0
+    "amount": "6.4g",
+    "percent": 8.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -53465,7 +53465,7 @@
    "dietary_fiber": null,
    "id": 165014,
    "information": null,
-   "ingredients": "Linguine (Semolina (Wheat), Durum Wheat Flour, Niacin (Vitamin B3), Ferrous Sulphate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.), Kosher Salt (Salt)",
+   "ingredients": "Linguine (Semolina (Wheat), Durum Wheat Flour, Niacin (Vitamin B3), Ferrous Sulphate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.), Kosher Salt",
    "name": "Linguine",
    "protein": {
     "amount": "5.6g",
@@ -130276,43 +130276,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 292,
-   "calories_from_fat": 165,
+   "calories": 584,
+   "calories_from_fat": 330,
    "cholesterol": {
-    "amount": "7.1mg",
-    "percent": 2.0
+    "amount": "14.3mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "2.1g",
-    "percent": 8.0
+    "amount": "4.3g",
+    "percent": 15.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "14.7g",
-    "percent": 29.0
+    "amount": "29.4g",
+    "percent": 58.0
    },
    "sat_fat": {
-    "amount": "4.9g",
-    "percent": 22.0
+    "amount": "9.9g",
+    "percent": 45.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "924.6mg",
-    "percent": 40.0
+    "amount": "1849.1mg",
+    "percent": 80.0
    },
    "sugars": {
-    "amount": "2.8g"
+    "amount": "5.7g"
    },
    "total_carb": {
-    "amount": "19.2g",
-    "percent": 7.0
+    "amount": "38.4g",
+    "percent": 14.0
    },
    "total_fat": {
-    "amount": "18.3g",
-    "percent": 23.0
+    "amount": "36.6g",
+    "percent": 47.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -131755,6 +131755,54 @@
    },
    "vegan": false,
    "vegetarian": false
+  },
+  {
+   "allergens": [
+    "Milk"
+   ],
+   "calories": 104,
+   "calories_from_fat": 78,
+   "cholesterol": {
+    "amount": "20.3mg",
+    "percent": 7.0
+   },
+   "dietary_fiber": {
+    "amount": "0.9g",
+    "percent": 3.0
+   },
+   "id": 300999,
+   "information": null,
+   "ingredients": "Corn on The Cob, Butter (Cream (milk), salt.), Kosher Salt",
+   "name": "Corn On The Cob with buttter and Salt",
+   "protein": {
+    "amount": "1.3g",
+    "percent": 3.0
+   },
+   "sat_fat": {
+    "amount": "4.8g",
+    "percent": 22.0
+   },
+   "serving_size": "1 half ear",
+   "sodium": {
+    "amount": "83.8mg",
+    "percent": 4.0
+   },
+   "sugars": {
+    "amount": "1.7g"
+   },
+   "total_carb": {
+    "amount": "8g",
+    "percent": 3.0
+   },
+   "total_fat": {
+    "amount": "8.7g",
+    "percent": 11.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
   },
   {
    "allergens": [
@@ -133988,7 +134036,7 @@
    "id": 301098,
    "information": null,
    "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Jerk Marinade (Spanish Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Water, Ground Allspice (Allspice), Ginger (Fresh Ginger), Fresh Thyme (Fresh Thyme), Ground Nutmeg (Nutmeg), Ground Cinnamon (Ground Cinnamon Bark), Ground Black Pepper, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Scallions (Scallions)), Shredded Carrots (Carrots), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.)",
-   "name": "JerkTofu",
+   "name": "Jerk Tofu",
    "protein": {
     "amount": "10.7g",
     "percent": 21.0
@@ -134016,8 +134064,8 @@
    "trans_fat": {
     "amount": "0g"
    },
-   "vegan": false,
-   "vegetarian": false
+   "vegan": true,
+   "vegetarian": true
   },
   {
    "allergens": [
@@ -143165,36 +143213,36 @@
   },
   {
    "allergens": [],
-   "calories": 108,
+   "calories": 54,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.6g",
-    "percent": 2.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 444209,
    "information": null,
    "ingredients": "Water, Premium Brown Jasmine Rice",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1.9g",
-    "percent": 4.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "9.5mg"
+    "amount": "4.7mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "22.8g",
-    "percent": 8.0
+    "amount": "11.4g",
+    "percent": 4.0
    },
    "total_fat": {
     "amount": "0g"
@@ -145399,6 +145447,54 @@
    },
    "vegan": true,
    "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Crustacean Shellfish"
+   ],
+   "calories": 382,
+   "calories_from_fat": 77,
+   "cholesterol": {
+    "amount": "105.8mg",
+    "percent": 35.0
+   },
+   "dietary_fiber": {
+    "amount": "0.6g",
+    "percent": 2.0
+   },
+   "id": 500995,
+   "information": "A Monterey Bay Aquarium Seafood Watch Guide \"best\" choice",
+   "ingredients": "Cape Cod Mussels, White Cooking Wine (Wine, Water, Neutral Spirits, Salt, Tartaric Acid, Citric Acid, Potassium Sorbate (preservative) Potassium Metabisulfite (preservative) Caramel Color.), Shallots (Shallots), Garlic (Garlic), Ground Black Pepper, Parsley (Parsley)",
+   "name": "Steamed Mussels Garlic and White Wine",
+   "protein": {
+    "amount": "45.5g",
+    "percent": 89.0
+   },
+   "sat_fat": {
+    "amount": "1.6g",
+    "percent": 7.0
+   },
+   "serving_size": "8 oz",
+   "sodium": {
+    "amount": "949.4mg",
+    "percent": 41.0
+   },
+   "sugars": {
+    "amount": "2.5g"
+   },
+   "total_carb": {
+    "amount": "20.2g",
+    "percent": 7.0
+   },
+   "total_fat": {
+    "amount": "8.5g",
+    "percent": 11.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
   },
   {
    "allergens": [],
@@ -147733,7 +147829,7 @@
    "trans_fat": {
     "amount": "0g"
    },
-   "vegan": false,
+   "vegan": true,
    "vegetarian": true
   },
   {
@@ -183398,9 +183494,9 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "1/2 oz",
    "sodium": {
-    "amount": "0.1mg"
+    "amount": "0mg"
    },
    "sugars": {
     "amount": "0g"
@@ -187437,6 +187533,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "b019ac11c875b3fe59b38b987bcbae7cdcfda8d56d4b34fa43e843dbcaebf18e",
+ "sha256": "d27fc3920ea8c6c7db9d59633f903ec8ebaad54c5363c04ed5639c14da07a0e1",
  "table": "recipes"
 }
