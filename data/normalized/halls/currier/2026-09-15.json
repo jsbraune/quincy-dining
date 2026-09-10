@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "fetchedAt": "2026-09-09T13:21:52+00:00",
+ "fetchedAt": "2026-09-10T22:19:11+00:00",
  "hall": "currier",
  "hallName": "Currier House",
  "itemCount": 167,
@@ -825,16 +825,6 @@
      "items": [
       {
        "allergens": [
-        "Soybeans"
-       ],
-       "calories": 80,
-       "name": "Chipotle Beef Tacos",
-       "portion": "1 oz",
-       "recipeId": 300982,
-       "tags": []
-      },
-      {
-       "allergens": [
         "Eggs",
         "Fish",
         "Milk",
@@ -853,6 +843,11 @@
        "name": "Grilled Chicken Breast",
        "portion": "4 oz",
        "recipeId": 111050,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "name": "Street Beef Taco",
        "tags": []
       }
      ],

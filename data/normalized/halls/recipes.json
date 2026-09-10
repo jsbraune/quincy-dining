@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T18:00:29+00:00",
+ "generatedAt": "2026-09-10T22:20:45+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -9287,18 +9287,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 584,
-    "cholesterol_mg": 14.3,
-    "dietary_fiber_g": 4.3,
-    "protein_g": 29.4,
-    "sat_fat_g": 9.9,
-    "sodium_mg": 1849.1,
-    "sugars_g": 5.7,
-    "total_carb_g": 38.4,
-    "total_fat_g": 36.6,
+    "calories": 292,
+    "cholesterol_mg": 7.1,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 14.7,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 924.6,
+    "sugars_g": 2.8,
+    "total_carb_g": 19.2,
+    "total_fat_g": 18.3,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -10799,7 +10799,7 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Teriyaki Glaze (Soy Sauce (Water, Soybean, Wheat, Salt, Sugar, Water, Modified Corn Starch, Onion Juice, Vinegar, Natural Flavor, Garlic Powder, Malic Acid, Spice , Sodium Benzoate, Less than 1/10 of 1% as a preservative. Disodium Inosinate, Disodium Guanylate.), Ground Black Pepper, Kosher Salt",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Teriyaki Glaze (Soy Sauce (Water, Soybean, Wheat, Salt, Sugar, Water, Modified Corn Starch, Onion Juice, Vinegar, Natural Flavor, Garlic Powder, Malic Acid, Spice , Sodium Benzoate, Less than 1/10 of 1% as a preservative. Disodium Inosinate, Disodium Guanylate.), Ground Black Pepper, Kosher Salt, Scallions (Scallions)",
    "name": "Teriyaki Tofu",
    "note": null,
    "nutrition": {
