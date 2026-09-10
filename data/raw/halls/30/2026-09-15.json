@@ -1,7 +1,7 @@
 {
  "date": "2026-09-15",
- "fetchedAt": "2026-09-09T13:21:52+00:00",
- "itemCount": 155,
+ "fetchedAt": "2026-09-10T17:59:29+00:00",
+ "itemCount": 156,
  "locationNum": "30",
  "meals": [
   {
@@ -450,10 +450,10 @@
     {
      "items": [
       {
-       "name": "Linguine"
+       "name": "Memorial Hall Closed for Special Event"
       }
      ],
-     "name": "Miscellaneous"
+     "name": "MISC"
     },
     {
      "items": [
@@ -569,6 +569,9 @@
     {
      "items": [
       {
+       "name": "Linguine"
+      },
+      {
        "name": "Roasted Red Bliss Potatoes"
       }
      ],
@@ -663,6 +666,6 @@
    ]
   }
  ],
- "mealsSha256": "fee360f7d9e86d040a0ca5b850eb8ce40b2befd2e9cf2ae29b6c738c3c62324f",
+ "mealsSha256": "b9533df26e7d7327fb07ac2cbca2a440590eed469724e0a5d506f6e26ac5cb76",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

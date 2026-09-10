@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "fetchedAt": "2026-09-04T13:07:39+00:00",
+ "fetchedAt": "2026-09-10T17:59:29+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 170,
@@ -1706,6 +1706,20 @@
      "items": [
       {
        "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 301,
+       "name": "Peach Pie",
+       "portion": "1 slice",
+       "recipeId": 185010,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
         "Tree Nuts"
        ],
        "calories": 110,
@@ -1714,23 +1728,6 @@
        "recipeId": 300855,
        "tags": [
         "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs",
-        "Milk",
-        "Peanuts",
-        "Soybeans",
-        "Tree Nuts",
-        "Wheat"
-       ],
-       "calories": 345,
-       "name": "Salted Caramel Cake",
-       "portion": "1 piece",
-       "recipeId": 599020,
-       "tags": [
         "vegetarian"
        ]
       },

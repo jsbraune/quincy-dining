@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "fetchedAt": "2026-09-04T13:07:39+00:00",
+ "fetchedAt": "2026-09-10T17:59:29+00:00",
  "itemCount": 170,
  "locationNum": "30",
  "meals": [
@@ -569,10 +569,10 @@
     {
      "items": [
       {
-       "name": "Pineapple Soft serve"
+       "name": "Peach Pie"
       },
       {
-       "name": "Salted Caramel Cake"
+       "name": "Pineapple Soft serve"
       },
       {
        "name": "Strawberry Soft serve"
@@ -713,6 +713,6 @@
    ]
   }
  ],
- "mealsSha256": "59da87339adb2b0526cfd9959da5068f68a7fdf1c452639e783ece3b5bfd7bbe",
+ "mealsSha256": "25a4fd8857b7600137b9a2499775e24316c176e93ec0e4741c47b970a55d179d",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

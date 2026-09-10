@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T13:18:55+00:00",
+ "generatedAt": "2026-09-10T17:59:29+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2858,27 +2858,6 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
-   "vegan": true,
-   "vegetarian": true
-  },
-  "163054": {
-   "allergens": [],
-   "ingredients": "Water, Fancy Wild Rice (Wild Rice)",
-   "name": "Wild Rice",
-   "note": null,
-   "nutrition": {
-    "calories": 20,
-    "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.4,
-    "protein_g": 0.9,
-    "sat_fat_g": 0.0,
-    "sodium_mg": 0.0,
-    "sugars_g": 0.1,
-    "total_carb_g": 4.3,
-    "total_fat_g": 0.0,
-    "trans_fat_g": 0.0
-   },
-   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -9096,18 +9075,18 @@
    "name": "Stir Fry Vegetables",
    "note": null,
    "nutrition": {
-    "calories": 47,
+    "calories": 70,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
-    "sat_fat_g": 0.4,
-    "sodium_mg": 11.3,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 17.0,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
-    "total_fat_g": 5.5,
+    "total_fat_g": 8.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -9982,18 +9961,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 292,
-    "cholesterol_mg": 7.1,
-    "dietary_fiber_g": 2.1,
-    "protein_g": 14.7,
-    "sat_fat_g": 4.9,
-    "sodium_mg": 924.6,
-    "sugars_g": 2.8,
-    "total_carb_g": 19.2,
-    "total_fat_g": 18.3,
+    "calories": 584,
+    "cholesterol_mg": 14.3,
+    "dietary_fiber_g": 4.3,
+    "protein_g": 29.4,
+    "sat_fat_g": 9.9,
+    "sodium_mg": 1849.1,
+    "sugars_g": 5.7,
+    "total_carb_g": 38.4,
+    "total_fat_g": 36.6,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -11708,7 +11687,7 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Teriyaki Glaze (Soy Sauce (Water, Soybean, Wheat, Salt, Sugar, Water, Modified Corn Starch, Onion Juice, Vinegar, Natural Flavor, Garlic Powder, Malic Acid, Spice , Sodium Benzoate, Less than 1/10 of 1% as a preservative. Disodium Inosinate, Disodium Guanylate.), Ground Black Pepper, Kosher Salt, Scallions (Scallions)",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Teriyaki Glaze (Soy Sauce (Water, Soybean, Wheat, Salt, Sugar, Water, Modified Corn Starch, Onion Juice, Vinegar, Natural Flavor, Garlic Powder, Malic Acid, Spice , Sodium Benzoate, Less than 1/10 of 1% as a preservative. Disodium Inosinate, Disodium Guanylate.), Ground Black Pepper, Kosher Salt",
    "name": "Teriyaki Tofu",
    "note": null,
    "nutrition": {

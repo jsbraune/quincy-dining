@@ -1,9 +1,9 @@
 {
  "date": "2026-09-15",
- "fetchedAt": "2026-09-09T13:21:52+00:00",
+ "fetchedAt": "2026-09-10T17:59:29+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
- "itemCount": 155,
+ "itemCount": 156,
  "locationNum": "30",
  "meals": [
   {
@@ -1354,20 +1354,12 @@
     {
      "items": [
       {
-       "allergens": [
-        "Wheat"
-       ],
-       "calories": 159,
-       "name": "Linguine",
-       "portion": "4 oz",
-       "recipeId": 165014,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
+       "allergens": [],
+       "name": "Memorial Hall Closed for Special Event",
+       "tags": []
       }
      ],
-     "name": "Miscellaneous"
+     "name": "MISC"
     },
     {
      "items": [
@@ -1752,6 +1744,19 @@
     },
     {
      "items": [
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 159,
+       "name": "Linguine",
+       "portion": "4 oz",
+       "recipeId": 165014,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
       {
        "allergens": [],
        "calories": 142,

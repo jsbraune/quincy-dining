@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T13:20:38+00:00",
+ "generatedAt": "2026-09-10T18:00:29+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -4347,6 +4347,30 @@
    "nutrition": {},
    "portion": "6 fl. oz",
    "vegan": false,
+   "vegetarian": true
+  },
+  "185010": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Peach Pie (Peaches, Enriched Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate , Riboflavin, Folic Acid), Water, Vegetable Oil (Palm, Soybean And/Or Cottonseed Oils), High Fructose Corn Syrup, Modified Corn Starch, Sugar. Contains 2% or Less Of Each Of The Following: Corn Syrup, Salt, Natural And Artificial Flavor, Citric Acid, Annatto And Turmeric Extracts (Color), Soy Flour.)",
+   "name": "Peach Pie",
+   "note": null,
+   "nutrition": {
+    "calories": 301,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 3.0,
+    "sat_fat_g": 7.0,
+    "sodium_mg": 300.9,
+    "sugars_g": 14.0,
+    "total_carb_g": 41.1,
+    "total_fat_g": 15.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
+   "vegan": true,
    "vegetarian": true
   },
   "185032": {
@@ -9263,18 +9287,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 292,
-    "cholesterol_mg": 7.1,
-    "dietary_fiber_g": 2.1,
-    "protein_g": 14.7,
-    "sat_fat_g": 4.9,
-    "sodium_mg": 924.6,
-    "sugars_g": 2.8,
-    "total_carb_g": 19.2,
-    "total_fat_g": 18.3,
+    "calories": 584,
+    "cholesterol_mg": 14.3,
+    "dietary_fiber_g": 4.3,
+    "protein_g": 29.4,
+    "sat_fat_g": 9.9,
+    "sodium_mg": 1849.1,
+    "sugars_g": 5.7,
+    "total_carb_g": 38.4,
+    "total_fat_g": 36.6,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -10775,7 +10799,7 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Teriyaki Glaze (Soy Sauce (Water, Soybean, Wheat, Salt, Sugar, Water, Modified Corn Starch, Onion Juice, Vinegar, Natural Flavor, Garlic Powder, Malic Acid, Spice , Sodium Benzoate, Less than 1/10 of 1% as a preservative. Disodium Inosinate, Disodium Guanylate.), Ground Black Pepper, Kosher Salt, Scallions (Scallions)",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Teriyaki Glaze (Soy Sauce (Water, Soybean, Wheat, Salt, Sugar, Water, Modified Corn Starch, Onion Juice, Vinegar, Natural Flavor, Garlic Powder, Malic Acid, Spice , Sodium Benzoate, Less than 1/10 of 1% as a preservative. Disodium Inosinate, Disodium Guanylate.), Ground Black Pepper, Kosher Salt",
    "name": "Teriyaki Tofu",
    "note": null,
    "nutrition": {
