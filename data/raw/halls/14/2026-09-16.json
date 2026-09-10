@@ -1,8 +1,8 @@
 {
- "date": "2026-09-10",
+ "date": "2026-09-16",
  "fetchedAt": "2026-09-10T13:18:56+00:00",
- "itemCount": 166,
- "locationNum": "17",
+ "itemCount": 156,
+ "locationNum": "14",
  "meals": [
   {
    "meal": "breakfast",
@@ -22,10 +22,10 @@
     {
      "items": [
       {
-       "name": "Muffin Assortment"
+       "name": "Cinnamon Roll"
       },
       {
-       "name": "Rudi's Mini Croissant"
+       "name": "Muffin Assortment"
       }
      ],
      "name": "Breakfast Bakery"
@@ -86,54 +86,6 @@
       }
      ],
      "name": "Salad Bar"
-    },
-    {
-     "items": [
-      {
-       "name": "Malted Belgian Waffles"
-      },
-      {
-       "name": "Multi-Grain Waffles"
-      },
-      {
-       "name": "Pancake Syrup"
-      },
-      {
-       "name": "Whipped Topping"
-      }
-     ],
-     "name": "Build Your Own"
-    },
-    {
-     "items": [
-      {
-       "name": "Blueberries"
-      },
-      {
-       "name": "Overnight Oats"
-      },
-      {
-       "name": "Sliced Strawberries"
-      }
-     ],
-     "name": "Featured Special Bar"
-    },
-    {
-     "items": [
-      {
-       "name": "Fresh Gala Apple"
-      },
-      {
-       "name": "Fruit, Bananas"
-      },
-      {
-       "name": "Granny Smith Apples"
-      },
-      {
-       "name": "Kiwi"
-      }
-     ],
-     "name": "Fresh Fruit"
     }
    ]
   },
@@ -144,10 +96,10 @@
     {
      "items": [
       {
-       "name": "Chicken Noodle Soup"
+       "name": "Cream of Jalapeno Soup"
       },
       {
-       "name": "Sweet Potato Chipotle"
+       "name": "Italian Meatball Soup"
       }
      ],
      "name": "Today's Soup"
@@ -155,16 +107,16 @@
     {
      "items": [
       {
-       "name": "Baby Arugula"
+       "name": "Black Eyed Peas"
       },
       {
-       "name": "Black  Beans"
-      },
-      {
-       "name": "Butter   Beans"
+       "name": "Broccoli and Vegetable Honey Dijon Slaw"
       },
       {
        "name": "Caesar Salad"
+      },
+      {
+       "name": "Chick Peas"
       },
       {
        "name": "Corn Niblets"
@@ -173,7 +125,19 @@
        "name": "Cottage Cheese"
       },
       {
+       "name": "Cranberries"
+      },
+      {
        "name": "Diced Onions"
+      },
+      {
+       "name": "Farro with Dill"
+      },
+      {
+       "name": "Feta Cheese"
+      },
+      {
+       "name": "Flaked Tuna"
       },
       {
        "name": "Grape Tomatoes"
@@ -197,13 +161,7 @@
        "name": "Little Leaf Greens"
       },
       {
-       "name": "Quinoa Black Bean and Rost Corn Salad"
-      },
-      {
-       "name": "Roasted Diced Beets"
-      },
-      {
-       "name": "Roasted Salmon"
+       "name": "Millet"
       },
       {
        "name": "Seasoned Halal Chicken Breast"
@@ -212,16 +170,13 @@
        "name": "Shredded Carrots"
       },
       {
-       "name": "Shredded Cheddar Cheese"
-      },
-      {
        "name": "Sliced Avocado"
       },
       {
        "name": "Sliced Cucumbers"
       },
       {
-       "name": "Sorghum"
+       "name": "Spinach Salad Base"
       },
       {
        "name": "Steamed Broccoli"
@@ -230,10 +185,10 @@
        "name": "Suntan Pepper Strips"
       },
       {
-       "name": "Tricolor Quinoa"
+       "name": "Sweet Roasted Potatoes"
       },
       {
-       "name": "Wonton Strips"
+       "name": "Tabouleh Salad"
       }
      ],
      "name": "Salad Bar"
@@ -288,16 +243,13 @@
     {
      "items": [
       {
-       "name": "Broccoli Alfredo Pizza"
-      },
-      {
        "name": "Grilled Chicken Breast"
       },
       {
-       "name": "Pepperoni Pizza"
+       "name": "Halal Red Spiced Chicken"
       },
       {
-       "name": "Rosemary Lemon Garlic Roasted Chicken"
+       "name": "Honey Mustard Salmon"
       }
      ],
      "name": "Entrees"
@@ -305,7 +257,7 @@
     {
      "items": [
       {
-       "name": "Eggplant Caponata"
+       "name": "Cheese and Tomato Panini"
       }
      ],
      "name": "Veg,Vegan"
@@ -313,7 +265,7 @@
     {
      "items": [
       {
-       "name": "Protein Plus Spaghetti Cacio e Pepe with Shaved Zucchini"
+       "name": "Madison Baked Shredded Potato Casserole"
       }
      ],
      "name": "Starch And Potatoes"
@@ -321,10 +273,10 @@
     {
      "items": [
       {
-       "name": "Roasted Local Seasonal Squash"
+       "name": "Roasted Broccoli"
       },
       {
-       "name": "Steamed Broccoli, Carrots and Cauliflower"
+       "name": "Sauteed Savoy Cabbage with Mushrooms"
       }
      ],
      "name": "Vegetables"
@@ -332,7 +284,7 @@
     {
      "items": [
       {
-       "name": "Kidney and Cannelini Bean Stew"
+       "name": "Green Lentils & Roasted Butternut Squash"
       }
      ],
      "name": "Plant protein"
@@ -340,7 +292,7 @@
     {
      "items": [
       {
-       "name": "Rosemary Lemon Garlic Roasted Chicken"
+       "name": "Halal Red Spiced Chicken"
       }
      ],
      "name": "Halal"
@@ -348,13 +300,13 @@
     {
      "items": [
       {
-       "name": "Chocolate Chip Cookies"
+       "name": "Carnival Cookie"
       },
       {
-       "name": "Pineapple Soft serve"
+       "name": "Lime Soft Serve"
       },
       {
-       "name": "Strawberry Soft serve"
+       "name": "Mango Soft serve"
       }
      ],
      "name": "Desserts"
@@ -362,7 +314,15 @@
     {
      "items": [
       {
-       "name": "Plant Based Strawberry Banana Smoothie"
+       "name": "Warm Buttermilk Cornbread"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "Tart Cherry Smoothie"
       }
      ],
      "name": "Delish"
@@ -378,10 +338,7 @@
     {
      "items": [
       {
-       "name": "Albondigas"
-      },
-      {
-       "name": "Kings Hawaiian"
+       "name": "Beef Chili"
       }
      ],
      "name": "Chili Bar/Stew"
@@ -390,15 +347,15 @@
   },
   {
    "meal": "dinner",
-   "sourceLabel": "Dinnner",
+   "sourceLabel": "Dinner",
    "stations": [
     {
      "items": [
       {
-       "name": "Chicken Noodle Soup"
+       "name": "Cream of Jalapeno Soup"
       },
       {
-       "name": "Sweet Potato Chipotle"
+       "name": "Italian Meatball Soup"
       }
      ],
      "name": "Today's Soup"
@@ -406,16 +363,16 @@
     {
      "items": [
       {
-       "name": "Baby Arugula"
+       "name": "Black Eyed Peas"
       },
       {
-       "name": "Black  Beans"
-      },
-      {
-       "name": "Butter   Beans"
+       "name": "Broccoli and Vegetable Honey Dijon Slaw"
       },
       {
        "name": "Caesar Salad"
+      },
+      {
+       "name": "Chick Peas"
       },
       {
        "name": "Corn Niblets"
@@ -424,7 +381,19 @@
        "name": "Cottage Cheese"
       },
       {
+       "name": "Cranberries"
+      },
+      {
        "name": "Diced Onions"
+      },
+      {
+       "name": "Farro with Dill"
+      },
+      {
+       "name": "Feta Cheese"
+      },
+      {
+       "name": "Flaked Tuna"
       },
       {
        "name": "Grape Tomatoes"
@@ -448,13 +417,7 @@
        "name": "Little Leaf Greens"
       },
       {
-       "name": "Quinoa Black Bean and Rost Corn Salad"
-      },
-      {
-       "name": "Roasted Diced Beets"
-      },
-      {
-       "name": "Roasted Salmon"
+       "name": "Millet"
       },
       {
        "name": "Seasoned Halal Chicken Breast"
@@ -463,16 +426,13 @@
        "name": "Shredded Carrots"
       },
       {
-       "name": "Shredded Cheddar Cheese"
-      },
-      {
        "name": "Sliced Avocado"
       },
       {
        "name": "Sliced Cucumbers"
       },
       {
-       "name": "Sorghum"
+       "name": "Spinach Salad Base"
       },
       {
        "name": "Steamed Broccoli"
@@ -481,10 +441,10 @@
        "name": "Suntan Pepper Strips"
       },
       {
-       "name": "Tricolor Quinoa"
+       "name": "Sweet Roasted Potatoes"
       },
       {
-       "name": "Wonton Strips"
+       "name": "Tabouleh Salad"
       }
      ],
      "name": "Salad Bar"
@@ -492,10 +452,10 @@
     {
      "items": [
       {
-       "name": "Pad Ka Prow"
+       "name": "Chicken & Veggie Stir Fry"
       },
       {
-       "name": "Sweet and Sour Pork"
+       "name": "Locally Caught Fresh Fish  Soy Glazed"
       }
      ],
      "name": "Entrees"
@@ -503,7 +463,7 @@
     {
      "items": [
       {
-       "name": "Teriyaki Tofu"
+       "name": "Garlic Chili Glazed Tofu"
       }
      ],
      "name": "Veg,Vegan"
@@ -511,7 +471,7 @@
     {
      "items": [
       {
-       "name": "Jasmine Rice"
+       "name": "Vegetable Lo Mein"
       }
      ],
      "name": "Starch And Potatoes"
@@ -519,7 +479,7 @@
     {
      "items": [
       {
-       "name": "Steamed Fresh Green Beans"
+       "name": "Steamed Sugar Snap Peas"
       },
       {
        "name": "Stir Fry Vegetables"
@@ -530,7 +490,7 @@
     {
      "items": [
       {
-       "name": "Shanso Sesame Edamame"
+       "name": "Quinoa with Shoyu, Sesame and Greens"
       }
      ],
      "name": "Plant protein"
@@ -538,7 +498,7 @@
     {
      "items": [
       {
-       "name": "Teriyaki Tofu"
+       "name": "Locally Caught Fresh Fish  Soy Glazed"
       }
      ],
      "name": "Halal"
@@ -546,13 +506,13 @@
     {
      "items": [
       {
-       "name": "Pineapple Soft serve"
+       "name": "Banana Cream Square"
       },
       {
-       "name": "Salted Caramel Cake"
+       "name": "Lime Soft Serve"
       },
       {
-       "name": "Strawberry Soft serve"
+       "name": "Mango Soft serve"
       }
      ],
      "name": "Desserts"
@@ -614,10 +574,27 @@
        "name": "Sliced Tomatoes"
       },
       {
+       "name": "Sour Cream"
+      },
+      {
        "name": "Thick and Chunky Mild Salsa"
+      },
+      {
+       "name": "Wheat Hamburger Rolls"
       }
      ],
      "name": "From the Grill"
+    },
+    {
+     "items": [
+      {
+       "name": "Chopped Scallions"
+      },
+      {
+       "name": "Sweet Chili Sauce"
+      }
+     ],
+     "name": "Sides"
     },
     {
      "items": [
@@ -659,13 +636,13 @@
     {
      "items": [
       {
-       "name": "Alfredo Sauce"
+       "name": "Carbonara with Bacon Sauce"
       },
       {
        "name": "Marinara Spaghetti Sauce"
       },
       {
-       "name": "Protein Plus Penne Pasta"
+       "name": "Protein Plus Cavatappi"
       }
      ],
      "name": "Whole Grain Pasta Bar"
@@ -673,22 +650,10 @@
     {
      "items": [
       {
-       "name": "Hummus"
+       "name": "Instant Whipped Topping"
       },
       {
-       "name": "Lettuce"
-      },
-      {
-       "name": "Pita Pocket"
-      },
-      {
-       "name": "Radishes"
-      },
-      {
-       "name": "Shredded Carrots"
-      },
-      {
-       "name": "Sliced Onions"
+       "name": "Peaches"
       }
      ],
      "name": "Brain Break"
@@ -696,6 +661,6 @@
    ]
   }
  ],
- "mealsSha256": "619213dd74d1f80b01f94f0b1ab44a1db5f0b9e6d3869314ad10bb56f6ce0d9e",
+ "mealsSha256": "612ab1e581128ef64db361b2008b97d3a36ab009843451e26f4d7e632c646625",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

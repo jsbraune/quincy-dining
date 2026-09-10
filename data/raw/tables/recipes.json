@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-09T18:15:11+00:00",
+ "fetchedAt": "2026-09-10T13:18:49+00:00",
  "rows": [
   {
    "allergens": [
@@ -87589,43 +87589,42 @@
    "allergens": [
     "Fish"
    ],
-   "calories": 270,
-   "calories_from_fat": 176,
+   "calories": 68,
+   "calories_from_fat": 44,
    "cholesterol": {
-    "amount": "62.4mg",
-    "percent": 21.0
+    "amount": "15.6mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "1g",
-    "percent": 4.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 270427,
    "information": null,
    "ingredients": "Salmon, Lemons (LEMONS), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)",
    "name": "Roasted Salmon with Lemon Zest",
    "protein": {
-    "amount": "22.8g",
-    "percent": 45.0
+    "amount": "5.7g",
+    "percent": 11.0
    },
    "sat_fat": {
-    "amount": "2.9g",
-    "percent": 13.0
+    "amount": "0.7g",
+    "percent": 3.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "50.6mg",
-    "percent": 2.0
+    "amount": "12.6mg",
+    "percent": 1.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2.3g",
-    "percent": 1.0
+    "amount": "0.6g"
    },
    "total_fat": {
-    "amount": "19.5g",
-    "percent": 25.0
+    "amount": "4.9g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -126107,8 +126106,8 @@
   },
   {
    "allergens": [],
-   "calories": 70,
-   "calories_from_fat": 74,
+   "calories": 47,
+   "calories_from_fat": 49,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -126123,13 +126122,12 @@
     "amount": "0g"
    },
    "sat_fat": {
-    "amount": "0.6g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
-   "serving_size": "3 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "17mg",
-    "percent": 1.0
+    "amount": "11.3mg"
    },
    "sugars": {
     "amount": "0g"
@@ -126138,8 +126136,8 @@
     "amount": "0g"
    },
    "total_fat": {
-    "amount": "8.2g",
-    "percent": 10.0
+    "amount": "5.5g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130276,43 +130274,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 584,
-   "calories_from_fat": 330,
+   "calories": 292,
+   "calories_from_fat": 165,
    "cholesterol": {
-    "amount": "14.3mg",
-    "percent": 5.0
+    "amount": "7.1mg",
+    "percent": 2.0
    },
    "dietary_fiber": {
-    "amount": "4.3g",
-    "percent": 15.0
+    "amount": "2.1g",
+    "percent": 8.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "29.4g",
-    "percent": 58.0
+    "amount": "14.7g",
+    "percent": 29.0
    },
    "sat_fat": {
-    "amount": "9.9g",
-    "percent": 45.0
+    "amount": "4.9g",
+    "percent": 22.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "1849.1mg",
-    "percent": 80.0
+    "amount": "924.6mg",
+    "percent": 40.0
    },
    "sugars": {
-    "amount": "5.7g"
+    "amount": "2.8g"
    },
    "total_carb": {
-    "amount": "38.4g",
-    "percent": 14.0
+    "amount": "19.2g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "36.6g",
-    "percent": 47.0
+    "amount": "18.3g",
+    "percent": 23.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -143213,36 +143211,36 @@
   },
   {
    "allergens": [],
-   "calories": 54,
+   "calories": 108,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "0.6g",
+    "percent": 2.0
    },
    "id": 444209,
    "information": null,
    "ingredients": "Water, Premium Brown Jasmine Rice",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "1.9g",
+    "percent": 4.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "4.7mg"
+    "amount": "9.5mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "11.4g",
-    "percent": 4.0
+    "amount": "22.8g",
+    "percent": 8.0
    },
    "total_fat": {
     "amount": "0g"
@@ -144479,7 +144477,7 @@
    },
    "id": 444308,
    "information": null,
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Teriyaki Glaze (Soy Sauce (Water, Soybean, Wheat, Salt, Sugar, Water, Modified Corn Starch, Onion Juice, Vinegar, Natural Flavor, Garlic Powder, Malic Acid, Spice , Sodium Benzoate, Less than 1/10 of 1% as a preservative. Disodium Inosinate, Disodium Guanylate.), Ground Black Pepper, Kosher Salt",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Teriyaki Glaze (Soy Sauce (Water, Soybean, Wheat, Salt, Sugar, Water, Modified Corn Starch, Onion Juice, Vinegar, Natural Flavor, Garlic Powder, Malic Acid, Spice , Sodium Benzoate, Less than 1/10 of 1% as a preservative. Disodium Inosinate, Disodium Guanylate.), Ground Black Pepper, Kosher Salt, Scallions (Scallions)",
    "name": "Teriyaki Tofu",
    "protein": {
     "amount": "11.9g",
@@ -187533,6 +187531,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "d27fc3920ea8c6c7db9d59633f903ec8ebaad54c5363c04ed5639c14da07a0e1",
+ "sha256": "10e2610406ed67af452a67831f9ee691f7fdb1aebc4a65350ee5393941e621c7",
  "table": "recipes"
 }
