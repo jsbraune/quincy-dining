@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T18:07:42+00:00",
+ "generatedAt": "2026-09-11T22:19:53+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -6517,6 +6517,30 @@
    "portion": "1 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "300017": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Roasted Corn and Black Beans (Sweet Corn, Cooked Black Beans, Tomato, Onion, Green Bell Pepper, Red Bell Pepper, Contains Less than 2% of Brown Sugar, Citric Acid, Dehydrated Vegetables (Onion, Bell Pepper, Garlic), Lime Juice Powder (Lime Juice Concentrate, Modified Food Starch, Maltodextrin, Citric Acid), Natural Flavors (Including Grill and Smoke), Olive Oil, Salt, Spices, Sugar, Yeast Extract.), Vegan Cheddar Shredded Cheese (Cheddar-style Cheese (filtered Water, Modified Potato Starch, Palm Oil, Sunflower Oil, Sea Salt, Cellulose Gum, Tapioca Starch, Yeast Extract, Cellulose Gel, Konjac Powder [thickener], Cultured Dextrose, Citric Acid, Locust Bean Gum, Natural Flavors, Annatto [color], Paprika Extract [color], Probiotic Cultures [bacillus Subtilis]), Powdered Cellulose (to Prevent Caking)), Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Scallions (Fresh Scallions), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.)",
+   "name": "Corn and Black Bean Quesadilla",
+   "note": null,
+   "nutrition": {
+    "calories": 509,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.4,
+    "protein_g": 5.3,
+    "sat_fat_g": 4.2,
+    "sodium_mg": 924.8,
+    "sugars_g": 1.6,
+    "total_carb_g": 25.7,
+    "total_fat_g": 34.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 quesadilla",
+   "vegan": true,
+   "vegetarian": true
   },
   "300033": {
    "allergens": [

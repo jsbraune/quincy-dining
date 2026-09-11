@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "fetchedAt": "2026-09-08T13:17:57+00:00",
+ "fetchedAt": "2026-09-11T22:18:55+00:00",
  "itemCount": 173,
  "locationNum": "30",
  "meals": [
@@ -319,7 +319,7 @@
     {
      "items": [
       {
-       "name": "Bulogi Jackfruit Meatballs"
+       "name": "Corn and Black Bean Quesadilla"
       }
      ],
      "name": "Veg,Vegan"
@@ -528,7 +528,7 @@
     {
      "items": [
       {
-       "name": "Jackfruit Kimchi Burger"
+       "name": "Bulogi Jackfruit Meatballs"
       }
      ],
      "name": "Veg,Vegan"
@@ -732,6 +732,6 @@
    ]
   }
  ],
- "mealsSha256": "85acc3bc09f1f878c7423e34a2ef44aca7aff599fc1f84f0963cd71f4bf2e23b",
+ "mealsSha256": "995e79bc26d4e90cca8255cc479eb0fa51612c50a243ff8bcf676e26ae3986b1",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

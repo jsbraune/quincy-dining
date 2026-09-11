@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "fetchedAt": "2026-09-08T13:17:57+00:00",
+ "fetchedAt": "2026-09-11T22:18:55+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 173,
@@ -1006,12 +1006,13 @@
      "items": [
       {
        "allergens": [
-        "Soybeans"
+        "Soybeans",
+        "Wheat"
        ],
-       "calories": 288,
-       "name": "Bulogi Jackfruit Meatballs",
-       "portion": "6 oz",
-       "recipeId": 300975,
+       "calories": 509,
+       "name": "Corn and Black Bean Quesadilla",
+       "portion": "1 quesadilla",
+       "recipeId": 300017,
        "tags": [
         "vegan",
         "vegetarian"
@@ -1615,13 +1616,12 @@
      "items": [
       {
        "allergens": [
-        "Soybeans",
-        "Wheat"
+        "Soybeans"
        ],
-       "calories": 574,
-       "name": "Jackfruit Kimchi Burger",
-       "portion": "1 each",
-       "recipeId": 300976,
+       "calories": 288,
+       "name": "Bulogi Jackfruit Meatballs",
+       "portion": "6 oz",
+       "recipeId": 300975,
        "tags": [
         "vegan",
         "vegetarian"
