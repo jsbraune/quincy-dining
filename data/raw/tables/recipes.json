@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-10T22:19:03+00:00",
+ "fetchedAt": "2026-09-11T13:12:51+00:00",
  "rows": [
   {
    "allergens": [
@@ -692,23 +692,23 @@
    },
    "sat_fat": {
     "amount": "6g",
-    "percent": 30.0
+    "percent": 27.0
    },
    "serving_size": "8 fl. oz",
    "sodium": {
     "amount": "669.4mg",
-    "percent": 33.0
+    "percent": 29.0
    },
    "sugars": {
     "amount": "4g"
    },
    "total_carb": {
     "amount": "16g",
-    "percent": 5.0
+    "percent": 6.0
    },
    "total_fat": {
     "amount": "17g",
-    "percent": 23.0
+    "percent": 22.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -5135,6 +5135,55 @@
    },
    "vegan": false,
    "vegetarian": false
+  },
+  {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 949,
+   "calories_from_fat": 383,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "10g",
+    "percent": 36.0
+   },
+   "id": 12007,
+   "information": null,
+   "ingredients": "Kale & Vegetable Dumplings (Filling: Kale, Corn, Water, Napa Cabbage, Edamame, Carrots, Vegetable Oil (Soybean And/or Canola Oil), Textured Soy Flour, Onions, Sugar, Sesame Oil, Cilantro, Contains 2% Or Less Of: Garlic, Modified Food Starch, Salt, Yeast Extract, Spice. Wrapper: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Contains 2% Or Less Of: Vegetable Oil (Soybean And/or Canola Oil), Salt.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
+   "name": "Vegetable Potstickers",
+   "protein": {
+    "amount": "30g",
+    "percent": 59.0
+   },
+   "sat_fat": {
+    "amount": "1.2g",
+    "percent": 6.0
+   },
+   "serving_size": "5 each",
+   "sodium": {
+    "amount": "1900mg",
+    "percent": 83.0
+   },
+   "sugars": {
+    "amount": "10g"
+   },
+   "total_carb": {
+    "amount": "120g",
+    "percent": 44.0
+   },
+   "total_fat": {
+    "amount": "42.4g",
+    "percent": 54.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
   },
   {
    "allergens": [
@@ -35408,12 +35457,9 @@
   },
   {
    "allergens": [
-    "Eggs",
-    "Milk",
-    "Soybeans",
-    "Wheat"
+    "Soybeans"
    ],
-   "calories": 65,
+   "calories": 63,
    "calories_from_fat": 26,
    "cholesterol": {
     "amount": "0mg"
@@ -35424,7 +35470,7 @@
    },
    "id": 142033,
    "information": null,
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Bulgogi Marinade (Soy Sauce (Water, Wheat, Soybeans, Salt, Alcohol, Vinegar and Lactic Acid), Sugar, Rice Wine Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Onions, Ginger, Sesame Oil, Garlic, Water, Sesame Seeds, Tapioca Starch, Spices. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS.)",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Bulgogi Marinade (Soy Sauce (Water, Soybeans, Rice, Salt), Sugar, Water, Rice Wine Vinegar (Water, Rice, Sugar, Corn Syrup, Salt), Onions, Ginger, Sesame Oil, Garlic, Sesame Seeds, Tapioca Starch, Black Pepper, Chili Flakes Spices, Xanthan Gum.)",
    "name": "BBQ Korean Tofu",
    "protein": {
     "amount": "4.9g",
@@ -35436,11 +35482,11 @@
    },
    "serving_size": "2 oz",
    "sodium": {
-    "amount": "186.5mg",
-    "percent": 8.0
+    "amount": "200mg",
+    "percent": 9.0
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "2.9g"
    },
    "total_carb": {
     "amount": "4.8g",
@@ -37894,10 +37940,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 60,
+   "calories": 45,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "6.7mg",
+    "amount": "5mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -37908,22 +37954,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "10.7g",
-    "percent": 21.0
+    "amount": "8g",
+    "percent": 16.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "40mg",
-    "percent": 2.0
+    "amount": "30mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "2.7g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "3g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38411,11 +38457,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 83,
-   "calories_from_fat": 22,
+   "calories": 63,
+   "calories_from_fat": 16,
    "cholesterol": {
-    "amount": "13.9mg",
-    "percent": 5.0
+    "amount": "10.4mg",
+    "percent": 3.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38425,28 +38471,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "7.8g",
+    "percent": 15.0
    },
    "sat_fat": {
-    "amount": "1.7g",
-    "percent": 8.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "41.7mg",
-    "percent": 2.0
+    "amount": "31.3mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "4.2g"
+    "amount": "3.1g"
    },
    "total_carb": {
-    "amount": "4.9g",
-    "percent": 2.0
+    "amount": "3.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.4g",
-    "percent": 3.0
+    "amount": "1.8g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -51203,39 +51249,38 @@
   },
   {
    "allergens": [],
-   "calories": 138,
-   "calories_from_fat": 2,
+   "calories": 34,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.5g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
    "id": 163046,
    "information": "Bas in the Hindi language means \"aroma\" and Mati means full. Hence Basmati rice is full of aroma.",
    "ingredients": "Water, Basmati Rice (White basmati rice.)",
    "name": "Basmati Rice",
    "protein": {
-    "amount": "2.7g",
-    "percent": 5.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "1.9mg"
+    "amount": "0.5mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.2g",
-    "percent": 11.0
+    "amount": "7.6g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -70799,14 +70844,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -70818,17 +70863,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -80708,41 +80753,41 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 72,
-   "calories_from_fat": 18,
+   "calories": 18,
+   "calories_from_fat": 5,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "4g",
-    "percent": 14.0
+    "amount": "1g",
+    "percent": 4.0
    },
    "id": 255116,
    "information": null,
    "ingredients": "Makhni Dal (Water, Urad Dal (Black Lentils), Tomato Paste (Tomatoes, Citric Acid), Onions, Red Kidney Beans, Canola Oil, Salt, Ginger, Garlic, Spices. PRODUCED IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK , EGGS)",
    "name": "Makhni Dal",
    "protein": {
-    "amount": "4g",
-    "percent": 8.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "319.4mg",
-    "percent": 14.0
+    "amount": "79.9mg",
+    "percent": 3.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "0.2g"
    },
    "total_carb": {
-    "amount": "9.6g",
-    "percent": 3.0
+    "amount": "2.4g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2g",
-    "percent": 3.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -90019,43 +90064,43 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 2104,
-   "calories_from_fat": 425,
+   "calories": 1000,
+   "calories_from_fat": 503,
    "cholesterol": {
-    "amount": "191.5mg",
-    "percent": 64.0
+    "amount": "216mg",
+    "percent": 72.0
    },
    "dietary_fiber": {
-    "amount": "20.3g",
-    "percent": 81.0
+    "amount": "2g",
+    "percent": 7.0
    },
    "id": 277033,
    "information": null,
-   "ingredients": "French Baguette (Unbleached unbromated wheat flour, water, sea salt, cracked whole wheat, malt diastatic, yeast, coarse rye flour, dark rye flour, calcium pro niacet crystal), Ham (Water, Salt, Turbinado Sugar, Cultured Celery Powder, Cherry Powder, Sea Salt.), Swiss Cheese (Pasteurized Part-Skim Milk, Cheese Cultures, Salt, Enzymes), Pulled Pork (Pork, Water, Salt, Vinegar, Sugar, Spice, Yeast Extract, Chicken Broth Paprika, Powder, Onion Powder, Garlic Powder, Spice, Spice Extractives, ), Mustard (Water, Vinegar, Mustard Seed, Distilled Vinegar, Salt, White Wine, Fruit Pectin Citric Acid, Tartaric Acid, , Sugar Spices.), Kosher Dill Pickles (Fresh Cucumbers, Water, Vinegar, Salt, Alum, Calcium Chloride, Potassium Sorbate, (Preservative.Natural Flavors, Garlic Oil, Polysorbate 80, Turmeric (Color) Yellow 5.)",
+   "ingredients": "Hoagie Bun (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, riboflavin, Folic Acid), Water, Yeast, Wheat Gluten, Contains 2% Or Less Of The Following:cornmeal, Salt, High Fructose Corn Syrup, Soybean Oil, Calcium Propionate (Preservative), ), Ham (After cooking, Pork Leg (FreshHam) and Ground Pork (not more than 30% fat). Contains up to 11% of a solution. Solution ingredients: Water, Natural Salt Blend (Potassium Chloride, Sea Salt). Turbinado Sugar, Salt, Cultured Celery Powder, Cherry Powder, Sea Salt.), Swiss Cheese (Pasteurized Part-Skim Milk, Cheese Cultures, Salt, Enzymes.), BBQ Pulled Pork (Smoked Cooked Pork, Cider Vinegar, Sugar, Salt, Spices.), Mustard (Water, Vinegar, Mustard Seed, Distilled Vinegar, Salt, White Wine, Fruit Pectin Citric Acid, Tartaric Acid, , Sugar Spices.), Kosher Dill Pickles (Cucumbers, Water, Vinegar, Salt, Alum, Calcium Chloride, Sodium Benzoate (Preservative) Spices, Polysorbate 80, Turmeric (Color) Yellow 5.)",
    "name": "Cuban Sandwich",
    "protein": {
-    "amount": "122.1g",
-    "percent": 239.0
+    "amount": "76g",
+    "percent": 149.0
    },
    "sat_fat": {
-    "amount": "23.5g",
+    "amount": "25.7g",
     "percent": 117.0
    },
    "serving_size": "1 each",
    "sodium": {
-    "amount": "5501.8mg",
-    "percent": 275.0
+    "amount": "2375.2mg",
+    "percent": 103.0
    },
    "sugars": {
-    "amount": "1.2g"
+    "amount": "5.9g"
    },
    "total_carb": {
-    "amount": "290g",
-    "percent": 97.0
+    "amount": "57.5g",
+    "percent": 21.0
    },
    "total_fat": {
-    "amount": "47.1g",
-    "percent": 63.0
+    "amount": "55.7g",
+    "percent": 71.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -128226,7 +128271,7 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 594,
+   "calories": 593,
    "calories_from_fat": 385,
    "cholesterol": {
     "amount": "0mg"
@@ -128253,10 +128298,10 @@
     "percent": 105.0
    },
    "sugars": {
-    "amount": "2.6g"
+    "amount": "2.5g"
    },
    "total_carb": {
-    "amount": "16.1g",
+    "amount": "15.7g",
     "percent": 6.0
    },
    "total_fat": {
@@ -133509,7 +133554,7 @@
    },
    "id": 301083,
    "information": null,
-   "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Shaved Steak (Beef Shaved Steak), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers), Cheddar/Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme). Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme.), Onions (Onions), Fajita Mix (Salt Sugar Spices, Vinegar flavor (Sodium Diacetate, Natural Flavoring) Garlic, Dextrose, Starch, Contains 2% or less of Caramel Color, Silicone dioxide. Smoke Flavor (Maltodextrin, smoke flavor). CONTAINS MUSTARD), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Black Pepper, Kosher Salt",
+   "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Shaved Steak (Beef Shaved Steak), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers), Cheddar/Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme). Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme.), Onions (Onions), Fajita Mix (Salt Sugar Spices, Vinegar flavor (Sodium Diacetate, Natural Flavoring) Garlic, Dextrose, Starch, Contains 2% or less of Caramel Color, Silicone dioxide. Smoke Flavor (Maltodextrin, smoke flavor). CONTAINS MUSTARD Black Pepper Onion, Lemon, Celery seed, Lemon Oil, Yellow Lake #5), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Black Pepper, Kosher Salt",
    "name": "Beef Fajita Quesadilla",
    "protein": {
     "amount": "20.6g",
@@ -140155,6 +140200,58 @@
   {
    "allergens": [
     "Eggs",
+    "Fish",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 442,
+   "calories_from_fat": 158,
+   "cholesterol": {
+    "amount": "41.8mg",
+    "percent": 14.0
+   },
+   "dietary_fiber": {
+    "amount": "2g",
+    "percent": 7.0
+   },
+   "id": 430015,
+   "information": null,
+   "ingredients": "Hoagie Bun (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, riboflavin, Folic Acid), Water, Yeast, Wheat Gluten, Contains 2% Or Less Of The Following:cornmeal, Salt, High Fructose Corn Syrup, Soybean Oil, Calcium Propionate (Preservative), ), Kosher Dill Pickles (Cucumbers, Water, Vinegar, Salt, Alum, Calcium Chloride, Sodium Benzoate (Preservative) Spices, Polysorbate 80, Turmeric (Color) Yellow 5.), Swiss Cheese (Pasteurized Part-Skim Milk, Cheese Cultures, Salt, Enzymes.), Tuna Salad (Tuna fish (White Tuna, Water, Vegetable Broth.Salt), Mayonnaise (Soybean Oil, Whole Eggs and Egg Yolks, Water, Distilled Vinegar , Salt, Sugar, Dextrose, Lemon Juice Concentrate, Calcium Disodium EDTA (used to protect quality), Natural Flavors.), Diced Celery, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Ground Black Pepper)",
+   "name": "Tuna Melt Panini",
+   "protein": {
+    "amount": "23.8g",
+    "percent": 47.0
+   },
+   "sat_fat": {
+    "amount": "8.8g",
+    "percent": 40.0
+   },
+   "serving_size": "1 sandwich",
+   "sodium": {
+    "amount": "1458.5mg",
+    "percent": 63.0
+   },
+   "sugars": {
+    "amount": "1g"
+   },
+   "total_carb": {
+    "amount": "51g",
+    "percent": 19.0
+   },
+   "total_fat": {
+    "amount": "17.5g",
+    "percent": 22.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [
+    "Eggs",
     "Milk",
     "Soybeans"
    ],
@@ -140396,6 +140493,55 @@
    },
    "vegan": false,
    "vegetarian": false
+  },
+  {
+   "allergens": [
+    "Milk",
+    "Wheat"
+   ],
+   "calories": 1685,
+   "calories_from_fat": 1385,
+   "cholesterol": {
+    "amount": "81mg",
+    "percent": 27.0
+   },
+   "dietary_fiber": {
+    "amount": "5.4g",
+    "percent": 19.0
+   },
+   "id": 440084,
+   "information": null,
+   "ingredients": "Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Hoagie Bun (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, riboflavin, Folic Acid), Water, Yeast, Wheat Gluten, Contains 2% Or Less Of The Following:cornmeal, Salt, High Fructose Corn Syrup, Soybean Oil, Calcium Propionate (Preservative), ), White Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes), Summer Squash (Summer Squash), Zucchini (Zucchini), Kosher Dill Pickle Spears (Fresh Cucumbers, Water, Vinegar, Salt, Calcium Chloride, Natural Flavors, Polysorbate 80, Garlic Oil, Yellow 5.), Swiss Cheese (Pasteurized Part-Skim Milk, Cheese Cultures, Salt, Enzymes.), Sliced Mushrooms (Mushrooms), Roasted Red Peppers, Kosher Salt, Eggplant (Eggplant), Ground Black Pepper",
+   "name": "Veggie Cubano Sandwich",
+   "protein": {
+    "amount": "35g",
+    "percent": 69.0
+   },
+   "sat_fat": {
+    "amount": "33.8g",
+    "percent": 154.0
+   },
+   "serving_size": "1 sandwich",
+   "sodium": {
+    "amount": "3871.5mg",
+    "percent": 168.0
+   },
+   "sugars": {
+    "amount": "5.2g"
+   },
+   "total_carb": {
+    "amount": "61.8g",
+    "percent": 22.0
+   },
+   "total_fat": {
+    "amount": "153.5g",
+    "percent": 197.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
   },
   {
    "allergens": [
@@ -144606,7 +144752,7 @@
   },
   {
    "allergens": [],
-   "calories": 60,
+   "calories": 30,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -144619,13 +144765,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "1 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -144633,8 +144779,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "14.1g",
-    "percent": 5.0
+    "amount": "7g",
+    "percent": 3.0
    },
    "total_fat": {
     "amount": "0g"
@@ -157206,42 +157352,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 64,
-   "calories_from_fat": 36,
+   "calories": 80,
+   "calories_from_fat": 45,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.6g",
-    "percent": 6.0
+    "amount": "2g",
+    "percent": 7.0
    },
    "id": 506004,
    "information": null,
    "ingredients": "Monsoon Palak Paneer (Spinach, Water, Paneer Cheese, (Pasteurized Milk, Acetic Acid, Lactic Acid) Canola Oil) Braccall, Tomato Paste, Onions Milk Powder (Lactose, Non Dairy Creamer, Whole Milk Powder, Nonfat Dry Milk) Canola Oil Spices, Ginger, Garlic, Salt, Baking Soda, Black Salt MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS i)",
    "name": "Palak Paneer",
    "protein": {
-    "amount": "2.4g",
-    "percent": 5.0
+    "amount": "3g",
+    "percent": 6.0
    },
    "sat_fat": {
-    "amount": "0.4g",
+    "amount": "0.5g",
     "percent": 2.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "391.3mg",
-    "percent": 17.0
+    "amount": "489.1mg",
+    "percent": 21.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "1g"
    },
    "total_carb": {
-    "amount": "4g",
-    "percent": 1.0
+    "amount": "5g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "4g",
-    "percent": 5.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -174248,42 +174394,40 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 73,
-   "calories_from_fat": 24,
+   "calories": 18,
+   "calories_from_fat": 6,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.3g",
-    "percent": 5.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "4.7g",
-    "percent": 9.0
+    "amount": "1.2g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "43.4mg",
-    "percent": 2.0
+    "amount": "10.8mg"
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "6.7g",
-    "percent": 2.0
+    "amount": "1.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.7g",
-    "percent": 3.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -175004,47 +175148,46 @@
   },
   {
    "allergens": [
-    "Eggs",
-    "Milk",
     "Soybeans",
     "Wheat"
    ],
-   "calories": 640,
-   "calories_from_fat": 344,
+   "calories": 272,
+   "calories_from_fat": 135,
    "cholesterol": {
-    "amount": "99.8mg",
-    "percent": 33.0
+    "amount": "89.8mg",
+    "percent": 30.0
    },
    "dietary_fiber": {
-    "amount": "0.1g"
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "id": 700270,
    "information": null,
-   "ingredients": "Beef Stir Fry Strips , Shaved Steak (Sliced Beef), Bulgogi Marinade (Soy Sauce (Water, Wheat, Soybeans, Salt, Alcohol, Vinegar and Lactic Acid), Sugar, Rice Wine Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Onions, Ginger, Sesame Oil, Garlic, Water, Sesame Seeds, Tapioca Starch, Spices. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS.), Light Brown Sugar (Brown Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of Potassium Chloride , Lactic Acid , Potassium Sorbate Added As A Preservative. Contains: Soybeans), Scallions (Fresh Scallions), Garlic (Garlic), Baking Soda (Sodium Bicarbonate, Sodium Silicoaluminate (Anti-Caking Agent).)",
+   "ingredients": "Shaved Steak (Sliced Beef), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Bosc Pears, Pure Toasted Sesame Oil (Sesame oil), Light Brown Sugar (Brown Sugar), Scallions (Fresh Scallions), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Red Pepper Paste (Red Pepper Seasoning (Red Pepper Powder, Water, Salt, Garlic, Onion), Corn Syrup, Water, Wheat FLour, Wheat Rice, Salt, Grain Alcohol, Rice Powder, Soybean Powder, Monosodium L-Glutamate, Seed Malt Contains: Soybeans, Wheat and Alcohol), Garlic (Garlic), Baking Soda (Sodium Bicarbonate, Sodium Silicoaluminate (Anti-Caking Agent).), Whole Hulled Sesame Seeds (Sesame Seeds)",
    "name": "Beef Bulgogi",
    "protein": {
-    "amount": "54g",
-    "percent": 106.0
+    "amount": "27.2g",
+    "percent": 53.0
    },
    "sat_fat": {
-    "amount": "14.5g",
-    "percent": 66.0
+    "amount": "5g",
+    "percent": 23.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "1393.2mg",
-    "percent": 61.0
+    "amount": "801.2mg",
+    "percent": 35.0
    },
    "sugars": {
-    "amount": "9.8g"
+    "amount": "2.3g"
    },
    "total_carb": {
-    "amount": "17.6g",
-    "percent": 6.0
+    "amount": "5.4g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "38.1g",
-    "percent": 49.0
+    "amount": "15g",
+    "percent": 19.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -187470,7 +187613,7 @@
    "id": 999997,
    "information": null,
    "ingredients": "Water",
-   "name": "Quincy House Closed for Special event",
+   "name": "Quincy House Closed for Special Event",
    "protein": null,
    "sat_fat": null,
    "serving_size": "1 each",
@@ -187531,6 +187674,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "10e2610406ed67af452a67831f9ee691f7fdb1aebc4a65350ee5393941e621c7",
+ "sha256": "83a3e20cc518d621c0eed2a5b609e1e768cea7fe9ff9a7ef6fd9ef88898d1b9a",
  "table": "recipes"
 }
