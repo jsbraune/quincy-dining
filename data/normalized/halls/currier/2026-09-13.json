@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "fetchedAt": "2026-09-07T14:45:33+00:00",
+ "fetchedAt": "2026-09-11T18:06:43+00:00",
  "hall": "currier",
  "hallName": "Currier House",
  "itemCount": 160,
@@ -695,22 +695,9 @@
     {
      "items": [
       {
-       "allergens": [
-        "Eggs",
-        "Milk",
-        "Peanuts",
-        "Soybeans",
-        "Tree Nuts",
-        "Wheat"
-       ],
-       "calories": 585,
-       "name": "Vegan Cumin and Chili Spiced Quinoa",
-       "portion": "8 oz",
-       "recipeId": 150078,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
+       "allergens": [],
+       "name": "Cumin and Chili Spiced Quinoa",
+       "tags": []
       }
      ],
      "name": "Veg,Vegan"

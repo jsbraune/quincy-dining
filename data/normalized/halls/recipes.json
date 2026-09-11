@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T13:14:28+00:00",
+ "generatedAt": "2026-09-11T18:07:42+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2290,34 +2290,6 @@
    "portion": "4 oz",
    "vegan": true,
    "vegetarian": false
-  },
-  "150078": {
-   "allergens": [
-    "Eggs",
-    "Milk",
-    "Peanuts",
-    "Soybeans",
-    "Tree Nuts",
-    "Wheat"
-   ],
-   "ingredients": "Red Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Red Quinoa (Red Quinoa), Sauteed Onions (Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)), Kosher Salt, Ground Black Pepper, Parsley (Parsley)), Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Quinoa (Quinoa)), Happy Little Plant Chorizo Morning Star (Water, Soy Flour, Corn Oil, Onions, Paprika.contains 2% Or Less of Garlic (Garlic, Water), Salt, Soy Protein Isolate, Spices, Citric acid, Cooked Onion And Carrot Juice Concentrate, Garlic powder, Vinegar Solids, Onion Powder, Sugar, Paprika Extract color, Natural Flavor, Faba Bean Protein, Pea Protein.), Butternut Squash (Butternut Squash), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Garlic (Garlic), Lime Juice (Lime Juice), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Fine Granulated Sugar (Sugar), Pumpkin Seed Pepitas (Raw Shelled Pumpkin Seeds MANUFACTURED ON EQUIPMENT WITH MILK, EGGS, SOY, WHEAT, PEANUTS, TREE NUTS), Cilantro (Cilantro), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic)",
-   "name": "Vegan Cumin and Chili Spiced Quinoa",
-   "note": null,
-   "nutrition": {
-    "calories": 585,
-    "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 10.6,
-    "protein_g": 18.0,
-    "sat_fat_g": 2.7,
-    "sodium_mg": 1169.7,
-    "sugars_g": 10.4,
-    "total_carb_g": 59.3,
-    "total_fat_g": 34.1,
-    "trans_fat_g": 0.0
-   },
-   "portion": "8 oz",
-   "vegan": true,
-   "vegetarian": true
   },
   "150158": {
    "allergens": [

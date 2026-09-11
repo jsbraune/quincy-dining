@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "fetchedAt": "2026-09-07T14:45:33+00:00",
+ "fetchedAt": "2026-09-11T18:06:43+00:00",
  "itemCount": 146,
  "locationNum": "08",
  "meals": [
@@ -156,7 +156,7 @@
     {
      "items": [
       {
-       "name": "Vegan Cumin and Chili Spiced Quinoa"
+       "name": "Cumin and Chili Spiced Quinoa"
       }
      ],
      "name": "Veg,Vegan"
@@ -600,6 +600,6 @@
    ]
   }
  ],
- "mealsSha256": "83faefb31b3ed8c9f4d6b913085616cda3e7249eb3231681966b4e3854654998",
+ "mealsSha256": "80cd24aefdd014d38a12b1340030327cdb4fdeba4039d29b04dd0c3f2fddc27f",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
