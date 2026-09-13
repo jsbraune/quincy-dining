@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-13T13:37:55+00:00",
+ "generatedAt": "2026-09-13T17:51:33+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -569,7 +569,7 @@
    "name": "Chefs Choice",
    "note": null,
    "nutrition": {},
-   "portion": "4 each",
+   "portion": "1 each",
    "vegan": true,
    "vegetarian": true
   },
@@ -2141,7 +2141,7 @@
     "Wheat"
    ],
    "ingredients": "Red Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Red Quinoa (Red Quinoa), Sauteed Onions (Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)), Kosher Salt, Ground Black Pepper, Parsley (Parsley)), Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Quinoa (Quinoa)), Happy Little Plant Chorizo Morning Star (Water, Soy Flour, Corn Oil, Onions, Paprika.contains 2% Or Less of Garlic (Garlic, Water), Salt, Soy Protein Isolate, Spices, Citric acid, Cooked Onion And Carrot Juice Concentrate, Garlic powder, Vinegar Solids, Onion Powder, Sugar, Paprika Extract color, Natural Flavor, Faba Bean Protein, Pea Protein.), Butternut Squash (Butternut Squash), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Garlic (Garlic), Lime Juice (Lime Juice), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Fine Granulated Sugar (Sugar), Pumpkin Seed Pepitas (Raw Shelled Pumpkin Seeds MANUFACTURED ON EQUIPMENT WITH MILK, EGGS, SOY, WHEAT, PEANUTS, TREE NUTS), Cilantro (Cilantro), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic)",
-   "name": "Vegan Cumin and Chili Spiced Quinoa",
+   "name": "Cumin and Chili Spiced Quinoa",
    "note": null,
    "nutrition": {
     "calories": 585,
@@ -5050,17 +5050,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 32,
+    "calories": 81,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.5,
+    "dietary_fiber_g": 6.3,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 1.7,
-    "total_carb_g": 7.9,
-    "total_fat_g": 0.1,
+    "sodium_mg": 4.3,
+    "total_carb_g": 19.6,
+    "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "5 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -6440,18 +6440,18 @@
    "name": "Halal Beef Taco Meat",
    "note": null,
    "nutrition": {
-    "calories": 69,
-    "cholesterol_mg": 17.4,
-    "dietary_fiber_g": 0.1,
-    "protein_g": 5.0,
-    "sat_fat_g": 2.2,
-    "sodium_mg": 133.7,
-    "sugars_g": 0.5,
-    "total_carb_g": 1.1,
-    "total_fat_g": 4.8,
+    "calories": 277,
+    "cholesterol_mg": 69.5,
+    "dietary_fiber_g": 0.4,
+    "protein_g": 20.0,
+    "sat_fat_g": 8.8,
+    "sodium_mg": 534.9,
+    "sugars_g": 2.2,
+    "total_carb_g": 4.6,
+    "total_fat_g": 19.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -11331,6 +11331,29 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "301103": {
+   "allergens": [
+    "Crustacean Shellfish"
+   ],
+   "ingredients": "Shrimp (Shrimp, Water, Salt), Suntan Peppers (Bell Peppers), Onions (Onions), Limes (Fresh Limes), Lime Juice (Lime Juice), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Scallions (Fresh Scallions), Cilantro (Cilantro), Cracked Black Pepper (Black Pepper), Kosher Salt, Spanish Paprika (Paprika)",
+   "name": "Cilantro and Lime Marinated Shrimp",
+   "note": null,
+   "nutrition": {
+    "calories": 144,
+    "cholesterol_mg": 180.6,
+    "dietary_fiber_g": 1.4,
+    "protein_g": 19.0,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 615.2,
+    "sugars_g": 2.6,
+    "total_carb_g": 8.1,
+    "total_fat_g": 5.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },

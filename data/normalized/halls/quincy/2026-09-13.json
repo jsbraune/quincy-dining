@@ -13,9 +13,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -489,9 +489,22 @@
     {
      "items": [
       {
-       "allergens": [],
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Peanuts",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 585,
        "name": "Cumin and Chili Spiced Quinoa",
-       "tags": []
+       "portion": "8 oz",
+       "recipeId": 150078,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Veg,Vegan"
@@ -501,7 +514,7 @@
       {
        "allergens": [],
        "name": "Chefs Choice",
-       "portion": "4 each",
+       "portion": "1 each",
        "recipeId": 111000,
        "tags": [
         "vegan",
@@ -681,9 +694,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",

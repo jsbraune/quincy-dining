@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-12T12:36:37+00:00",
+ "fetchedAt": "2026-09-13T17:51:25+00:00",
  "rows": [
   {
    "allergens": [
@@ -22273,7 +22273,7 @@
    "name": "Chefs Choice",
    "protein": null,
    "sat_fat": null,
-   "serving_size": "4 each",
+   "serving_size": "1 each",
    "sodium": null,
    "sugars": null,
    "total_carb": null,
@@ -35850,8 +35850,7 @@
    "calories": 513,
    "calories_from_fat": 63,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "5.2g",
@@ -43296,7 +43295,7 @@
    },
    "id": 150062,
    "information": null,
-   "ingredients": "Chunked Local Butternut Squash, Shallots (Shallots), Light Brown Sugar (Brown Sugar), Cranberries, Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt (Salt), Granulated Garlic (Garlic), Whole Black Pepper (Black Peppercorns), Ground Nutmeg (Nutmeg)",
+   "ingredients": "Chunked Local Butternut Squash, Shallots (Shallots), Light Brown Sugar (Brown Sugar), Cranberries, Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Granulated Garlic (Garlic), Black Peppercorn (Black Peppercorns), Ground Nutmeg (Nutmeg)",
    "name": "Roasted Butternut Squash with cranberries",
    "protein": {
     "amount": "1.9g",
@@ -43538,7 +43537,7 @@
    "id": 150078,
    "information": null,
    "ingredients": "Red Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Red Quinoa (Red Quinoa), Sauteed Onions (Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)), Kosher Salt, Ground Black Pepper, Parsley (Parsley)), Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Quinoa (Quinoa)), Happy Little Plant Chorizo Morning Star (Water, Soy Flour, Corn Oil, Onions, Paprika.contains 2% Or Less of Garlic (Garlic, Water), Salt, Soy Protein Isolate, Spices, Citric acid, Cooked Onion And Carrot Juice Concentrate, Garlic powder, Vinegar Solids, Onion Powder, Sugar, Paprika Extract color, Natural Flavor, Faba Bean Protein, Pea Protein.), Butternut Squash (Butternut Squash), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Garlic (Garlic), Lime Juice (Lime Juice), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Fine Granulated Sugar (Sugar), Pumpkin Seed Pepitas (Raw Shelled Pumpkin Seeds MANUFACTURED ON EQUIPMENT WITH MILK, EGGS, SOY, WHEAT, PEANUTS, TREE NUTS), Cilantro (Cilantro), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Dark Chili Powder (Ground Chiles, Paprika, Salt, Spices, Garlic)",
-   "name": "Vegan Cumin and Chili Spiced Quinoa",
+   "name": "Cumin and Chili Spiced Quinoa",
    "protein": {
     "amount": "18g",
     "percent": 35.0
@@ -48715,7 +48714,7 @@
    },
    "id": 161019,
    "information": null,
-   "ingredients": "Yucca Fries (Cassava, Vegetable Oil (may contain Soybean and/or Palm oil), Potato Starch and Salt.), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Kosher Salt (Salt)",
+   "ingredients": "Yucca Fries (Cassava, Vegetable Oil (may contain Soybean and/or Palm oil), Potato Starch and Salt.), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Kosher Salt",
    "name": "Yucca Fries",
    "protein": {
     "amount": "0g"
@@ -50813,7 +50812,7 @@
    },
    "id": 163023,
    "information": null,
-   "ingredients": "Water, Basmati Rice (White basmati rice.), Water, Soy Beans Edamame (Soybeans), Diced Suntan Peppers (Bell Peppers), Diced Tomato (Fresh Diced Tomatoes), Corn (Corn), Green Peas (Green Peas, Salt), Onions (Onions), Fancy Wild Rice (Wild Rice), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Parsley (Parsley), Kosher Salt (Salt), Kosher Salt (Salt), Ground White Pepper (White Peppercorns)",
+   "ingredients": "Water, Basmati Rice (White basmati rice.), Water, Soy Beans Edamame (Soybeans), Diced Suntan Peppers (Bell Peppers), Diced Tomato (Fresh Diced Tomatoes), Corn (Corn), Green Peas (Green Peas, Salt), Onions (Onions), Fancy Wild Rice (Wild Rice), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Parsley (Parsley), Kosher Salt, Kosher Salt, Ground White Pepper (White Peppercorns)",
    "name": "Garden Rice",
    "protein": {
     "amount": "4.6g",
@@ -70891,14 +70890,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -70910,17 +70909,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -76920,16 +76919,14 @@
     "percent": 15.0
    },
    "dietary_fiber": {
-    "amount": "0g",
-    "percent": 0.0
+    "amount": "0g"
    },
    "id": 221075,
    "information": null,
    "ingredients": "Unsalted Butter (Cream (Milk), Natural Flavoring.), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Parsley (Parsley), Ground White Pepper (White Peppercorns)",
    "name": "Lemon Pepper Butter",
    "protein": {
-    "amount": "0g",
-    "percent": 0.0
+    "amount": "0g"
    },
    "sat_fat": {
     "amount": "12.2g",
@@ -76937,15 +76934,13 @@
    },
    "serving_size": "1 fl. oz",
    "sodium": {
-    "amount": "1.3mg",
-    "percent": 0.0
+    "amount": "1.3mg"
    },
    "sugars": {
     "amount": "0.1g"
    },
    "total_carb": {
-    "amount": "0.4g",
-    "percent": 0.0
+    "amount": "0.4g"
    },
    "total_fat": {
     "amount": "18.2g",
@@ -96722,41 +96717,43 @@
   },
   {
    "allergens": [],
-   "calories": 69,
-   "calories_from_fat": 43,
+   "calories": 277,
+   "calories_from_fat": 172,
    "cholesterol": {
-    "amount": "17.4mg",
-    "percent": 6.0
+    "amount": "69.5mg",
+    "percent": 23.0
    },
    "dietary_fiber": {
-    "amount": "0.1g"
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "id": 300008,
    "information": null,
    "ingredients": "Beef Ground (H), Onions (Onions), Water, Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.)",
    "name": "Halal Beef Taco Meat",
    "protein": {
-    "amount": "5g",
-    "percent": 10.0
+    "amount": "20g",
+    "percent": 39.0
    },
    "sat_fat": {
-    "amount": "2.2g",
-    "percent": 10.0
+    "amount": "8.8g",
+    "percent": 40.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "133.7mg",
-    "percent": 6.0
+    "amount": "534.9mg",
+    "percent": 23.0
    },
    "sugars": {
-    "amount": "0.5g"
+    "amount": "2.2g"
    },
    "total_carb": {
-    "amount": "1.1g"
+    "amount": "4.6g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "4.8g",
-    "percent": 6.0
+    "amount": "19g",
+    "percent": 24.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134256,6 +134253,54 @@
   },
   {
    "allergens": [
+    "Crustacean Shellfish"
+   ],
+   "calories": 144,
+   "calories_from_fat": 48,
+   "cholesterol": {
+    "amount": "180.6mg",
+    "percent": 60.0
+   },
+   "dietary_fiber": {
+    "amount": "1.4g",
+    "percent": 5.0
+   },
+   "id": 301103,
+   "information": null,
+   "ingredients": "Shrimp (Shrimp, Water, Salt), Suntan Peppers (Bell Peppers), Onions (Onions), Limes (Fresh Limes), Lime Juice (Lime Juice), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Scallions (Fresh Scallions), Cilantro (Cilantro), Cracked Black Pepper (Black Pepper), Kosher Salt, Spanish Paprika (Paprika)",
+   "name": "Cilantro and Lime Marinated Shrimp",
+   "protein": {
+    "amount": "19g",
+    "percent": 37.0
+   },
+   "sat_fat": {
+    "amount": "0.3g",
+    "percent": 2.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "615.2mg",
+    "percent": 27.0
+   },
+   "sugars": {
+    "amount": "2.6g"
+   },
+   "total_carb": {
+    "amount": "8.1g",
+    "percent": 3.0
+   },
+   "total_fat": {
+    "amount": "5.3g",
+    "percent": 7.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [
     "Milk",
     "Tree Nuts"
    ],
@@ -135971,6 +136016,54 @@
    },
    "vegan": false,
    "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Soybeans"
+   ],
+   "calories": 94,
+   "calories_from_fat": 71,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "0.5g",
+    "percent": 2.0
+   },
+   "id": 400062,
+   "information": null,
+   "ingredients": "Water, Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Light Brown Sugar (Brown Sugar), Scallions (Fresh Scallions), Garlic (Garlic), Cracked Black Pepper (Black Pepper), Parsley (Parsley), Kosher Salt",
+   "name": "Chicken Adobo",
+   "protein": {
+    "amount": "1.5g",
+    "percent": 3.0
+   },
+   "sat_fat": {
+    "amount": "0.6g",
+    "percent": 3.0
+   },
+   "serving_size": "6 oz",
+   "sodium": {
+    "amount": "1147.7mg",
+    "percent": 50.0
+   },
+   "sugars": {
+    "amount": "1.5g"
+   },
+   "total_carb": {
+    "amount": "4.5g",
+    "percent": 2.0
+   },
+   "total_fat": {
+    "amount": "7.9g",
+    "percent": 10.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
   },
   {
    "allergens": [
@@ -138048,8 +138141,8 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 367,
-   "calories_from_fat": 211,
+   "calories": 357,
+   "calories_from_fat": 200,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -138059,19 +138152,19 @@
    },
    "id": 410014,
    "information": null,
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Sriracha Sauce (Red Jalapeno Pepper, Water, Sugar, Salt, Garlic, Distilled Vinegar, Xantham Gum, Tabasco Brand Pepper Sauce (Distilled Vinegar, Red Pepper, Salt)), Carrots (Carrots), Light Brown Sugar (Brown Sugar), Cilantro (Cilantro), Cucumbers, Daikon, Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Garlic (Garlic), Fine Granulated Sugar (Sugar), Jalapeno Peppers, Lemongrass Frozen 50/14z/cs (frozen lemongrass), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Sriracha Sauce (Red Jalapeno Pepper, Water, Sugar, Salt, Garlic, Distilled Vinegar, Xantham Gum, Tabasco Brand Pepper Sauce (Distilled Vinegar, Red Pepper, Salt)), Carrots (Carrots), Light Brown Sugar (Brown Sugar), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Cilantro (Cilantro), Cucumbers, Daikon, Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Garlic (Garlic), Fine Granulated Sugar (Sugar), Jalapeno Peppers, Lemongrass Frozen 50/14z/cs (frozen lemongrass), Kosher Salt, Ground Black Pepper",
    "name": "Tofu Banh Mi",
    "protein": {
     "amount": "11.2g",
     "percent": 22.0
    },
    "sat_fat": {
-    "amount": "3.3g",
-    "percent": 15.0
+    "amount": "3.1g",
+    "percent": 14.0
    },
    "serving_size": "1 sandwich",
    "sodium": {
-    "amount": "1916.4mg",
+    "amount": "1902.5mg",
     "percent": 83.0
    },
    "sugars": {
@@ -138082,8 +138175,8 @@
     "percent": 11.0
    },
    "total_fat": {
-    "amount": "23.4g",
-    "percent": 30.0
+    "amount": "22.2g",
+    "percent": 28.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -144104,7 +144197,7 @@
    },
    "id": 444232,
    "information": null,
-   "ingredients": "Vegan Crumbles (Water, Soy protein concentrate, Organic Caramel color, Canola Oil, Organic Cane sugar, Yeast extract, Onion Powder, Salt, Garlic Powder, Natural Flavors, Sea Salt, Sugar, Spices), Original Oat Milk (Oatmilk (Filtered Water, Oats), Calcium Carbonate, Dipotassium Phosphate [stabilizer], Sea Salt, Gellan Gum, Vitamin A Palmitate, Vitamin D2, Riboflavin (Vitamin B2) and Vitamin B12), Vegan Cheddar Shredded Cheese (Cheddar-style Cheese (filtered Water, Modified Potato Starch, Palm Oil, Sunflower Oil, Sea Salt, Cellulose Gum, Tapioca Starch, Yeast Extract, Cellulose Gel, Konjac Powder [thickener], Cultured Dextrose, Citric Acid, Locust Bean Gum, Natural Flavors, Annatto [color], Paprika Extract [color], Probiotic Cultures [bacillus Subtilis]), Powdered Cellulose (to Prevent Caking)), Corn Tortillas 6\" (White Corn Cooked with Lime-Water, Sodium Propionate, Cellulose Gum, Fumaric Acid and Sorbic Acid added to preserve freshness.), Water, Poblano Chile Peppers, Yeast Flakes (Inactive Dry Yeast, Pyridoxine Hydrochloride (Vitamin B6), Thiamin Hydrochloride (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid (Vitamin B9), Vitamin B12.), Garlic (Garlic), Onions (Onions), Ground Black Pepper (), Kosher Salt (Salt), Cornstarch (Corn Starch)",
+   "ingredients": "Vegan Crumbles (Water, Soy protein concentrate, Organic Caramel color, Canola Oil, Organic Cane sugar, Yeast extract, Onion Powder, Salt, Garlic Powder, Natural Flavors, Sea Salt, Sugar, Spices), Original Oat Milk (Oatmilk (Filtered Water, Oats), Calcium Carbonate, Dipotassium Phosphate [stabilizer], Sea Salt, Gellan Gum, Vitamin A Palmitate, Vitamin D2, Riboflavin (Vitamin B2) and Vitamin B12), Vegan Cheddar Shredded Cheese (Cheddar-style Cheese (filtered Water, Modified Potato Starch, Palm Oil, Sunflower Oil, Sea Salt, Cellulose Gum, Tapioca Starch, Yeast Extract, Cellulose Gel, Konjac Powder [thickener], Cultured Dextrose, Citric Acid, Locust Bean Gum, Natural Flavors, Annatto [color], Paprika Extract [color], Probiotic Cultures [bacillus Subtilis]), Powdered Cellulose (to Prevent Caking)), Corn Tortillas 6\" (White Corn Cooked with Lime-Water, Sodium Propionate, Cellulose Gum, Fumaric Acid and Sorbic Acid added to preserve freshness.), Water, Poblano Chile Peppers, Yeast Flakes (Inactive Dry Yeast, Pyridoxine Hydrochloride (Vitamin B6), Thiamin Hydrochloride (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid (Vitamin B9), Vitamin B12.), Garlic (Garlic), Onions (Onions), Ground Black Pepper, Kosher Salt, Cornstarch (Corn Starch)",
    "name": "Vegan Enchilidas",
    "protein": {
     "amount": "17.6g",
@@ -144896,7 +144989,7 @@
   },
   {
    "allergens": [],
-   "calories": 30,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -144909,13 +145002,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "2 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -144923,8 +145016,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "7g",
-    "percent": 3.0
+    "amount": "14.1g",
+    "percent": 5.0
    },
    "total_fat": {
     "amount": "0g"
@@ -185857,8 +185950,8 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 470,
-   "calories_from_fat": 294,
+   "calories": 457,
+   "calories_from_fat": 280,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -185875,13 +185968,13 @@
     "percent": 15.0
    },
    "sat_fat": {
-    "amount": "4.3g",
-    "percent": 19.0
+    "amount": "4g",
+    "percent": 18.0
    },
    "serving_size": "1 quesadilla",
    "sodium": {
-    "amount": "889.3mg",
-    "percent": 39.0
+    "amount": "870.7mg",
+    "percent": 38.0
    },
    "sugars": {
     "amount": "3g"
@@ -185891,8 +185984,8 @@
     "percent": 14.0
    },
    "total_fat": {
-    "amount": "32.6g",
-    "percent": 42.0
+    "amount": "31.1g",
+    "percent": 40.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -187862,6 +187955,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "956afafbb60878b3462ef92ce20a3d8030822ee39661c4f976bf6eb49a76f0d2",
+ "sha256": "515e8443887a7f9970c5af843ad0951fd61e167b4ddc2159484a9b2457bb43e6",
  "table": "recipes"
 }
