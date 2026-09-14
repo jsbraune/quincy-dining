@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-13T22:13:15+00:00",
+ "generatedAt": "2026-09-14T15:39:37+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -1152,6 +1152,29 @@
    "vegan": false,
    "vegetarian": false
   },
+  "122017": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Medium Pearl Barley, Green Kale (Kale), Sliced Mushrooms (Mushrooms), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Onions (Onions), Garlic (Garlic), Kosher Salt, Scallions (Fresh Scallions), Ground Black Pepper",
+   "name": "Mushroom Barley Kale with Scallions",
+   "note": null,
+   "nutrition": {
+    "calories": 167,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 6.0,
+    "protein_g": 4.2,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 1132.5,
+    "sugars_g": 1.6,
+    "total_carb_g": 30.4,
+    "total_fat_g": 3.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "122317": {
    "allergens": [
     "Soybeans"
@@ -1874,7 +1897,7 @@
   },
   "142062": {
    "allergens": [],
-   "ingredients": "Spinach (Spinach), Sangria Heirloom Tomatoes, Green Lentils (French Green Lentils), Celery (Celery), Diced Onions (Onions), Kalamata Olives (Kalamata Olives, Water, Salt, Sunflower Oil, Extra Virgin Olive Oil, Lactic Acid.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Capers (Capers, Water, and Salt Vinegar.), Kosher Salt (Salt), Ground Black Pepper (), Italian Parsley (Italian Parsley)",
+   "ingredients": "Spinach (Spinach), Sangria Heirloom Tomatoes, Green Lentils (French Green Lentils), Celery (Celery), Diced Onions (Onions), Kalamata Olives (Kalamata Olives, Water, Salt, Sunflower Oil, Extra Virgin Olive Oil, Lactic Acid.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Capers (Capers, Water, and Salt Vinegar.), Kosher Salt, Ground Black Pepper, Italian Parsley (Italian Parsley)",
    "name": "Vegan Sauteed Lentils with Tomato and Olives",
    "note": null,
    "nutrition": {
@@ -2029,6 +2052,32 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
+  },
+  "143057": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Homogenized Milk (Milk, Vitamin D3.), Pie Shell (Enriched Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Interesterified Soybean Oil, Water, Hydrogenated Cottonseed Oil, High Fructose Corn Syrup, Salt, Soy Flour, ), Cage Free Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added to Preserve Color.), Shredded White Cheddar Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt Enzymes, Annatto Color). Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme Produced With Bio Engineered Ingredients*), Swiss Cheese (Swiss Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cellulose, Dextrose, Natamycin, Enzyme), Crumbled Bacon (Pure Bacon Bits (Bacon Cured with (Water, Salt, Sugar, Sodium Phosphates, Sodium Nitrite.) May Contain Smoke Flavor, Sodium Ascorbate, Sugar, Brown Sugar.))",
+   "name": "Lorraine Quiche",
+   "note": null,
+   "nutrition": {
+    "calories": 480,
+    "cholesterol_mg": 198.6,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 27.6,
+    "sat_fat_g": 16.7,
+    "sodium_mg": 1217.7,
+    "sugars_g": 5.7,
+    "total_carb_g": 20.1,
+    "total_fat_g": 36.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
+   "vegan": false,
+   "vegetarian": false
   },
   "143075": {
    "allergens": [
@@ -2475,6 +2524,29 @@
    "vegan": true,
    "vegetarian": true
   },
+  "151004": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Water, Brown Gravy (Corn Starch, Pea Flour, Yeast Extract, Palm Oil, Onion Powder, Maltodextrin, Sugar, Salt, Natural flavor, Caramel Color (sulfites), Soy Lecithin, Celery Powder, Carrot Powder, Potassium Chloride, Mushroom Extract, Disodium Guanylate, Disodium Inosinate, Spice, Garlic Powder, Citric Acid.)",
+   "name": "Brown Gravy",
+   "note": null,
+   "nutrition": {
+    "calories": 15,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.6,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 76.8,
+    "sugars_g": 0.0,
+    "total_carb_g": 2.4,
+    "total_fat_g": 0.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 fl. oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "153005": {
    "allergens": [],
    "ingredients": "Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.)",
@@ -2854,6 +2926,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "161018": {
+   "allergens": [],
+   "ingredients": "Potatoes (Potatoes), Onions (Onions), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Kosher Salt (Salt), Fresh Thyme (Fresh Thyme), Parsley (Parsley), Ground White Pepper (White Peppercorns)",
+   "name": "Lyonnaise Potatoes",
+   "note": null,
+   "nutrition": {
+    "calories": 127,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 1.9,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 337.2,
+    "sugars_g": 1.5,
+    "total_carb_g": 21.7,
+    "total_fat_g": 4.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "161029": {
    "allergens": [
     "Soybeans"
@@ -2982,6 +3075,29 @@
    },
    "portion": "2 oz",
    "vegan": true,
+   "vegetarian": true
+  },
+  "161086": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Yukon Gold Potatoes (Yukon Gold Potatoes), Homogenized Milk (Milk, Vitamin D3.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Kosher Salt, Ground White Pepper (White Peppercorns)",
+   "name": "Yukon Gold Mashed Potatoes",
+   "note": null,
+   "nutrition": {
+    "calories": 111,
+    "cholesterol_mg": 11.7,
+    "dietary_fiber_g": 0.9,
+    "protein_g": 2.5,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 163.2,
+    "sugars_g": 1.1,
+    "total_carb_g": 14.4,
+    "total_fat_g": 4.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
    "vegetarian": true
   },
   "163022": {
@@ -4047,6 +4163,29 @@
    "vegan": true,
    "vegetarian": true
   },
+  "175096": {
+   "allergens": [
+    "Wheat"
+   ],
+   "ingredients": "Local Backyard Beauty Tomatoes, Japanese Bread Crumbs (Wheat Flour, Sugar, Yeast, Salt.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Rosemary (Rosemary), Ground White Pepper (White Peppercorns)",
+   "name": "Herb Stuffed Tomatoes",
+   "note": null,
+   "nutrition": {
+    "calories": 26,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.7,
+    "protein_g": 0.7,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 171.6,
+    "sugars_g": 0.2,
+    "total_carb_g": 4.6,
+    "total_fat_g": 0.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1/2 each",
+   "vegan": true,
+   "vegetarian": true
+  },
   "175150": {
    "allergens": [],
    "ingredients": "Spinach (Spinach)",
@@ -4607,6 +4746,34 @@
     "sugars_g": 13.4,
     "total_carb_g": 23.3,
     "total_fat_g": 8.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "185099": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Triple Berry Loaf (Bleached Wheat Flour, Sugar, Water, soybean Oil, Eggs, Blueberries, Cranberries, raspberries, Modified Food Starch, Whey Protein (milk), Dairy Whey (Milk), Leavening (Baking soda, Sodium Aluminum Phosphate), Natural flavor, Mono And Diglycerides, Salt, Guar Gum, xanthan Gum, Beta Carotene For Color, Enzyme. contains: Wheat, Egg, Dairy (Milk). THIS PRODUCT IS MANUFACTURED ON EQUIPMENT EXPOSED TO SOY, COCONUT, PEANUT, PECAN, AND WALNUT PRODUCTS.)",
+   "name": "Triple Berry Tea Bread",
+   "note": "Freshly baked in our kitchens, from batter made by Bake'n Joy in N. Andover, MA.",
+   "nutrition": {
+    "calories": 151,
+    "cholesterol_mg": 15.9,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 1.6,
+    "sat_fat_g": 6.4,
+    "sodium_mg": 111.5,
+    "sugars_g": 11.2,
+    "total_carb_g": 23.1,
+    "total_fat_g": 5.6,
     "trans_fat_g": 0.0
    },
    "portion": "1 slice",
@@ -5228,17 +5395,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 81,
+    "calories": 49,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 6.3,
+    "dietary_fiber_g": 3.8,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 4.3,
-    "total_carb_g": 19.6,
-    "total_fat_g": 0.2,
+    "sodium_mg": 2.6,
+    "total_carb_g": 11.8,
+    "total_fat_g": 0.1,
     "trans_fat_g": 0.0
    },
-   "portion": "5 oz",
+   "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -6646,18 +6813,18 @@
    "name": "Halal Beef Taco Meat",
    "note": null,
    "nutrition": {
-    "calories": 277,
-    "cholesterol_mg": 69.5,
-    "dietary_fiber_g": 0.4,
-    "protein_g": 20.0,
-    "sat_fat_g": 8.8,
-    "sodium_mg": 534.9,
-    "sugars_g": 2.2,
-    "total_carb_g": 4.6,
-    "total_fat_g": 19.0,
+    "calories": 69,
+    "cholesterol_mg": 17.4,
+    "dietary_fiber_g": 0.1,
+    "protein_g": 5.0,
+    "sat_fat_g": 2.2,
+    "sodium_mg": 133.7,
+    "sugars_g": 0.5,
+    "total_carb_g": 1.1,
+    "total_fat_g": 4.8,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "1 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -6875,6 +7042,30 @@
     "trans_fat_g": 0.0
    },
    "portion": "6 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300075": {
+   "allergens": [
+    "Fish",
+    "Soybeans"
+   ],
+   "ingredients": "Beef Top Round (H), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Worcestershire Sauce (Distilled White Vinegar, Molasses, Sugar, Water, Salt, Onions, Anchovies, garlic Cloves, Tamarind Extract, Natural Flavorings, Chili Pepper Extract, Contains Fish (Anchovies)), Lemons (LEMONS), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Garlic (Garlic), Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Black Pepper",
+   "name": "London Broil Halal",
+   "note": null,
+   "nutrition": {
+    "calories": 445,
+    "cholesterol_mg": 111.0,
+    "dietary_fiber_g": 0.6,
+    "protein_g": 40.0,
+    "sat_fat_g": 4.8,
+    "sodium_mg": 637.9,
+    "sugars_g": 0.1,
+    "total_carb_g": 2.2,
+    "total_fat_g": 30.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -7588,6 +7779,27 @@
    "vegan": false,
    "vegetarian": true
   },
+  "300367": {
+   "allergens": [],
+   "ingredients": "Chicken (Chicken 8 Piece Cut (Split Breasts With Ribs, Thighs, Drumsticks, Wings)), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), White Clover Honey (Honey), Oregano (Oregano), Rosemary (Fresh Rosemary), Sage (Sage), Italian Parsley (Italian Parsley), Kosher Salt, Ground Black Pepper",
+   "name": "Herb Roasted Chicken",
+   "note": null,
+   "nutrition": {
+    "calories": 236,
+    "cholesterol_mg": 64.8,
+    "dietary_fiber_g": 0.5,
+    "protein_g": 20.5,
+    "sat_fat_g": 3.2,
+    "sodium_mg": 207.2,
+    "sugars_g": 2.9,
+    "total_carb_g": 5.1,
+    "total_fat_g": 14.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 piece",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300378": {
    "allergens": [],
    "ingredients": "Green Beans (Green Beans), Grape Tomato, Red Onions, Balsamic Vinegar (Balsamic Vinegar of Moderna. Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Ground Cayenne Pepper (Dried Chilies), Spanish Paprika (Paprika), Kosher Salt, Ground Black Pepper",
@@ -7763,6 +7975,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300419": {
+   "allergens": [],
+   "ingredients": "Green Peas (Green Peas, Salt), Lemons (LEMONS), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper",
+   "name": "Green Peas with Lemon",
+   "note": null,
+   "nutrition": {
+    "calories": 81,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.9,
+    "protein_g": 4.5,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 265.0,
+    "sugars_g": 3.6,
+    "total_carb_g": 11.4,
+    "total_fat_g": 2.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -10351,18 +10584,18 @@
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "note": null,
    "nutrition": {
-    "calories": 173,
-    "cholesterol_mg": 13.3,
-    "dietary_fiber_g": 10.9,
-    "protein_g": 8.6,
-    "sat_fat_g": 2.1,
-    "sodium_mg": 335.0,
-    "sugars_g": 3.4,
-    "total_carb_g": 23.6,
-    "total_fat_g": 6.6,
-    "trans_fat_g": 0.0
+    "calories": 345,
+    "cholesterol_mg": 26.6,
+    "dietary_fiber_g": 21.9,
+    "protein_g": 17.1,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 670.0,
+    "sugars_g": 6.9,
+    "total_carb_g": 47.3,
+    "total_fat_g": 13.3,
+    "trans_fat_g": 0.1
    },
-   "portion": "4 oz",
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -10375,18 +10608,42 @@
    "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
    "note": null,
    "nutrition": {
-    "calories": 187,
-    "cholesterol_mg": 7.4,
-    "dietary_fiber_g": 5.8,
-    "protein_g": 8.4,
-    "sat_fat_g": 1.8,
-    "sodium_mg": 152.8,
-    "sugars_g": 3.5,
-    "total_carb_g": 29.4,
-    "total_fat_g": 5.3,
+    "calories": 374,
+    "cholesterol_mg": 14.9,
+    "dietary_fiber_g": 11.6,
+    "protein_g": 16.9,
+    "sat_fat_g": 3.6,
+    "sodium_mg": 305.7,
+    "sugars_g": 6.9,
+    "total_carb_g": 58.8,
+    "total_fat_g": 10.6,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "300980": {
+   "allergens": [
+    "Milk",
+    "Wheat"
+   ],
+   "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Local Backyard Beauty Tomatoes, Zucchini Squash (Zucchini), Ricotta Cheese (Pasteurized Whey, Cream, Milk), Onions (Onions), Half & Half Cream (Milk, Cream and Disodium Phosphate), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Italian Parsley (Italian Parsley), Ground Black Pepper, Kosher Salt",
+   "name": "Protein Plus with Garden Vegetables and Ricotta Cheese Sauce",
+   "note": null,
+   "nutrition": {
+    "calories": 359,
+    "cholesterol_mg": 25.1,
+    "dietary_fiber_g": 6.9,
+    "protein_g": 16.0,
+    "sat_fat_g": 4.3,
+    "sodium_mg": 56.3,
+    "sugars_g": 5.4,
+    "total_carb_g": 47.8,
+    "total_fat_g": 13.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -10486,6 +10743,30 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 fl. oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "300990": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Water, Jack Fruit Meatballs (Jackfruit, Water, Soy Flour, CAnola Oil, Onion, 2%or less of Spices, Onion Powder, Garlic Powder, Sea Salt, Methylcellulose (Plant Fiber) Yeast Extract, Natural Flavors, Fruit and Vegetable Juice (For Color)), Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Sliced Mushrooms (Mushrooms), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Tofutti Sour Cream (Water, expelled processed natural oil blend (Soybean, Palm Fruit, and olive) maltodextrin, Soy protein Tofu non dairy Lactic acid Organic sugar, Blend of natural gums (Locust Bean Guar, Cellulose, Xanthan and Carrageenan Veg, Mono and Diglycerides Salt.), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Onions (Onions), Miso Soy (Water, Soybean, Rice, Salt, Alcohol.), Garlic (Garlic), Ground Black Pepper, Kosher Salt, Fresh Thyme (Fresh Thyme), Ground Nutmeg (Nutmeg)",
+   "name": "Jackfruit Meatballs in Mushroom Gravy",
+   "note": null,
+   "nutrition": {
+    "calories": 187,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 4.4,
+    "protein_g": 6.1,
+    "sat_fat_g": 1.1,
+    "sodium_mg": 2388.6,
+    "sugars_g": 4.2,
+    "total_carb_g": 10.8,
+    "total_fat_g": 11.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -12054,6 +12335,29 @@
    "vegan": true,
    "vegetarian": true
   },
+  "503020": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Medium Pearl Barley (Pearled Barley), Chives (Fresh chives), Onions (Onions)",
+   "name": "Barley & Chives",
+   "note": null,
+   "nutrition": {
+    "calories": 215,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 9.3,
+    "protein_g": 6.0,
+    "sat_fat_g": 0.2,
+    "sodium_mg": 447.8,
+    "sugars_g": 1.2,
+    "total_carb_g": 46.8,
+    "total_fat_g": 0.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "503030": {
    "allergens": [
     "Milk",
@@ -13035,6 +13339,30 @@
    "vegan": true,
    "vegetarian": true
   },
+  "71001": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Brown Gravy (Roux with Oil (All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Kosher Salt, Ground Black Pepper), Beef Top Round (Angus Boneless Beef Top Round), Garlic (Garlic), Kosher Salt, Ground Black Pepper",
+   "name": "Roast Beef",
+   "note": null,
+   "nutrition": {
+    "calories": 310,
+    "cholesterol_mg": 102.8,
+    "dietary_fiber_g": 0.2,
+    "protein_g": 37.2,
+    "sat_fat_g": 5.0,
+    "sodium_mg": 500.9,
+    "sugars_g": 0.1,
+    "total_carb_g": 3.4,
+    "total_fat_g": 15.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "71050": {
    "allergens": [
     "Soybeans",
@@ -13546,18 +13874,18 @@
    "name": "Chicken Sausage",
    "note": null,
    "nutrition": {
-    "calories": 160,
-    "cholesterol_mg": 70.0,
+    "calories": 80,
+    "cholesterol_mg": 35.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 12.0,
-    "sat_fat_g": 3.0,
-    "sodium_mg": 480.0,
+    "protein_g": 6.0,
+    "sat_fat_g": 1.5,
+    "sodium_mg": 240.0,
     "sugars_g": 0.0,
-    "total_carb_g": 4.0,
-    "total_fat_g": 10.0,
+    "total_carb_g": 2.0,
+    "total_fat_g": 5.0,
     "trans_fat_g": 0.0
    },
-   "portion": "2 each",
+   "portion": "1 each",
    "vegan": false,
    "vegetarian": false
   },

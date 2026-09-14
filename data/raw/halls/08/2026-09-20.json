@@ -1,0 +1,630 @@
+{
+ "date": "2026-09-20",
+ "fetchedAt": "2026-09-14T15:38:08+00:00",
+ "itemCount": 151,
+ "locationNum": "08",
+ "meals": [
+  {
+   "meal": "lunch",
+   "sourceLabel": "LUNCH",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Blueberries"
+      },
+      {
+       "name": "Steel Cut Oatmeal"
+      }
+     ],
+     "name": "Breakfast Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Buffalo Chicken Soup"
+      },
+      {
+       "name": "White Bean and Escarole"
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "name": "Chicken Sausage"
+      },
+      {
+       "name": "French Toast"
+      },
+      {
+       "name": "Fresh Fruit Salad"
+      },
+      {
+       "name": "Grapefruit"
+      },
+      {
+       "name": "Lorraine Quiche"
+      },
+      {
+       "name": "Lyonnaise Potatoes"
+      },
+      {
+       "name": "Plain Soy Yogurt"
+      },
+      {
+       "name": "Scrambled Cage Free Eggs"
+      },
+      {
+       "name": "Smoked Salmon"
+      }
+     ],
+     "name": "Brunch"
+    },
+    {
+     "items": [
+      {
+       "name": "Black Eyed Peas"
+      },
+      {
+       "name": "Broccoli and Vegetable Honey Dijon Slaw"
+      },
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Chick Peas"
+      },
+      {
+       "name": "Corn Niblets"
+      },
+      {
+       "name": "Cottage Cheese"
+      },
+      {
+       "name": "Cranberries"
+      },
+      {
+       "name": "Diced Onions"
+      },
+      {
+       "name": "Farro with Dill"
+      },
+      {
+       "name": "Feta Cheese"
+      },
+      {
+       "name": "Flaked Tuna"
+      },
+      {
+       "name": "Grape Tomatoes"
+      },
+      {
+       "name": "Grilled Tofu"
+      },
+      {
+       "name": "Hard Cooked Eggs"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Kalamata Olives"
+      },
+      {
+       "name": "Little Leaf Greens"
+      },
+      {
+       "name": "Millet"
+      },
+      {
+       "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Shredded Carrots"
+      },
+      {
+       "name": "Sliced Avocado"
+      },
+      {
+       "name": "Sliced Cucumbers"
+      },
+      {
+       "name": "Spinach Salad Base"
+      },
+      {
+       "name": "Steamed Broccoli"
+      },
+      {
+       "name": "Suntan Pepper Strips"
+      },
+      {
+       "name": "Sweet Roasted Potatoes"
+      },
+      {
+       "name": "Tabouleh Salad"
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Grilled Chicken Breast"
+      },
+      {
+       "name": "Protein Plus with Garden Vegetables and Ricotta Cheese Sauce"
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Plant Protein Breakfast  Sausage"
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "name": "Herb Stuffed Tomatoes"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Mushroom Barley Kale with Scallions"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "Smoked Salmon"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Lime Soft Serve"
+      },
+      {
+       "name": "Mango Soft serve"
+      },
+      {
+       "name": "Sugar Cookie"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Warm Buttermilk Cornbread"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Rice"
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Malted Belgian Waffles"
+      },
+      {
+       "name": "Multi-Grain Waffles"
+      },
+      {
+       "name": "Pancake Syrup"
+      },
+      {
+       "name": "Whipped Topping"
+      }
+     ],
+     "name": "Build Your Own"
+    },
+    {
+     "items": [
+      {
+       "name": "Blueberries"
+      },
+      {
+       "name": "Sliced Strawberries"
+      }
+     ],
+     "name": "Featured Special Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Turkey and Bean Chili"
+      }
+     ],
+     "name": "Chili Bar/Stew"
+    }
+   ]
+  },
+  {
+   "meal": "dinner",
+   "sourceLabel": "DINNER",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Buffalo Chicken Soup"
+      },
+      {
+       "name": "White Bean and Escarole"
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "name": "Black Eyed Peas"
+      },
+      {
+       "name": "Broccoli and Vegetable Honey Dijon Slaw"
+      },
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Chick Peas"
+      },
+      {
+       "name": "Corn Niblets"
+      },
+      {
+       "name": "Cottage Cheese"
+      },
+      {
+       "name": "Cranberries"
+      },
+      {
+       "name": "Diced Onions"
+      },
+      {
+       "name": "Farro with Dill"
+      },
+      {
+       "name": "Feta Cheese"
+      },
+      {
+       "name": "Flaked Tuna"
+      },
+      {
+       "name": "Grape Tomatoes"
+      },
+      {
+       "name": "Grilled Tofu"
+      },
+      {
+       "name": "Hard Cooked Eggs"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Kalamata Olives"
+      },
+      {
+       "name": "Little Leaf Greens"
+      },
+      {
+       "name": "Millet"
+      },
+      {
+       "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Shredded Carrots"
+      },
+      {
+       "name": "Sliced Avocado"
+      },
+      {
+       "name": "Sliced Cucumbers"
+      },
+      {
+       "name": "Spinach Salad Base"
+      },
+      {
+       "name": "Steamed Broccoli"
+      },
+      {
+       "name": "Suntan Pepper Strips"
+      },
+      {
+       "name": "Sweet Roasted Potatoes"
+      },
+      {
+       "name": "Tabouleh Salad"
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Herb Roasted Chicken"
+      },
+      {
+       "name": "Roast Beef"
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Jackfruit Meatballs in Mushroom Gravy"
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "name": "Yukon Gold Mashed Potatoes"
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Green Peas with Lemon"
+      },
+      {
+       "name": "Steamed Broccoli"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Barley & Chives"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "London  Broil Halal"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Butterscotch Topping"
+      },
+      {
+       "name": "Caramel Dessert Sauce"
+      },
+      {
+       "name": "Chocolate Ice Cream"
+      },
+      {
+       "name": "Hood Vanilla Ice Cream"
+      },
+      {
+       "name": "Hot Fudge"
+      },
+      {
+       "name": "Lactaid Ice Cream"
+      },
+      {
+       "name": "Lime Soft Serve"
+      },
+      {
+       "name": "Mango Soft serve"
+      },
+      {
+       "name": "Maraschino Cherry Halves"
+      },
+      {
+       "name": "Plain M&M Topping"
+      },
+      {
+       "name": "Rainbow Sprinkles"
+      },
+      {
+       "name": "Whipped Topping"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Cage Free Eggs Cooked to Order"
+      },
+      {
+       "name": "Cage-Free Egg Whites Cooked to Order"
+      },
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Cheese Quesadilla"
+      },
+      {
+       "name": "Frankfurter Rolls"
+      },
+      {
+       "name": "French Fries"
+      },
+      {
+       "name": "Grilled All Beef Old Neighborhood Hot Dog"
+      },
+      {
+       "name": "Grilled Burger"
+      },
+      {
+       "name": "Grilled Burger Halal"
+      },
+      {
+       "name": "Grilled Cheese Sandwich"
+      },
+      {
+       "name": "Grilled Chicken"
+      },
+      {
+       "name": "Hamburger Rolls"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Jackfruit Burger"
+      },
+      {
+       "name": "Leaf Lettuce"
+      },
+      {
+       "name": "Nashville Hot Chicken Sandwich"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Sour Cream"
+      },
+      {
+       "name": "Thick and Chunky Mild Salsa"
+      },
+      {
+       "name": "Wheat Hamburger Rolls"
+      }
+     ],
+     "name": "From the Grill"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Gravy"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Rice"
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Chobani Nonfat Plain Greek Yogurt"
+      },
+      {
+       "name": "Chobani Plain Greek Yogurt"
+      },
+      {
+       "name": "Fresh Fruit Salad"
+      },
+      {
+       "name": "Low  Fat Chobani Plain Yogurt"
+      },
+      {
+       "name": "Napa kimchi"
+      },
+      {
+       "name": "Pickled Okra"
+      },
+      {
+       "name": "Pickled Pepper Hot Cherry"
+      },
+      {
+       "name": "Plain Soy Yogurt"
+      }
+     ],
+     "name": "Gut Health Station"
+    },
+    {
+     "items": [
+      {
+       "name": "Baguette"
+      },
+      {
+       "name": "Garlic Olive Oil"
+      },
+      {
+       "name": "Honey Butter"
+      },
+      {
+       "name": "Salted Butter"
+      },
+      {
+       "name": "White Round Country Loaf"
+      },
+      {
+       "name": "Whole Grain Bread"
+      }
+     ],
+     "name": "Bread Choices"
+    },
+    {
+     "items": [
+      {
+       "name": "Bolognese Sauce with Meat"
+      },
+      {
+       "name": "Marinara Spaghetti Sauce"
+      },
+      {
+       "name": "Protein Plus Spaghetti"
+      }
+     ],
+     "name": "Whole Grain Pasta Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Salsa"
+      },
+      {
+       "name": "Tortilla Chips"
+      }
+     ],
+     "name": "Brain Break"
+    }
+   ]
+  }
+ ],
+ "mealsSha256": "4523be86a9d8f5da4744b640f56ed065c93d834c373de9728d73691ec3f354ab",
+ "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
+}

@@ -262,9 +262,9 @@
       },
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -767,9 +767,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 173,
+       "calories": 345,
        "name": "Protein Plus Penne with Creamy Tomato,Bacon,  Basil Sauce",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300978,
        "tags": []
       }
@@ -1019,9 +1019,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1462,9 +1462,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 187,
+       "calories": 374,
        "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300979,
        "tags": [
         "vegetarian"

@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-13T17:51:25+00:00",
+ "fetchedAt": "2026-09-14T15:38:02+00:00",
  "rows": [
   {
    "allergens": [
@@ -21714,11 +21714,11 @@
   },
   {
    "allergens": [],
-   "calories": 160,
-   "calories_from_fat": 90,
+   "calories": 80,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "70mg",
-    "percent": 23.0
+    "amount": "35mg",
+    "percent": 12.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21728,28 +21728,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "12g",
-    "percent": 24.0
+    "amount": "6g",
+    "percent": 12.0
    },
    "sat_fat": {
-    "amount": "3g",
-    "percent": 14.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "2 each",
+   "serving_size": "1 each",
    "sodium": {
-    "amount": "480mg",
-    "percent": 21.0
+    "amount": "240mg",
+    "percent": 10.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "2g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "10g",
-    "percent": 13.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -28735,11 +28735,11 @@
     "Fish",
     "Milk"
    ],
-   "calories": 189,
-   "calories_from_fat": 69,
+   "calories": 160,
+   "calories_from_fat": 63,
    "cholesterol": {
-    "amount": "173.9mg",
-    "percent": 58.0
+    "amount": "155.7mg",
+    "percent": 52.0
    },
    "dietary_fiber": {
     "amount": "1.1g",
@@ -28747,31 +28747,31 @@
    },
    "id": 121061,
    "information": null,
-   "ingredients": "Shrimp (Shrimp, Water, Salt and Sodium Tripolyphosphate (to retain moisture).), Chicken Stock (Water, Chicken Base (Roasted Chicken And Chicken Juices, Salt, Sugar, Corn Starch, Chicken Fat, Dehydrated Onion, Turmeric, Flavoring.)), Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), White Cooking Wine (Wine, Water, Neutral Spirits, Salt, Tartaric Acid, Citric Acid, Potassium Sorbate (preservative) Potassium Metabisulfite (preservative) Caramel Color.), Onions (Onions), Celery (Celery), Butter (Cream (milk), salt.), Worcestershire Sauce (Distilled White Vinegar, Molasses, Sugar, Water, Salt, Onions, Anchovies (Fish), Garlic, Cloves, Tamarind Extract, Natural Flavorings, Chili Pepper Extract.), Garlic (Garlic), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Fresh Thyme (Fresh Thyme), Kosher Salt (Salt), Ground Black Pepper (), Whole Bay Leaves (Bay Leaves)",
+   "ingredients": "Shrimp (Shrimp, Water, Salt), Chicken Stock (Water, Chicken Base (Roasted Chicken And Chicken Juices, Salt, Sugar, Corn Starch, Chicken Fat, Dehydrated Onion, Turmeric, Flavoring.)), Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), White Cooking Wine (Wine, Water, Neutral Spirits, Salt, Tartaric Acid, Citric Acid, Potassium Sorbate (preservative) Potassium Metabisulfite (preservative) Caramel Color.), Onions (Onions), Celery (Celery), Butter (Cream (milk), salt.), Worcestershire Sauce (Distilled White Vinegar, Molasses, Sugar, Water, Salt, Onions, Anchovies (Fish), Garlic, Cloves, Tamarind Extract, Natural Flavorings, Chili Pepper Extract.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Black Pepper, Whole Bay Leaves (Bay Leaves)",
    "name": "Creole Shrimp",
    "protein": {
-    "amount": "18.3g",
-    "percent": 36.0
+    "amount": "15.2g",
+    "percent": 30.0
    },
    "sat_fat": {
-    "amount": "3.2g",
-    "percent": 15.0
+    "amount": "2.7g",
+    "percent": 12.0
    },
    "serving_size": "8 oz",
    "sodium": {
-    "amount": "1440.1mg",
-    "percent": 63.0
+    "amount": "1063.1mg",
+    "percent": 46.0
    },
    "sugars": {
     "amount": "3g"
    },
    "total_carb": {
-    "amount": "8.3g",
+    "amount": "8g",
     "percent": 3.0
    },
    "total_fat": {
-    "amount": "7.6g",
-    "percent": 10.0
+    "amount": "6.9g",
+    "percent": 9.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -35903,7 +35903,7 @@
    },
    "id": 142062,
    "information": null,
-   "ingredients": "Spinach (Spinach), Sangria Heirloom Tomatoes, Green Lentils (French Green Lentils), Celery (Celery), Diced Onions (Onions), Kalamata Olives (Kalamata Olives, Water, Salt, Sunflower Oil, Extra Virgin Olive Oil, Lactic Acid.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Capers (Capers, Water, and Salt Vinegar.), Kosher Salt (Salt), Ground Black Pepper (), Italian Parsley (Italian Parsley)",
+   "ingredients": "Spinach (Spinach), Sangria Heirloom Tomatoes, Green Lentils (French Green Lentils), Celery (Celery), Diced Onions (Onions), Kalamata Olives (Kalamata Olives, Water, Salt, Sunflower Oil, Extra Virgin Olive Oil, Lactic Acid.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Capers (Capers, Water, and Salt Vinegar.), Kosher Salt, Ground Black Pepper, Italian Parsley (Italian Parsley)",
    "name": "Vegan Sauteed Lentils with Tomato and Olives",
    "protein": {
     "amount": "3.8g",
@@ -54022,7 +54022,7 @@
    },
    "id": 165044,
    "information": null,
-   "ingredients": "Linguine (Semolina (Wheat), Durum Wheat Flour, Niacin (Vitamin B3), Ferrous Sulphate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.), Garlic Oil (Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic)), Crushed Red Pepper (Crushed Red Pepper (Red chile peppers)), Kosher Salt (Salt)",
+   "ingredients": "Linguine (Semolina (Wheat), Durum Wheat Flour, Niacin (Vitamin B3), Ferrous Sulphate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.), Garlic Oil (Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic)), Crushed Red Pepper (Crushed Red Pepper (Red chile peppers)), Kosher Salt",
    "name": "Linguine WITH Garlic Oil",
    "protein": {
     "amount": "14.5g",
@@ -70890,14 +70890,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 49,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "3.8g",
+    "percent": 13.0
    },
    "id": 204010,
    "information": null,
@@ -70909,17 +70909,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "2.6mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "11.8g",
+    "percent": 4.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -96717,43 +96717,41 @@
   },
   {
    "allergens": [],
-   "calories": 277,
-   "calories_from_fat": 172,
+   "calories": 69,
+   "calories_from_fat": 43,
    "cholesterol": {
-    "amount": "69.5mg",
-    "percent": 23.0
+    "amount": "17.4mg",
+    "percent": 6.0
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
    "id": 300008,
    "information": null,
    "ingredients": "Beef Ground (H), Onions (Onions), Water, Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.)",
    "name": "Halal Beef Taco Meat",
    "protein": {
-    "amount": "20g",
-    "percent": 39.0
+    "amount": "5g",
+    "percent": 10.0
    },
    "sat_fat": {
-    "amount": "8.8g",
-    "percent": 40.0
+    "amount": "2.2g",
+    "percent": 10.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "534.9mg",
-    "percent": 23.0
+    "amount": "133.7mg",
+    "percent": 6.0
    },
    "sugars": {
-    "amount": "2.2g"
+    "amount": "0.5g"
    },
    "total_carb": {
-    "amount": "4.6g",
-    "percent": 2.0
+    "amount": "1.1g"
    },
    "total_fat": {
-    "amount": "19g",
-    "percent": 24.0
+    "amount": "4.8g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -131177,46 +131175,46 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 173,
-   "calories_from_fat": 60,
+   "calories": 345,
+   "calories_from_fat": 120,
    "cholesterol": {
-    "amount": "13.3mg",
-    "percent": 4.0
+    "amount": "26.6mg",
+    "percent": 9.0
    },
    "dietary_fiber": {
-    "amount": "10.9g",
-    "percent": 39.0
+    "amount": "21.9g",
+    "percent": 78.0
    },
    "id": 300978,
    "information": null,
    "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grape Tomato, Onions (Onions), Pure Bacon Bits (Bacon Cured with (Water, Salt, Sugar, Sodium Phosphates, Sodium Nitrite.) May Contain Smoke Flavor, Sodium Ascorbate, Sugar, Brown Sugar.), Heavy Cream (Cream, Carrageenan, and Mono & Diglycerides.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parmesan Cheese (Pasteurized Part Skim Cow\u2019s Milk, Cheese Cultures, Salt, and Enzymes.), Basil (Fresh Basil.), Ground Black Pepper, Kosher Salt",
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "protein": {
-    "amount": "8.6g",
-    "percent": 17.0
+    "amount": "17.1g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "2.1g",
-    "percent": 9.0
+    "amount": "4.1g",
+    "percent": 19.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "335mg",
-    "percent": 15.0
+    "amount": "670mg",
+    "percent": 29.0
    },
    "sugars": {
-    "amount": "3.4g"
+    "amount": "6.9g"
    },
    "total_carb": {
-    "amount": "23.6g",
-    "percent": 9.0
+    "amount": "47.3g",
+    "percent": 17.0
    },
    "total_fat": {
-    "amount": "6.6g",
-    "percent": 9.0
+    "amount": "13.3g",
+    "percent": 17.0
    },
    "trans_fat": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
    "vegan": false,
    "vegetarian": false
@@ -131226,43 +131224,43 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 187,
-   "calories_from_fat": 48,
+   "calories": 374,
+   "calories_from_fat": 95,
    "cholesterol": {
-    "amount": "7.4mg",
-    "percent": 2.0
+    "amount": "14.9mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "5.8g",
-    "percent": 21.0
+    "amount": "11.6g",
+    "percent": 41.0
    },
    "id": 300979,
    "information": null,
    "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Butternut Squash (Butternut Squash), Green Peas (Green Peas, Salt), Parmesan Cheese (Pasteurized Part Skim Cow\u2019s Milk, Cheese Cultures, Salt, and Enzymes.), Butter (Cream (milk), salt.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Sage (Sage), Garlic (Garlic), Kosher Salt, Ground Black Pepper",
    "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
    "protein": {
-    "amount": "8.4g",
-    "percent": 17.0
+    "amount": "16.9g",
+    "percent": 33.0
    },
    "sat_fat": {
-    "amount": "1.8g",
-    "percent": 8.0
+    "amount": "3.6g",
+    "percent": 17.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "152.8mg",
-    "percent": 7.0
+    "amount": "305.7mg",
+    "percent": 13.0
    },
    "sugars": {
-    "amount": "3.5g"
+    "amount": "6.9g"
    },
    "total_carb": {
-    "amount": "29.4g",
-    "percent": 11.0
+    "amount": "58.8g",
+    "percent": 21.0
    },
    "total_fat": {
-    "amount": "5.3g",
-    "percent": 7.0
+    "amount": "10.6g",
+    "percent": 14.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -136024,8 +136022,7 @@
    "calories": 94,
    "calories_from_fat": 71,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "0.5g",
@@ -144339,7 +144336,7 @@
    },
    "id": 444235,
    "information": null,
-   "ingredients": "Zucchini Squash (Zucchini), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt (Salt), Ground Black Pepper (), French Leaf Thyme (Dried Thyme)",
+   "ingredients": "Zucchini Squash (Zucchini), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper, French Leaf Thyme (Dried Thyme)",
    "name": "Roasted Zucchini with Thyme",
    "protein": {
     "amount": "1.7g",
@@ -144384,7 +144381,7 @@
    },
    "id": 444236,
    "information": null,
-   "ingredients": "Parmesan Vegan Cheese (Filtered Water, Organic Palm Fruit Oil\u2020, Modifi ed Food Starch, Canola Oil, Natural Flavors (Plant Sources [Contains Autolyzed Yeast]), VegetableGlycerin, Less than 2% of: Lactic Acid (Vegetable Source), Calcium Lactate (Vegetable Source), Sea Salt, Sodium Phosphate, Carrageenan, BambooFiber, Nutritional Yeast, Calcium Phosphate, Organic Chickpea Miso (Organic Handmade Rice Koji, Organic Whole Chickpeas, Sea Salt, Water, KojiSpores), Sunfl ower Lecithin, Citric Acid, Annatto.), Eggplant (FRESH EGGPLANT), Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt (Salt), Ground Black Pepper ()",
+   "ingredients": "Parmesan Vegan Cheese (Filtered Water, Organic Palm Fruit Oil\u2020, Modifi ed Food Starch, Canola Oil, Natural Flavors (Plant Sources [Contains Autolyzed Yeast]), VegetableGlycerin, Less than 2% of: Lactic Acid (Vegetable Source), Calcium Lactate (Vegetable Source), Sea Salt, Sodium Phosphate, Carrageenan, BambooFiber, Nutritional Yeast, Calcium Phosphate, Organic Chickpea Miso (Organic Handmade Rice Koji, Organic Whole Chickpeas, Sea Salt, Water, KojiSpores), Sunfl ower Lecithin, Citric Acid, Annatto.), Eggplant (FRESH EGGPLANT), Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper",
    "name": "Roasted Eggplant",
    "protein": {
     "amount": "0.9g",
@@ -187955,6 +187952,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "515e8443887a7f9970c5af843ad0951fd61e167b4ddc2159484a9b2457bb43e6",
+ "sha256": "66d497275b4c451930f9577c499ad5e9d99ba336fabd1fa9757d13996da66e95",
  "table": "recipes"
 }
