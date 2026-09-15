@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15T14:09:57+00:00",
+ "generatedAt": "2026-09-15T18:41:42+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2283,18 +2283,18 @@
    "name": "Seasoned Red Beans",
    "note": null,
    "nutrition": {
-    "calories": 143,
+    "calories": 36,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 6.7,
-    "protein_g": 5.8,
-    "sat_fat_g": 0.5,
-    "sodium_mg": 289.4,
-    "sugars_g": 2.5,
-    "total_carb_g": 18.4,
-    "total_fat_g": 6.4,
+    "dietary_fiber_g": 1.7,
+    "protein_g": 1.5,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 72.3,
+    "sugars_g": 0.6,
+    "total_carb_g": 4.6,
+    "total_fat_g": 1.6,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -10584,18 +10584,18 @@
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "note": null,
    "nutrition": {
-    "calories": 345,
-    "cholesterol_mg": 26.6,
-    "dietary_fiber_g": 21.9,
-    "protein_g": 17.1,
-    "sat_fat_g": 4.1,
-    "sodium_mg": 670.0,
-    "sugars_g": 6.9,
-    "total_carb_g": 47.3,
-    "total_fat_g": 13.3,
-    "trans_fat_g": 0.1
+    "calories": 173,
+    "cholesterol_mg": 13.3,
+    "dietary_fiber_g": 10.9,
+    "protein_g": 8.6,
+    "sat_fat_g": 2.1,
+    "sodium_mg": 335.0,
+    "sugars_g": 3.4,
+    "total_carb_g": 23.6,
+    "total_fat_g": 6.6,
+    "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -10608,18 +10608,18 @@
    "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
    "note": null,
    "nutrition": {
-    "calories": 374,
-    "cholesterol_mg": 14.9,
-    "dietary_fiber_g": 11.6,
-    "protein_g": 16.9,
-    "sat_fat_g": 3.6,
-    "sodium_mg": 305.7,
-    "sugars_g": 6.9,
-    "total_carb_g": 58.8,
-    "total_fat_g": 10.6,
+    "calories": 187,
+    "cholesterol_mg": 7.4,
+    "dietary_fiber_g": 5.8,
+    "protein_g": 8.4,
+    "sat_fat_g": 1.8,
+    "sodium_mg": 152.8,
+    "sugars_g": 3.5,
+    "total_carb_g": 29.4,
+    "total_fat_g": 5.3,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -10893,18 +10893,18 @@
     "Soybeans",
     "Tree Nuts"
    ],
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Butternut Squash (Butternut Squash), Long Grain Rice (Rice), Scallions (Fresh Scallions), Onions (Onions), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Long Grain Rice (Rice), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Onions (Onions), Butternut Squash (Butternut Squash), Scallions (Fresh Scallions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
    "name": "Pumpkin Squash Rice",
    "note": null,
    "nutrition": {
-    "calories": 178,
+    "calories": 155,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 3.0,
-    "protein_g": 4.0,
+    "dietary_fiber_g": 1.3,
+    "protein_g": 3.3,
     "sat_fat_g": 2.2,
-    "sodium_mg": 333.8,
-    "sugars_g": 2.5,
-    "total_carb_g": 33.0,
+    "sodium_mg": 329.2,
+    "sugars_g": 0.9,
+    "total_carb_g": 27.3,
     "total_fat_g": 3.7,
     "trans_fat_g": 0.0
    },
@@ -11297,21 +11297,22 @@
   },
   "301089": {
    "allergens": [
+    "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Chicken Nuggets (Chicken Breast Chunk, Fritters, with Rib Meat Containing : up to 18% of solution of Water, Seasoning [Chicken Broth Powder (Chicken Broth, Salt, Favoring's), Salt, Sugar, Vegetable Stock (Carrot, Onion, Celery), Maltodextrin, Garlic Powder, and Flavors], Modified Food Starch, Sodium Phosphates, Breaded With: Bleached Wheat Flour, Water, Wheat Flour, Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Monocalcium Phosphate), Spices, Disodium Inosinate and Disodium Guanylate, Dried Onion, Dried Onion, Dried Garlic, Canola Oil, Modified Palm Oils, Dextrose, Wheat Gluten, Dried Yeast, and Turmeric Extract (color). Breading set in Vegetable Oil.), Sweet & Sour Sauce (Water, High Fructose Corn Syrup, Distilled White Vinegar, Sugar, Tomato Paste, modified Corn Starch, Pineapple Juice Concentrate, Salt, Fd&c Yellow 5, Fd&c red 40, Citric Acid, Fd&c Yellow 6, Xanthan Gum, Natural Flavor, Sodium benzoate Added As A Preservative.), Pineapple (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Fine Granulated Sugar (Sugar), Kosher Salt",
+   "ingredients": "Tempura Chicken (Chicken breast water, seasoning [salt, flavors, maltodextrin, sugar, vegetable stock (carrot, onion, celery), garlic powder], salt, sodium phosphates. BATTERED WITH: Water, yellow corn flour, bleached wheat flour, modified corn starch, salt, spices, leavening (sodium bicarbonate, sodium aluminum phosphate), dextrose, wheat starch, onion powder, extractives of turmeric, spice extractive. PREDUSTED WITH: Wheat flour, leavening (sodium acid pyrophosphate, sodium bicarbonate, monocalcium phosphate), salt, spices, calcium lactate, soybean oil (as a processing aid), calcium lactate. Vegetable oil), Sweet & Sour Sauce (Water, High Fructose Corn Syrup, Distilled White Vinegar, Sugar, Tomato Paste, modified Corn Starch, Pineapple Juice Concentrate, Salt, Fd&c Yellow 5, Fd&c red 40, Citric Acid, Fd&c Yellow 6, Xanthan Gum, Natural Flavor, Sodium benzoate Added As A Preservative.), Pineapple (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Onions (Onions), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Sweet and Sour Chicken",
    "note": null,
    "nutrition": {
-    "calories": 891,
-    "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.8,
-    "protein_g": 161.9,
-    "sat_fat_g": 0.2,
-    "sodium_mg": 79249.8,
-    "sugars_g": 93.3,
-    "total_carb_g": 84.7,
-    "total_fat_g": 2.2,
+    "calories": 274,
+    "cholesterol_mg": 28.6,
+    "dietary_fiber_g": 0.9,
+    "protein_g": 10.4,
+    "sat_fat_g": 2.7,
+    "sodium_mg": 511.8,
+    "sugars_g": 12.0,
+    "total_carb_g": 12.8,
+    "total_fat_g": 15.1,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -11462,19 +11463,19 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Teriyaki Sauce GF (Liquid Sugar (Sugar, Water) Organic Gluten Free Tamari Sauce (Water Organic Soybeans, Salt, Organic Vinegar), Sherry Cooking Wine (Salt Potassium Sorbate and Potassium, Metabisulfite (Added as preservatives) Dijon Mustard (Water, Vinegar, Mustard Seed, Salt, White Wine, Citric Acid, Tartaric Acid, Fruit Pectin, Sugar, Spices, ) Soybean Oil, Water Vinegar, Modified Food Starch, Molasses, Pineapple Juice Concentrate, Ginger Puree (Ginger, Water, Citric Acid) Garlic Spice, Potassium Sorbate, (Preservative) Xanthan Gum.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
+   "ingredients": "Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper",
    "name": "Vegetable Stir Fry",
    "note": null,
    "nutrition": {
-    "calories": 54,
+    "calories": 30,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
-    "sat_fat_g": 0.2,
-    "sodium_mg": 144.0,
-    "sugars_g": 3.2,
-    "total_carb_g": 4.0,
-    "total_fat_g": 4.3,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 36.3,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.0,
+    "total_fat_g": 3.5,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -11527,6 +11528,30 @@
    "portion": "1 each",
    "vegan": false,
    "vegetarian": false
+  },
+  "301102": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Dry Cole Slaw, White Clover Honey (Honey), Pure Toasted Sesame Oil (Sesame oil), Ginger (Fresh Ginger), White Vinegar (White Distilled Vinegar dilluted with Water to 5% Acidity.), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Fine Granulated Sugar (Sugar), Sliced Jalapeno Peppers (Jalapeno Peppers, Water, Vinegar, Salt, Calcium Chloride, Garlic Contains Less Than 2% Of Malic Acid, Lactic Acid, Calcium Chloride, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative, Contains Sulfites, Yellow 5), Cilantro (Cilantro)",
+   "name": "Vietnamese Tofu Banh Mi Sandwich",
+   "note": null,
+   "nutrition": {
+    "calories": 801,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 16.9,
+    "protein_g": 25.3,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 6673.7,
+    "sugars_g": 33.6,
+    "total_carb_g": 107.2,
+    "total_fat_g": 34.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 sandwich",
+   "vegan": true,
+   "vegetarian": true
   },
   "31003": {
    "allergens": [
@@ -12547,33 +12572,6 @@
    "vegan": true,
    "vegetarian": true
   },
-  "504066": {
-   "allergens": [
-    "Eggs",
-    "Fish",
-    "Milk",
-    "Soybeans",
-    "Wheat"
-   ],
-   "ingredients": "Wild Flounder, Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers), Clam Fry Mix (Yellow Corn Flour, Wheat Flour (Wheat Flour, Malted Barley Flour), Corn Starch, Whey (Milk), Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Nonfat Dry Milk, Guar Gum, Dried Egg Whites.PRODUCT PRODUCED IN A FACILITY THAT CONTAINS WHEAT, DAIRY, EGGS, SOYBEAN), Lemons (LEMONS)",
-   "name": "Crispy Flounder with Pico De Gallo",
-   "note": "Daikon, literally translated \"large root\", is a white radish from east Asia has a sweet, fresh flavor.",
-   "nutrition": {
-    "calories": 410,
-    "cholesterol_mg": 51.0,
-    "dietary_fiber_g": 0.5,
-    "protein_g": 16.5,
-    "sat_fat_g": 2.4,
-    "sodium_mg": 336.0,
-    "sugars_g": 0.0,
-    "total_carb_g": 22.3,
-    "total_fat_g": 29.8,
-    "trans_fat_g": 0.0
-   },
-   "portion": "4 oz",
-   "vegan": false,
-   "vegetarian": false
-  },
   "504073": {
    "allergens": [],
    "ingredients": "Fresh Fruit Salad (Pineapple, Honeydew, Cantaloupe, and Red Grapes.)",
@@ -12833,31 +12831,6 @@
    "portion": "8 oz",
    "vegan": true,
    "vegetarian": true
-  },
-  "570015": {
-   "allergens": [
-    "Eggs",
-    "Soybeans",
-    "Wheat"
-   ],
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED), Dry Cole Slaw, White Vinegar (White Distilled Vinegar dilluted with Water to 5% Acidity.), Mayonnaise (Soybean Oil, Whole Eggs and Egg Yolks, Water, Distilled Vinegar , Salt, Sugar, Dextrose, Lemon Juice Concentrate, Calcium Disodium EDTA (used to protect quality), Natural Flavors.), Fine Granulated Sugar (Sugar), Sliced Jalapeno Peppers (Jalapeno Peppers, Water, Vinegar, Salt, Calcium Chloride, Garlic Contains Less Than 2% Of Malic Acid, Lactic Acid, Calcium Chloride, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative, Contains Sulfites, Yellow 5), Cilantro (Cilantro)",
-   "name": "Vietnamese Tofu Banh Mi Sandwich",
-   "note": null,
-   "nutrition": {
-    "calories": 517,
-    "cholesterol_mg": 2.5,
-    "dietary_fiber_g": 16.1,
-    "protein_g": 21.3,
-    "sat_fat_g": 2.9,
-    "sodium_mg": 3271.6,
-    "sugars_g": 9.8,
-    "total_carb_g": 77.5,
-    "total_fat_g": 17.7,
-    "trans_fat_g": 0.0
-   },
-   "portion": "1 sandwich",
-   "vegan": false,
-   "vegetarian": false
   },
   "599009": {
    "allergens": [
@@ -13874,18 +13847,18 @@
    "name": "Chicken Sausage",
    "note": null,
    "nutrition": {
-    "calories": 80,
-    "cholesterol_mg": 35.0,
+    "calories": 160,
+    "cholesterol_mg": 70.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 6.0,
-    "sat_fat_g": 1.5,
-    "sodium_mg": 240.0,
+    "protein_g": 12.0,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 480.0,
     "sugars_g": 0.0,
-    "total_carb_g": 2.0,
-    "total_fat_g": 5.0,
+    "total_carb_g": 4.0,
+    "total_fat_g": 10.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 each",
+   "portion": "2 each",
    "vegan": false,
    "vegetarian": false
   },

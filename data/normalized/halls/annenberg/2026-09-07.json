@@ -13,9 +13,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 80,
+       "calories": 160,
        "name": "Chicken Sausage",
-       "portion": "1 each",
+       "portion": "2 each",
        "recipeId": 89020,
        "tags": []
       }
@@ -932,9 +932,10 @@
       },
       {
        "allergens": [
+        "Soybeans",
         "Wheat"
        ],
-       "calories": 891,
+       "calories": 274,
        "name": "Sweet and Sour Chicken",
        "portion": "4 oz",
        "recipeId": 301089,
@@ -947,15 +948,17 @@
      "items": [
       {
        "allergens": [
-        "Eggs",
         "Soybeans",
         "Wheat"
        ],
-       "calories": 517,
+       "calories": 801,
        "name": "Vietnamese Tofu Banh Mi Sandwich",
        "portion": "1 sandwich",
-       "recipeId": 570015,
-       "tags": []
+       "recipeId": 301102,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Veg,Vegan"
@@ -993,7 +996,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 54,
+       "calories": 30,
        "name": "Vegetable Stir Fry",
        "portion": "4 oz",
        "recipeId": 301097,
@@ -1037,15 +1040,16 @@
       },
       {
        "allergens": [
-        "Eggs",
         "Soybeans",
         "Wheat"
        ],
-       "calories": 517,
+       "calories": 801,
        "name": "Vietnamese Tofu Banh Mi Sandwich",
        "portion": "1 sandwich",
-       "recipeId": 570015,
+       "recipeId": 301102,
        "tags": [
+        "vegan",
+        "vegetarian",
         "halal"
        ]
       }
@@ -1557,7 +1561,7 @@
         "Soybeans",
         "Tree Nuts"
        ],
-       "calories": 178,
+       "calories": 155,
        "name": "Pumpkin Squash Rice",
        "portion": "4 oz",
        "recipeId": 301044,

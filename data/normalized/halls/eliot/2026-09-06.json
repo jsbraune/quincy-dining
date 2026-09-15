@@ -802,9 +802,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 345,
+       "calories": 173,
        "name": "Protein Plus Penne with Creamy Tomato,Bacon,  Basil Sauce",
-       "portion": "8 oz",
+       "portion": "4 oz",
        "recipeId": 300978,
        "tags": []
       }
@@ -1492,9 +1492,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 374,
+       "calories": 187,
        "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
-       "portion": "8 oz",
+       "portion": "4 oz",
        "recipeId": 300979,
        "tags": [
         "vegetarian"

@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "fetchedAt": "2026-09-13T17:51:33+00:00",
+ "fetchedAt": "2026-09-15T18:40:09+00:00",
  "hall": "mather",
  "hallName": "Mather House",
  "itemCount": 167,
@@ -824,17 +824,8 @@
     {
      "items": [
       {
-       "allergens": [
-        "Eggs",
-        "Fish",
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 410,
-       "name": "Crispy Flounder with Pico De Gallo",
-       "portion": "4 oz",
-       "recipeId": 504066,
+       "allergens": [],
+       "name": "Crispy Flounder with Pico De Gallo Taco",
        "tags": []
       },
       {
@@ -943,12 +934,13 @@
      "items": [
       {
        "allergens": [
-        "Soybeans"
+        "Soybeans",
+        "Wheat"
        ],
-       "calories": 80,
-       "name": "Chipotle Beef Tacos",
-       "portion": "1 oz",
-       "recipeId": 300982,
+       "calories": 242,
+       "name": "Street Beef Taco",
+       "portion": "1 each",
+       "recipeId": 301100,
        "tags": [
         "halal"
        ]

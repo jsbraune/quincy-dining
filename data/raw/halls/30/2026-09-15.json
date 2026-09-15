@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "fetchedAt": "2026-09-10T17:59:29+00:00",
+ "fetchedAt": "2026-09-15T18:40:09+00:00",
  "itemCount": 156,
  "locationNum": "30",
  "meals": [
@@ -323,7 +323,7 @@
        "name": "Chipotle Beef Tacos"
       },
       {
-       "name": "Crispy Flounder with Pico De Gallo"
+       "name": "Crispy Flounder with Pico De Gallo Taco"
       },
       {
        "name": "Grilled Chicken Breast"
@@ -666,6 +666,6 @@
    ]
   }
  ],
- "mealsSha256": "b9533df26e7d7327fb07ac2cbca2a440590eed469724e0a5d506f6e26ac5cb76",
+ "mealsSha256": "55c1297b75c5829a9a8b83a6a260fd1b43511275de77f651b8e7c6fa413d467a",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
