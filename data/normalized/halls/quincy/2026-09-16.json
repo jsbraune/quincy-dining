@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "fetchedAt": "2026-09-10T13:18:56+00:00",
+ "fetchedAt": "2026-09-16T18:36:42+00:00",
  "hall": "quincy",
  "hallName": "Quincy House",
  "itemCount": 176,
@@ -1072,18 +1072,9 @@
     {
      "items": [
       {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 426,
-       "name": "Cheese and Tomato Panini",
-       "portion": "1 piece",
-       "recipeId": 300522,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
+       "allergens": [],
+       "name": "Vegan Cheese and Tomato Panini",
+       "tags": []
       }
      ],
      "name": "Veg,Vegan"

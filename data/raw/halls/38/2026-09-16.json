@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "fetchedAt": "2026-09-10T13:18:56+00:00",
+ "fetchedAt": "2026-09-16T18:36:42+00:00",
  "itemCount": 160,
  "locationNum": "38",
  "meals": [
@@ -274,7 +274,7 @@
     {
      "items": [
       {
-       "name": "Cheese and Tomato Panini"
+       "name": "Vegan Cheese and Tomato Panini"
       }
      ],
      "name": "Veg,Vegan"
@@ -678,6 +678,6 @@
    ]
   }
  ],
- "mealsSha256": "37dc2bec298b863896651855bb7923aefff0ae624456826d63ca34517715c45a",
+ "mealsSha256": "3a0afe3ab785296e41f837d6a3461034e85dbbe27d8b58fed57bb49e306d9717",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

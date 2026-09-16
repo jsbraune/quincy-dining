@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T14:02:29+00:00",
+ "generatedAt": "2026-09-16T18:37:40+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -8734,30 +8734,6 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
-   "vegan": true,
-   "vegetarian": true
-  },
-  "300522": {
-   "allergens": [
-    "Soybeans",
-    "Wheat"
-   ],
-   "ingredients": "Local Backyard Beauty Tomatoes, White Panini Flat Bread (Enriched Flour, (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Canola Oil, Contains 2% or less of each of the following, Salt, Yeast, Dextrose, Sodium Bicarbonate, Fumaric Acid Sodium Aluminum, Phosphate, Preservatives (Calcium Propionate, Potassium Sorbate), Sodium Acid Pyrophosphate, Monoglycerides, Sodium Aluminum, Sulfate, Sodium Carboxymethylcellulose, Soybean Oil, Enzymes, L-Cysteine Hydrochloride. .), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Vegan Cheddar Shredded Cheese (Cheddar-style Cheese (filtered Water, Modified Potato Starch, Palm Oil, Sunflower Oil, Sea Salt, Cellulose Gum, Tapioca Starch, Yeast Extract, Cellulose Gel, Konjac Powder [thickener], Cultured Dextrose, Citric Acid, Locust Bean Gum, Natural Flavors, Annatto [color], Paprika Extract [color], Probiotic Cultures [bacillus Subtilis]), Powdered Cellulose (to Prevent Caking)), Italian Dressing (Water, Vinegar, Liquid Sugar (Sugar, Water), Soybean Oil, Salt, Garlic, Onion, Xantham Gum, Beta Carotene, Spices, Tamarind Gum, Citric Acid, Potassium sorbate (preservative)), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
-   "name": "Cheese and Tomato Panini",
-   "note": null,
-   "nutrition": {
-    "calories": 426,
-    "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.1,
-    "protein_g": 5.5,
-    "sat_fat_g": 4.2,
-    "sodium_mg": 720.9,
-    "sugars_g": 0.5,
-    "total_carb_g": 29.1,
-    "total_fat_g": 32.4,
-    "trans_fat_g": 0.0
-   },
-   "portion": "1 piece",
    "vegan": true,
    "vegetarian": true
   },
