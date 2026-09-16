@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-15T18:40:03+00:00",
+ "fetchedAt": "2026-09-16T22:41:32+00:00",
  "rows": [
   {
    "allergens": [
@@ -37986,10 +37986,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 60,
+   "calories": 45,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "6.7mg",
+    "amount": "5mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38000,22 +38000,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "10.7g",
-    "percent": 21.0
+    "amount": "8g",
+    "percent": 16.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "40mg",
-    "percent": 2.0
+    "amount": "30mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "2.7g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "3g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38503,11 +38503,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 83,
-   "calories_from_fat": 22,
+   "calories": 63,
+   "calories_from_fat": 16,
    "cholesterol": {
-    "amount": "13.9mg",
-    "percent": 5.0
+    "amount": "10.4mg",
+    "percent": 3.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38517,28 +38517,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "7.8g",
+    "percent": 15.0
    },
    "sat_fat": {
-    "amount": "1.7g",
-    "percent": 8.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "41.7mg",
-    "percent": 2.0
+    "amount": "31.3mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "4.2g"
+    "amount": "3.1g"
    },
    "total_carb": {
-    "amount": "4.9g",
-    "percent": 2.0
+    "amount": "3.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.4g",
-    "percent": 3.0
+    "amount": "1.8g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -51295,38 +51295,39 @@
   },
   {
    "allergens": [],
-   "calories": 34,
-   "calories_from_fat": 1,
+   "calories": 138,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.1g"
+    "amount": "0.5g",
+    "percent": 2.0
    },
    "id": 163046,
    "information": "Bas in the Hindi language means \"aroma\" and Mati means full. Hence Basmati rice is full of aroma.",
    "ingredients": "Water, Basmati Rice (White basmati rice.)",
    "name": "Basmati Rice",
    "protein": {
-    "amount": "0.7g",
-    "percent": 1.0
+    "amount": "2.7g",
+    "percent": 5.0
    },
    "sat_fat": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "0.5mg"
+    "amount": "1.9mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "7.6g",
-    "percent": 3.0
+    "amount": "30.2g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -79887,8 +79888,8 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 333,
-   "calories_from_fat": 248,
+   "calories": 336,
+   "calories_from_fat": 251,
    "cholesterol": {
     "amount": "133.3mg",
     "percent": 44.0
@@ -79906,24 +79907,24 @@
     "percent": 39.0
    },
    "sat_fat": {
-    "amount": "11.3g",
-    "percent": 52.0
+    "amount": "11.6g",
+    "percent": 53.0
    },
    "serving_size": "5 oz",
    "sodium": {
-    "amount": "455.9mg",
-    "percent": 20.0
+    "amount": "360.4mg",
+    "percent": 16.0
    },
    "sugars": {
-    "amount": "1.9g"
+    "amount": "1.3g"
    },
    "total_carb": {
     "amount": "4.7g",
     "percent": 2.0
    },
    "total_fat": {
-    "amount": "27.5g",
-    "percent": 35.0
+    "amount": "27.8g",
+    "percent": 36.0
    },
    "trans_fat": {
     "amount": "0.4g"
@@ -80843,41 +80844,41 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 18,
-   "calories_from_fat": 5,
+   "calories": 72,
+   "calories_from_fat": 18,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1g",
-    "percent": 4.0
+    "amount": "4g",
+    "percent": 14.0
    },
    "id": 255116,
    "information": null,
    "ingredients": "Makhni Dal (Water, Urad Dal (Black Lentils), Tomato Paste (Tomatoes, Citric Acid), Onions, Red Kidney Beans, Canola Oil, Salt, Ginger, Garlic, Spices. PRODUCED IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK , EGGS)",
    "name": "Makhni Dal",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "4g",
+    "percent": 8.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "79.9mg",
-    "percent": 3.0
+    "amount": "319.4mg",
+    "percent": 14.0
    },
    "sugars": {
-    "amount": "0.2g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "2.4g",
-    "percent": 1.0
+    "amount": "9.6g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "2g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -81821,7 +81822,7 @@
   },
   {
    "allergens": [],
-   "calories": 48,
+   "calories": 193,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -81834,13 +81835,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "0.8g",
-    "percent": 2.0
+    "amount": "3.2g",
+    "percent": 6.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -81848,8 +81849,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "11.2g",
-    "percent": 4.0
+    "amount": "44.9g",
+    "percent": 16.0
    },
    "total_fat": {
     "amount": "0g"
@@ -98543,11 +98544,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 194,
-   "calories_from_fat": 48,
+   "calories": 291,
+   "calories_from_fat": 71,
    "cholesterol": {
-    "amount": "40.5mg",
-    "percent": 14.0
+    "amount": "60.8mg",
+    "percent": 20.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98557,28 +98558,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "17.2g",
-    "percent": 34.0
+    "amount": "25.8g",
+    "percent": 51.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "6 oz",
    "sodium": {
-    "amount": "293.6mg",
-    "percent": 13.0
+    "amount": "440.4mg",
+    "percent": 19.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "20.3g",
-    "percent": 7.0
+    "amount": "30.4g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "5.3g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130409,43 +130410,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 358,
-   "calories_from_fat": 168,
+   "calories": 716,
+   "calories_from_fat": 337,
    "cholesterol": {
-    "amount": "7.1mg",
-    "percent": 2.0
+    "amount": "14.3mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "3.9g",
-    "percent": 14.0
+    "amount": "7.8g",
+    "percent": 28.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "18.2g",
-    "percent": 36.0
+    "amount": "36.4g",
+    "percent": 71.0
    },
    "sat_fat": {
-    "amount": "4.9g",
-    "percent": 22.0
+    "amount": "9.9g",
+    "percent": 45.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "924.6mg",
-    "percent": 40.0
+    "amount": "1849.1mg",
+    "percent": 80.0
    },
    "sugars": {
-    "amount": "3.5g"
+    "amount": "7.1g"
    },
    "total_carb": {
-    "amount": "32.4g",
-    "percent": 12.0
+    "amount": "64.8g",
+    "percent": 24.0
    },
    "total_fat": {
-    "amount": "18.7g",
-    "percent": 24.0
+    "amount": "37.3g",
+    "percent": 48.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130459,43 +130460,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 628,
-   "calories_from_fat": 139,
+   "calories": 494,
+   "calories_from_fat": 131,
    "cholesterol": {
     "amount": "112.5mg",
     "percent": 38.0
    },
    "dietary_fiber": {
-    "amount": "1.2g",
-    "percent": 4.0
+    "amount": "0.8g",
+    "percent": 3.0
    },
    "id": 300960,
    "information": null,
    "ingredients": "Chicken Thigh Meat (Uncooked, Boneless, Skinless Diced Chicken Thigh Meat (Containing up to 15% of a Solution Of Water and Sea Salt.), Orange Chicken Sauce (Sugar, Water, High Fructose Corn Syrup, Soy Sauce (Water, Soybeans, Salt, Wheat Flour, Sodium Benzoate), Orange Juice Concentrate, Modified Food Starch, Contains Less Than 2% Of Citric Acid, Salt, Sodium Citrate, Onion Powder, Sesame Oil, Spices, Sesame Seeds, Garlic Powder, Chili Peppers, Xanthan Gum, Natural Orange Flavor, Caramel Color, Cochineal, Beta-carotene, Soybean Oil, Rice Bran Oil, Canola Oil, Natural Flavors (Milk), Sodium Benzoate Added As A Preservative.), Cornstarch (Corn Starch), Whole Hulled Sesame Seeds (Sesame Seeds), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Orange Chicken",
    "protein": {
-    "amount": "24.9g",
-    "percent": 49.0
+    "amount": "24.6g",
+    "percent": 48.0
    },
    "sat_fat": {
-    "amount": "4.2g",
-    "percent": 19.0
+    "amount": "4g",
+    "percent": 18.0
    },
    "serving_size": "5 oz",
    "sodium": {
-    "amount": "1039.5mg",
-    "percent": 45.0
+    "amount": "724.5mg",
+    "percent": 31.0
    },
    "sugars": {
-    "amount": "40.3g"
+    "amount": "26.9g"
    },
    "total_carb": {
-    "amount": "97.8g",
-    "percent": 36.0
+    "amount": "67g",
+    "percent": 24.0
    },
    "total_fat": {
-    "amount": "15.4g",
-    "percent": 20.0
+    "amount": "14.5g",
+    "percent": 19.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -133779,43 +133780,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 274,
-   "calories_from_fat": 136,
+   "calories": 137,
+   "calories_from_fat": 68,
    "cholesterol": {
-    "amount": "28.6mg",
-    "percent": 10.0
+    "amount": "14.3mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "0.9g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "id": 301089,
    "information": null,
    "ingredients": "Tempura Chicken (Chicken breast water, seasoning [salt, flavors, maltodextrin, sugar, vegetable stock (carrot, onion, celery), garlic powder], salt, sodium phosphates. BATTERED WITH: Water, yellow corn flour, bleached wheat flour, modified corn starch, salt, spices, leavening (sodium bicarbonate, sodium aluminum phosphate), dextrose, wheat starch, onion powder, extractives of turmeric, spice extractive. PREDUSTED WITH: Wheat flour, leavening (sodium acid pyrophosphate, sodium bicarbonate, monocalcium phosphate), salt, spices, calcium lactate, soybean oil (as a processing aid), calcium lactate. Vegetable oil), Sweet & Sour Sauce (Water, High Fructose Corn Syrup, Distilled White Vinegar, Sugar, Tomato Paste, modified Corn Starch, Pineapple Juice Concentrate, Salt, Fd&c Yellow 5, Fd&c red 40, Citric Acid, Fd&c Yellow 6, Xanthan Gum, Natural Flavor, Sodium benzoate Added As A Preservative.), Pineapple (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Onions (Onions), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Sweet and Sour Chicken",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "5.2g",
+    "percent": 10.0
    },
    "sat_fat": {
-    "amount": "2.7g",
-    "percent": 12.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "511.8mg",
-    "percent": 22.0
+    "amount": "255.9mg",
+    "percent": 11.0
    },
    "sugars": {
-    "amount": "12g"
+    "amount": "6g"
    },
    "total_carb": {
-    "amount": "12.8g",
-    "percent": 5.0
+    "amount": "6.4g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "15.1g",
-    "percent": 19.0
+    "amount": "7.5g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134258,8 +134259,7 @@
    "calories": 801,
    "calories_from_fat": 311,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "16.9g",
@@ -174678,42 +174678,40 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 73,
-   "calories_from_fat": 24,
+   "calories": 18,
+   "calories_from_fat": 6,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.3g",
-    "percent": 5.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "4.7g",
-    "percent": 9.0
+    "amount": "1.2g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "43.4mg",
-    "percent": 2.0
+    "amount": "10.8mg"
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "6.7g",
-    "percent": 2.0
+    "amount": "1.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.7g",
-    "percent": 3.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -188002,6 +188000,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "5d828cef2694b79adb94acc4f3d550e48e91e64bd32e55556d7f969766963b2a",
+ "sha256": "05c7919a1c8613d15134896208a4114fe7bbf61fc10160b321a7a23b53619435",
  "table": "recipes"
 }

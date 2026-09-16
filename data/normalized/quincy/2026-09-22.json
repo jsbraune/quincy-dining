@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "fetchedAt": "2026-09-12T12:36:37+00:00",
- "itemCount": 346,
+ "fetchedAt": "2026-09-16T22:41:32+00:00",
+ "itemCount": 355,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -123,6 +123,71 @@
        "name": "Steel Cut Oatmeal",
        "portion": "6 fl. oz",
        "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 78,
+       "name": "Cage Free Hard Boiled Eggs",
+       "portion": "1 each",
+       "recipeId": 161049,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 255,
+       "name": "French Toast",
+       "portion": "1 each",
+       "recipeId": 36405,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 135,
+       "name": "Plant Protein Breakfast Sausage",
+       "portion": "2 oz",
+       "recipeId": 300606,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 180,
+       "name": "Scrambled Cage Free Eggs",
+       "portion": "4 oz",
+       "recipeId": 61203,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Tofu Scramble",
+       "portion": "4 oz",
+       "recipeId": 142100,
        "tags": [
         "vegan",
         "vegetarian"
@@ -305,6 +370,19 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Build Your Own"
@@ -327,9 +405,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -385,9 +463,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 83,
+       "calories": 63,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -408,9 +486,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -1174,6 +1252,37 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 1,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 320,
+       "name": "Pork Sausage Patty",
+       "portion": "2 patties",
+       "recipeId": 89003,
+       "tags": []
+      }
+     ],
+     "name": "Breakfast Meats"
+    },
+    {
+     "categoryId": 14,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 113,
+       "name": "Home Fried Potatoes",
+       "portion": "4 oz",
+       "recipeId": 161003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Starch And Potatoes"
     }
    ]
   },
@@ -3094,9 +3203,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 358,
+       "calories": 716,
        "name": "Shaking Beef and Protein Plus Pasta with Garlic",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300957,
        "tags": []
       }
@@ -3128,9 +3237,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 48,
+       "calories": 193,
        "name": "Jasmine Rice",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 255669,
        "tags": [
         "vegan",
@@ -3532,9 +3641,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -3567,9 +3676,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 83,
+       "calories": 63,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -3614,9 +3723,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -4327,6 +4436,19 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 4,
+     "items": [
+      {
+       "allergens": [],
+       "name": "Quincy House Closed for Special Event",
+       "portion": "1 each",
+       "recipeId": 999997,
+       "tags": []
+      }
+     ],
+     "name": "MISC"
     }
    ]
   }
