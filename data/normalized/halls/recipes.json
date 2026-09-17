@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T22:43:21+00:00",
+ "generatedAt": "2026-09-17T14:06:26+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2038,18 +2038,18 @@
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 45,
-    "cholesterol_mg": 5.0,
+    "calories": 60,
+    "cholesterol_mg": 6.7,
     "dietary_fiber_g": 0.0,
-    "protein_g": 8.0,
+    "protein_g": 10.7,
     "sat_fat_g": 0.0,
-    "sodium_mg": 30.0,
-    "sugars_g": 2.0,
-    "total_carb_g": 3.0,
+    "sodium_mg": 40.0,
+    "sugars_g": 2.7,
+    "total_carb_g": 4.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -2110,18 +2110,18 @@
    "name": "Low Fat Chobani Plain Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 63,
-    "cholesterol_mg": 10.4,
+    "calories": 83,
+    "cholesterol_mg": 13.9,
     "dietary_fiber_g": 0.0,
-    "protein_g": 7.8,
-    "sat_fat_g": 1.3,
-    "sodium_mg": 31.3,
-    "sugars_g": 3.1,
-    "total_carb_g": 3.7,
-    "total_fat_g": 1.8,
+    "protein_g": 10.4,
+    "sat_fat_g": 1.7,
+    "sodium_mg": 41.7,
+    "sugars_g": 4.2,
+    "total_carb_g": 4.9,
+    "total_fat_g": 2.4,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -9264,18 +9264,18 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Quinoa (Quinoa)), White Hominy (White Corn, Water, Salt, and Sodium Bisulfite Added to Promote Color Retention.), Red Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Red Quinoa (Red Quinoa)), Roasted Corn and Black Beans (Sweet Corn, Cooked Black Beans, Tomato, Onion, Green Bell Pepper, Red Bell Pepper, Contains Less than 2% of Brown Sugar, Citric Acid, Dehydrated Vegetables (Onion, Bell Pepper, Garlic), Lime Juice Powder (Lime Juice Concentrate, Modified Food Starch, Maltodextrin, Citric Acid), Natural Flavors (Including Grill and Smoke), Olive Oil, Salt, Spices, Sugar, Yeast Extract.), Suntan Peppers (Bell Peppers), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Smoked Paprika (PAPRIKA, AND SILICON DIOXIDE (ADDED TO MAKE FREE FLOWING)..), Ground Cumin (Ground Cumin), Cilantro (Cilantro), Ground Black Pepper, Kosher Salt",
+   "ingredients": "Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Quinoa (Quinoa)), White Hominy (White Corn, Water, Salt, and Sodium Bisulfite Added to Promote Color Retention.), Red Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Red Quinoa (Red Quinoa)), Roasted Corn and Black Beans (Sweet Corn, Cooked Black Beans, Tomato, Onion, Green Bell Pepper, Red Bell Pepper, Contains Less than 2% of Brown Sugar, Citric Acid, Dehydrated Vegetables (Onion, Bell Pepper, Garlic), Lime Juice Powder (Lime Juice Concentrate, Modified Food Starch, Maltodextrin, Citric Acid), Natural Flavors (Including Grill and Smoke), Olive Oil, Salt, Spices, Sugar, Yeast Extract.), Onions (Onions), Suntan Peppers (Bell Peppers), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Smoked Paprika (PAPRIKA, AND SILICON DIOXIDE (ADDED TO MAKE FREE FLOWING)..), Ground Cumin (Ground Cumin), Cilantro (Cilantro), Ground Black Pepper, Kosher Salt",
    "name": "Smokey Hominy, Black Beans and Quinoa",
    "note": null,
    "nutrition": {
-    "calories": 394,
+    "calories": 399,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 13.0,
-    "protein_g": 10.8,
+    "dietary_fiber_g": 13.3,
+    "protein_g": 11.0,
     "sat_fat_g": 0.5,
-    "sodium_mg": 887.7,
-    "sugars_g": 3.4,
-    "total_carb_g": 57.9,
+    "sodium_mg": 888.2,
+    "sugars_g": 3.9,
+    "total_carb_g": 59.1,
     "total_fat_g": 12.6,
     "trans_fat_g": 0.0
    },
@@ -9825,18 +9825,18 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Beef Stir Fry Strips , Water, Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Water, Sauteed Onions (Sliced White Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Lime Juice (Lime Juice), Garlic (Garlic), Limes (Limes), Cornstarch (Corn Starch)",
+   "ingredients": "Beef Stir Fry Strips , Water, Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Water, Sauteed Onions (Sliced White Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Lime Juice (Lime Juice), Garlic (Garlic), Limes (Limes), Cornstarch (Corn Starch), Ground Black Pepper",
    "name": "Bistek Tagalog",
    "note": null,
    "nutrition": {
-    "calories": 593,
+    "calories": 594,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.1,
+    "dietary_fiber_g": 1.2,
     "protein_g": 37.4,
     "sat_fat_g": 14.5,
     "sodium_mg": 2413.2,
     "sugars_g": 2.5,
-    "total_carb_g": 15.7,
+    "total_carb_g": 15.9,
     "total_fat_g": 42.7,
     "trans_fat_g": 0.0
    },
@@ -12548,6 +12548,33 @@
    "vegan": true,
    "vegetarian": true
   },
+  "504066": {
+   "allergens": [
+    "Eggs",
+    "Fish",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Wild Flounder, 6\" Flour Tortilla (Enriched Bleached Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Shortening (Interesterified And Hydrogenated Soybean Oils), Contains 2% Or Less Of: Salt, Baking Soda, Sodium Acid Pyrophosphate, Distilled Monoglycerides, Enzymes, Cellulose Gum, Fumaric Acid, And Calcium Propionate And Sorbic Acid (To Maintain Freshness)), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers), Clam Fry Mix (Yellow Corn Flour, Wheat Flour (Wheat Flour, Malted Barley Flour), Corn Starch, Whey (Milk), Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Nonfat Dry Milk, Guar Gum, Dried Egg Whites.PRODUCT PRODUCED IN A FACILITY THAT CONTAINS WHEAT, DAIRY, EGGS, SOYBEAN), Lemons (LEMONS)",
+   "name": "Crispy Flounder with Pico De Gallo Taco",
+   "note": "Daikon, literally translated \"large root\", is a white radish from east Asia has a sweet, fresh flavor.",
+   "nutrition": {
+    "calories": 500,
+    "cholesterol_mg": 51.0,
+    "dietary_fiber_g": 1.5,
+    "protein_g": 19.5,
+    "sat_fat_g": 3.4,
+    "sodium_mg": 526.0,
+    "sugars_g": 0.0,
+    "total_carb_g": 38.3,
+    "total_fat_g": 31.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "504073": {
    "allergens": [],
    "ingredients": "Fresh Fruit Salad (Pineapple, Honeydew, Cantaloupe, and Red Grapes.)",
@@ -13226,18 +13253,18 @@
    "name": "Plain Soy Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 18,
+    "calories": 73,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.3,
-    "protein_g": 1.2,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 10.8,
-    "sugars_g": 0.8,
-    "total_carb_g": 1.7,
-    "total_fat_g": 0.7,
+    "dietary_fiber_g": 1.3,
+    "protein_g": 4.7,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 43.4,
+    "sugars_g": 3.3,
+    "total_carb_g": 6.7,
+    "total_fat_g": 2.7,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
