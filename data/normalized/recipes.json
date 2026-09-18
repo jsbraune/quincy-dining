@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17T22:42:35+00:00",
+ "generatedAt": "2026-09-18T13:22:17+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -1736,18 +1736,18 @@
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 60,
-    "cholesterol_mg": 6.7,
+    "calories": 45,
+    "cholesterol_mg": 5.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 10.7,
+    "protein_g": 8.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 40.0,
-    "sugars_g": 2.7,
-    "total_carb_g": 4.0,
+    "sodium_mg": 30.0,
+    "sugars_g": 2.0,
+    "total_carb_g": 3.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "3 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -1808,18 +1808,18 @@
    "name": "Low Fat Chobani Plain Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 83,
-    "cholesterol_mg": 13.9,
+    "calories": 63,
+    "cholesterol_mg": 10.4,
     "dietary_fiber_g": 0.0,
-    "protein_g": 10.4,
-    "sat_fat_g": 1.7,
-    "sodium_mg": 41.7,
-    "sugars_g": 4.2,
-    "total_carb_g": 4.9,
-    "total_fat_g": 2.4,
+    "protein_g": 7.8,
+    "sat_fat_g": 1.3,
+    "sodium_mg": 31.3,
+    "sugars_g": 3.1,
+    "total_carb_g": 3.7,
+    "total_fat_g": 1.8,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "3 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -8247,7 +8247,7 @@
     "Wheat"
    ],
    "ingredients": "Local Backyard Beauty Tomatoes, White Panini Flat Bread (Enriched Flour, (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Canola Oil, Contains 2% or less of each of the following, Salt, Yeast, Dextrose, Sodium Bicarbonate, Fumaric Acid Sodium Aluminum, Phosphate, Preservatives (Calcium Propionate, Potassium Sorbate), Sodium Acid Pyrophosphate, Monoglycerides, Sodium Aluminum, Sulfate, Sodium Carboxymethylcellulose, Soybean Oil, Enzymes, L-Cysteine Hydrochloride. .), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Vegan Cheddar Shredded Cheese (Cheddar-style Cheese (filtered Water, Modified Potato Starch, Palm Oil, Sunflower Oil, Sea Salt, Cellulose Gum, Tapioca Starch, Yeast Extract, Cellulose Gel, Konjac Powder [thickener], Cultured Dextrose, Citric Acid, Locust Bean Gum, Natural Flavors, Annatto [color], Paprika Extract [color], Probiotic Cultures [bacillus Subtilis]), Powdered Cellulose (to Prevent Caking)), Italian Dressing (Water, Vinegar, Liquid Sugar (Sugar, Water), Soybean Oil, Salt, Garlic, Onion, Xantham Gum, Beta Carotene, Spices, Tamarind Gum, Citric Acid, Potassium sorbate (preservative)), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
-   "name": "Cheese and Tomato Panini",
+   "name": "Vegan Cheese and Tomato Panini",
    "note": null,
    "nutrition": {
     "calories": 426,
@@ -8822,15 +8822,15 @@
    "name": "Plant Sausage, Corn and Black Bean Quesadilla",
    "note": null,
    "nutrition": {
-    "calories": 583,
+    "calories": 569,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 5.4,
     "protein_g": 13.2,
-    "sat_fat_g": 5.3,
-    "sodium_mg": 1147.6,
+    "sat_fat_g": 5.0,
+    "sodium_mg": 1129.0,
     "sugars_g": 3.6,
     "total_carb_g": 41.1,
-    "total_fat_g": 42.8,
+    "total_fat_g": 41.2,
     "trans_fat_g": 0.0
    },
    "portion": "1 quesadilla",
@@ -12262,13 +12262,13 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Shrimp, Diced Tomato (Fresh Diced Tomatoes), Suntan Peppers (Bell Peppers), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Greek Leaf Oregano (Dried Oregano), Kosher Salt",
+   "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Shrimp, Diced Tomato (Fresh Diced Tomatoes), Suntan Peppers (Bell Peppers), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Greek Leaf Oregano (Dried Oregano), Kosher Salt, Ground Black Pepper",
    "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Tomato",
    "note": null,
    "nutrition": {
     "calories": 306,
     "cholesterol_mg": 81.1,
-    "dietary_fiber_g": 1.6,
+    "dietary_fiber_g": 1.7,
     "protein_g": 16.5,
     "sat_fat_g": 6.4,
     "sodium_mg": 822.6,
@@ -12874,6 +12874,32 @@
    "vegan": false,
    "vegetarian": true
   },
+  "599010": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Mexican Churros (Wheat Starch, Vegetable Oil (contains one of more of the following: Canola Oil, Cottonseed Oil, Palm Oil, Soybean Oil), Yellow Corn Flour, Water, Sodium Caseinate, Eggs, Egg White, Egg Yolk, Cinnamon, Salt, Leavening (sodium acid pyrophosphate, Baking Soda), Guar Gum, Propylene Glycol Mono- and Diesters of Fatty Acids, Sugar, Mono- and Diglycerides, Soy Lecithin, BHT, (preservative), Artificial Flavor.), Powdered Sugar (Sugar, Corn Starch.)",
+   "name": "Churros",
+   "note": null,
+   "nutrition": {
+    "calories": 223,
+    "cholesterol_mg": 21.8,
+    "dietary_fiber_g": 4.4,
+    "protein_g": 3.3,
+    "sat_fat_g": 2.7,
+    "sodium_mg": 185.5,
+    "sugars_g": 12.0,
+    "total_carb_g": 32.8,
+    "total_fat_g": 9.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": true
+  },
   "599020": {
    "allergens": [
     "Eggs",
@@ -13230,18 +13256,18 @@
    "name": "Plain Soy Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 73,
+    "calories": 18,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.3,
-    "protein_g": 4.7,
-    "sat_fat_g": 0.3,
-    "sodium_mg": 43.4,
-    "sugars_g": 3.3,
-    "total_carb_g": 6.7,
-    "total_fat_g": 2.7,
+    "dietary_fiber_g": 0.3,
+    "protein_g": 1.2,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 10.8,
+    "sugars_g": 0.8,
+    "total_carb_g": 1.7,
+    "total_fat_g": 0.7,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -13593,13 +13619,13 @@
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 0.0,
+    "sodium_mg": 0.1,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1/2 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
