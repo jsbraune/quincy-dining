@@ -1,7 +1,7 @@
 {
  "date": "2026-09-24",
- "fetchedAt": "2026-09-18T13:22:09+00:00",
- "itemCount": 358,
+ "fetchedAt": "2026-09-19T12:51:30+00:00",
+ "itemCount": 364,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -402,9 +402,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -460,9 +460,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -483,9 +483,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -3296,6 +3296,78 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 71,
+       "name": "Caramel Dessert Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 181037,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 108,
+       "name": "Cinnamon Sugar",
+       "portion": "1 oz",
+       "recipeId": 300282,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 113,
+       "name": "Confectionary Sugar",
+       "portion": "1 oz",
+       "recipeId": 190102,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 352,
+       "name": "Hood Vanilla Ice Cream",
+       "portion": "6 fl. oz",
+       "recipeId": 184124,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Tree Nuts"
+       ],
+       "calories": 100,
+       "name": "Hot Fudge",
+       "portion": "1 oz",
+       "recipeId": 188103,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 49,
+       "name": "Whipped Topping",
+       "portion": "1 fl. oz",
+       "recipeId": 199101,
+       "tags": [
+        "vegetarian"
+       ]
       }
      ],
      "name": "Desserts"
@@ -3593,9 +3665,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -3628,9 +3700,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -3675,9 +3747,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",

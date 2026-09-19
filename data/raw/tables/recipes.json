@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-18T13:22:09+00:00",
+ "fetchedAt": "2026-09-19T12:51:30+00:00",
  "rows": [
   {
    "allergens": [
@@ -19664,8 +19664,7 @@
     "percent": 35.0
    },
    "dietary_fiber": {
-    "amount": "0g",
-    "percent": 0.0
+    "amount": "0g"
    },
    "id": 77086,
    "information": null,
@@ -19688,8 +19687,7 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "0g",
-    "percent": 0.0
+    "amount": "0g"
    },
    "total_fat": {
     "amount": "4.6g",
@@ -38032,10 +38030,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 45,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "5mg",
+    "amount": "6.7mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38046,22 +38044,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "8g",
-    "percent": 16.0
+    "amount": "10.7g",
+    "percent": 21.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "3 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "30mg",
-    "percent": 1.0
+    "amount": "40mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "2g"
+    "amount": "2.7g"
    },
    "total_carb": {
-    "amount": "3g",
+    "amount": "4g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38549,11 +38547,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 63,
-   "calories_from_fat": 16,
+   "calories": 83,
+   "calories_from_fat": 22,
    "cholesterol": {
-    "amount": "10.4mg",
-    "percent": 3.0
+    "amount": "13.9mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38563,28 +38561,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "7.8g",
-    "percent": 15.0
+    "amount": "10.4g",
+    "percent": 20.0
    },
    "sat_fat": {
-    "amount": "1.3g",
-    "percent": 6.0
+    "amount": "1.7g",
+    "percent": 8.0
    },
-   "serving_size": "3 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "31.3mg",
-    "percent": 1.0
+    "amount": "41.7mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "3.1g"
+    "amount": "4.2g"
    },
    "total_carb": {
-    "amount": "3.7g",
-    "percent": 1.0
+    "amount": "4.9g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "1.8g",
-    "percent": 2.0
+    "amount": "2.4g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -41765,6 +41763,55 @@
    "total_fat": {
     "amount": "4g",
     "percent": 5.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 180,
+   "calories_from_fat": 21,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "2.9g",
+    "percent": 10.0
+   },
+   "id": 145095,
+   "information": null,
+   "ingredients": "Sweet & Sour Veggies (Suntan Peppers (Bell Peppers), Carrots (Carrots)), Pineapple Sweet & Sour Sauce (Pineapple Tidbits (Pineapple, Pineapple Juice), Ketchup (Tomato Concentrate From Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Onion Powder, Natural Flavoring.), Onions (Onions), Light Brown Sugar (Brown Sugar), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cornstarch (Corn Starch), Kosher Salt, Ground Black Pepper), Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.)",
+   "name": "Sweet & Sour Vegetable with Seitan",
+   "protein": {
+    "amount": "22.9g",
+    "percent": 45.0
+   },
+   "sat_fat": {
+    "amount": "0.1g",
+    "percent": 0.0
+   },
+   "serving_size": "6 oz",
+   "sodium": {
+    "amount": "812.6mg",
+    "percent": 35.0
+   },
+   "sugars": {
+    "amount": "7.8g"
+   },
+   "total_carb": {
+    "amount": "19g",
+    "percent": 7.0
+   },
+   "total_fat": {
+    "amount": "2.3g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -52839,6 +52886,55 @@
    "total_fat": {
     "amount": "4.5g",
     "percent": 6.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 85,
+   "calories_from_fat": 4,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "2.8g",
+    "percent": 10.0
+   },
+   "id": 164045,
+   "information": null,
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Soft White Wheat berries",
+   "name": "Wheat Berries",
+   "protein": {
+    "amount": "3.6g",
+    "percent": 7.0
+   },
+   "sat_fat": {
+    "amount": "0.1g",
+    "percent": 1.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "308.5mg",
+    "percent": 13.0
+   },
+   "sugars": {
+    "amount": "0.4g"
+   },
+   "total_carb": {
+    "amount": "16.1g",
+    "percent": 6.0
+   },
+   "total_fat": {
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -97400,18 +97496,18 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 324,
-   "calories_from_fat": 129,
+   "calories": 327,
+   "calories_from_fat": 132,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "7g",
-    "percent": 28.0
+    "percent": 25.0
    },
    "id": 300040,
    "information": null,
-   "ingredients": "Soy Beans Edamame (Soybeans), Green Kale (Kale), Corn (Corn), Garlic (Garlic), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Cilantro (Cilantro), Kosher Salt (Salt), Ground Black Pepper (Black Pepper)",
+   "ingredients": "Soy Beans Edamame (Soybeans), Green Kale (Kale), Corn (Corn), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Cilantro (Cilantro), Kosher Salt, Ground Black Pepper",
    "name": "Corn Edamame with Kale",
    "protein": {
     "amount": "24.3g",
@@ -97424,17 +97520,17 @@
    "serving_size": "4 oz",
    "sodium": {
     "amount": "97.8mg",
-    "percent": 5.0
+    "percent": 4.0
    },
    "sugars": {
     "amount": "4.9g"
    },
    "total_carb": {
     "amount": "26.5g",
-    "percent": 9.0
+    "percent": 10.0
    },
    "total_fat": {
-    "amount": "14.3g",
+    "amount": "14.7g",
     "percent": 19.0
    },
    "trans_fat": {
@@ -98584,11 +98680,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 291,
-   "calories_from_fat": 71,
+   "calories": 194,
+   "calories_from_fat": 48,
    "cholesterol": {
-    "amount": "60.8mg",
-    "percent": 20.0
+    "amount": "40.5mg",
+    "percent": 14.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98598,28 +98694,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "25.8g",
-    "percent": 51.0
+    "amount": "17.2g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "1g",
+    "percent": 5.0
    },
-   "serving_size": "6 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "440.4mg",
-    "percent": 19.0
+    "amount": "293.6mg",
+    "percent": 13.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.4g",
-    "percent": 11.0
+    "amount": "20.3g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "7.9g",
-    "percent": 10.0
+    "amount": "5.3g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -121128,8 +121224,8 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 252,
-   "calories_from_fat": 117,
+   "calories": 275,
+   "calories_from_fat": 143,
    "cholesterol": {
     "amount": "64.9mg",
     "percent": 22.0
@@ -121140,31 +121236,31 @@
    },
    "id": 300678,
    "information": null,
-   "ingredients": "Chicken Thigh Meat (Uncooked, Boneless, Skinless Diced Chicken Thigh Meat (Containing up to 15% of a Solution Of Water and Sea Salt.), General Gao's Sauce (Water, Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of Potassium Chloride , Lactic Acid , Potassium Sorbate Added As A Preservative. Contains: Soybeans), Sherry (Sherry Wine, Salt, Malic Acid, Caramel Color, Potassium Metabisulfite (Preservative), Potassium Sorbate (Preservative). Contains Sulfites.), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Pure Toasted Sesame Oil (Sesame oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Kosher Salt (Salt), Orange Peel, Thai Bird Chili Pepper, Whole Black Pepper (Black Peppercorns), Ground Black Pepper (BLACK PEPPER)), Broccoli Florets (Broccoli), Cornstarch (Corn Starch), Canola Oil (Canola Oil, Food Grade Antioxidant [Propylene Gylcol, Tertiary Butyl Hydroquinone, and Citric Acid], Food Grade Antifoaming Agent [Dimethylpolysiloxane].), Scallions (Fresh Scallions)",
+   "ingredients": "Chicken Thigh Meat (Uncooked, Boneless, Skinless Diced Chicken Thigh Meat (Containing up to 15% of a Solution Of Water and Sea Salt.), General Gao's Sauce (Water, Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Sherry (Sherry Wine, Salt, Malic Acid, Caramel Color, Potassium Metabisulfite (Preservative), Potassium Sorbate (Preservative). Contains Sulfites.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Pure Toasted Sesame Oil (Sesame oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Kosher Salt, Orange Peel, Thai Bird Chili Pepper, Black Peppercorn (Black Peppercorns), Ground Black Pepper), Broccoli Florets (Broccoli), Cornstarch (Corn Starch), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Scallions (Fresh Scallions)",
    "name": "General Gao's Chicken",
    "protein": {
     "amount": "15.2g",
     "percent": 30.0
    },
    "sat_fat": {
-    "amount": "2.7g",
-    "percent": 12.0
+    "amount": "3g",
+    "percent": 13.0
    },
    "serving_size": "6 oz",
    "sodium": {
-    "amount": "225.1mg",
-    "percent": 10.0
+    "amount": "210.7mg",
+    "percent": 9.0
    },
    "sugars": {
     "amount": "6.8g"
    },
    "total_carb": {
-    "amount": "20.4g",
+    "amount": "20.3g",
     "percent": 7.0
    },
    "total_fat": {
-    "amount": "13g",
-    "percent": 17.0
+    "amount": "15.8g",
+    "percent": 20.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -126282,8 +126378,8 @@
   },
   {
    "allergens": [],
-   "calories": 47,
-   "calories_from_fat": 49,
+   "calories": 70,
+   "calories_from_fat": 74,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -126298,12 +126394,13 @@
     "amount": "0g"
    },
    "sat_fat": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.6g",
+    "percent": 3.0
    },
-   "serving_size": "2 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "11.3mg"
+    "amount": "17mg",
+    "percent": 1.0
    },
    "sugars": {
     "amount": "0g"
@@ -126312,8 +126409,8 @@
     "amount": "0g"
    },
    "total_fat": {
-    "amount": "5.5g",
-    "percent": 7.0
+    "amount": "8.2g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -153330,22 +153427,22 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 306,
+   "calories": 304,
    "calories_from_fat": 140,
    "cholesterol": {
     "amount": "81.1mg",
     "percent": 27.0
    },
    "dietary_fiber": {
-    "amount": "1.7g",
-    "percent": 6.0
+    "amount": "1.4g",
+    "percent": 5.0
    },
    "id": 503334,
    "information": null,
-   "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Shrimp, Diced Tomato (Fresh Diced Tomatoes), Suntan Peppers (Bell Peppers), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Greek Leaf Oregano (Dried Oregano), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Shrimp, Suntan Peppers (Bell Peppers), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Scallions (Fresh Scallions), Greek Leaf Oregano (Dried Oregano), Kosher Salt, Ground Black Pepper",
    "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Tomato",
    "protein": {
-    "amount": "16.5g",
+    "amount": "16.3g",
     "percent": 32.0
    },
    "sat_fat": {
@@ -153354,14 +153451,14 @@
    },
    "serving_size": "1 each",
    "sodium": {
-    "amount": "822.6mg",
+    "amount": "821.2mg",
     "percent": 36.0
    },
    "sugars": {
-    "amount": "1.9g"
+    "amount": "1.6g"
    },
    "total_carb": {
-    "amount": "24.2g",
+    "amount": "23.8g",
     "percent": 9.0
    },
    "total_fat": {
@@ -175264,40 +175361,42 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 18,
-   "calories_from_fat": 6,
+   "calories": 73,
+   "calories_from_fat": 24,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "1.3g",
+    "percent": 5.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "1.2g",
-    "percent": 2.0
+    "amount": "4.7g",
+    "percent": 9.0
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0.3g",
+    "percent": 2.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "10.8mg"
+    "amount": "43.4mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "3.3g"
    },
    "total_carb": {
-    "amount": "1.7g",
-    "percent": 1.0
+    "amount": "6.7g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "0.7g",
-    "percent": 1.0
+    "amount": "2.7g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -188586,6 +188685,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "c3c5a81c189f155c2231791652862befef8050f5279d53c81654f269ce253889",
+ "sha256": "823c5566b5793063fda40367573fbfa3e410af41d3f5f145a53ed17a1164f7e7",
  "table": "recipes"
 }

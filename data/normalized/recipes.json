@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18T22:22:18+00:00",
+ "generatedAt": "2026-09-19T12:51:35+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -1736,18 +1736,18 @@
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 45,
-    "cholesterol_mg": 5.0,
+    "calories": 60,
+    "cholesterol_mg": 6.7,
     "dietary_fiber_g": 0.0,
-    "protein_g": 8.0,
+    "protein_g": 10.7,
     "sat_fat_g": 0.0,
-    "sodium_mg": 30.0,
-    "sugars_g": 2.0,
-    "total_carb_g": 3.0,
+    "sodium_mg": 40.0,
+    "sugars_g": 2.7,
+    "total_carb_g": 4.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -1808,18 +1808,18 @@
    "name": "Low Fat Chobani Plain Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 63,
-    "cholesterol_mg": 10.4,
+    "calories": 83,
+    "cholesterol_mg": 13.9,
     "dietary_fiber_g": 0.0,
-    "protein_g": 7.8,
-    "sat_fat_g": 1.3,
-    "sodium_mg": 31.3,
-    "sugars_g": 3.1,
-    "total_carb_g": 3.7,
-    "total_fat_g": 1.8,
+    "protein_g": 10.4,
+    "sat_fat_g": 1.7,
+    "sodium_mg": 41.7,
+    "sugars_g": 4.2,
+    "total_carb_g": 4.9,
+    "total_fat_g": 2.4,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -4551,6 +4551,30 @@
    "vegan": true,
    "vegetarian": true
   },
+  "188103": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Tree Nuts"
+   ],
+   "ingredients": "Hot Fudge Topping (Corn Syrup, Nonfat Milk, Sugar, Hydrogenated Coconut Oil, Cocoa (Processed With Alkali), less than 2% of: Modified Corn Starch, Water, Salt, Potassium Sorbate (Preservative), Sodium Bicarbonate, Soy Lecithin, Artificial Flavor.)",
+   "name": "Hot Fudge",
+   "note": null,
+   "nutrition": {
+    "calories": 100,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.0,
+    "sat_fat_g": 3.1,
+    "sodium_mg": 42.1,
+    "sugars_g": 12.3,
+    "total_carb_g": 16.9,
+    "total_fat_g": 3.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "188117": {
    "allergens": [
     "Soybeans"
@@ -4620,6 +4644,26 @@
    },
    "portion": "2 oz",
    "vegan": false,
+   "vegetarian": true
+  },
+  "190102": {
+   "allergens": [],
+   "ingredients": "Powdered Sugar (Sugar, Corn Starch.)",
+   "name": "Confectionary Sugar",
+   "note": null,
+   "nutrition": {
+    "calories": 113,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "sugars_g": 27.4,
+    "total_carb_g": 28.4,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": true,
    "vegetarian": true
   },
   "191001": {
@@ -6928,6 +6972,27 @@
    "vegan": false,
    "vegetarian": true
   },
+  "300282": {
+   "allergens": [],
+   "ingredients": "Sugar (Sugar), Ground Cinnamon (Ground Cinnamon Bark)",
+   "name": "Cinnamon Sugar",
+   "note": null,
+   "nutrition": {
+    "calories": 108,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.4,
+    "protein_g": 0.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 0.1,
+    "sugars_g": 28.4,
+    "total_carb_g": 29.0,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300286": {
    "allergens": [
     "Crustacean Shellfish",
@@ -9096,18 +9161,18 @@
    "name": "Stir Fry Vegetables",
    "note": null,
    "nutrition": {
-    "calories": 47,
+    "calories": 70,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
-    "sat_fat_g": 0.4,
-    "sodium_mg": 11.3,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 17.0,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
-    "total_fat_g": 5.5,
+    "total_fat_g": 8.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -12262,18 +12327,18 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Shrimp, Diced Tomato (Fresh Diced Tomatoes), Suntan Peppers (Bell Peppers), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Greek Leaf Oregano (Dried Oregano), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Shrimp, Suntan Peppers (Bell Peppers), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Scallions (Fresh Scallions), Greek Leaf Oregano (Dried Oregano), Kosher Salt, Ground Black Pepper",
    "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Tomato",
    "note": null,
    "nutrition": {
-    "calories": 306,
+    "calories": 304,
     "cholesterol_mg": 81.1,
-    "dietary_fiber_g": 1.7,
-    "protein_g": 16.5,
+    "dietary_fiber_g": 1.4,
+    "protein_g": 16.3,
     "sat_fat_g": 6.4,
-    "sodium_mg": 822.6,
-    "sugars_g": 1.9,
-    "total_carb_g": 24.2,
+    "sodium_mg": 821.2,
+    "sugars_g": 1.6,
+    "total_carb_g": 23.8,
     "total_fat_g": 15.5,
     "trans_fat_g": 0.0
    },
@@ -13256,18 +13321,18 @@
    "name": "Plain Soy Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 18,
+    "calories": 73,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.3,
-    "protein_g": 1.2,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 10.8,
-    "sugars_g": 0.8,
-    "total_carb_g": 1.7,
-    "total_fat_g": 0.7,
+    "dietary_fiber_g": 1.3,
+    "protein_g": 4.7,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 43.4,
+    "sugars_g": 3.3,
+    "total_carb_g": 6.7,
+    "total_fat_g": 2.7,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
