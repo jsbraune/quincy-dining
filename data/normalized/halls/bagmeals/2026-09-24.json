@@ -1,9 +1,9 @@
 {
  "date": "2026-09-24",
- "fetchedAt": "2026-09-18T13:22:17+00:00",
+ "fetchedAt": "2026-09-20T22:14:41+00:00",
  "hall": "bagmeals",
  "hallName": "Bag Meals",
- "itemCount": 165,
+ "itemCount": 174,
  "locationNum": "07",
  "meals": [
   {
@@ -1433,6 +1433,11 @@
     {
      "items": [
       {
+       "allergens": [],
+       "name": "Dunster House Closed for Special Event",
+       "tags": []
+      },
+      {
        "allergens": [
         "Milk",
         "Wheat"
@@ -1557,6 +1562,80 @@
       },
       {
        "allergens": [
+        "Milk"
+       ],
+       "calories": 71,
+       "name": "Caramel Dessert Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 181037,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 223,
+       "name": "Churros",
+       "portion": "1 each",
+       "recipeId": 599010,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 108,
+       "name": "Cinnamon Sugar",
+       "portion": "1 oz",
+       "recipeId": 300282,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 113,
+       "name": "Confectionary Sugar",
+       "portion": "1 oz",
+       "recipeId": 190002,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "name": "Hood Vanilla Ice Cream",
+       "portion": "6 fl. oz",
+       "recipeId": 184024,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Tree Nuts"
+       ],
+       "calories": 100,
+       "name": "Hot Fudge",
+       "portion": "1 oz",
+       "recipeId": 188003,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
         "Tree Nuts"
        ],
        "calories": 110,
@@ -1578,6 +1657,35 @@
        "recipeId": 300860,
        "tags": [
         "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Peanuts",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 350,
+       "name": "Tres Leche Cake",
+       "portion": "1 piece",
+       "recipeId": 599022,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 49,
+       "name": "Whipped Topping",
+       "portion": "1 fl. oz",
+       "recipeId": 199001,
+       "tags": [
         "vegetarian"
        ]
       }

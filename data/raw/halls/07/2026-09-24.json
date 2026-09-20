@@ -1,7 +1,7 @@
 {
  "date": "2026-09-24",
- "fetchedAt": "2026-09-18T13:22:17+00:00",
- "itemCount": 165,
+ "fetchedAt": "2026-09-20T22:14:41+00:00",
+ "itemCount": 174,
  "locationNum": "07",
  "meals": [
   {
@@ -470,6 +470,9 @@
     {
      "items": [
       {
+       "name": "Dunster House Closed for Special Event"
+      },
+      {
        "name": "Fried Buttermilk Chicken"
       },
       {
@@ -527,10 +530,34 @@
        "name": "Banana Pudding"
       },
       {
+       "name": "Caramel Dessert Sauce"
+      },
+      {
+       "name": "Churros"
+      },
+      {
+       "name": "Cinnamon Sugar"
+      },
+      {
+       "name": "Confectionary Sugar"
+      },
+      {
+       "name": "Hood Vanilla Ice Cream"
+      },
+      {
+       "name": "Hot Fudge"
+      },
+      {
        "name": "Orange Soft serve"
       },
       {
        "name": "Raspberry Soft serve"
+      },
+      {
+       "name": "Tres Leche Cake"
+      },
+      {
+       "name": "Whipped Topping"
       }
      ],
      "name": "Desserts"
@@ -688,6 +715,6 @@
    ]
   }
  ],
- "mealsSha256": "54397665c0d29889a2f657c5c1dedf17cfdba9141e6b24ad0aeb0a7c6edd916d",
+ "mealsSha256": "ddce0a3982fa1a54f888575748de742faf6130d12c6a3b6557f37b9b5b336aa7",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-09-23",
- "fetchedAt": "2026-09-17T14:05:09+00:00",
- "itemCount": 158,
+ "fetchedAt": "2026-09-20T22:14:41+00:00",
+ "itemCount": 159,
  "locationNum": "07",
  "meals": [
   {
@@ -375,6 +375,14 @@
     {
      "items": [
       {
+       "name": "Mather House Closed for Special Event"
+      }
+     ],
+     "name": "Breakfast Meats"
+    },
+    {
+     "items": [
+      {
        "name": "Cream of Jalapeno Soup"
       },
       {
@@ -662,6 +670,6 @@
    ]
   }
  ],
- "mealsSha256": "abc555fbddf57af82062163c544c8e73170a1bf0619957a0857b97e75180312c",
+ "mealsSha256": "4b740d5bbb512187fe08d79e58d837eb9318d338260c63a59931a73b182d1d52",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
