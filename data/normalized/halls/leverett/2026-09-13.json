@@ -373,9 +373,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1054,9 +1054,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1485,9 +1485,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 510,
+       "calories": 382,
        "name": "Macaroni and Cheese",
-       "portion": "8 oz",
+       "portion": "6 oz",
        "recipeId": 10040,
        "tags": [
         "vegetarian"
@@ -2042,9 +2042,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

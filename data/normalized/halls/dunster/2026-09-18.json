@@ -848,9 +848,9 @@
       },
       {
        "allergens": [],
-       "calories": 40,
+       "calories": 150,
        "name": "Roasted  Hot Honey Chicken",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 300926,
        "tags": []
       }
@@ -1950,9 +1950,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

@@ -217,9 +217,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -365,9 +365,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -430,9 +430,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 160,
+       "calories": 80,
        "name": "Chicken Sausage",
-       "portion": "2 each",
+       "portion": "1 each",
        "recipeId": 89020,
        "tags": []
       },
@@ -1221,9 +1221,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -2178,9 +2178,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

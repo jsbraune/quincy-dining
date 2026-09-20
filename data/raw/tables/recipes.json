@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-19T12:51:30+00:00",
+ "fetchedAt": "2026-09-20T13:26:10+00:00",
  "rows": [
   {
    "allergens": [
@@ -1378,43 +1378,43 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 510,
-   "calories_from_fat": 261,
+   "calories": 382,
+   "calories_from_fat": 196,
    "cholesterol": {
-    "amount": "89.9mg",
-    "percent": 30.0
+    "amount": "67.4mg",
+    "percent": 22.0
    },
    "dietary_fiber": {
-    "amount": "2g",
-    "percent": 7.0
+    "amount": "1.5g",
+    "percent": 5.0
    },
    "id": 10040,
    "information": null,
    "ingredients": "Macaroni and Cheese (Water, Elbow Macaroni (Semolina Wheat, Egg Whites), Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Light Cream (Milk, Cream), Butter (Cream, Salt), Rice Flour, Monterey Jack Cheese (Milk, Cheese Cultures, Salt, Enzymes), Sea Salt, Annatto Seed Powder, Bay Leaves, Nutmeg, White Pepper, Cayenne Ground Pepper.)",
    "name": "Macaroni and Cheese",
    "protein": {
-    "amount": "21g",
-    "percent": 41.0
+    "amount": "15.7g",
+    "percent": 31.0
    },
    "sat_fat": {
-    "amount": "19g",
-    "percent": 86.0
+    "amount": "14.2g",
+    "percent": 65.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "6 oz",
    "sodium": {
-    "amount": "949.2mg",
-    "percent": 41.0
+    "amount": "711.9mg",
+    "percent": 31.0
    },
    "sugars": {
-    "amount": "3g"
+    "amount": "2.2g"
    },
    "total_carb": {
-    "amount": "42g",
-    "percent": 15.0
+    "amount": "31.5g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "29g",
-    "percent": 37.0
+    "amount": "21.7g",
+    "percent": 28.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -21758,11 +21758,11 @@
   },
   {
    "allergens": [],
-   "calories": 160,
-   "calories_from_fat": 90,
+   "calories": 80,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "70mg",
-    "percent": 23.0
+    "amount": "35mg",
+    "percent": 12.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21772,28 +21772,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "12g",
-    "percent": 24.0
+    "amount": "6g",
+    "percent": 12.0
    },
    "sat_fat": {
-    "amount": "3g",
-    "percent": 14.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "2 each",
+   "serving_size": "1 each",
    "sodium": {
-    "amount": "480mg",
-    "percent": 21.0
+    "amount": "240mg",
+    "percent": 10.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "2g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "10g",
-    "percent": 13.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -41778,8 +41778,7 @@
    "calories": 180,
    "calories_from_fat": 21,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "2.9g",
@@ -41794,8 +41793,7 @@
     "percent": 45.0
    },
    "sat_fat": {
-    "amount": "0.1g",
-    "percent": 0.0
+    "amount": "0.1g"
    },
    "serving_size": "6 oz",
    "sodium": {
@@ -52901,8 +52899,7 @@
    "calories": 85,
    "calories_from_fat": 4,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "2.8g",
@@ -71033,14 +71030,14 @@
   },
   {
    "allergens": [],
-   "calories": 49,
+   "calories": 32,
    "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "3.8g",
-    "percent": 13.0
+    "amount": "2.5g",
+    "percent": 9.0
    },
    "id": 204010,
    "information": null,
@@ -71052,14 +71049,14 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "3 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "2.6mg"
+    "amount": "1.7mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "11.8g",
-    "percent": 4.0
+    "amount": "7.9g",
+    "percent": 3.0
    },
    "total_fat": {
     "amount": "0.1g"
@@ -80845,42 +80842,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 20,
-   "calories_from_fat": 4,
+   "calories": 80,
+   "calories_from_fat": 14,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.6g",
-    "percent": 2.0
+    "amount": "2.4g",
+    "percent": 9.0
    },
    "id": 255112,
    "information": null,
    "ingredients": "Alu Chole (Aw-loo Cho-lay) Water, Garbanzo Beans, Potatoes, Onions, Tomato Paste (Tomatoes, Citric Acid), Canola Oil, Ginger, Garlic, Mango Powder Jalape\u00f1o Peppers, Spices, Salt, Cilantro. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, EGGS)",
    "name": "Alu Chole",
    "protein": {
-    "amount": "0.8g",
-    "percent": 2.0
+    "amount": "3.2g",
+    "percent": 6.0
    },
    "sat_fat": {
-    "amount": "0.6g",
-    "percent": 3.0
+    "amount": "2.4g",
+    "percent": 11.0
    },
-   "serving_size": "1 fl. oz",
+   "serving_size": "4 fl. oz",
    "sodium": {
-    "amount": "85.8mg",
-    "percent": 4.0
+    "amount": "343.4mg",
+    "percent": 15.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "3.2g"
    },
    "total_carb": {
-    "amount": "3.4g",
-    "percent": 1.0
+    "amount": "13.6g",
+    "percent": 5.0
    },
    "total_fat": {
-    "amount": "0.4g",
-    "percent": 1.0
+    "amount": "1.6g",
+    "percent": 2.0
    },
    "trans_fat": null,
    "vegan": true,
@@ -81215,42 +81212,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 32,
-   "calories_from_fat": 18,
+   "calories": 64,
+   "calories_from_fat": 36,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.8g",
-    "percent": 3.0
+    "amount": "1.6g",
+    "percent": 6.0
    },
    "id": 255122,
    "information": null,
    "ingredients": "Monsoon Palak Paneer (Spinach, Water, Paneer Cheese, (Pasteurized Milk, Acetic Acid, Lactic Acid) Canola Oil) Braccall, Tomato Paste, Onions Milk Powder (Lactose, Non Dairy Creamer, Whole Milk Powder, Nonfat Dry Milk) Canola Oil Spices, Ginger, Garlic, Salt, Baking Soda, Black Salt MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS i)",
    "name": "Palak Paneer",
    "protein": {
-    "amount": "1.2g",
-    "percent": 2.0
+    "amount": "2.4g",
+    "percent": 5.0
    },
    "sat_fat": {
-    "amount": "0.2g",
-    "percent": 1.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
-   "serving_size": "2 fl. oz",
+   "serving_size": "4 fl. oz",
    "sodium": {
-    "amount": "195.7mg",
-    "percent": 9.0
+    "amount": "391.3mg",
+    "percent": 17.0
    },
    "sugars": {
-    "amount": "0.4g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "2g",
+    "amount": "4g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "2g",
-    "percent": 3.0
+    "amount": "4g",
+    "percent": 5.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -88155,7 +88152,7 @@
   },
   {
    "allergens": [],
-   "calories": 14,
+   "calories": 10,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -88173,16 +88170,16 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "3 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "1012.5mg",
-    "percent": 44.0
+    "amount": "675mg",
+    "percent": 29.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2.9g",
+    "amount": "1.9g",
     "percent": 1.0
    },
    "total_fat": {
@@ -129883,41 +129880,42 @@
   },
   {
    "allergens": [],
-   "calories": 40,
-   "calories_from_fat": 11,
+   "calories": 150,
+   "calories_from_fat": 41,
    "cholesterol": {
-    "amount": "29mg",
-    "percent": 10.0
+    "amount": "106.3mg",
+    "percent": 35.0
    },
    "dietary_fiber": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
    "id": 300926,
    "information": null,
-   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Hot Sauce (Aged Cayenne Red Peppers, Distilled Vinegar, Water, Salt & Garlic Powder), Rotisserie Spice (Salt, Onion, Spices, Paprika, Garlic, and Citric Acid), HOT HONEY (Honey, Real Chili Peppers, Vinegar, ), Sage (Sage), Ground Cayenne Pepper (Dried Chilies), Kosher Dill Pickle Spears (Fresh Cucumbers, Water, Vinegar, Salt, Calcium Chloride, Natural Flavors, Polysorbate 80, Garlic Oil, Yellow 5.), Parsley (Parsley)",
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Water, Hot Sauce (Aged Cayenne Red Peppers, Distilled Vinegar, Water, Salt & Garlic Powder), Garlic (Garlic), HOT HONEY (Honey, Real Chili Peppers, Vinegar, ), White Clover Honey (Honey), Ground Black Pepper, Kosher Dill Pickle Spears (Fresh Cucumbers, Water, Vinegar, Salt, Calcium Chloride, Natural Flavors, Polysorbate 80, Garlic Oil, Yellow 5.), Ground Cayenne Pepper (Dried Chilies), Parsley (Parsley)",
    "name": "Roasted Hot Honey Chicken",
    "protein": {
-    "amount": "6.1g",
-    "percent": 12.0
+    "amount": "22.4g",
+    "percent": 44.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 5.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "138.9mg",
-    "percent": 6.0
+    "amount": "278mg",
+    "percent": 12.0
    },
    "sugars": {
-    "amount": "0.2g"
+    "amount": "1.4g"
    },
    "total_carb": {
-    "amount": "0.2g"
+    "amount": "2.1g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "1.2g",
-    "percent": 2.0
+    "amount": "4.6g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -184604,9 +184602,9 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "1/2 oz",
    "sodium": {
-    "amount": "0.1mg"
+    "amount": "0mg"
    },
    "sugars": {
     "amount": "0g"
@@ -188685,6 +188683,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "823c5566b5793063fda40367573fbfa3e410af41d3f5f145a53ed17a1164f7e7",
+ "sha256": "fdac4cf9a3f54dc7ae6672075b0c2a14b30e4bd3b6cf90868b1be795531a35b5",
  "table": "recipes"
 }
