@@ -1712,11 +1712,8 @@
        "calories": 77,
        "name": "Protein Plus Spaghetti",
        "portion": "2 oz",
-       "recipeId": 300969,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
+       "recipeId": 165005,
+       "tags": []
       }
      ],
      "name": "Starch And Potatoes"
@@ -2169,9 +2166,9 @@
       },
       {
        "allergens": [],
-       "calories": 10,
+       "calories": 14,
        "name": "Pickled Okra",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

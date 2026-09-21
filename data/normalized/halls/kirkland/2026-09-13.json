@@ -1293,9 +1293,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 382,
+       "calories": 510,
        "name": "Macaroni and Cheese",
-       "portion": "6 oz",
+       "portion": "8 oz",
        "recipeId": 10040,
        "tags": [
         "vegetarian"
@@ -1850,9 +1850,9 @@
       },
       {
        "allergens": [],
-       "calories": 10,
+       "calories": 14,
        "name": "Pickled Okra",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",
@@ -1996,11 +1996,8 @@
        "calories": 77,
        "name": "Protein Plus Spaghetti",
        "portion": "2 oz",
-       "recipeId": 300969,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
+       "recipeId": 165005,
+       "tags": []
       }
      ],
      "name": "Whole Grain Pasta Bar"

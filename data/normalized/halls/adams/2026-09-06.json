@@ -861,9 +861,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 173,
+       "calories": 345,
        "name": "Protein Plus Penne with Creamy Tomato,Bacon,  Basil Sauce",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300978,
        "tags": []
       }
@@ -1567,9 +1567,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 187,
+       "calories": 374,
        "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300979,
        "tags": [
         "vegetarian"
@@ -2129,9 +2129,9 @@
       },
       {
        "allergens": [],
-       "calories": 10,
+       "calories": 14,
        "name": "Pickled Okra",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",
@@ -2275,11 +2275,8 @@
        "calories": 77,
        "name": "Protein Plus Spaghetti",
        "portion": "2 oz",
-       "recipeId": 300969,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
+       "recipeId": 165005,
+       "tags": []
       }
      ],
      "name": "Whole Grain Pasta Bar"

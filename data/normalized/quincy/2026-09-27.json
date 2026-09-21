@@ -1,7 +1,7 @@
 {
  "date": "2026-09-27",
- "fetchedAt": "2026-09-15T18:40:03+00:00",
- "itemCount": 349,
+ "fetchedAt": "2026-09-21T15:38:21+00:00",
+ "itemCount": 352,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -870,6 +870,17 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [],
+       "calories": 32,
+       "name": "Blueberries",
+       "portion": "2 fl. oz",
+       "recipeId": 204016,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Featured Special Bar"
@@ -1027,6 +1038,25 @@
       }
      ],
      "name": "Fresh Fruit"
+    },
+    {
+     "categoryId": 23,
+     "items": [
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Build Your Own"
     }
    ]
   },
@@ -1605,9 +1635,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 173,
+       "calories": 345,
        "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300978,
        "tags": []
       }
@@ -1627,7 +1657,8 @@
        "recipeId": 141087,
        "tags": [
         "vegan",
-        "vegetarian"
+        "vegetarian",
+        "halal"
        ]
       }
      ],
@@ -1696,6 +1727,20 @@
        "portion": "3 oz",
        "recipeId": 300159,
        "tags": [
+        "halal"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 238,
+       "name": "Quinoa and Vegetable Jambalaya",
+       "portion": "8 oz",
+       "recipeId": 141087,
+       "tags": [
+        "vegan",
+        "vegetarian",
         "halal"
        ]
       }
@@ -2977,9 +3022,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 187,
+       "calories": 374,
        "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300979,
        "tags": [
         "vegetarian"
@@ -3561,9 +3606,9 @@
       },
       {
        "allergens": [],
-       "calories": 10,
+       "calories": 14,
        "name": "Pickled Okra",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",
