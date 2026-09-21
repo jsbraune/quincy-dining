@@ -1,9 +1,9 @@
 {
  "date": "2026-09-21",
- "fetchedAt": "2026-09-15T14:08:38+00:00",
+ "fetchedAt": "2026-09-21T23:03:20+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
- "itemCount": 172,
+ "itemCount": 174,
  "locationNum": "30",
  "meals": [
   {
@@ -1280,6 +1280,26 @@
        "allergens": [
         "Eggs",
         "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 430,
+       "name": "New York Cheese Cake",
+       "portion": "1 piece",
+       "recipeId": 599050,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Miscellaneous"
+    },
+    {
+     "items": [
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
         "Wheat"
        ],
        "calories": 170,
@@ -1704,6 +1724,17 @@
        "name": "Sauteed Zucchini with Chermoula",
        "portion": "4 oz",
        "recipeId": 301063,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 83,
+       "name": "Steamed Green Peas",
+       "portion": "4 oz",
+       "recipeId": 171009,
        "tags": [
         "vegan",
         "vegetarian"

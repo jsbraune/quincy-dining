@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "fetchedAt": "2026-09-15T14:08:38+00:00",
- "itemCount": 172,
+ "fetchedAt": "2026-09-21T23:03:20+00:00",
+ "itemCount": 174,
  "locationNum": "30",
  "meals": [
   {
@@ -429,6 +429,14 @@
     {
      "items": [
       {
+       "name": "New York Cheese Cake"
+      }
+     ],
+     "name": "Miscellaneous"
+    },
+    {
+     "items": [
+      {
        "name": "Lasagna Soup with Chicken Sausage"
       },
       {
@@ -560,6 +568,9 @@
       },
       {
        "name": "Sauteed Zucchini with Chermoula"
+      },
+      {
+       "name": "Steamed Green Peas"
       }
      ],
      "name": "Vegetables"
@@ -724,6 +735,6 @@
    ]
   }
  ],
- "mealsSha256": "bf806a4f33cffe1387f28d58466f187bcef11f9785788c1a9ebba67e7e94999e",
+ "mealsSha256": "539dbf3a0774731ee16f970b75dd5ea6ed4ce5eb7963c269752c93cf3c6ace30",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
