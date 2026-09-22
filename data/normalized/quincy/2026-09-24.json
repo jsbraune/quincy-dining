@@ -1,7 +1,7 @@
 {
  "date": "2026-09-24",
- "fetchedAt": "2026-09-22T18:27:36+00:00",
- "itemCount": 365,
+ "fetchedAt": "2026-09-22T22:46:48+00:00",
+ "itemCount": 364,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -3119,13 +3119,6 @@
        "name": "Pork Tenderloin with Cherry & Onion Marmalade",
        "portion": "4 oz",
        "recipeId": 300326,
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Dunster House Closed for Special Event",
-       "portion": "1 ea",
-       "recipeId": 999888,
        "tags": []
       }
      ],
