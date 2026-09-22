@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-21T15:38:21+00:00",
+ "fetchedAt": "2026-09-22T18:27:36+00:00",
  "rows": [
   {
    "allergens": [
@@ -21758,11 +21758,11 @@
   },
   {
    "allergens": [],
-   "calories": 80,
-   "calories_from_fat": 45,
+   "calories": 160,
+   "calories_from_fat": 90,
    "cholesterol": {
-    "amount": "35mg",
-    "percent": 12.0
+    "amount": "70mg",
+    "percent": 23.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21772,28 +21772,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "6g",
-    "percent": 12.0
+    "amount": "12g",
+    "percent": 24.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "3g",
+    "percent": 14.0
    },
-   "serving_size": "1 each",
+   "serving_size": "2 each",
    "sodium": {
-    "amount": "240mg",
-    "percent": 10.0
+    "amount": "480mg",
+    "percent": 21.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2g",
+    "amount": "4g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "5g",
-    "percent": 6.0
+    "amount": "10g",
+    "percent": 13.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -62448,38 +62448,40 @@
   },
   {
    "allergens": [],
-   "calories": 4,
-   "calories_from_fat": null,
+   "calories": 8,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 1.0
+    "amount": "0.7g",
+    "percent": 3.0
    },
    "id": 176066,
    "information": null,
    "ingredients": "Little Leaf Spring Mix",
    "name": "Little Leaf Greens",
    "protein": {
-    "amount": "0.4g",
+    "amount": "0.8g",
     "percent": 1.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "7.8mg"
+    "amount": "15.6mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "0.2g"
+    "amount": "0.4g"
    },
    "total_carb": {
-    "amount": "0.8g"
+    "amount": "1.6g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -87860,42 +87862,43 @@
    "allergens": [
     "Fish"
    ],
-   "calories": 68,
-   "calories_from_fat": 44,
+   "calories": 270,
+   "calories_from_fat": 176,
    "cholesterol": {
-    "amount": "15.6mg",
-    "percent": 5.0
+    "amount": "62.4mg",
+    "percent": 21.0
    },
    "dietary_fiber": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 4.0
    },
    "id": 270427,
    "information": null,
    "ingredients": "Salmon, Lemons (LEMONS), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)",
    "name": "Roasted Salmon with Lemon Zest",
    "protein": {
-    "amount": "5.7g",
-    "percent": 11.0
+    "amount": "22.8g",
+    "percent": 45.0
    },
    "sat_fat": {
-    "amount": "0.7g",
-    "percent": 3.0
+    "amount": "2.9g",
+    "percent": 13.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "12.6mg",
-    "percent": 1.0
+    "amount": "50.6mg",
+    "percent": 2.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "0.6g"
+    "amount": "2.3g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "4.9g",
-    "percent": 6.0
+    "amount": "19.5g",
+    "percent": 25.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -133917,43 +133920,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 137,
-   "calories_from_fat": 68,
+   "calories": 274,
+   "calories_from_fat": 136,
    "cholesterol": {
-    "amount": "14.3mg",
-    "percent": 5.0
+    "amount": "28.6mg",
+    "percent": 10.0
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.9g",
+    "percent": 3.0
    },
    "id": 301089,
    "information": null,
    "ingredients": "Tempura Chicken (Chicken breast water, seasoning [salt, flavors, maltodextrin, sugar, vegetable stock (carrot, onion, celery), garlic powder], salt, sodium phosphates. BATTERED WITH: Water, yellow corn flour, bleached wheat flour, modified corn starch, salt, spices, leavening (sodium bicarbonate, sodium aluminum phosphate), dextrose, wheat starch, onion powder, extractives of turmeric, spice extractive. PREDUSTED WITH: Wheat flour, leavening (sodium acid pyrophosphate, sodium bicarbonate, monocalcium phosphate), salt, spices, calcium lactate, soybean oil (as a processing aid), calcium lactate. Vegetable oil), Sweet & Sour Sauce (Water, High Fructose Corn Syrup, Distilled White Vinegar, Sugar, Tomato Paste, modified Corn Starch, Pineapple Juice Concentrate, Salt, Fd&c Yellow 5, Fd&c red 40, Citric Acid, Fd&c Yellow 6, Xanthan Gum, Natural Flavor, Sodium benzoate Added As A Preservative.), Pineapple (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Onions (Onions), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Sweet and Sour Chicken",
    "protein": {
-    "amount": "5.2g",
-    "percent": 10.0
+    "amount": "10.4g",
+    "percent": 20.0
    },
    "sat_fat": {
-    "amount": "1.3g",
-    "percent": 6.0
+    "amount": "2.7g",
+    "percent": 12.0
    },
-   "serving_size": "2 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "255.9mg",
-    "percent": 11.0
+    "amount": "511.8mg",
+    "percent": 22.0
    },
    "sugars": {
-    "amount": "6g"
+    "amount": "12g"
    },
    "total_carb": {
-    "amount": "6.4g",
-    "percent": 2.0
+    "amount": "12.8g",
+    "percent": 5.0
    },
    "total_fat": {
-    "amount": "7.5g",
-    "percent": 10.0
+    "amount": "15.1g",
+    "percent": 19.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -168064,6 +168067,108 @@
   },
   {
    "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 404,
+   "calories_from_fat": 180,
+   "cholesterol": {
+    "amount": "30.4mg",
+    "percent": 10.0
+   },
+   "dietary_fiber": {
+    "amount": "3.1g",
+    "percent": 11.0
+   },
+   "id": 540120,
+   "information": null,
+   "ingredients": "Chicken Tenders Homestyle (Chicken Tenderloins Containing: Up To 18% Of A Solution Of Water, Seasoning [Salt, Flavors, Maltodextrin, Sugar, Vegetable Stock (Carrot, Onion, Celery), Garlic Powder], Modified Food Starch, Sodium Phosphates. Breaded With: Wheat Flour, Water, Salt, Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate, Monocalcium Phosphate, Sodium Acid Pyrophosphate), Wheat Gluten, Spices, Garlic Powder, Onion Powder, Disodium Inosinate And Disodium Guanylate, Natural Flavor. Breading Set In Vegetable Oil.), Thai Sweet Chili Slaw (Power Vegetable Blend (Julienne Cut Vegetables Consisting of Broccoli, Cauliflower, Kale, Brussel Sprouts, Golden Beets, Carrots and Red Cabbage), Sweet Chili Sauce (Sugar, Water, Pickled Red Chili, Distilled Vinegar, Garlic, Salt, Stabilizer: Xanthan Gum.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper), Chow Mein Noodles (Enriched Wheat Flour, (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Palm Oil, Salt, Yeast, Sugar)",
+   "name": "Crispy Chicken Little",
+   "protein": {
+    "amount": "20.1g",
+    "percent": 39.0
+   },
+   "sat_fat": {
+    "amount": "2.8g",
+    "percent": 13.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "903.6mg",
+    "percent": 39.0
+   },
+   "sugars": {
+    "amount": "1.6g"
+   },
+   "total_carb": {
+    "amount": "37.6g",
+    "percent": 14.0
+   },
+   "total_fat": {
+    "amount": "19.9g",
+    "percent": 26.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "calories": 915,
+   "calories_from_fat": 543,
+   "cholesterol": {
+    "amount": "194.8mg",
+    "percent": 65.0
+   },
+   "dietary_fiber": {
+    "amount": "1.4g",
+    "percent": 5.0
+   },
+   "id": 540121,
+   "information": null,
+   "ingredients": "Smashed Beef Steak Patty (Beef), King's Hawaiian Sweet Pretzel Bun (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Margarine [Soybean Oil, Palm Oil, Water, Salt, Contains 2% Or Less Of: Butter, Sweet Cream Buttermilk Solids, Mono- & Diglycerides, Soybean Lecithin, Natural Flavor, Citric Acid, Beta Carotene (Color), Vitamin A Palmitate], Salt, Eggs, Wheat Gluten, Contains 2% Or Less Of The Following: Sodium Silicoaluminate, Fully Hydrogenated Vegetable Oil (One Or More Of The Following: Soybean Oil, Palm Oil, Coconut Oil, And Cottonseed Oil), Pea Protein, Sunflower Oil, Maltodextrin, Dextrose, Potato Flour, Yeast, Sorbitan Monostearate, Ascorbic Acid (Added As A Dough Conditioner), Whey, Corn Flour, Monocalcium Phosphate, Enzymes, Soy Flour, Nonfat Milk, Natural Flavor, Datem, Calcium Silicate (Anti-caking), Monocalcium Phosphate Monohydrate, Sodium Bicarbonate, Corn Starch, Sodium Stearoyl Lactylate, Sorbic Acid (Preservative), Mono- & Diglycerides, Calcium Sulfate, Ammonium Sulfate, Sodium Hydroxide, Wheat Starch, And Calcium Phosphate.), Macaroni and Cheese (Water, Elbow Macaroni (Semolina Wheat, Egg Whites), Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Light Cream (Milk, Cream), Butter (Cream, Salt), Rice Flour, Monterey Jack Cheese (Milk, Cheese Cultures, Salt, Enzymes), Sea Salt, Annatto Seed Powder, Bay Leaves, Nutmeg, White Pepper, Cayenne Ground Pepper.), Sauce for Buffalo (Hot Sauce (Aged Cayenne Red Peppers, Distilled Vinegar, Water, Salt & Garlic Powder), Unsalted Butter (Cream (Milk), Natural Flavoring.), Kosher Salt, Granulated Onion, Ground Cayenne Pepper (Dried Chilies), Spanish Paprika (Paprika))",
+   "name": "Premium Crimson Burger Mac and Buffalo",
+   "protein": {
+    "amount": "48.3g",
+    "percent": 95.0
+   },
+   "sat_fat": {
+    "amount": "27.2g",
+    "percent": 124.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "1878.2mg",
+    "percent": 82.0
+   },
+   "sugars": {
+    "amount": "12.8g"
+   },
+   "total_carb": {
+    "amount": "44.6g",
+    "percent": 16.0
+   },
+   "total_fat": {
+    "amount": "60.2g",
+    "percent": 77.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [
     "Eggs",
     "Fish",
     "Milk",
@@ -188219,6 +188324,27 @@
    "calories_from_fat": null,
    "cholesterol": null,
    "dietary_fiber": null,
+   "id": 999888,
+   "information": null,
+   "ingredients": null,
+   "name": "Dunster House Closed for Special Event",
+   "protein": null,
+   "sat_fat": null,
+   "serving_size": "1 ea",
+   "sodium": null,
+   "sugars": null,
+   "total_carb": null,
+   "total_fat": null,
+   "trans_fat": null,
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [],
+   "calories": null,
+   "calories_from_fat": null,
+   "cholesterol": null,
+   "dietary_fiber": null,
    "id": 999889,
    "information": null,
    "ingredients": null,
@@ -188685,6 +188811,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "a2a864c235e32af0a69c03a32604d27911fb95a1ccdb83b70d33985a04176614",
+ "sha256": "7b17bbf54e003a5725cace587bc70023534c858f275645a60ba2227e0d458f7b",
  "table": "recipes"
 }

@@ -1282,9 +1282,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 80,
+       "calories": 160,
        "name": "Chicken Sausage",
-       "portion": "1 each",
+       "portion": "2 each",
        "recipeId": 89020,
        "tags": []
       }
@@ -1501,9 +1501,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1936,9 +1936,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 137,
+       "calories": 274,
        "name": "Sweet and Sour Chicken",
-       "portion": "2 oz",
+       "portion": "4 oz",
        "recipeId": 301089,
        "tags": []
       }
@@ -2955,9 +2955,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
