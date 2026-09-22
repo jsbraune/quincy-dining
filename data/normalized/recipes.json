@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T23:03:20+00:00",
+ "generatedAt": "2026-09-22T13:52:58+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2085,6 +2085,32 @@
    },
    "portion": "5 oz",
    "vegan": true,
+   "vegetarian": true
+  },
+  "145497": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Potato Cheddar Pierogies (Enriched Wheat Flour, Fresh Potatoes, Water, Vegetable Oil Margarine (Contains Modified Palm Oil and Palm Kernel Oil), White Cheddar Cheese, Seasoning (Salt, Sugar, Dehydrated Onion, Hydrolyzed Soy and Corn Protein, Cornstarch, Spice, Disodium Inosinate, Disodium Guanylate), Canola Oil, Salt, Onion, Mozzarella Cheese, Swiss Cheese. 2)Flour< Potato Flakes, Soybean Oil, Dehydrated Cheddar Cheese, Pasteurized Milk, Cheese Cultures Salt, Enzymes Disodium Phosphate, Salt Onion, Natural Flavor, Eggs, Yeast Extract, Whey, Spice Annato, And Turmeric (Color)), Onions (Onions), Unsalted Butter (Cream (Milk), Natural Flavoring.), Scallions (Fresh Scallions), Kosher Salt, Ground Black Pepper, Parsley (Parsley)",
+   "name": "Potato Pierogies with Onions and Butter",
+   "note": null,
+   "nutrition": {
+    "calories": 193,
+    "cholesterol_mg": 11.8,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 4.2,
+    "sat_fat_g": 4.0,
+    "sodium_mg": 315.8,
+    "sugars_g": 2.0,
+    "total_carb_g": 26.1,
+    "total_fat_g": 7.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
+   "vegan": false,
    "vegetarian": true
   },
   "150044": {
