@@ -1,6 +1,6 @@
 {
  "date": "2026-09-23",
- "fetchedAt": "2026-09-20T22:14:41+00:00",
+ "fetchedAt": "2026-09-23T14:03:42+00:00",
  "hall": "mather",
  "hallName": "Mather House",
  "itemCount": 159,
@@ -1083,10 +1083,10 @@
      "items": [
       {
        "allergens": [],
-       "calories": 210,
-       "name": "Beef Chili",
+       "calories": 213,
+       "name": "Beef Stew",
        "portion": "8 oz",
-       "recipeId": 10037,
+       "recipeId": 10053,
        "tags": []
       }
      ],

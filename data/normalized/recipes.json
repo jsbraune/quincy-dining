@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T22:46:52+00:00",
+ "generatedAt": "2026-09-23T14:03:42+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -13957,6 +13957,26 @@
     "trans_fat_g": 0.0
    },
    "portion": "2 each",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "999888": {
+   "allergens": [],
+   "ingredients": null,
+   "name": "Dunster House Closed for Special Event",
+   "note": null,
+   "nutrition": {},
+   "portion": "1 ea",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "999889": {
+   "allergens": [],
+   "ingredients": null,
+   "name": "Mather House Closed for Special Event",
+   "note": null,
+   "nutrition": {},
+   "portion": "1 ea",
    "vegan": false,
    "vegetarian": false
   },
