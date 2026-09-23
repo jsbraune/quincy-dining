@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T14:03:42+00:00",
+ "generatedAt": "2026-09-23T18:46:56+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -1957,18 +1957,18 @@
    "name": "Seasoned Red Beans",
    "note": null,
    "nutrition": {
-    "calories": 36,
+    "calories": 143,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.7,
-    "protein_g": 1.5,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 72.3,
-    "sugars_g": 0.6,
-    "total_carb_g": 4.6,
-    "total_fat_g": 1.6,
+    "dietary_fiber_g": 6.7,
+    "protein_g": 5.8,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 289.4,
+    "sugars_g": 2.5,
+    "total_carb_g": 18.4,
+    "total_fat_g": 6.4,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -12452,19 +12452,19 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Wild Flounder, 6\" Flour Tortilla (Enriched Bleached Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Shortening (Interesterified And Hydrogenated Soybean Oils), Contains 2% Or Less Of: Salt, Baking Soda, Sodium Acid Pyrophosphate, Distilled Monoglycerides, Enzymes, Cellulose Gum, Fumaric Acid, And Calcium Propionate And Sorbic Acid (To Maintain Freshness)), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers), Clam Fry Mix (Yellow Corn Flour, Wheat Flour (Wheat Flour, Malted Barley Flour), Corn Starch, Whey (Milk), Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Nonfat Dry Milk, Guar Gum, Dried Egg Whites.PRODUCT PRODUCED IN A FACILITY THAT CONTAINS WHEAT, DAIRY, EGGS, SOYBEAN), Lemons (LEMONS)",
-   "name": "Crispy Flounder with Pico De Gallo Taco",
+   "ingredients": "Wild Flounder, Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers), Clam Fry Mix (Yellow Corn Flour, Wheat Flour (Wheat Flour, Malted Barley Flour), Corn Starch, Whey (Milk), Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Nonfat Dry Milk, Guar Gum, Dried Egg Whites.PRODUCT PRODUCED IN A FACILITY THAT CONTAINS WHEAT, DAIRY, EGGS, SOYBEAN), Lemons (LEMONS)",
+   "name": "Crispy Flounder with Pico De Gallo",
    "note": "Daikon, literally translated \"large root\", is a white radish from east Asia has a sweet, fresh flavor.",
    "nutrition": {
-    "calories": 500,
+    "calories": 410,
     "cholesterol_mg": 51.0,
-    "dietary_fiber_g": 1.5,
-    "protein_g": 19.5,
-    "sat_fat_g": 3.4,
-    "sodium_mg": 526.0,
+    "dietary_fiber_g": 0.5,
+    "protein_g": 16.5,
+    "sat_fat_g": 2.4,
+    "sodium_mg": 336.0,
     "sugars_g": 0.0,
-    "total_carb_g": 38.3,
-    "total_fat_g": 31.8,
+    "total_carb_g": 22.3,
+    "total_fat_g": 29.8,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",

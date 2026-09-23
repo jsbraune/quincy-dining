@@ -820,17 +820,8 @@
        "tags": []
       },
       {
-       "allergens": [
-        "Eggs",
-        "Fish",
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 500,
+       "allergens": [],
        "name": "Crispy Flounder with Pico De Gallo Taco",
-       "portion": "4 oz",
-       "recipeId": 504066,
        "tags": []
       },
       {

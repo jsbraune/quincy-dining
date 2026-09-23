@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-22T18:27:36+00:00",
+ "fetchedAt": "2026-09-23T18:46:50+00:00",
  "rows": [
   {
    "allergens": [
@@ -39836,42 +39836,42 @@
   },
   {
    "allergens": [],
-   "calories": 36,
-   "calories_from_fat": 15,
+   "calories": 143,
+   "calories_from_fat": 58,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.7g",
-    "percent": 6.0
+    "amount": "6.7g",
+    "percent": 24.0
    },
    "id": 144044,
    "information": null,
    "ingredients": "Kidney Beans (Prepared Kidney Beans, Water, Sugar, Dextrose, Salt, Calcium Chloride (Firming Agent) , and Disodium EDTA (To Promote Color Retention).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper, Fresh Thyme (Fresh Thyme), Parsley (Parsley)",
    "name": "Seasoned Red Beans",
    "protein": {
-    "amount": "1.5g",
-    "percent": 3.0
+    "amount": "5.8g",
+    "percent": 11.0
    },
    "sat_fat": {
-    "amount": "0.1g",
-    "percent": 1.0
+    "amount": "0.5g",
+    "percent": 2.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "72.3mg",
-    "percent": 3.0
+    "amount": "289.4mg",
+    "percent": 13.0
    },
    "sugars": {
-    "amount": "0.6g"
+    "amount": "2.5g"
    },
    "total_carb": {
-    "amount": "4.6g",
-    "percent": 2.0
+    "amount": "18.4g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "1.6g",
-    "percent": 2.0
+    "amount": "6.4g",
+    "percent": 8.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -98682,11 +98682,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 194,
-   "calories_from_fat": 48,
+   "calories": 291,
+   "calories_from_fat": 71,
    "cholesterol": {
-    "amount": "40.5mg",
-    "percent": 14.0
+    "amount": "60.8mg",
+    "percent": 20.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98696,28 +98696,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "17.2g",
-    "percent": 34.0
+    "amount": "25.8g",
+    "percent": 51.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "6 oz",
    "sodium": {
-    "amount": "293.6mg",
-    "percent": 13.0
+    "amount": "440.4mg",
+    "percent": 19.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "20.3g",
-    "percent": 7.0
+    "amount": "30.4g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "5.3g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -155146,43 +155146,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 500,
-   "calories_from_fat": 287,
+   "calories": 410,
+   "calories_from_fat": 269,
    "cholesterol": {
     "amount": "51mg",
     "percent": 17.0
    },
    "dietary_fiber": {
-    "amount": "1.5g",
-    "percent": 5.0
+    "amount": "0.5g",
+    "percent": 2.0
    },
    "id": 504066,
    "information": "Daikon, literally translated \"large root\", is a white radish from east Asia has a sweet, fresh flavor.",
-   "ingredients": "Wild Flounder, 6\" Flour Tortilla (Enriched Bleached Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Shortening (Interesterified And Hydrogenated Soybean Oils), Contains 2% Or Less Of: Salt, Baking Soda, Sodium Acid Pyrophosphate, Distilled Monoglycerides, Enzymes, Cellulose Gum, Fumaric Acid, And Calcium Propionate And Sorbic Acid (To Maintain Freshness)), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers), Clam Fry Mix (Yellow Corn Flour, Wheat Flour (Wheat Flour, Malted Barley Flour), Corn Starch, Whey (Milk), Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Nonfat Dry Milk, Guar Gum, Dried Egg Whites.PRODUCT PRODUCED IN A FACILITY THAT CONTAINS WHEAT, DAIRY, EGGS, SOYBEAN), Lemons (LEMONS)",
-   "name": "Crispy Flounder with Pico De Gallo Taco",
+   "ingredients": "Wild Flounder, Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers), Clam Fry Mix (Yellow Corn Flour, Wheat Flour (Wheat Flour, Malted Barley Flour), Corn Starch, Whey (Milk), Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Nonfat Dry Milk, Guar Gum, Dried Egg Whites.PRODUCT PRODUCED IN A FACILITY THAT CONTAINS WHEAT, DAIRY, EGGS, SOYBEAN), Lemons (LEMONS)",
+   "name": "Crispy Flounder with Pico De Gallo",
    "protein": {
-    "amount": "19.5g",
-    "percent": 38.0
+    "amount": "16.5g",
+    "percent": 32.0
    },
    "sat_fat": {
-    "amount": "3.4g",
-    "percent": 16.0
+    "amount": "2.4g",
+    "percent": 11.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "526mg",
-    "percent": 23.0
+    "amount": "336mg",
+    "percent": 15.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "38.3g",
-    "percent": 14.0
+    "amount": "22.3g",
+    "percent": 8.0
    },
    "total_fat": {
-    "amount": "31.8g",
-    "percent": 41.0
+    "amount": "29.8g",
+    "percent": 38.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -187826,7 +187826,7 @@
    "trans_fat": {
     "amount": "0g"
    },
-   "vegan": true,
+   "vegan": false,
    "vegetarian": true
   },
   {
@@ -188811,6 +188811,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "7b17bbf54e003a5725cace587bc70023534c858f275645a60ba2227e0d458f7b",
+ "sha256": "d11e51b18eb5de68fe247fe32373e20ef429be9b3936a8677e50512f2e9e5333",
  "table": "recipes"
 }
