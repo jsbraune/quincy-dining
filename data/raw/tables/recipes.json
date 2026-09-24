@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-23T18:46:50+00:00",
+ "fetchedAt": "2026-09-24T14:00:05+00:00",
  "rows": [
   {
    "allergens": [
@@ -21356,11 +21356,11 @@
    },
    "dietary_fiber": {
     "amount": "7.5g",
-    "percent": 30.0
+    "percent": 27.0
    },
    "id": 87045,
    "information": null,
-   "ingredients": "Tabouleh (Tomato, Parsley, Bulgar (Cracked Wheat), Onion, 90% Non GMO Soybean Oil & 10% Extra Virgin Olive Oil, Citric Acid, Sea Salt, Black Pepper Mint, Water), Hummus (Chick Peas, Sesame Tahini, Lemon Juice , Garlic, Sea Salt, Water.), Honey Wheat Tortilla Wrap (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Whole Wheat Flour, Blend of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Honey Wheat Seasoning [Dextrose, Wheat Germ, Caramel Color (Sulfites), Natural and Artificial Flavors, Sucralose (Artificial Sweetener). Contains 2% or less of the following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Vital Wheat Gluten, Salt, Calcium Propionate (Preservative), Fumaric Acid, Mono and Diglycerides, Potassium Sorbate, (Preservative), Cellulose Gum, Guar Gum, Distilled Monoglycerides, Enzyme Blend (Wheat Starch, Sodium Chloride, Enzyme Preparation), Calcium Carbonate.), Green Leaf Lettuce (Green Leaf Lettuce)",
+   "ingredients": "Tabouleh (Tomato, Parsley, Bulgar (Cracked Wheat), Onion, 90% Non GMO Soybean Oil & 10% Extra Virgin Olive Oil, Citric Acid, Sea Salt, Black Pepper Mint, Water), Hummus (Chick Peas, Sesame Tahini, Lemon Juice , Garlic, Sea Salt, Water.), Honey Wheat Tortilla Wrap (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Whole Wheat Flour, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed oil), Honey Wheat Seasoning [Dextrose, Wheat Germ, Caramel Color (Sulfites), Natural And Artificial Flavors, Sucralose (Artificial Sweetener). Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Vital Wheat Gluten, Salt, Calcium Propionate (Preservative), Fumaric Acid, Mono And Diglycerides, Potassium Sorbate, (Preservative), Cellulose Gum, Guar Gum, Distilled Monoglycerides, Enzyme Blend (Wheat Starch, Sodium Chloride, Enzyme Preparation), Calcium Carbonate), Little Leaf Spring Mix",
    "name": "Hummus & Tabbouleh Wheat Wrap",
    "protein": {
     "amount": "15.3g",
@@ -21368,29 +21368,29 @@
    },
    "sat_fat": {
     "amount": "3g",
-    "percent": 15.0
+    "percent": 13.0
    },
    "serving_size": "1 each",
    "sodium": {
-    "amount": "750.1mg",
-    "percent": 38.0
+    "amount": "749.9mg",
+    "percent": 33.0
    },
    "sugars": {
     "amount": "5.2g"
    },
    "total_carb": {
     "amount": "56.2g",
-    "percent": 19.0
+    "percent": 20.0
    },
    "total_fat": {
     "amount": "17.4g",
-    "percent": 23.0
+    "percent": 22.0
    },
    "trans_fat": {
     "amount": "0g"
    },
-   "vegan": true,
-   "vegetarian": false
+   "vegan": false,
+   "vegetarian": true
   },
   {
    "allergens": [
@@ -21758,11 +21758,11 @@
   },
   {
    "allergens": [],
-   "calories": 160,
-   "calories_from_fat": 90,
+   "calories": 80,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "70mg",
-    "percent": 23.0
+    "amount": "35mg",
+    "percent": 12.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21772,28 +21772,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "12g",
-    "percent": 24.0
+    "amount": "6g",
+    "percent": 12.0
    },
    "sat_fat": {
-    "amount": "3g",
-    "percent": 14.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "2 each",
+   "serving_size": "1 each",
    "sodium": {
-    "amount": "480mg",
-    "percent": 21.0
+    "amount": "240mg",
+    "percent": 10.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "2g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "10g",
-    "percent": 13.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -81965,7 +81965,7 @@
   },
   {
    "allergens": [],
-   "calories": 193,
+   "calories": 48,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -81978,13 +81978,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "3.2g",
-    "percent": 6.0
+    "amount": "0.8g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -81992,8 +81992,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "44.9g",
-    "percent": 16.0
+    "amount": "11.2g",
+    "percent": 4.0
    },
    "total_fat": {
     "amount": "0g"
@@ -98682,11 +98682,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 291,
-   "calories_from_fat": 71,
+   "calories": 194,
+   "calories_from_fat": 48,
    "cholesterol": {
-    "amount": "60.8mg",
-    "percent": 20.0
+    "amount": "40.5mg",
+    "percent": 14.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98696,28 +98696,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "25.8g",
-    "percent": 51.0
+    "amount": "17.2g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "1g",
+    "percent": 5.0
    },
-   "serving_size": "6 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "440.4mg",
-    "percent": 19.0
+    "amount": "293.6mg",
+    "percent": 13.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.4g",
-    "percent": 11.0
+    "amount": "20.3g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "7.9g",
-    "percent": 10.0
+    "amount": "5.3g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130550,43 +130550,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 716,
-   "calories_from_fat": 337,
+   "calories": 358,
+   "calories_from_fat": 168,
    "cholesterol": {
-    "amount": "14.3mg",
-    "percent": 5.0
+    "amount": "7.1mg",
+    "percent": 2.0
    },
    "dietary_fiber": {
-    "amount": "7.8g",
-    "percent": 28.0
+    "amount": "3.9g",
+    "percent": 14.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "36.4g",
-    "percent": 71.0
+    "amount": "18.2g",
+    "percent": 36.0
    },
    "sat_fat": {
-    "amount": "9.9g",
-    "percent": 45.0
+    "amount": "4.9g",
+    "percent": 22.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "1849.1mg",
-    "percent": 80.0
+    "amount": "924.6mg",
+    "percent": 40.0
    },
    "sugars": {
-    "amount": "7.1g"
+    "amount": "3.5g"
    },
    "total_carb": {
-    "amount": "64.8g",
-    "percent": 24.0
+    "amount": "32.4g",
+    "percent": 12.0
    },
    "total_fat": {
-    "amount": "37.3g",
-    "percent": 48.0
+    "amount": "18.7g",
+    "percent": 24.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -188811,6 +188811,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "d11e51b18eb5de68fe247fe32373e20ef429be9b3936a8677e50512f2e9e5333",
+ "sha256": "23645f509bf428507c68dbad5de7343bee922165187c5f11f1d4a60e12a95abd",
  "table": "recipes"
 }

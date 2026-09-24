@@ -1683,9 +1683,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 716,
+       "calories": 358,
        "name": "Shaking Beef and Protein  Plus Pasta with Garlic",
-       "portion": "8 oz",
+       "portion": "4 oz",
        "recipeId": 300957,
        "tags": []
       }
@@ -1715,9 +1715,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 193,
+       "calories": 48,
        "name": "Jasmine Rice",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 255669,
        "tags": [
         "vegan",

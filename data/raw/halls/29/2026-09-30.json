@@ -1,0 +1,103 @@
+{
+ "date": "2026-09-30",
+ "fetchedAt": "2026-09-24T14:00:12+00:00",
+ "itemCount": 24,
+ "locationNum": "29",
+ "meals": [
+  {
+   "meal": "breakfast",
+   "sourceLabel": "",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Carrot Ginger Sesame Soup"
+      },
+      {
+       "name": "Chicken Chili with Beans"
+      },
+      {
+       "name": "Italian Meatball Soup"
+      },
+      {
+       "name": "Three Bean Chili"
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "name": "Chips, Cape Cod"
+      },
+      {
+       "name": "Chobani Vanilla Greek Yogurt"
+      },
+      {
+       "name": "Dairy Free Vanilla Yogurt"
+      },
+      {
+       "name": "Delicious Apples"
+      },
+      {
+       "name": "Fruit, Bananas"
+      },
+      {
+       "name": "Fruit, Oranges"
+      },
+      {
+       "name": "Hard Boiled Eggs"
+      },
+      {
+       "name": "Oreo Nabs"
+      },
+      {
+       "name": "Peeled Baby Carrots"
+      },
+      {
+       "name": "Pretzel Twists"
+      }
+     ],
+     "name": "FLY-BY"
+    },
+    {
+     "items": [
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Garden Salad"
+      },
+      {
+       "name": "Halal Chicken and Lettuce wrap"
+      },
+      {
+       "name": "Ham & Swiss on Hearty Wheat"
+      },
+      {
+       "name": "Hummus & Tabbouleh Wheat Wrap"
+      },
+      {
+       "name": "Mozzarella, Tomato & Basil Wrap"
+      },
+      {
+       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat"
+      },
+      {
+       "name": "Tuna Salad and Lettuce on Spinach Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Gluten Free Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Wheat"
+      }
+     ],
+     "name": "FLY-BY Sandwiches and Salads"
+    }
+   ]
+  }
+ ],
+ "mealsSha256": "38ddecafa886150ca520b513160c608d00f8cb8e823d4cde96a2b294d2b2eba4",
+ "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
+}
