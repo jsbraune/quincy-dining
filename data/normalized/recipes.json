@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T19:05:25+00:00",
+ "generatedAt": "2026-09-25T23:08:45+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -9058,6 +9058,27 @@
     "sugars_g": 1.6,
     "total_carb_g": 12.3,
     "total_fat_g": 1.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300803": {
+   "allergens": [],
+   "ingredients": "Chunked Local Butternut Squash, Kosher Salt, Ground Black Pepper",
+   "name": "Steamed Butternut Squash",
+   "note": "Summer squash differs from Fall & Winter squash bec. it is selected to be harvested before the rind hardens.",
+   "nutrition": {
+    "calories": 39,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.7,
+    "protein_g": 1.1,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 61.3,
+    "sugars_g": 2.5,
+    "total_carb_g": 9.8,
+    "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
