@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-24T14:00:05+00:00",
+ "fetchedAt": "2026-09-25T19:05:20+00:00",
  "rows": [
   {
    "allergens": [
@@ -9889,42 +9889,42 @@
     "Tree Nuts",
     "Wheat"
    ],
-   "calories": 599,
-   "calories_from_fat": 242,
+   "calories": 479,
+   "calories_from_fat": 194,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.7g",
-    "percent": 24.0
+    "amount": "5.4g",
+    "percent": 19.0
    },
    "id": 40013,
    "information": null,
    "ingredients": "Rotini Pasta (Rotini Fusilli (Semolina (Wheat), Durum Wheat Flour, Niacin, Iron (Ferrous Sulfate), Thiamine Mononitrate, Riboflavin, Folic Acid. THIS PRODUCT IS MANUFACTURED ON EQUIPMENT THAT PROCESSES PRODUCTS CONTAINING EGGS)), Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Broccoli Florets (Broccoli), Carrot Coins (Carrots), Caribbean Seasoning (Salt, Spices (Including Red Pepper), Dextrose, Caramel Color, Chives, and Sulfiting Agents), Parmesan Vegan Cheese (Filtered Water, Organic Palm Fruit Oil\u2020, Modifi ed Food Starch, Canola Oil, Natural Flavors (Plant Sources [Contains Autolyzed Yeast]), VegetableGlycerin, Less than 2% of: Lactic Acid (Vegetable Source), Calcium Lactate (Vegetable Source), Sea Salt, Sodium Phosphate, Carrageenan, BambooFiber, Nutritional Yeast, Calcium Phosphate, Organic Chickpea Miso (Organic Handmade Rice Koji, Organic Whole Chickpeas, Sea Salt, Water, KojiSpores), Sunfl ower Lecithin, Citric Acid, Annatto.), Scallions (Scallions)",
    "name": "Rasta Seitan Pasta",
    "protein": {
-    "amount": "36.8g",
-    "percent": 72.0
+    "amount": "29.4g",
+    "percent": 58.0
    },
    "sat_fat": {
-    "amount": "20.8g",
-    "percent": 94.0
+    "amount": "16.6g",
+    "percent": 76.0
    },
-   "serving_size": "10 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "1147mg",
-    "percent": 50.0
+    "amount": "917.6mg",
+    "percent": 40.0
    },
    "sugars": {
-    "amount": "4.1g"
+    "amount": "3.3g"
    },
    "total_carb": {
-    "amount": "59.9g",
-    "percent": 22.0
+    "amount": "47.9g",
+    "percent": 17.0
    },
    "total_fat": {
-    "amount": "26.9g",
-    "percent": 34.0
+    "amount": "21.5g",
+    "percent": 28.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -11107,7 +11107,7 @@
    },
    "id": 40045,
    "information": null,
-   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Whole Tomatoes (Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Citric Acid.), Onions (Onions), Red Peppers, Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Garlic (Garlic), Smoked Paprika (PAPRIKA, AND SILICON DIOXIDE (ADDED TO MAKE FREE FLOWING)..), Kosher Salt (Salt), Queen Stuffed Olives (Queen Olives, Water, Salt, Citric Acid, Minced Pimiento, Sodium Alginate, Guar Gum, Calcium Chloride.), Kosher Salt (Salt), Spanish Paprika (Paprika), Whole Cloves, Oregano (Oregano), Ground Cumin (Ground Cumin), Ground Black Pepper (), Ground Black Pepper (), Ground Cayenne Pepper (Dried Chilies), Parsley (Parsley), Ground Allspice (Allspice), Whole Bay Leaves (Bay Leaves)",
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Whole Tomatoes (Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Citric Acid.), Onions (Onions), Red Peppers, Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Garlic (Garlic), Smoked Paprika (PAPRIKA, AND SILICON DIOXIDE (ADDED TO MAKE FREE FLOWING)..), Kosher Salt, Queen Stuffed Olives (Queen Olives, Water, Salt, Citric Acid, Minced Pimiento, Sodium Alginate, Guar Gum, Calcium Chloride.), Kosher Salt, Spanish Paprika (Paprika), Whole Cloves, Oregano (Oregano), Ground Cumin (Ground Cumin), Ground Black Pepper, Ground Black Pepper, Ground Cayenne Pepper (Dried Chilies), Parsley (Parsley), Ground Allspice (Allspice), Whole Bay Leaves (Bay Leaves)",
    "name": "Chicken Ropa Veija",
    "protein": {
     "amount": "23g",
@@ -11153,7 +11153,7 @@
    },
    "id": 40046,
    "information": null,
-   "ingredients": "Fire Roasted Pork (Pork, Water, Contains 2% or less of salt, Sugar, Flavoring, Xanthan Gum, Spice.), Lime Juice (Lime Juice), Red Onions, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Oranges, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Jalapeno Peppers, Cilantro (Cilantro), Oregano (Oregano), Kosher Salt (Salt), Limes (Limes)",
+   "ingredients": "Fire Roasted Pork (Pork, Water, Contains 2% or less of salt, Sugar, Flavoring, Xanthan Gum, Spice.), Lime Juice (Lime Juice), Red Onions, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Oranges, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Jalapeno Peppers, Cilantro (Cilantro), Oregano (Oregano), Kosher Salt, Limes (Limes)",
    "name": "Mojo Pork",
    "protein": {
     "amount": "11.3g",
@@ -11200,7 +11200,7 @@
    },
    "id": 40047,
    "information": null,
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Lime Juice (Lime Juice), Red Onions, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Oranges, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Jalapeno Peppers, Cilantro (Cilantro), Oregano (Oregano), Kosher Salt (Salt), Limes (Limes)",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Lime Juice (Lime Juice), Red Onions, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Oranges, Garlic (Garlic), Orange Juice (Water, Orange Juice Concentrate), Jalapeno Peppers, Cilantro (Cilantro), Oregano (Oregano), Kosher Salt, Limes (Limes)",
    "name": "Mojo Tofu",
    "protein": {
     "amount": "10.8g",
@@ -21758,11 +21758,11 @@
   },
   {
    "allergens": [],
-   "calories": 80,
-   "calories_from_fat": 45,
+   "calories": 160,
+   "calories_from_fat": 90,
    "cholesterol": {
-    "amount": "35mg",
-    "percent": 12.0
+    "amount": "70mg",
+    "percent": 23.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21772,28 +21772,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "6g",
-    "percent": 12.0
+    "amount": "12g",
+    "percent": 24.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "3g",
+    "percent": 14.0
    },
-   "serving_size": "1 each",
+   "serving_size": "2 each",
    "sodium": {
-    "amount": "240mg",
-    "percent": 10.0
+    "amount": "480mg",
+    "percent": 21.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2g",
+    "amount": "4g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "5g",
-    "percent": 6.0
+    "amount": "10g",
+    "percent": 13.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -80846,42 +80846,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 80,
-   "calories_from_fat": 14,
+   "calories": 20,
+   "calories_from_fat": 4,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.4g",
-    "percent": 9.0
+    "amount": "0.6g",
+    "percent": 2.0
    },
    "id": 255112,
    "information": null,
    "ingredients": "Alu Chole (Aw-loo Cho-lay) Water, Garbanzo Beans, Potatoes, Onions, Tomato Paste (Tomatoes, Citric Acid), Canola Oil, Ginger, Garlic, Mango Powder Jalape\u00f1o Peppers, Spices, Salt, Cilantro. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, EGGS)",
    "name": "Alu Chole",
    "protein": {
-    "amount": "3.2g",
-    "percent": 6.0
+    "amount": "0.8g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "2.4g",
-    "percent": 11.0
+    "amount": "0.6g",
+    "percent": 3.0
    },
-   "serving_size": "4 fl. oz",
+   "serving_size": "1 fl. oz",
    "sodium": {
-    "amount": "343.4mg",
-    "percent": 15.0
+    "amount": "85.8mg",
+    "percent": 4.0
    },
    "sugars": {
-    "amount": "3.2g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "13.6g",
-    "percent": 5.0
+    "amount": "3.4g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "1.6g",
-    "percent": 2.0
+    "amount": "0.4g",
+    "percent": 1.0
    },
    "trans_fat": null,
    "vegan": true,
@@ -81216,42 +81216,40 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 64,
-   "calories_from_fat": 36,
+   "calories": 16,
+   "calories_from_fat": 9,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.6g",
-    "percent": 6.0
+    "amount": "0.4g",
+    "percent": 1.0
    },
    "id": 255122,
    "information": null,
    "ingredients": "Monsoon Palak Paneer (Spinach, Water, Paneer Cheese, (Pasteurized Milk, Acetic Acid, Lactic Acid) Canola Oil) Braccall, Tomato Paste, Onions Milk Powder (Lactose, Non Dairy Creamer, Whole Milk Powder, Nonfat Dry Milk) Canola Oil Spices, Ginger, Garlic, Salt, Baking Soda, Black Salt MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS i)",
    "name": "Palak Paneer",
    "protein": {
-    "amount": "2.4g",
-    "percent": 5.0
-   },
-   "sat_fat": {
-    "amount": "0.4g",
-    "percent": 2.0
-   },
-   "serving_size": "4 fl. oz",
-   "sodium": {
-    "amount": "391.3mg",
-    "percent": 17.0
-   },
-   "sugars": {
-    "amount": "0.8g"
-   },
-   "total_carb": {
-    "amount": "4g",
+    "amount": "0.6g",
     "percent": 1.0
    },
+   "sat_fat": {
+    "amount": "0.1g"
+   },
+   "serving_size": "1 fl. oz",
+   "sodium": {
+    "amount": "97.8mg",
+    "percent": 4.0
+   },
+   "sugars": {
+    "amount": "0.2g"
+   },
+   "total_carb": {
+    "amount": "1g"
+   },
    "total_fat": {
-    "amount": "4g",
-    "percent": 5.0
+    "amount": "1g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -98682,11 +98680,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 194,
-   "calories_from_fat": 48,
+   "calories": 291,
+   "calories_from_fat": 71,
    "cholesterol": {
-    "amount": "40.5mg",
-    "percent": 14.0
+    "amount": "60.8mg",
+    "percent": 20.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98696,28 +98694,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "17.2g",
-    "percent": 34.0
+    "amount": "25.8g",
+    "percent": 51.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "6 oz",
    "sodium": {
-    "amount": "293.6mg",
-    "percent": 13.0
+    "amount": "440.4mg",
+    "percent": 19.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "20.3g",
-    "percent": 7.0
+    "amount": "30.4g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "5.3g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -125560,7 +125558,7 @@
    },
    "id": 300803,
    "information": "Summer squash differs from Fall & Winter squash bec. it is selected to be harvested before the rind hardens.",
-   "ingredients": "Chunked Local Butternut Squash, Kosher Salt (Salt), Ground Black Pepper (BLACK PEPPER)",
+   "ingredients": "Chunked Local Butternut Squash, Kosher Salt, Ground Black Pepper",
    "name": "Steamed Butternut Squash",
    "protein": {
     "amount": "1.1g",
@@ -130770,7 +130768,7 @@
     "amount": "9.1g",
     "percent": 41.0
    },
-   "serving_size": "4 each",
+   "serving_size": "1 each",
    "sodium": {
     "amount": "969mg",
     "percent": 42.0
@@ -159917,7 +159915,7 @@
    },
    "id": 507049,
    "information": null,
-   "ingredients": "Green Lentils (French Green Lentils), Water, Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Scallions (Fresh Scallions), Red Onions, Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt (Salt), Ground Black Pepper (), Whole Bay Leaves (Bay Leaves)",
+   "ingredients": "Green Lentils (French Green Lentils), Water, Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Scallions (Fresh Scallions), Red Onions, Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper, Whole Bay Leaves (Bay Leaves)",
    "name": "Green Lentils, Scallion & Red Onion",
    "protein": {
     "amount": "8.4g",
@@ -170216,7 +170214,7 @@
    },
    "id": 560128,
    "information": null,
-   "ingredients": "Chicken Breast (H) (Chicken Breast Boneless, Skinless.), Fresh Thyme (Fresh Thyme), Onions (Onions), White Vinegar (White Distilled Vinegar dilluted with Water to 5% Acidity.), Ground Cumin (Ground Cumin), Garlic (Garlic), Cilantro (Cilantro), Cilantro (Cilantro), Kosher Salt (Salt), Spanish Paprika (Paprika), Scallions (Scallions), Ground Black Pepper ()",
+   "ingredients": "Chicken Breast (H) (Chicken Breast Boneless, Skinless.), Fresh Thyme (Fresh Thyme), Onions (Onions), White Vinegar (White Distilled Vinegar dilluted with Water to 5% Acidity.), Ground Cumin (Ground Cumin), Garlic (Garlic), Cilantro (Cilantro), Cilantro (Cilantro), Kosher Salt, Spanish Paprika (Paprika), Scallions (Scallions), Ground Black Pepper",
    "name": "Halal Columbian Spice Chicken",
    "protein": {
     "amount": "28.6g",
@@ -170357,7 +170355,7 @@
    },
    "id": 561039,
    "information": null,
-   "ingredients": "Tempeh Soy (Cultured Organic Soybean, White Rice , Water.Lactic Acid from Plant Sources, Organic Brown Rice.), Chimichurri Sauce (Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Diced Red Onions (Red Onions), Garlic (Garlic), Lime Juice (Lime Juice), Parsley (Parsley), Cilantro (Cilantro), Kosher Salt (Salt), Ground Black Pepper ()), Balsamic Vinegar (Balsamic Vinegar of Moderna. Contains Sulfites.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Greek Leaf Oregano (Dried Oregano), Crushed Red Pepper (Red chile peppers)",
+   "ingredients": "Tempeh Soy (Cultured Organic Soybean, White Rice , Water.Lactic Acid from Plant Sources, Organic Brown Rice.), Chimichurri Sauce (Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Diced Red Onions (Red Onions), Garlic (Garlic), Lime Juice (Lime Juice), Parsley (Parsley), Cilantro (Cilantro), Kosher Salt, Ground Black Pepper), Balsamic Vinegar (Balsamic Vinegar of Moderna. Contains Sulfites.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Greek Leaf Oregano (Dried Oregano), Crushed Red Pepper (Red chile peppers)",
    "name": "Pan Seared Tempeh Steaks with Chimichurri",
    "protein": {
     "amount": "21.2g",
@@ -170796,7 +170794,7 @@
    },
    "id": 566043,
    "information": null,
-   "ingredients": "Pineapple Tidbits (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Red Onions, Cilantro (Cilantro), Lime Juice (Lime Juice), Kosher Salt (Salt), Tabasco Sauce (Distilled Vinegar, Red Pepper, Salt.), Ground Black Pepper (), Ground Cumin (Ground Cumin)",
+   "ingredients": "Pineapple Tidbits (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Red Onions, Cilantro (Cilantro), Lime Juice (Lime Juice), Kosher Salt, Tabasco Sauce (Distilled Vinegar, Red Pepper, Salt.), Ground Black Pepper, Ground Cumin (Ground Cumin)",
    "name": "Pineapple Salsa",
    "protein": {
     "amount": "0.4g",
@@ -175847,42 +175845,42 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 259,
-   "calories_from_fat": 222,
+   "calories": 234,
+   "calories_from_fat": 211,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2g",
-    "percent": 7.0
+    "amount": "0.7g",
+    "percent": 3.0
    },
    "id": 700201,
    "information": null,
-   "ingredients": "Spanish Onions (Onions), Garlic (Garlic), Chimichurri Sauce (Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Italian Parsley (Italian Parsley), Red Chili Peppers, Oregano (Oregano), Garlic (Garlic), Kosher Salt (Salt)), Oranges (Orange), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Lemons (LEMONS), Limes (Fresh Limes), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of Potassium Chloride , Lactic Acid , Potassium Sorbate Added As A Preservative. Contains: Soybeans), Kosher Salt (Salt), Oregano (Oregano), Ground Black Pepper ()",
+   "ingredients": "Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Chimichurri Sauce (Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Italian Parsley (Italian Parsley), Red Chili Peppers, Oregano (Oregano), Garlic (Garlic), Kosher Salt), Spanish Onions (Onions), Orange Juice (Water, Orange Juice Concentrate), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Kosher Salt, Oregano (Oregano), Ground Cumin (Ground Cumin), Ground Black Pepper",
    "name": "Citrus Marinated Steak with Chimichurri",
    "protein": {
-    "amount": "1.9g",
-    "percent": 4.0
+    "amount": "1.2g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "3.5g",
-    "percent": 16.0
+    "amount": "2.6g",
+    "percent": 12.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "667.1mg",
+    "amount": "671.1mg",
     "percent": 29.0
    },
    "sugars": {
-    "amount": "1.3g"
+    "amount": "2.5g"
    },
    "total_carb": {
-    "amount": "12g",
-    "percent": 4.0
+    "amount": "8.5g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "24.7g",
-    "percent": 32.0
+    "amount": "23.4g",
+    "percent": 30.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -176867,7 +176865,7 @@
    },
    "id": 700602,
    "information": null,
-   "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:), Lime Juice (Lime Juice), Chives (Fresh chives), Sour Cream (Cultured Pasteurized Light Cream, Nonfat Milk, Enzymes.), White Clover Honey (Honey), Italian Parsley (Italian Parsley), Jalapeno Peppers, Garlic (Garlic), Ground Black Pepper (), Kosher Salt (Salt)",
+   "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:), Lime Juice (Lime Juice), Chives (Fresh chives), Sour Cream (Cultured Pasteurized Light Cream, Nonfat Milk, Enzymes.), White Clover Honey (Honey), Italian Parsley (Italian Parsley), Jalapeno Peppers, Garlic (Garlic), Ground Black Pepper, Kosher Salt",
    "name": "Green Godess dressing",
    "protein": {
     "amount": "4.3g",
@@ -188811,6 +188809,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "23645f509bf428507c68dbad5de7343bee922165187c5f11f1d4a60e12a95abd",
+ "sha256": "fc01dc156c8b34e6c327ef02919def2d4f4af0776ff861987f7637a04cca02dd",
  "table": "recipes"
 }

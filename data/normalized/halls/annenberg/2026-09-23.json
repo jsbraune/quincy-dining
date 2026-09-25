@@ -13,9 +13,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 80,
+       "calories": 160,
        "name": "Chicken Sausage",
-       "portion": "1 each",
+       "portion": "2 each",
        "recipeId": 89020,
        "tags": []
       }
@@ -1012,9 +1012,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 64,
+       "calories": 16,
        "name": "Palak Paneer",
-       "portion": "4 fl. oz",
+       "portion": "1 fl. oz",
        "recipeId": 255122,
        "tags": [
         "vegetarian"

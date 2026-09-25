@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T14:24:18+00:00",
+ "generatedAt": "2026-09-25T19:05:25+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -10182,7 +10182,7 @@
     "total_fat_g": 29.2,
     "trans_fat_g": 0.0
    },
-   "portion": "4 each",
+   "portion": "1 each",
    "vegan": false,
    "vegetarian": false
   },
@@ -13945,18 +13945,18 @@
    "name": "Chicken Sausage",
    "note": null,
    "nutrition": {
-    "calories": 80,
-    "cholesterol_mg": 35.0,
+    "calories": 160,
+    "cholesterol_mg": 70.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 6.0,
-    "sat_fat_g": 1.5,
-    "sodium_mg": 240.0,
+    "protein_g": 12.0,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 480.0,
     "sugars_g": 0.0,
-    "total_carb_g": 2.0,
-    "total_fat_g": 5.0,
+    "total_carb_g": 4.0,
+    "total_fat_g": 10.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 each",
+   "portion": "2 each",
    "vegan": false,
    "vegetarian": false
   },
