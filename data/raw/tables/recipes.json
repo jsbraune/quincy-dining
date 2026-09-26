@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-25T19:05:20+00:00",
+ "fetchedAt": "2026-09-26T18:13:55+00:00",
  "rows": [
   {
    "allergens": [
@@ -98680,11 +98680,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 291,
-   "calories_from_fat": 71,
+   "calories": 194,
+   "calories_from_fat": 48,
    "cholesterol": {
-    "amount": "60.8mg",
-    "percent": 20.0
+    "amount": "40.5mg",
+    "percent": 14.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98694,28 +98694,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "25.8g",
-    "percent": 51.0
+    "amount": "17.2g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "1g",
+    "percent": 5.0
    },
-   "serving_size": "6 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "440.4mg",
-    "percent": 19.0
+    "amount": "293.6mg",
+    "percent": 13.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.4g",
-    "percent": 11.0
+    "amount": "20.3g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "7.9g",
-    "percent": 10.0
+    "amount": "5.3g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -187783,43 +187783,43 @@
     "Soybeans",
     "Tree Nuts"
    ],
-   "calories": 119,
-   "calories_from_fat": 77,
+   "calories": 79,
+   "calories_from_fat": 51,
    "cholesterol": {
-    "amount": "5mg",
-    "percent": 2.0
+    "amount": "3.4mg",
+    "percent": 1.0
    },
    "dietary_fiber": {
-    "amount": "6.8g",
-    "percent": 24.0
+    "amount": "4.5g",
+    "percent": 16.0
    },
    "id": 799002,
    "information": null,
    "ingredients": "Green Leaf Lettuce, Ranch Dressing (Buttermilk (Cultured Pasteurized Low Fat Milk, Fat Free Milk, Modified Corn Starch, Salt, Mono and Diglycerides, Carrageenan, Locust Bean Gum Sodium Citrate), Soybean Oil, Water Seasoning Mix (Salt Maltodextrin, Onion Powder, Garlic Powder, Dextrose, Dehydrated Parsley, Disodium Inosinate, Disodium Guanylate, Spices, Xanthan Gum, Autolyzed Yeast Extract, Buttermilk, Turmeric (Color) Egg yolk, Liquid Sugar (Sugar Water), Vinegar, Modified Food Starch, Salt Chives, Spices, Xanthan Gum, Potassium Sorbate (Preservative) Calcium Disodium EDTA to Protect Flavor.), Red Cabbage, Grape Tomato, Shredded Carrots (Carrots), Cucumbers",
    "name": "Garden Salad",
    "protein": {
-    "amount": "2.6g",
-    "percent": 5.0
+    "amount": "1.7g",
+    "percent": 3.0
    },
    "sat_fat": {
-    "amount": "1.6g",
+    "amount": "1g",
+    "percent": 5.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "160.9mg",
     "percent": 7.0
    },
-   "serving_size": "6 oz",
-   "sodium": {
-    "amount": "241.3mg",
-    "percent": 10.0
-   },
    "sugars": {
-    "amount": "5.3g"
+    "amount": "3.5g"
    },
    "total_carb": {
-    "amount": "10.2g",
-    "percent": 4.0
+    "amount": "6.8g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "8.5g",
-    "percent": 11.0
+    "amount": "5.7g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -188809,6 +188809,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "fc01dc156c8b34e6c327ef02919def2d4f4af0776ff861987f7637a04cca02dd",
+ "sha256": "b063a068abcedd9cca69d8d437136c6cc5181caaf4081264a245eef49ed66d9e",
  "table": "recipes"
 }
