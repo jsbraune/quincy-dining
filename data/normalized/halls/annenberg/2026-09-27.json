@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "fetchedAt": "2026-09-21T15:38:25+00:00",
+ "fetchedAt": "2026-09-27T18:51:17+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 181,
@@ -194,9 +194,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -389,9 +389,9 @@
       },
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1149,9 +1149,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1644,15 +1644,13 @@
     {
      "items": [
       {
-       "allergens": [
-        "Milk",
-        "Soybeans"
-       ],
-       "calories": 231,
-       "name": "Barley Risotto with Mushroom",
-       "portion": "4 oz",
-       "recipeId": 300158,
+       "allergens": [],
+       "calories": 50,
+       "name": "Barley",
+       "portion": "2 oz",
+       "recipeId": 164034,
        "tags": [
+        "vegan",
         "vegetarian"
        ]
       }

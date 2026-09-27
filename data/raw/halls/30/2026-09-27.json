@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "fetchedAt": "2026-09-21T15:38:25+00:00",
+ "fetchedAt": "2026-09-27T18:51:17+00:00",
  "itemCount": 181,
  "locationNum": "30",
  "meals": [
@@ -546,7 +546,7 @@
     {
      "items": [
       {
-       "name": "Barley Risotto with Mushroom"
+       "name": "Barley"
       }
      ],
      "name": "Plant protein"
@@ -756,6 +756,6 @@
    ]
   }
  ],
- "mealsSha256": "730ff252a5ec69beade5d931aa8253612317a28b3e2a1cf16b892d3d2f645c72",
+ "mealsSha256": "4d622bcc5fde2dc1066809f5c7bb509ab8017957c0afa8663d2920195b429057",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

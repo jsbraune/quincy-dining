@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-26T18:13:55+00:00",
+ "fetchedAt": "2026-09-27T18:51:11+00:00",
  "rows": [
   {
    "allergens": [
@@ -71034,14 +71034,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -71053,17 +71053,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -161628,18 +161628,18 @@
   },
   {
    "allergens": [],
-   "calories": 113,
+   "calories": 114,
    "calories_from_fat": 35,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "5.7g",
-    "percent": 20.0
+    "amount": "5.8g",
+    "percent": 21.0
    },
    "id": 508067,
    "information": "Paella originated in Valencia and Spain, with the name referencing the shallow pan - or paella - in which the dish is cooked.",
-   "ingredients": "Water, Quinoa (Quinoa), Eggplant (FRESH EGGPLANT), Fennel, Onions (Onions), Butternut Squash (Butternut Squash), Leeks, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Italian Parsley (Italian Parsley), Suntan Peppers (Bell Peppers), Saffron (Saffron)",
+   "ingredients": "Water, Quinoa (Quinoa), Eggplant (FRESH EGGPLANT), Fennel, Onions (Onions), Butternut Squash (Butternut Squash), Suntan Peppers (Bell Peppers), Leeks, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Italian Parsley (Italian Parsley), Saffron (Saffron)",
    "name": "Vegetable Quinoa Paella",
    "protein": {
     "amount": "3.5g",
@@ -161651,13 +161651,13 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "11.1mg"
+    "amount": "11.3mg"
    },
    "sugars": {
-    "amount": "1.9g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "16.4g",
+    "amount": "16.7g",
     "percent": 6.0
    },
    "total_fat": {
@@ -188809,6 +188809,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "b063a068abcedd9cca69d8d437136c6cc5181caaf4081264a245eef49ed66d9e",
+ "sha256": "c0a56af8da3ba7ea33f49faf1941e284d9e634cdbfd286f2f84ca2ec40562394",
  "table": "recipes"
 }

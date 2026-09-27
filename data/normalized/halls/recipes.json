@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27T14:33:17+00:00",
+ "generatedAt": "2026-09-27T18:52:31+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -5438,17 +5438,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 32,
+    "calories": 81,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.5,
+    "dietary_fiber_g": 6.3,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 1.7,
-    "total_carb_g": 7.9,
-    "total_fat_g": 0.1,
+    "sodium_mg": 4.3,
+    "total_carb_g": 19.6,
+    "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "5 oz",
    "vegan": true,
    "vegetarian": true
   },
