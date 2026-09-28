@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-27T18:51:11+00:00",
+ "fetchedAt": "2026-09-28T17:19:20+00:00",
  "rows": [
   {
    "allergens": [
@@ -22317,7 +22317,7 @@
    "name": "Chefs Choice",
    "protein": null,
    "sat_fat": null,
-   "serving_size": "1 each",
+   "serving_size": "4 each",
    "sodium": null,
    "sugars": null,
    "total_carb": null,
@@ -71034,14 +71034,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 32,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "2.5g",
+    "percent": 9.0
    },
    "id": 204010,
    "information": null,
@@ -71053,17 +71053,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "1.7mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -96854,41 +96854,43 @@
   },
   {
    "allergens": [],
-   "calories": 69,
-   "calories_from_fat": 43,
+   "calories": 277,
+   "calories_from_fat": 172,
    "cholesterol": {
-    "amount": "17.4mg",
-    "percent": 6.0
+    "amount": "69.5mg",
+    "percent": 23.0
    },
    "dietary_fiber": {
-    "amount": "0.1g"
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "id": 300008,
    "information": null,
    "ingredients": "Beef Ground (H), Onions (Onions), Water, Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.)",
    "name": "Halal Beef Taco Meat",
    "protein": {
-    "amount": "5g",
-    "percent": 10.0
+    "amount": "20g",
+    "percent": 39.0
    },
    "sat_fat": {
-    "amount": "2.2g",
-    "percent": 10.0
+    "amount": "8.8g",
+    "percent": 40.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "133.7mg",
-    "percent": 6.0
+    "amount": "534.9mg",
+    "percent": 23.0
    },
    "sugars": {
-    "amount": "0.5g"
+    "amount": "2.2g"
    },
    "total_carb": {
-    "amount": "1.1g"
+    "amount": "4.6g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "4.8g",
-    "percent": 6.0
+    "amount": "19g",
+    "percent": 24.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -184707,9 +184709,9 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1/2 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "0mg"
+    "amount": "0.1mg"
    },
    "sugars": {
     "amount": "0g"
@@ -188809,6 +188811,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "c0a56af8da3ba7ea33f49faf1941e284d9e634cdbfd286f2f84ca2ec40562394",
+ "sha256": "18aae8150e94ccfa8e2c336d653db4a72d7c0259fb005ba334ef66bb9ce843ab",
  "table": "recipes"
 }
