@@ -1,7 +1,7 @@
 {
  "date": "2026-09-28",
- "fetchedAt": "2026-09-22T13:52:58+00:00",
- "itemCount": 156,
+ "fetchedAt": "2026-09-28T21:01:16+00:00",
+ "itemCount": 155,
  "locationNum": "07",
  "meals": [
   {
@@ -517,9 +517,6 @@
     {
      "items": [
       {
-       "name": "Banana Pudding"
-      },
-      {
        "name": "Pineapple Soft serve"
       },
       {
@@ -661,6 +658,6 @@
    ]
   }
  ],
- "mealsSha256": "3ee8f867ad9343a3280a4620877da67568ca79aee4510c65d3a174c066b47c2b",
+ "mealsSha256": "5379c130add100a036945adaa2d761471685fc39dbfb49df9e3705de6163a31a",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
