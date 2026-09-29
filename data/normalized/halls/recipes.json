@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T21:02:31+00:00",
+ "generatedAt": "2026-09-29T00:15:52+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -9321,6 +9321,29 @@
     "trans_fat_g": 0.0
    },
    "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300730": {
+   "allergens": [
+    "Wheat"
+   ],
+   "ingredients": "Chicken Tenders Homestyle (Chicken Tenderloins Containing: Up To 18% Of A Solution Of Water, Seasoning [Salt, Flavors, Maltodextrin, Sugar, Vegetable Stock (Carrot, Onion, Celery), Garlic Powder], Modified Food Starch, Sodium Phosphates. Breaded With: Wheat Flour, Water, Salt, Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate, Monocalcium Phosphate, Sodium Acid Pyrophosphate), Wheat Gluten, Spices, Garlic Powder, Onion Powder, Disodium Inosinate And Disodium Guanylate, Natural Flavor. Breading Set In Vegetable Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
+   "name": "Chicken Tender",
+   "note": null,
+   "nutrition": {
+    "calories": 584,
+    "cholesterol_mg": 45.6,
+    "dietary_fiber_g": 1.5,
+    "protein_g": 25.8,
+    "sat_fat_g": 4.7,
+    "sodium_mg": 835.3,
+    "sugars_g": 0.0,
+    "total_carb_g": 25.8,
+    "total_fat_g": 43.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
    "vegan": false,
    "vegetarian": false
   },

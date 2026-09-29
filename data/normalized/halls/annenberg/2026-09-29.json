@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "fetchedAt": "2026-09-23T14:03:42+00:00",
+ "fetchedAt": "2026-09-29T00:14:34+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 173,
@@ -1575,15 +1575,12 @@
      "items": [
       {
        "allergens": [
-        "Eggs",
-        "Milk",
-        "Soybeans",
         "Wheat"
        ],
-       "calories": 336,
-       "name": "Butter Chicken",
-       "portion": "5 oz",
-       "recipeId": 250081,
+       "calories": 584,
+       "name": "Chicken Tender",
+       "portion": "6 oz",
+       "recipeId": 300730,
        "tags": []
       },
       {

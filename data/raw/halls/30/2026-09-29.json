@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "fetchedAt": "2026-09-23T14:03:42+00:00",
+ "fetchedAt": "2026-09-29T00:14:34+00:00",
  "itemCount": 173,
  "locationNum": "30",
  "meals": [
@@ -517,7 +517,7 @@
     {
      "items": [
       {
-       "name": "Butter Chicken"
+       "name": "Chicken Tender"
       },
       {
        "name": "Shrimp In Curry & Coconut Milk"
@@ -732,6 +732,6 @@
    ]
   }
  ],
- "mealsSha256": "ca619bf1e4130d61440da01f2b9aa7f514d81e87700605cd3b959fba938bc6dc",
+ "mealsSha256": "f0ab0fbcf0a6ad4a953bc4a11bfefda91f0bb63b2c3ad8726a1b474f06aa3c55",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
