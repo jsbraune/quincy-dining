@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T00:15:52+00:00",
+ "generatedAt": "2026-09-29T15:21:49+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2365,6 +2365,32 @@
    },
    "portion": "5 oz",
    "vegan": true,
+   "vegetarian": true
+  },
+  "145497": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Potato Cheddar Pierogies (Enriched Wheat Flour, Fresh Potatoes, Water, Vegetable Oil Margarine (Contains Modified Palm Oil and Palm Kernel Oil), White Cheddar Cheese, Seasoning (Salt, Sugar, Dehydrated Onion, Hydrolyzed Soy and Corn Protein, Cornstarch, Spice, Disodium Inosinate, Disodium Guanylate), Canola Oil, Salt, Onion, Mozzarella Cheese, Swiss Cheese. 2)Flour< Potato Flakes, Soybean Oil, Dehydrated Cheddar Cheese, Pasteurized Milk, Cheese Cultures Salt, Enzymes Disodium Phosphate, Salt Onion, Natural Flavor, Eggs, Yeast Extract, Whey, Spice Annato, And Turmeric (Color)), Onions (Onions), Unsalted Butter (Cream (Milk), Natural Flavoring.), Scallions (Fresh Scallions), Kosher Salt, Ground Black Pepper, Parsley (Parsley)",
+   "name": "Potato Pierogies with Onions and Butter",
+   "note": null,
+   "nutrition": {
+    "calories": 193,
+    "cholesterol_mg": 11.8,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 4.2,
+    "sat_fat_g": 4.0,
+    "sodium_mg": 315.8,
+    "sugars_g": 2.0,
+    "total_carb_g": 26.1,
+    "total_fat_g": 7.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
+   "vegan": false,
    "vegetarian": true
   },
   "150044": {
@@ -12651,6 +12677,29 @@
     "sugars_g": 8.3,
     "total_carb_g": 9.3,
     "total_fat_g": 0.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "504097": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "White Bean Stew (Water, Great Northern White Beans (Prepared Great Northern Beans, Water, Salt and Calcium Chloride (Firming Agent)), Diced Celery, Carrots, Turnips, Diced Onions, Canola Oil (High monounsaturated canola oil, Silicone added as an anti foaming agent.), Button White Mushrooms, Corn Starch (Derived from Waxy Maize), Vegetable Base (Salt, Water, Dextrose, Canola Oil, Sugar, Tomato Paste, Vegetable Type Flavor (Hydrolyzed Soy Protein, Salt, Maltodextrin, Soybean Oil, Natural Flavors), Dehydrated Potatoes (Potatoes, Mono and Diglycerides, Sodium Acid Pyrophosphate, Citric Acid to preserve freshness), Natural Mixed Vegetable Flavor (Propylene Glycol, Polysorbate 20, Natural Flavors, Paprika), Mushroom Flavor [Soy Sauce (Hydrolyzed Soy Protein, Corn Syrup Solids, Maltodextrin, Salt), Mushroom Extract, Soybean Oil, Natural and Artificial Flavors], Disodium Inosinate, Disodium Guanylate. Contains Soy.), Garlic Chopped in Oil (Garlic, Canola Oil (High monounsaturated canola oil, Silicone added as an anti foaming agent.)), Kosher Salt (Salt), Thyme, Rosemary (Rosemary), Ground Black Pepper, Rubbed Sage (Rubbed Sage)), Parsley",
+   "name": "White Bean Stew",
+   "note": null,
+   "nutrition": {
+    "calories": 81,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.7,
+    "protein_g": 2.2,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 346.2,
+    "sugars_g": 1.7,
+    "total_carb_g": 10.3,
+    "total_fat_g": 3.4,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
