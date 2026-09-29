@@ -534,9 +534,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -923,13 +923,11 @@
     {
      "items": [
       {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 81,
+       "allergens": [],
+       "calories": 110,
        "name": "White Bean Stew",
        "portion": "4 oz",
-       "recipeId": 504097,
+       "recipeId": 150302,
        "tags": [
         "vegan",
         "vegetarian"
@@ -1308,9 +1306,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",

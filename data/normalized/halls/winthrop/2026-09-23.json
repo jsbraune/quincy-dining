@@ -744,9 +744,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1047,9 +1047,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 16,
+       "calories": 32,
        "name": "Palak Paneer",
-       "portion": "1 fl. oz",
+       "portion": "2 fl. oz",
        "recipeId": 255122,
        "tags": [
         "vegetarian"
@@ -1528,9 +1528,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",

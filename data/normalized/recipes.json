@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T19:44:56+00:00",
+ "generatedAt": "2026-09-29T23:30:49+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -707,6 +707,30 @@
     "trans_fat_g": 0.0
    },
    "portion": "6 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "111147": {
+   "allergens": [
+    "Milk",
+    "Soybeans"
+   ],
+   "ingredients": "Pulled Chicken (Dark chicken meat, water, tomatoes (water, tomato paste), seasoning (salt, sugar, spices, dehydrated garlic, xanthan gum, mustard, dehydrated onion, corn syrup solids, paprika, canola oil, chili pepper, lemon juice solids, natural flavors, garlic powder), chicken fat, sodium phosphates, rice flour, chicken type flavor (autolyzed yeast extract, flavors, salt, chicken fat), chili powder (chili peppers, flavoring), curry powder (spices, turmeric).), Enchilada Sauce (Crushed Tomatoes (Water, Concentrated Crushed Tomatoes), Water, Modified Food Starch, Chili Powder (Chili Pepper, Spices, Salt, Garlic), Contains less than 2% of Salt, Soybean Oil, Spices, Onion Powder, Garlic, Dehydrated Guajillo Chili Peppers, Citric Acid, Sodium Benzoate (Preservative).), Corn Tortillas 6\" (White Corn Cooked with Lime-Water, Sodium Propionate, Cellulose Gum, Fumaric Acid and Sorbic Acid added to preserve freshness.), Shredded White Cheddar Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt Enzymes, Annatto Color). Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme Produced With Bio Engineered Ingredients*), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers)",
+   "name": "Chicken and Cheese Enchiladas Bake",
+   "note": null,
+   "nutrition": {
+    "calories": 484,
+    "cholesterol_mg": 116.4,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 26.8,
+    "sat_fat_g": 12.2,
+    "sodium_mg": 1414.4,
+    "sugars_g": 0.0,
+    "total_carb_g": 28.4,
+    "total_fat_g": 28.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -1957,18 +1981,18 @@
    "name": "Seasoned Red Beans",
    "note": null,
    "nutrition": {
-    "calories": 143,
+    "calories": 36,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 6.7,
-    "protein_g": 5.8,
-    "sat_fat_g": 0.5,
-    "sodium_mg": 289.4,
-    "sugars_g": 2.5,
-    "total_carb_g": 18.4,
-    "total_fat_g": 6.4,
+    "dietary_fiber_g": 1.7,
+    "protein_g": 1.5,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 72.3,
+    "sugars_g": 0.6,
+    "total_carb_g": 4.6,
+    "total_fat_g": 1.6,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -2243,6 +2267,27 @@
     "sugars_g": 4.0,
     "total_carb_g": 24.2,
     "total_fat_g": 19.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "150302": {
+   "allergens": [],
+   "ingredients": "Cannellini Beans (Prepared Cannellini Beans, Water, Salt, Calcium Chloride, (Firming Agent) Disodium EDTA (Preservative.)), Spinach (Spinach), Onions (Onions), Rosemary (Fresh Rosemary), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Crushed Red Pepper (Red chile peppers), Spanish Paprika (Paprika), Ground Black Pepper, Kosher Salt, Greek Leaf Oregano (Dried Oregano)",
+   "name": "White Bean Stew",
+   "note": null,
+   "nutrition": {
+    "calories": 110,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 8.3,
+    "protein_g": 7.5,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 184.5,
+    "sugars_g": 1.2,
+    "total_carb_g": 19.2,
+    "total_fat_g": 0.6,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -3980,18 +4025,18 @@
    "name": "Little Leaf Greens",
    "note": null,
    "nutrition": {
-    "calories": 8,
+    "calories": 4,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.7,
-    "protein_g": 0.8,
+    "dietary_fiber_g": 0.4,
+    "protein_g": 0.4,
     "sat_fat_g": 0.0,
-    "sodium_mg": 15.6,
-    "sugars_g": 0.4,
-    "total_carb_g": 1.6,
-    "total_fat_g": 0.1,
+    "sodium_mg": 7.8,
+    "sugars_g": 0.2,
+    "total_carb_g": 0.8,
+    "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -10474,18 +10519,18 @@
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "note": null,
    "nutrition": {
-    "calories": 345,
-    "cholesterol_mg": 26.6,
-    "dietary_fiber_g": 21.9,
-    "protein_g": 17.1,
-    "sat_fat_g": 4.1,
-    "sodium_mg": 670.0,
-    "sugars_g": 6.9,
-    "total_carb_g": 47.3,
-    "total_fat_g": 13.3,
-    "trans_fat_g": 0.1
+    "calories": 173,
+    "cholesterol_mg": 13.3,
+    "dietary_fiber_g": 10.9,
+    "protein_g": 8.6,
+    "sat_fat_g": 2.1,
+    "sodium_mg": 335.0,
+    "sugars_g": 3.4,
+    "total_carb_g": 23.6,
+    "total_fat_g": 6.6,
+    "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -10498,18 +10543,18 @@
    "name": "Protein Plus Penne with Peas, Squash and Sage Butter",
    "note": null,
    "nutrition": {
-    "calories": 374,
-    "cholesterol_mg": 14.9,
-    "dietary_fiber_g": 11.6,
-    "protein_g": 16.9,
-    "sat_fat_g": 3.6,
-    "sodium_mg": 305.7,
-    "sugars_g": 6.9,
-    "total_carb_g": 58.8,
-    "total_fat_g": 10.6,
+    "calories": 187,
+    "cholesterol_mg": 7.4,
+    "dietary_fiber_g": 5.8,
+    "protein_g": 8.4,
+    "sat_fat_g": 1.8,
+    "sodium_mg": 152.8,
+    "sugars_g": 3.5,
+    "total_carb_g": 29.4,
+    "total_fat_g": 5.3,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -12887,6 +12932,30 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "510066": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.), Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Sliced White Onions (Onions), Sliced Green Peppers (Sliced Green Pepper), Fajita Mix (Salt Sugar Spices, Vinegar flavor (Sodium Diacetate, Natural Flavoring) Garlic, Dextrose, Starch, Contains 2% or less of Caramel Color, Silicone dioxide. Smoke Flavor (Maltodextrin, smoke flavor). CONTAINS MUSTARD Black Pepper Onion, Lemon, Celery seed, Lemon Oil, Yellow Lake #5), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Kosher Salt, Garlic (Garlic)",
+   "name": "Seitan Fajitas",
+   "note": null,
+   "nutrition": {
+    "calories": 276,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.8,
+    "protein_g": 24.4,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 1288.3,
+    "sugars_g": 3.3,
+    "total_carb_g": 34.9,
+    "total_fat_g": 4.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 fajitas",
    "vegan": true,
    "vegetarian": true
   },
