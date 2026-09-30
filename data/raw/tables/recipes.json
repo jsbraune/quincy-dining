@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-29T23:30:42+00:00",
+ "fetchedAt": "2026-09-30T15:35:50+00:00",
  "rows": [
   {
    "allergens": [
@@ -39836,42 +39836,42 @@
   },
   {
    "allergens": [],
-   "calories": 36,
-   "calories_from_fat": 15,
+   "calories": 143,
+   "calories_from_fat": 58,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.7g",
-    "percent": 6.0
+    "amount": "6.7g",
+    "percent": 24.0
    },
    "id": 144044,
    "information": null,
    "ingredients": "Kidney Beans (Prepared Kidney Beans, Water, Sugar, Dextrose, Salt, Calcium Chloride (Firming Agent) , and Disodium EDTA (To Promote Color Retention).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper, Fresh Thyme (Fresh Thyme), Parsley (Parsley)",
    "name": "Seasoned Red Beans",
    "protein": {
-    "amount": "1.5g",
-    "percent": 3.0
+    "amount": "5.8g",
+    "percent": 11.0
    },
    "sat_fat": {
-    "amount": "0.1g",
-    "percent": 1.0
+    "amount": "0.5g",
+    "percent": 2.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "72.3mg",
-    "percent": 3.0
+    "amount": "289.4mg",
+    "percent": 13.0
    },
    "sugars": {
-    "amount": "0.6g"
+    "amount": "2.5g"
    },
    "total_carb": {
-    "amount": "4.6g",
-    "percent": 2.0
+    "amount": "18.4g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "1.6g",
-    "percent": 2.0
+    "amount": "6.4g",
+    "percent": 8.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -45392,8 +45392,7 @@
    "calories": 110,
    "calories_from_fat": 5,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "8.3g",
@@ -98728,11 +98727,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 194,
-   "calories_from_fat": 48,
+   "calories": 291,
+   "calories_from_fat": 71,
    "cholesterol": {
-    "amount": "40.5mg",
-    "percent": 14.0
+    "amount": "60.8mg",
+    "percent": 20.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98742,28 +98741,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "17.2g",
-    "percent": 34.0
+    "amount": "25.8g",
+    "percent": 51.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "6 oz",
    "sodium": {
-    "amount": "293.6mg",
-    "percent": 13.0
+    "amount": "440.4mg",
+    "percent": 19.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "20.3g",
-    "percent": 7.0
+    "amount": "30.4g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "5.3g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130596,43 +130595,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 358,
-   "calories_from_fat": 168,
+   "calories": 716,
+   "calories_from_fat": 337,
    "cholesterol": {
-    "amount": "7.1mg",
-    "percent": 2.0
+    "amount": "14.3mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "3.9g",
-    "percent": 14.0
+    "amount": "7.8g",
+    "percent": 28.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "18.2g",
-    "percent": 36.0
+    "amount": "36.4g",
+    "percent": 71.0
    },
    "sat_fat": {
-    "amount": "4.9g",
-    "percent": 22.0
+    "amount": "9.9g",
+    "percent": 45.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "924.6mg",
-    "percent": 40.0
+    "amount": "1849.1mg",
+    "percent": 80.0
    },
    "sugars": {
-    "amount": "3.5g"
+    "amount": "7.1g"
    },
    "total_carb": {
-    "amount": "32.4g",
-    "percent": 12.0
+    "amount": "64.8g",
+    "percent": 24.0
    },
    "total_fat": {
-    "amount": "18.7g",
-    "percent": 24.0
+    "amount": "37.3g",
+    "percent": 48.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -133966,43 +133965,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 274,
-   "calories_from_fat": 136,
+   "calories": 137,
+   "calories_from_fat": 68,
    "cholesterol": {
-    "amount": "28.6mg",
-    "percent": 10.0
+    "amount": "14.3mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "0.9g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "id": 301089,
    "information": null,
    "ingredients": "Tempura Chicken (Chicken breast water, seasoning [salt, flavors, maltodextrin, sugar, vegetable stock (carrot, onion, celery), garlic powder], salt, sodium phosphates. BATTERED WITH: Water, yellow corn flour, bleached wheat flour, modified corn starch, salt, spices, leavening (sodium bicarbonate, sodium aluminum phosphate), dextrose, wheat starch, onion powder, extractives of turmeric, spice extractive. PREDUSTED WITH: Wheat flour, leavening (sodium acid pyrophosphate, sodium bicarbonate, monocalcium phosphate), salt, spices, calcium lactate, soybean oil (as a processing aid), calcium lactate. Vegetable oil), Sweet & Sour Sauce (Water, High Fructose Corn Syrup, Distilled White Vinegar, Sugar, Tomato Paste, modified Corn Starch, Pineapple Juice Concentrate, Salt, Fd&c Yellow 5, Fd&c red 40, Citric Acid, Fd&c Yellow 6, Xanthan Gum, Natural Flavor, Sodium benzoate Added As A Preservative.), Pineapple (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Onions (Onions), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Sweet and Sour Chicken",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "5.2g",
+    "percent": 10.0
    },
    "sat_fat": {
-    "amount": "2.7g",
-    "percent": 12.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "511.8mg",
-    "percent": 22.0
+    "amount": "255.9mg",
+    "percent": 11.0
    },
    "sugars": {
-    "amount": "12g"
+    "amount": "6g"
    },
    "total_carb": {
-    "amount": "12.8g",
-    "percent": 5.0
+    "amount": "6.4g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "15.1g",
-    "percent": 19.0
+    "amount": "7.5g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -184858,9 +184857,9 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "1/2 oz",
    "sodium": {
-    "amount": "0.1mg"
+    "amount": "0mg"
    },
    "sugars": {
     "amount": "0g"
@@ -188960,6 +188959,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "5def14b82547729e398ed8c10393ddd9f45974bdc95de55de5d3c28241346ebf",
+ "sha256": "3cb654d155a0ecdb42d98c931d47c1fb15e0a4d13a8bdbdd5d6254a89cd7499c",
  "table": "recipes"
 }
