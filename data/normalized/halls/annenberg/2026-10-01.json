@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "fetchedAt": "2026-09-25T14:24:18+00:00",
+ "fetchedAt": "2026-10-01T15:58:54+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 172,
@@ -1037,17 +1037,9 @@
     {
      "items": [
       {
-       "allergens": [
-        "Milk",
-        "Wheat"
-       ],
-       "calories": 427,
-       "name": "Protein Plus Spaghetti Cacio e Pepe with Shaved Zucchini",
-       "portion": "8 oz",
-       "recipeId": 300977,
-       "tags": [
-        "vegetarian"
-       ]
+       "allergens": [],
+       "name": "Protein Plus Spaghetti with Spring Peas and Pesto",
+       "tags": []
       }
      ],
      "name": "Starch And Potatoes"

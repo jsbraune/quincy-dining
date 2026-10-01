@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "fetchedAt": "2026-09-25T14:24:18+00:00",
+ "fetchedAt": "2026-10-01T15:58:54+00:00",
  "itemCount": 172,
  "locationNum": "30",
  "meals": [
@@ -333,7 +333,7 @@
     {
      "items": [
       {
-       "name": "Protein Plus Spaghetti Cacio e Pepe with Shaved Zucchini"
+       "name": "Protein Plus Spaghetti with Spring Peas and Pesto"
       }
      ],
      "name": "Starch And Potatoes"
@@ -719,6 +719,6 @@
    ]
   }
  ],
- "mealsSha256": "659d26c27338e0f6a2ff51db299e116c6d1c999ae44ec7f40fa372dfadd25e2e",
+ "mealsSha256": "30233211e39efd7fdea8b2ed0354b96436ef538aee5d4071d2b18ab257bb8f74",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
