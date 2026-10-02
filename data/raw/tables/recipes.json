@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-01T15:58:48+00:00",
+ "fetchedAt": "2026-10-02T15:21:01+00:00",
  "rows": [
   {
    "allergens": [
@@ -51431,39 +51431,38 @@
   },
   {
    "allergens": [],
-   "calories": 138,
-   "calories_from_fat": 2,
+   "calories": 34,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.5g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
    "id": 163046,
    "information": "Bas in the Hindi language means \"aroma\" and Mati means full. Hence Basmati rice is full of aroma.",
    "ingredients": "Water, Basmati Rice (White basmati rice.)",
    "name": "Basmati Rice",
    "protein": {
-    "amount": "2.7g",
-    "percent": 5.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "1.9mg"
+    "amount": "0.5mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.2g",
-    "percent": 11.0
+    "amount": "7.6g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -81030,41 +81029,41 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 72,
-   "calories_from_fat": 18,
+   "calories": 18,
+   "calories_from_fat": 5,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "4g",
-    "percent": 14.0
+    "amount": "1g",
+    "percent": 4.0
    },
    "id": 255116,
    "information": null,
    "ingredients": "Makhni Dal (Water, Urad Dal (Black Lentils), Tomato Paste (Tomatoes, Citric Acid), Onions, Red Kidney Beans, Canola Oil, Salt, Ginger, Garlic, Spices. PRODUCED IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK , EGGS)",
    "name": "Makhni Dal",
    "protein": {
-    "amount": "4g",
-    "percent": 8.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "319.4mg",
-    "percent": 14.0
+    "amount": "79.9mg",
+    "percent": 3.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "0.2g"
    },
    "total_carb": {
-    "amount": "9.6g",
-    "percent": 3.0
+    "amount": "2.4g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2g",
-    "percent": 3.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -109811,42 +109810,40 @@
   },
   {
    "allergens": [],
-   "calories": 116,
-   "calories_from_fat": 40,
+   "calories": 68,
+   "calories_from_fat": 3,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "4.4g",
-    "percent": 16.0
+    "amount": "3.6g",
+    "percent": 13.0
    },
    "id": 300389,
    "information": null,
-   "ingredients": "Sliced Carrots (Carrots), Sliced Parsnip, Citrus Tahini (Water, Tahini Paste (100% Ground toasted sesame seeds), Oranges (Orange), Lemons (Lemons), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Fine Granulated Sugar (Sugar), Kosher Salt (Salt)), Fine Granulated Sugar (Sugar), Kosher Salt (Salt), Ground Coriander (Coriander), Ground Black Pepper (Black Pepper)",
-   "name": "Roasted Carrots & Parsnips with Citrus Tahini",
+   "ingredients": "Sliced Carrots (Carrots), Sliced Parsnip, Fine Granulated Sugar (Sugar), Kosher Salt, Ground Coriander (Coriander), Ground Black Pepper",
+   "name": "Roasted Carrots & Parsnips with Coriander",
    "protein": {
-    "amount": "2.3g",
-    "percent": 4.0
+    "amount": "1.3g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.6g",
-    "percent": 3.0
+    "amount": "0.1g"
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "233.1mg",
-    "percent": 10.0
+    "amount": "190.4mg",
+    "percent": 8.0
    },
    "sugars": {
-    "amount": "6.2g"
+    "amount": "5.9g"
    },
    "total_carb": {
-    "amount": "18.9g",
-    "percent": 7.0
+    "amount": "16.3g",
+    "percent": 6.0
    },
    "total_fat": {
-    "amount": "4.5g",
-    "percent": 6.0
+    "amount": "0.3g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -127177,11 +127174,11 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 286,
-   "calories_from_fat": 72,
+   "calories": 318,
+   "calories_from_fat": 103,
    "cholesterol": {
-    "amount": "2.9mg",
-    "percent": 1.0
+    "amount": "11.8mg",
+    "percent": 4.0
    },
    "dietary_fiber": {
     "amount": "1.7g",
@@ -127189,15 +127186,15 @@
    },
    "id": 300848,
    "information": null,
-   "ingredients": "Potato Cheddar Pierogies (Enriched Wheat Flour, Fresh Potatoes, Water, Vegetable Oil Margarine (Contains Modified Palm Oil and Palm Kernel Oil), White Cheddar Cheese, Seasoning (Salt, Sugar, Dehydrated Onion, Hydrolyzed Soy and Corn Protein, Cornstarch, Spice, Disodium Inosinate, Disodium Guanylate), Canola Oil, Salt, Onion, Mozzarella Cheese, Swiss Cheese. 2)Flour< Potato Flakes, Soybean Oil, Dehydrated Cheddar Cheese, Pasteurized Milk, Cheese Cultures Salt, Enzymes Disodium Phosphate, Salt Onion, Natural Flavor, Eggs, Yeast Extract, Whey, Spice Annato, And Turmeric (Color)), Sliced White Onions (Onions), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Unsalted Butter (Cream (Milk), Natural Flavoring.), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Potato Cheddar Pierogies (Enriched Wheat Flour, Fresh Potatoes, Water, Vegetable Oil Margarine (Contains Modified Palm Oil and Palm Kernel Oil), White Cheddar Cheese, Seasoning (Salt, Sugar, Dehydrated Onion, Hydrolyzed Soy and Corn Protein, Cornstarch, Spice, Disodium Inosinate, Disodium Guanylate), Canola Oil, Salt, Onion, Mozzarella Cheese, Swiss Cheese. 2)Flour< Potato Flakes, Soybean Oil, Dehydrated Cheddar Cheese, Pasteurized Milk, Cheese Cultures Salt, Enzymes Disodium Phosphate, Salt Onion, Natural Flavor, Eggs, Yeast Extract, Whey, Spice Annato, And Turmeric (Color)), Sliced White Onions (Onions), Unsalted Butter (Cream (Milk), Natural Flavoring.), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper",
    "name": "Potato Pierogie",
    "protein": {
     "amount": "7.3g",
     "percent": 14.0
    },
    "sat_fat": {
-    "amount": "2.3g",
-    "percent": 11.0
+    "amount": "4.7g",
+    "percent": 21.0
    },
    "serving_size": "6 oz",
    "sodium": {
@@ -127212,8 +127209,8 @@
     "percent": 16.0
    },
    "total_fat": {
-    "amount": "7.9g",
-    "percent": 10.0
+    "amount": "11.5g",
+    "percent": 15.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -131933,22 +131930,22 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 145,
-   "calories_from_fat": 74,
+   "calories": 148,
+   "calories_from_fat": 75,
    "cholesterol": {
     "amount": "21.1mg",
     "percent": 7.0
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 1.0
+    "amount": "0.7g",
+    "percent": 2.0
    },
    "id": 300996,
    "information": null,
-   "ingredients": "Tri Blend Pizza Cheese (Pasteurized Part Skim Milk, Pasteurized Milk, Cheese Culture, Salt, Enzymes, Powdered Cellulose and Dextrose (to Prevent Caking)), PIZZA DOUGH (Enriched Unbleached Wheat Flour (Wheat Flour, Niacin, Iron As Ferrous Sulfate, Thiamine Mononitrate, Enzyme, Riboflavin, Folic Acid), Water, yeast, Contains Less Than 2% Of The Following: Bread Crumbs (Bleached Wheat Flour, Yeast, Sugar, Salt), Sugar, Soybean Oil, Palm Oil, Leavening (Baking Soda, Sodium Aluminum Phosphate), Salt, Buttermilk, Wheat Gluten, Pasteurized Part Skim Milk, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Guar Gum, Whey Powder (A Milk Derivative), Xanthan Gum, Garlic Powder, Datem, Malted Barley Flour, Dextrose, Cheese Culture, Sodium Phosphate, Lactic Acid, Enzymes, Ascorbic Acid, Calcium Chloride, Powdered Cellulose, Natamycin (A Natural Mold Inhibitor). MAY CONTAIN EGGS AND SOY), Alfredo Sauce (Half & Half (Milk, Cream), Water, Parmesan Cheese (Pasteurized Cow's Milk, Cheese Culture, Salt, Enzymes), Heavy Cream, Butter (Cream, Salt), Cornstarch, Parmesan Cheese Flavor, Modified Food Starch, Natural Butter Flavor, Sea Salt, Granulated Garlic, Spices), Broccoli Florets (Broccoli), Garlic (Garlic)",
+   "ingredients": "Tri Blend Pizza Cheese (Pasteurized Part Skim Milk, Pasteurized Milk, Cheese Culture, Salt, Enzymes, Powdered Cellulose and Dextrose (to Prevent Caking)), Broccoli Florets (Broccoli), PIZZA DOUGH (Enriched Unbleached Wheat Flour (Wheat Flour, Niacin, Iron As Ferrous Sulfate, Thiamine Mononitrate, Enzyme, Riboflavin, Folic Acid), Water, yeast, Contains Less Than 2% Of The Following: Bread Crumbs (Bleached Wheat Flour, Yeast, Sugar, Salt), Sugar, Soybean Oil, Palm Oil, Leavening (Baking Soda, Sodium Aluminum Phosphate), Salt, Buttermilk, Wheat Gluten, Pasteurized Part Skim Milk, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Guar Gum, Whey Powder (A Milk Derivative), Xanthan Gum, Garlic Powder, Datem, Malted Barley Flour, Dextrose, Cheese Culture, Sodium Phosphate, Lactic Acid, Enzymes, Ascorbic Acid, Calcium Chloride, Powdered Cellulose, Natamycin (A Natural Mold Inhibitor). MAY CONTAIN EGGS AND SOY), Alfredo Sauce (Half & Half (Milk, Cream), Water, Parmesan Cheese (Pasteurized Cow's Milk, Cheese Culture, Salt, Enzymes), Heavy Cream, Butter (Cream, Salt), Cornstarch, Parmesan Cheese Flavor, Modified Food Starch, Natural Butter Flavor, Sea Salt, Granulated Garlic, Spices), Garlic (Garlic)",
    "name": "Broccoli Alfredo Pizza",
    "protein": {
-    "amount": "9g",
+    "amount": "9.3g",
     "percent": 18.0
    },
    "sat_fat": {
@@ -131957,18 +131954,18 @@
    },
    "serving_size": "1 slice",
    "sodium": {
-    "amount": "307.5mg",
-    "percent": 13.0
+    "amount": "310.6mg",
+    "percent": 14.0
    },
    "sugars": {
     "amount": "0.5g"
    },
    "total_carb": {
-    "amount": "7.5g",
+    "amount": "8.1g",
     "percent": 3.0
    },
    "total_fat": {
-    "amount": "8.2g",
+    "amount": "8.3g",
     "percent": 11.0
    },
    "trans_fat": {
@@ -132912,6 +132909,54 @@
    },
    "vegan": false,
    "vegetarian": false
+  },
+  {
+   "allergens": [
+    "Soybeans"
+   ],
+   "calories": 130,
+   "calories_from_fat": 43,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "2.8g",
+    "percent": 10.0
+   },
+   "id": 301030,
+   "information": null,
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Lima Beans (Lima Beans, Salt.), Happy Little Plant Chorizo Morning Star (Water, Soy Flour, Corn Oil, Onions, Paprika.contains 2% Or Less of Garlic (Garlic, Water), Salt, Soy Protein Isolate, Spices, Citric acid, Cooked Onion And Carrot Juice Concentrate, Garlic powder, Vinegar Solids, Onion Powder, Sugar, Paprika Extract color, Natural Flavor, Faba Bean Protein, Pea Protein.), Corn (Corn), Suntan Peppers (Bell Peppers), Spanish Onions (Onions), Celery (Celery), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Garlic (Garlic), Jalapeno Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Smoked Paprika (PAPRIKA, AND SILICON DIOXIDE (ADDED TO MAKE FREE FLOWING)..), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Ground Black Pepper",
+   "name": "Corn Maque Choux",
+   "protein": {
+    "amount": "7.5g",
+    "percent": 15.0
+   },
+   "sat_fat": {
+    "amount": "0.6g",
+    "percent": 3.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "580.9mg",
+    "percent": 25.0
+   },
+   "sugars": {
+    "amount": "2.8g"
+   },
+   "total_carb": {
+    "amount": "17.2g",
+    "percent": 6.0
+   },
+   "total_fat": {
+    "amount": "4.8g",
+    "percent": 6.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
   },
   {
    "allergens": [
@@ -134056,11 +134101,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 139,
-   "calories_from_fat": 93,
+   "calories": 130,
+   "calories_from_fat": 88,
    "cholesterol": {
-    "amount": "12.6mg",
-    "percent": 4.0
+    "amount": "10.1mg",
+    "percent": 3.0
    },
    "dietary_fiber": {
     "amount": "2.8g",
@@ -134068,31 +134113,31 @@
    },
    "id": 301091,
    "information": null,
-   "ingredients": "Eggplant (FRESH EGGPLANT), Crumbled Feta Cheese (Pasteurized Whole Milk, Skim Milk, Cream, Whey, Salt, Cultures, Enzymes, Powdered Cellulose, Potassium Sorbate, Guar Gum, Xanthan Gum, Natamycin (A Natural Mold Inhibitor).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Parsley (Parsley), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Mint, Dill (Fresh dill)",
+   "ingredients": "Eggplant (FRESH EGGPLANT), Crumbled Feta Cheese (Pasteurized Whole Milk, Skim Milk, Cream, Whey, Salt, Cultures, Enzymes, Powdered Cellulose, Potassium Sorbate, Guar Gum, Xanthan Gum, Natamycin (A Natural Mold Inhibitor).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Parsley (Parsley), Mint, Ground Cumin (Ground Cumin), Dill (Fresh dill)",
    "name": "Roasted Eggplant with Feta and Herbs",
    "protein": {
-    "amount": "3.1g",
-    "percent": 6.0
+    "amount": "2.6g",
+    "percent": 5.0
    },
    "sat_fat": {
-    "amount": "2.7g",
-    "percent": 12.0
+    "amount": "2.3g",
+    "percent": 10.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "296.3mg",
-    "percent": 13.0
+    "amount": "264.2mg",
+    "percent": 11.0
    },
    "sugars": {
-    "amount": "4g"
+    "amount": "3.9g"
    },
    "total_carb": {
-    "amount": "10.7g",
+    "amount": "10.4g",
     "percent": 4.0
    },
    "total_fat": {
-    "amount": "10.4g",
-    "percent": 13.0
+    "amount": "9.7g",
+    "percent": 12.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134523,6 +134568,54 @@
    "total_fat": {
     "amount": "5.3g",
     "percent": 7.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [
+    "Soybeans"
+   ],
+   "calories": 322,
+   "calories_from_fat": 145,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "1.7g",
+    "percent": 6.0
+   },
+   "id": 301107,
+   "information": null,
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Apricot Preserves (Apricots, High Fructose Corn Syrup, Corn Syrup, Fruit Pectin, Citric Acid), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), White Clover Honey (Honey), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Kosher Salt, Ground Black Pepper",
+   "name": "Cajun Teriyaki Apriocot Glazed Tofu",
+   "protein": {
+    "amount": "12.8g",
+    "percent": 25.0
+   },
+   "sat_fat": {
+    "amount": "1.4g",
+    "percent": 6.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "3274.9mg",
+    "percent": 142.0
+   },
+   "sugars": {
+    "amount": "26.6g"
+   },
+   "total_carb": {
+    "amount": "35.3g",
+    "percent": 13.0
+   },
+   "total_fat": {
+    "amount": "16g",
+    "percent": 21.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -188957,6 +189050,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "05079f8f02284f706f0d49bcec2f4bd714147379e0bcd8f6370b7780166ee407",
+ "sha256": "0ad64f36fc2b6f4cc8689c79743a997b75f2b869b32c4b1eb751a96a0d37fc34",
  "table": "recipes"
 }
