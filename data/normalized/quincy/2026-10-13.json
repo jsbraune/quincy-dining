@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "fetchedAt": "2026-09-30T15:35:50+00:00",
+ "fetchedAt": "2026-10-03T14:07:39+00:00",
  "itemCount": 345,
  "location": "quincy",
  "locationId": 8,
@@ -1836,7 +1836,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 426,
+       "calories": 371,
        "name": "Vegan Cheese and Tomato Panini",
        "portion": "1 piece",
        "recipeId": 300522,
