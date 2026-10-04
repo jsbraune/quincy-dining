@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-03T14:07:39+00:00",
+ "fetchedAt": "2026-10-04T18:30:09+00:00",
  "rows": [
   {
    "allergens": [
@@ -22317,7 +22317,7 @@
    "name": "Chefs Choice",
    "protein": null,
    "sat_fat": null,
-   "serving_size": "4 each",
+   "serving_size": "1 each",
    "sodium": null,
    "sugars": null,
    "total_carb": null,
@@ -71076,14 +71076,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -71095,17 +71095,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -96897,43 +96897,41 @@
   },
   {
    "allergens": [],
-   "calories": 277,
-   "calories_from_fat": 172,
+   "calories": 69,
+   "calories_from_fat": 43,
    "cholesterol": {
-    "amount": "69.5mg",
-    "percent": 23.0
+    "amount": "17.4mg",
+    "percent": 6.0
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
    "id": 300008,
    "information": null,
    "ingredients": "Beef Ground (H), Onions (Onions), Water, Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.)",
    "name": "Halal Beef Taco Meat",
    "protein": {
-    "amount": "20g",
-    "percent": 39.0
+    "amount": "5g",
+    "percent": 10.0
    },
    "sat_fat": {
-    "amount": "8.8g",
-    "percent": 40.0
+    "amount": "2.2g",
+    "percent": 10.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "534.9mg",
-    "percent": 23.0
+    "amount": "133.7mg",
+    "percent": 6.0
    },
    "sugars": {
-    "amount": "2.2g"
+    "amount": "0.5g"
    },
    "total_carb": {
-    "amount": "4.6g",
-    "percent": 2.0
+    "amount": "1.1g"
    },
    "total_fat": {
-    "amount": "19g",
-    "percent": 24.0
+    "amount": "4.8g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134247,23 +134245,23 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 408,
+   "calories": 405,
    "calories_from_fat": 182,
    "cholesterol": {
     "amount": "42.6mg",
     "percent": 14.0
    },
    "dietary_fiber": {
-    "amount": "2.8g",
-    "percent": 10.0
+    "amount": "2.4g",
+    "percent": 9.0
    },
    "id": 301095,
    "information": null,
-   "ingredients": "Sun Noodles (Unbleached Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Contains Less Than 2% Of Wheat Gluten, Sodium Carbonate, Dried Egg Whites, Potassium Carbonate, Salt, Riboflavin.), Bok Choy, Ground Pork (All natural No artificial ingredient, s Minimally Processed), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Black Vinegar (Water, Vinegar, Sugar, Salt, Onion, Orange Juice (0.6%), Carrot Juice (0.6%), Tomato Paste, Caramel, Spices), Tahini Paste (100% Ground toasted sesame seeds), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Chiu Chow Chili Crisp oil (Soybean Oil, Water, Dehydrated Garlic, Chili Pepper Powder, Salted Chili Peppers (Chili peppers, Salt), Soy Sauce (Water, Salt, Soybeans, Wheat Flour), Salt, Sesame Oil, Sugar.), Ground Black Pepper, Scallions (Scallions)",
+   "ingredients": "Sun Noodles (Unbleached Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Contains Less Than 2% Of Wheat Gluten, Sodium Carbonate, Dried Egg Whites, Potassium Carbonate, Salt, Riboflavin.), Ground Pork (All natural No artificial ingredient, s Minimally Processed), Bok Choy, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Black Vinegar (Water, Vinegar, Sugar, Salt, Onion, Orange Juice (0.6%), Carrot Juice (0.6%), Tomato Paste, Caramel, Spices), Tahini Paste (100% Ground toasted sesame seeds), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Chiu Chow Chili Crisp oil (Soybean Oil, Water, Dehydrated Garlic, Chili Pepper Powder, Salted Chili Peppers (Chili peppers, Salt), Soy Sauce (Water, Salt, Soybeans, Wheat Flour), Salt, Sesame Oil, Sugar.), Ground Black Pepper, Scallions (Scallions)",
    "name": "Dan Dan Noodles with Pork",
    "protein": {
-    "amount": "19.9g",
-    "percent": 39.0
+    "amount": "19.5g",
+    "percent": 38.0
    },
    "sat_fat": {
     "amount": "4.5g",
@@ -134271,14 +134269,14 @@
    },
    "serving_size": "8 oz",
    "sodium": {
-    "amount": "918.4mg",
-    "percent": 40.0
+    "amount": "904.7mg",
+    "percent": 39.0
    },
    "sugars": {
-    "amount": "1.6g"
+    "amount": "1.2g"
    },
    "total_carb": {
-    "amount": "38.5g",
+    "amount": "37.7g",
     "percent": 14.0
    },
    "total_fat": {
@@ -145310,7 +145308,7 @@
   },
   {
    "allergens": [],
-   "calories": 60,
+   "calories": 30,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -145323,13 +145321,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "1 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -145337,8 +145335,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "14.1g",
-    "percent": 5.0
+    "amount": "7g",
+    "percent": 3.0
    },
    "total_fat": {
     "amount": "0g"
@@ -189048,6 +189046,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "df178b94fdc9b0dcdda81ca7cf905aefc0a80305e897b465a21cee4cf1587795",
+ "sha256": "0b279b942fcdfe52c77eecab202213b3e38797b53b98ba64b7a1e48faa0b429a",
  "table": "recipes"
 }

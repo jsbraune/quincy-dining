@@ -217,9 +217,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1005,7 +1005,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 408,
+       "calories": 405,
        "name": "Dan Dan Noodles with Pork",
        "portion": "8 oz",
        "recipeId": 301095,
@@ -1074,7 +1074,7 @@
       {
        "allergens": [],
        "name": "Chefs Choice",
-       "portion": "4 each",
+       "portion": "1 each",
        "recipeId": 111000,
        "tags": [
         "vegan",
@@ -1247,9 +1247,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1649,9 +1649,9 @@
       },
       {
        "allergens": [],
-       "calories": 277,
+       "calories": 69,
        "name": "Halal Beef Taco Meat",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 300008,
        "tags": []
       }
@@ -1738,9 +1738,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 277,
+       "calories": 69,
        "name": "Halal Beef Taco Meat",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 300008,
        "tags": [
         "halal"
