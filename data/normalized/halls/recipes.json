@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T22:51:31+00:00",
+ "generatedAt": "2026-10-05T17:52:07+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -3667,6 +3667,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "171046": {
+   "allergens": [],
+   "ingredients": "Savoy Cabbage, Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil, ), Kosher Salt (Salt), Crushed Red Pepper (Crushed Red Chilies)",
+   "name": "Sauteed Savoy Cabbage",
+   "note": null,
+   "nutrition": {
+    "calories": 65,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.5,
+    "protein_g": 2.3,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 50.6,
+    "sugars_g": 2.6,
+    "total_carb_g": 6.9,
+    "total_fat_g": 4.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "171054": {
    "allergens": [],
    "ingredients": "Carrots (Carrots), Broccoli Florets (Broccoli), Cauliflower Florets (Cauliflower)",
@@ -5485,17 +5506,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 81,
+    "calories": 49,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 6.3,
+    "dietary_fiber_g": 3.8,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 4.3,
-    "total_carb_g": 19.6,
-    "total_fat_g": 0.2,
+    "sodium_mg": 2.6,
+    "total_carb_g": 11.8,
+    "total_fat_g": 0.1,
     "trans_fat_g": 0.0
    },
-   "portion": "5 oz",
+   "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -10716,18 +10737,18 @@
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "note": null,
    "nutrition": {
-    "calories": 173,
-    "cholesterol_mg": 13.3,
-    "dietary_fiber_g": 10.9,
-    "protein_g": 8.6,
-    "sat_fat_g": 2.1,
-    "sodium_mg": 335.0,
-    "sugars_g": 3.4,
-    "total_carb_g": 23.6,
-    "total_fat_g": 6.6,
-    "trans_fat_g": 0.0
+    "calories": 345,
+    "cholesterol_mg": 26.6,
+    "dietary_fiber_g": 21.9,
+    "protein_g": 17.1,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 670.0,
+    "sugars_g": 6.9,
+    "total_carb_g": 47.3,
+    "total_fat_g": 13.3,
+    "trans_fat_g": 0.1
    },
-   "portion": "4 oz",
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -14056,18 +14077,18 @@
    "name": "Chicken Sausage",
    "note": null,
    "nutrition": {
-    "calories": 160,
-    "cholesterol_mg": 70.0,
+    "calories": 80,
+    "cholesterol_mg": 35.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 12.0,
-    "sat_fat_g": 3.0,
-    "sodium_mg": 480.0,
+    "protein_g": 6.0,
+    "sat_fat_g": 1.5,
+    "sodium_mg": 240.0,
     "sugars_g": 0.0,
-    "total_carb_g": 4.0,
-    "total_fat_g": 10.0,
+    "total_carb_g": 2.0,
+    "total_fat_g": 5.0,
     "trans_fat_g": 0.0
    },
-   "portion": "2 each",
+   "portion": "1 each",
    "vegan": false,
    "vegetarian": false
   },

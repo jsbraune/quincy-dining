@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "fetchedAt": "2026-09-29T15:20:22+00:00",
+ "fetchedAt": "2026-10-05T17:50:34+00:00",
  "hall": "kirkland",
  "hallName": "Kirkland House",
  "itemCount": 160,
@@ -859,10 +859,10 @@
       },
       {
        "allergens": [],
-       "calories": 55,
-       "name": "Steamed Carrots",
+       "calories": 65,
+       "name": "Sauteed Savoy Cabbage",
        "portion": "4 oz",
-       "recipeId": 171021,
+       "recipeId": 171046,
        "tags": [
         "vegan",
         "vegetarian"

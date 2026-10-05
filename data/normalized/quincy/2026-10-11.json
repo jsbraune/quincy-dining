@@ -1,7 +1,7 @@
 {
  "date": "2026-10-11",
- "fetchedAt": "2026-09-28T17:19:20+00:00",
- "itemCount": 342,
+ "fetchedAt": "2026-10-05T17:50:27+00:00",
+ "itemCount": 343,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -182,6 +182,19 @@
        "name": "Chia Pudding with Oat Milk",
        "portion": "5 oz",
        "recipeId": 300052,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
        "tags": [
         "vegan",
         "vegetarian"
@@ -1033,9 +1046,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1091,9 +1104,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 160,
+       "calories": 80,
        "name": "Chicken Sausage",
-       "portion": "2 each",
+       "portion": "1 each",
        "recipeId": 89020,
        "tags": []
       },

@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "fetchedAt": "2026-09-29T15:20:22+00:00",
+ "fetchedAt": "2026-10-05T17:50:34+00:00",
  "itemCount": 160,
  "locationNum": "14",
  "meals": [
@@ -276,7 +276,7 @@
        "name": "Roasted Green Beans  & Onion"
       },
       {
-       "name": "Steamed Carrots"
+       "name": "Sauteed Savoy Cabbage"
       }
      ],
      "name": "Vegetables"
@@ -673,6 +673,6 @@
    ]
   }
  ],
- "mealsSha256": "e4b93d6102f15614c269e6f6770e702dd3093409a99159e1b3071c9839432bc6",
+ "mealsSha256": "b5b653980b0fa42dd0ee1acb431dc194583c1d8e6207232d6b959cea5effdf9c",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

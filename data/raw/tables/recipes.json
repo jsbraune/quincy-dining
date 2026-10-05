@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-04T18:30:09+00:00",
+ "fetchedAt": "2026-10-05T17:50:27+00:00",
  "rows": [
   {
    "allergens": [
@@ -21758,11 +21758,11 @@
   },
   {
    "allergens": [],
-   "calories": 160,
-   "calories_from_fat": 90,
+   "calories": 80,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "70mg",
-    "percent": 23.0
+    "amount": "35mg",
+    "percent": 12.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21772,28 +21772,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "12g",
-    "percent": 24.0
+    "amount": "6g",
+    "percent": 12.0
    },
    "sat_fat": {
-    "amount": "3g",
-    "percent": 14.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "2 each",
+   "serving_size": "1 each",
    "sodium": {
-    "amount": "480mg",
-    "percent": 21.0
+    "amount": "240mg",
+    "percent": 10.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "2g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "10g",
-    "percent": 13.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -71076,14 +71076,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 49,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "3.8g",
+    "percent": 13.0
    },
    "id": 204010,
    "information": null,
@@ -71095,17 +71095,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "2.6mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "11.8g",
+    "percent": 4.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -131354,46 +131354,46 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 173,
-   "calories_from_fat": 60,
+   "calories": 345,
+   "calories_from_fat": 120,
    "cholesterol": {
-    "amount": "13.3mg",
-    "percent": 4.0
+    "amount": "26.6mg",
+    "percent": 9.0
    },
    "dietary_fiber": {
-    "amount": "10.9g",
-    "percent": 39.0
+    "amount": "21.9g",
+    "percent": 78.0
    },
    "id": 300978,
    "information": null,
    "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grape Tomato, Onions (Onions), Pure Bacon Bits (Bacon Cured with (Water, Salt, Sugar, Sodium Phosphates, Sodium Nitrite.) May Contain Smoke Flavor, Sodium Ascorbate, Sugar, Brown Sugar.), Heavy Cream (Cream, Carrageenan, and Mono & Diglycerides.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parmesan Cheese (Pasteurized Part Skim Cow\u2019s Milk, Cheese Cultures, Salt, and Enzymes.), Basil (Fresh Basil.), Ground Black Pepper, Kosher Salt",
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "protein": {
-    "amount": "8.6g",
-    "percent": 17.0
+    "amount": "17.1g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "2.1g",
-    "percent": 9.0
+    "amount": "4.1g",
+    "percent": 19.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "335mg",
-    "percent": 15.0
+    "amount": "670mg",
+    "percent": 29.0
    },
    "sugars": {
-    "amount": "3.4g"
+    "amount": "6.9g"
    },
    "total_carb": {
-    "amount": "23.6g",
-    "percent": 9.0
+    "amount": "47.3g",
+    "percent": 17.0
    },
    "total_fat": {
-    "amount": "6.6g",
-    "percent": 9.0
+    "amount": "13.3g",
+    "percent": 17.0
    },
    "trans_fat": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
    "vegan": false,
    "vegetarian": false
@@ -189046,6 +189046,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "0b279b942fcdfe52c77eecab202213b3e38797b53b98ba64b7a1e48faa0b429a",
+ "sha256": "6575d5bec8727dd2cc9afe9caafc0d562046a39e3778f0536d2b674598b2ef38",
  "table": "recipes"
 }
