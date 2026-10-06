@@ -1,7 +1,7 @@
 {
  "date": "2026-10-18",
- "fetchedAt": "2026-10-05T17:50:27+00:00",
- "itemCount": 347,
+ "fetchedAt": "2026-10-06T15:40:27+00:00",
+ "itemCount": 348,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -1119,6 +1119,17 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [],
+       "calories": 107,
+       "name": "Brown Rice",
+       "portion": "3 oz",
+       "recipeId": 505064,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Today's Soup"
@@ -1583,9 +1594,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 345,
+       "calories": 173,
        "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
-       "portion": "8 oz",
+       "portion": "4 oz",
        "recipeId": 300978,
        "tags": []
       }

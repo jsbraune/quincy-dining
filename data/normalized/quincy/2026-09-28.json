@@ -1256,9 +1256,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 80,
+       "calories": 160,
        "name": "Chicken Sausage",
-       "portion": "1 each",
+       "portion": "2 each",
        "recipeId": 89020,
        "tags": []
       }
@@ -1899,7 +1899,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 254,
+       "calories": 255,
        "name": "Japchae Beef",
        "portion": "4 oz",
        "recipeId": 301096,
@@ -1910,9 +1910,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 137,
+       "calories": 274,
        "name": "Sweet and Sour Chicken",
-       "portion": "2 oz",
+       "portion": "4 oz",
        "recipeId": 301089,
        "tags": []
       }
@@ -3088,8 +3088,8 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 472,
-       "name": "Beef Stew",
+       "calories": 471,
+       "name": "Jamaican Beef Stew",
        "portion": "4 oz",
        "recipeId": 301046,
        "tags": []

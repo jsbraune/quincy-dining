@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-05T17:50:27+00:00",
+ "fetchedAt": "2026-10-06T15:40:27+00:00",
  "rows": [
   {
    "allergens": [
@@ -21758,11 +21758,11 @@
   },
   {
    "allergens": [],
-   "calories": 80,
-   "calories_from_fat": 45,
+   "calories": 160,
+   "calories_from_fat": 90,
    "cholesterol": {
-    "amount": "35mg",
-    "percent": 12.0
+    "amount": "70mg",
+    "percent": 23.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21772,28 +21772,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "6g",
-    "percent": 12.0
+    "amount": "12g",
+    "percent": 24.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "3g",
+    "percent": 14.0
    },
-   "serving_size": "1 each",
+   "serving_size": "2 each",
    "sodium": {
-    "amount": "240mg",
-    "percent": 10.0
+    "amount": "480mg",
+    "percent": 21.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2g",
+    "amount": "4g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "5g",
-    "percent": 6.0
+    "amount": "10g",
+    "percent": 13.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -39836,42 +39836,42 @@
   },
   {
    "allergens": [],
-   "calories": 143,
-   "calories_from_fat": 58,
+   "calories": 36,
+   "calories_from_fat": 15,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.7g",
-    "percent": 24.0
+    "amount": "1.7g",
+    "percent": 6.0
    },
    "id": 144044,
    "information": null,
    "ingredients": "Kidney Beans (Prepared Kidney Beans, Water, Sugar, Dextrose, Salt, Calcium Chloride (Firming Agent) , and Disodium EDTA (To Promote Color Retention).), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper, Fresh Thyme (Fresh Thyme), Parsley (Parsley)",
    "name": "Seasoned Red Beans",
    "protein": {
-    "amount": "5.8g",
-    "percent": 11.0
+    "amount": "1.5g",
+    "percent": 3.0
    },
    "sat_fat": {
-    "amount": "0.5g",
-    "percent": 2.0
+    "amount": "0.1g",
+    "percent": 1.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "289.4mg",
-    "percent": 13.0
+    "amount": "72.3mg",
+    "percent": 3.0
    },
    "sugars": {
-    "amount": "2.5g"
+    "amount": "0.6g"
    },
    "total_carb": {
-    "amount": "18.4g",
-    "percent": 7.0
+    "amount": "4.6g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "6.4g",
-    "percent": 8.0
+    "amount": "1.6g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -118651,23 +118651,23 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 746,
-   "calories_from_fat": 59,
+   "calories": 752,
+   "calories_from_fat": 60,
    "cholesterol": {
     "amount": "85.1mg",
     "percent": 28.0
    },
    "dietary_fiber": {
-    "amount": "3.5g",
-    "percent": 13.0
+    "amount": "3.8g",
+    "percent": 14.0
    },
    "id": 300594,
    "information": null,
-   "ingredients": "White Rice, Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Diced Tomato (Fresh Diced Tomatoes), Onions (Onions), Suntan Peppers (Bell Peppers), Garlic (Garlic), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cilantro (Cilantro), Ground Coriander (Coriander), Ground Cumin (Ground Cumin), Kosher Salt, Parsley (Parsley)",
+   "ingredients": "White Rice, Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Diced Tomato (Fresh Diced Tomatoes), Onions (Onions), Suntan Peppers (Bell Peppers), Ground Coriander (Coriander), Garlic (Garlic), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cilantro (Cilantro), Kosher Salt, Ground Cumin (Ground Cumin), Ground Black Pepper, Greek Leaf Oregano (Dried Oregano), Parsley (Parsley)",
    "name": "Arroz Con Pollo",
    "protein": {
-    "amount": "30.6g",
-    "percent": 60.0
+    "amount": "31g",
+    "percent": 61.0
    },
    "sat_fat": {
     "amount": "1.4g",
@@ -118675,18 +118675,18 @@
    },
    "serving_size": "6 oz",
    "sodium": {
-    "amount": "366.1mg",
-    "percent": 16.0
+    "amount": "582.9mg",
+    "percent": 25.0
    },
    "sugars": {
-    "amount": "2g"
+    "amount": "2.2g"
    },
    "total_carb": {
-    "amount": "134.5g",
+    "amount": "135.7g",
     "percent": 49.0
    },
    "total_fat": {
-    "amount": "6.5g",
+    "amount": "6.6g",
     "percent": 8.0
    },
    "trans_fat": {
@@ -131354,46 +131354,46 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 345,
-   "calories_from_fat": 120,
+   "calories": 173,
+   "calories_from_fat": 60,
    "cholesterol": {
-    "amount": "26.6mg",
-    "percent": 9.0
+    "amount": "13.3mg",
+    "percent": 4.0
    },
    "dietary_fiber": {
-    "amount": "21.9g",
-    "percent": 78.0
+    "amount": "10.9g",
+    "percent": 39.0
    },
    "id": 300978,
    "information": null,
    "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grape Tomato, Onions (Onions), Pure Bacon Bits (Bacon Cured with (Water, Salt, Sugar, Sodium Phosphates, Sodium Nitrite.) May Contain Smoke Flavor, Sodium Ascorbate, Sugar, Brown Sugar.), Heavy Cream (Cream, Carrageenan, and Mono & Diglycerides.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parmesan Cheese (Pasteurized Part Skim Cow\u2019s Milk, Cheese Cultures, Salt, and Enzymes.), Basil (Fresh Basil.), Ground Black Pepper, Kosher Salt",
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "protein": {
-    "amount": "17.1g",
-    "percent": 34.0
+    "amount": "8.6g",
+    "percent": 17.0
    },
    "sat_fat": {
-    "amount": "4.1g",
-    "percent": 19.0
+    "amount": "2.1g",
+    "percent": 9.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "670mg",
-    "percent": 29.0
+    "amount": "335mg",
+    "percent": 15.0
    },
    "sugars": {
-    "amount": "6.9g"
+    "amount": "3.4g"
    },
    "total_carb": {
-    "amount": "47.3g",
-    "percent": 17.0
+    "amount": "23.6g",
+    "percent": 9.0
    },
    "total_fat": {
-    "amount": "13.3g",
-    "percent": 17.0
+    "amount": "6.6g",
+    "percent": 9.0
    },
    "trans_fat": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
    "vegan": false,
    "vegetarian": false
@@ -133068,7 +133068,7 @@
    },
    "id": 301044,
    "information": null,
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Long Grain Rice (Rice), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Onions (Onions), Butternut Squash (Butternut Squash), Scallions (Fresh Scallions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Long Grain Rice (Rice), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Onions (Onions), Butternut Squash (Butternut Squash), Scallions (Fresh Scallions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Kosher Salt, Fresh Thyme (Fresh Thyme), Ground Allspice (Allspice)",
    "name": "Pumpkin Squash Rice",
    "protein": {
     "amount": "3.3g",
@@ -133087,11 +133087,11 @@
     "amount": "0.9g"
    },
    "total_carb": {
-    "amount": "27.3g",
+    "amount": "27.2g",
     "percent": 10.0
    },
    "total_fat": {
-    "amount": "3.7g",
+    "amount": "3.6g",
     "percent": 5.0
    },
    "trans_fat": {
@@ -133125,7 +133125,7 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "150.8mg",
+    "amount": "150.7mg",
     "percent": 7.0
    },
    "sugars": {
@@ -133150,22 +133150,22 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 472,
+   "calories": 471,
    "calories_from_fat": 176,
    "cholesterol": {
     "amount": "147.3mg",
     "percent": 49.0
    },
    "dietary_fiber": {
-    "amount": "6.2g",
+    "amount": "6.1g",
     "percent": 22.0
    },
    "id": 301046,
    "information": null,
-   "ingredients": "Beef Stew Meat (Beef Stew Meat), Green Seasoning Marinade (Scallions (Fresh Scallions), Cilantro (Cilantro), Onions (Onions), Parsley (Parsley), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Celery (Celery), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Spanish Paprika (Paprika), Ground Ginger (Dried Ginger.)), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Potatoes, Carrots (Carrots), Onions (Onions), Water, Scallions (Fresh Scallions), Suntan Peppers (Bell Peppers), Fresh Thyme (Fresh Thyme), Curry Powder (Spices (including Cumin, Fennel, Coriander, Mustard, Fenugreek, Chile powder, Clove, Ginger, Cinnamon, Cardamom), Turmeric, Salt. Contains: Mustard.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.)",
-   "name": "Beef Stew",
+   "ingredients": "Beef Stew Meat (Beef Stew Meat), Green Seasoning Marinade (Scallions (Fresh Scallions), Cilantro (Cilantro), Onions (Onions), Parsley (Parsley), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Celery (Celery), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Spanish Paprika (Paprika), Ground Ginger (Dried Ginger.)), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Potatoes, Carrots (Carrots), Onions (Onions), Water, Scallions (Fresh Scallions), Suntan Peppers (Bell Peppers), Curry Powder (Spices (including Cumin, Fennel, Coriander, Mustard, Fenugreek, Chile powder, Clove, Ginger, Cinnamon, Cardamom), Turmeric, Salt. Contains: Mustard.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Fresh Thyme (Fresh Thyme), Spanish Paprika (Paprika), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.)",
+   "name": "Jamaican Beef Stew",
    "protein": {
-    "amount": "52.2g",
+    "amount": "52.1g",
     "percent": 102.0
    },
    "sat_fat": {
@@ -133174,14 +133174,14 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "883.4mg",
+    "amount": "883.3mg",
     "percent": 38.0
    },
    "sugars": {
     "amount": "4.5g"
    },
    "total_carb": {
-    "amount": "24.8g",
+    "amount": "24.6g",
     "percent": 9.0
    },
    "total_fat": {
@@ -134005,43 +134005,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 137,
-   "calories_from_fat": 68,
+   "calories": 274,
+   "calories_from_fat": 136,
    "cholesterol": {
-    "amount": "14.3mg",
-    "percent": 5.0
+    "amount": "28.6mg",
+    "percent": 10.0
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.9g",
+    "percent": 3.0
    },
    "id": 301089,
    "information": null,
    "ingredients": "Tempura Chicken (Chicken breast water, seasoning [salt, flavors, maltodextrin, sugar, vegetable stock (carrot, onion, celery), garlic powder], salt, sodium phosphates. BATTERED WITH: Water, yellow corn flour, bleached wheat flour, modified corn starch, salt, spices, leavening (sodium bicarbonate, sodium aluminum phosphate), dextrose, wheat starch, onion powder, extractives of turmeric, spice extractive. PREDUSTED WITH: Wheat flour, leavening (sodium acid pyrophosphate, sodium bicarbonate, monocalcium phosphate), salt, spices, calcium lactate, soybean oil (as a processing aid), calcium lactate. Vegetable oil), Sweet & Sour Sauce (Water, High Fructose Corn Syrup, Distilled White Vinegar, Sugar, Tomato Paste, modified Corn Starch, Pineapple Juice Concentrate, Salt, Fd&c Yellow 5, Fd&c red 40, Citric Acid, Fd&c Yellow 6, Xanthan Gum, Natural Flavor, Sodium benzoate Added As A Preservative.), Pineapple (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Onions (Onions), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Sweet and Sour Chicken",
    "protein": {
-    "amount": "5.2g",
-    "percent": 10.0
+    "amount": "10.4g",
+    "percent": 20.0
    },
    "sat_fat": {
-    "amount": "1.3g",
-    "percent": 6.0
+    "amount": "2.7g",
+    "percent": 12.0
    },
-   "serving_size": "2 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "255.9mg",
-    "percent": 11.0
+    "amount": "511.8mg",
+    "percent": 22.0
    },
    "sugars": {
-    "amount": "6g"
+    "amount": "12g"
    },
    "total_carb": {
-    "amount": "6.4g",
-    "percent": 2.0
+    "amount": "12.8g",
+    "percent": 5.0
    },
    "total_fat": {
-    "amount": "7.5g",
-    "percent": 10.0
+    "amount": "15.1g",
+    "percent": 19.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134293,7 +134293,7 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 254,
+   "calories": 255,
    "calories_from_fat": 129,
    "cholesterol": {
     "amount": "0mg"
@@ -134304,10 +134304,10 @@
    },
    "id": 301096,
    "information": null,
-   "ingredients": "Beef Stir Fry Strips , Glass Noodles (Sweet potato starch), Baby Spinach, Shredded Carrots (Carrots), Button White Mushrooms (Fresh White Button Mushrooms), Onions (Onions), Suntan Peppers (Bell Peppers), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Pure Toasted Sesame Oil (Sesame oil), Whole Hulled Sesame Seeds (Sesame Seeds), Rice Wine (Glucose syrup, Water, Alcohol, Rice, Corn Syrup, Salt.), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Pure Toasted Sesame Oil (Sesame oil), White Clover Honey (Honey), Scallions (Scallions), Ground Black Pepper",
+   "ingredients": "Beef Stir Fry Strips , Glass Noodles (Sweet potato starch), Baby Spinach, Shredded Carrots (Carrots), Button White Mushrooms (Fresh White Button Mushrooms), Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Suntan Peppers (Bell Peppers), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Pure Toasted Sesame Oil (Sesame oil), Whole Hulled Sesame Seeds (Sesame Seeds), Rice Wine (Glucose syrup, Water, Alcohol, Rice, Corn Syrup, Salt.), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Pure Toasted Sesame Oil (Sesame oil), White Clover Honey (Honey), Scallions (Scallions), Ground Black Pepper",
    "name": "Japchae Beef",
    "protein": {
-    "amount": "12.5g",
+    "amount": "12.6g",
     "percent": 25.0
    },
    "sat_fat": {
@@ -134316,14 +134316,14 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "451.9mg",
-    "percent": 20.0
+    "amount": "555.6mg",
+    "percent": 24.0
    },
    "sugars": {
-    "amount": "14.9g"
+    "amount": "15g"
    },
    "total_carb": {
-    "amount": "19.1g",
+    "amount": "19.3g",
     "percent": 7.0
    },
    "total_fat": {
@@ -145308,7 +145308,7 @@
   },
   {
    "allergens": [],
-   "calories": 30,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -145321,13 +145321,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "2 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -145335,8 +145335,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "7g",
-    "percent": 3.0
+    "amount": "14.1g",
+    "percent": 5.0
    },
    "total_fat": {
     "amount": "0g"
@@ -174726,18 +174726,18 @@
   },
   {
    "allergens": [],
-   "calories": 89,
+   "calories": 91,
    "calories_from_fat": 50,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.3g",
-    "percent": 8.0
+    "amount": "2.4g",
+    "percent": 9.0
    },
    "id": 700011,
    "information": null,
-   "ingredients": "Okra, Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Kosher Salt, Ground Black Pepper, Oregano (Oregano), Rosemary (Rosemary), Onions (Onions), Crushed Red Pepper (Red chile peppers), Whole Bay Leaves (Bay Leaves)",
+   "ingredients": "Okra, Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Onions (Onions), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Kosher Salt, Ground Black Pepper, Oregano (Oregano), Rosemary (Rosemary), Crushed Red Pepper (Red chile peppers), Whole Bay Leaves (Bay Leaves)",
    "name": "Stewed Okra",
    "protein": {
     "amount": "1.5g",
@@ -174749,14 +174749,14 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "1200.5mg",
+    "amount": "1200.7mg",
     "percent": 52.0
    },
    "sugars": {
-    "amount": "2.5g"
+    "amount": "2.7g"
    },
    "total_carb": {
-    "amount": "9g",
+    "amount": "9.4g",
     "percent": 3.0
    },
    "total_fat": {
@@ -189046,6 +189046,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "6575d5bec8727dd2cc9afe9caafc0d562046a39e3778f0536d2b674598b2ef38",
+ "sha256": "ec9dcbcb1043b86730eab041afb7e31979fe681fd50db6fb95a6654502dee256",
  "table": "recipes"
 }

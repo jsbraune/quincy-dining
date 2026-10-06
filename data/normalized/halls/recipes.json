@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T01:11:36+00:00",
+ "generatedAt": "2026-10-06T15:42:18+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -860,6 +860,30 @@
     "trans_fat_g": 0.0
    },
    "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "111147": {
+   "allergens": [
+    "Milk",
+    "Soybeans"
+   ],
+   "ingredients": "Pulled Chicken (Dark chicken meat, water, tomatoes (water, tomato paste), seasoning (salt, sugar, spices, dehydrated garlic, xanthan gum, mustard, dehydrated onion, corn syrup solids, paprika, canola oil, chili pepper, lemon juice solids, natural flavors, garlic powder), chicken fat, sodium phosphates, rice flour, chicken type flavor (autolyzed yeast extract, flavors, salt, chicken fat), chili powder (chili peppers, flavoring), curry powder (spices, turmeric).), Enchilada Sauce (Crushed Tomatoes (Water, Concentrated Crushed Tomatoes), Water, Modified Food Starch, Chili Powder (Chili Pepper, Spices, Salt, Garlic), Contains less than 2% of Salt, Soybean Oil, Spices, Onion Powder, Garlic, Dehydrated Guajillo Chili Peppers, Citric Acid, Sodium Benzoate (Preservative).), Corn Tortillas 6\" (White Corn Cooked with Lime-Water, Sodium Propionate, Cellulose Gum, Fumaric Acid and Sorbic Acid added to preserve freshness.), Shredded White Cheddar Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt Enzymes, Annatto Color). Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme Produced With Bio Engineered Ingredients*), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Medium Salsa (Tomatoes, Red Onion and Jalapeno Peppers)",
+   "name": "Chicken and Cheese Enchiladas Bake",
+   "note": null,
+   "nutrition": {
+    "calories": 484,
+    "cholesterol_mg": 116.4,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 26.8,
+    "sat_fat_g": 12.2,
+    "sodium_mg": 1414.4,
+    "sugars_g": 0.0,
+    "total_carb_g": 28.4,
+    "total_fat_g": 28.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -2283,18 +2307,18 @@
    "name": "Seasoned Red Beans",
    "note": null,
    "nutrition": {
-    "calories": 143,
+    "calories": 36,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 6.7,
-    "protein_g": 5.8,
-    "sat_fat_g": 0.5,
-    "sodium_mg": 289.4,
-    "sugars_g": 2.5,
-    "total_carb_g": 18.4,
-    "total_fat_g": 6.4,
+    "dietary_fiber_g": 1.7,
+    "protein_g": 1.5,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 72.3,
+    "sugars_g": 0.6,
+    "total_carb_g": 4.6,
+    "total_fat_g": 1.6,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -10737,18 +10761,18 @@
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "note": null,
    "nutrition": {
-    "calories": 345,
-    "cholesterol_mg": 26.6,
-    "dietary_fiber_g": 21.9,
-    "protein_g": 17.1,
-    "sat_fat_g": 4.1,
-    "sodium_mg": 670.0,
-    "sugars_g": 6.9,
-    "total_carb_g": 47.3,
-    "total_fat_g": 13.3,
-    "trans_fat_g": 0.1
+    "calories": 173,
+    "cholesterol_mg": 13.3,
+    "dietary_fiber_g": 10.9,
+    "protein_g": 8.6,
+    "sat_fat_g": 2.1,
+    "sodium_mg": 335.0,
+    "sugars_g": 3.4,
+    "total_carb_g": 23.6,
+    "total_fat_g": 6.6,
+    "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -11046,7 +11070,7 @@
     "Soybeans",
     "Tree Nuts"
    ],
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Long Grain Rice (Rice), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Onions (Onions), Butternut Squash (Butternut Squash), Scallions (Fresh Scallions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Fresh Thyme (Fresh Thyme), Kosher Salt, Ground Allspice (Allspice)",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Long Grain Rice (Rice), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Black-eyed Peas (Prepared Blackeye Peas, Water, Salt, Calcium Chloride, and Disodium EDTA added for color retention.), Onions (Onions), Butternut Squash (Butternut Squash), Scallions (Fresh Scallions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Habanero Pepper, Kosher Salt, Fresh Thyme (Fresh Thyme), Ground Allspice (Allspice)",
    "name": "Pumpkin Squash Rice",
    "note": null,
    "nutrition": {
@@ -11057,8 +11081,8 @@
     "sat_fat_g": 2.2,
     "sodium_mg": 329.2,
     "sugars_g": 0.9,
-    "total_carb_g": 27.3,
-    "total_fat_g": 3.7,
+    "total_carb_g": 27.2,
+    "total_fat_g": 3.6,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -11076,7 +11100,7 @@
     "dietary_fiber_g": 1.7,
     "protein_g": 3.0,
     "sat_fat_g": 0.1,
-    "sodium_mg": 150.8,
+    "sodium_mg": 150.7,
     "sugars_g": 2.7,
     "total_carb_g": 11.2,
     "total_fat_g": 1.5,
@@ -11457,18 +11481,18 @@
    "name": "Sweet and Sour Chicken",
    "note": null,
    "nutrition": {
-    "calories": 137,
-    "cholesterol_mg": 14.3,
-    "dietary_fiber_g": 0.4,
-    "protein_g": 5.2,
-    "sat_fat_g": 1.3,
-    "sodium_mg": 255.9,
-    "sugars_g": 6.0,
-    "total_carb_g": 6.4,
-    "total_fat_g": 7.5,
+    "calories": 274,
+    "cholesterol_mg": 28.6,
+    "dietary_fiber_g": 0.9,
+    "protein_g": 10.4,
+    "sat_fat_g": 2.7,
+    "sodium_mg": 511.8,
+    "sugars_g": 12.0,
+    "total_carb_g": 12.8,
+    "total_fat_g": 15.1,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -11593,18 +11617,18 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Beef Stir Fry Strips , Glass Noodles (Sweet potato starch), Baby Spinach, Shredded Carrots (Carrots), Button White Mushrooms (Fresh White Button Mushrooms), Onions (Onions), Suntan Peppers (Bell Peppers), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Pure Toasted Sesame Oil (Sesame oil), Whole Hulled Sesame Seeds (Sesame Seeds), Rice Wine (Glucose syrup, Water, Alcohol, Rice, Corn Syrup, Salt.), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Pure Toasted Sesame Oil (Sesame oil), White Clover Honey (Honey), Scallions (Scallions), Ground Black Pepper",
+   "ingredients": "Beef Stir Fry Strips , Glass Noodles (Sweet potato starch), Baby Spinach, Shredded Carrots (Carrots), Button White Mushrooms (Fresh White Button Mushrooms), Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Suntan Peppers (Bell Peppers), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Pure Toasted Sesame Oil (Sesame oil), Whole Hulled Sesame Seeds (Sesame Seeds), Rice Wine (Glucose syrup, Water, Alcohol, Rice, Corn Syrup, Salt.), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Pure Toasted Sesame Oil (Sesame oil), White Clover Honey (Honey), Scallions (Scallions), Ground Black Pepper",
    "name": "Japchae Beef",
    "note": null,
    "nutrition": {
-    "calories": 254,
+    "calories": 255,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 0.6,
-    "protein_g": 12.5,
+    "protein_g": 12.6,
     "sat_fat_g": 4.9,
-    "sodium_mg": 451.9,
-    "sugars_g": 14.9,
-    "total_carb_g": 19.1,
+    "sodium_mg": 555.6,
+    "sugars_g": 15.0,
+    "total_carb_g": 19.3,
     "total_fat_g": 14.3,
     "trans_fat_g": 0.0
    },
@@ -12968,6 +12992,30 @@
    "vegan": true,
    "vegetarian": true
   },
+  "510066": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.), Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Sliced White Onions (Onions), Sliced Green Peppers (Sliced Green Pepper), Fajita Mix (Salt Sugar Spices, Vinegar flavor (Sodium Diacetate, Natural Flavoring) Garlic, Dextrose, Starch, Contains 2% or less of Caramel Color, Silicone dioxide. Smoke Flavor (Maltodextrin, smoke flavor). CONTAINS MUSTARD Black Pepper Onion, Lemon, Celery seed, Lemon Oil, Yellow Lake #5), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Kosher Salt, Garlic (Garlic)",
+   "name": "Seitan Fajitas",
+   "note": null,
+   "nutrition": {
+    "calories": 276,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.8,
+    "protein_g": 24.4,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 1288.3,
+    "sugars_g": 3.3,
+    "total_carb_g": 34.9,
+    "total_fat_g": 4.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 fajitas",
+   "vegan": true,
+   "vegetarian": true
+  },
   "560050": {
    "allergens": [],
    "ingredients": "Zucchini Squash (Zucchini), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper",
@@ -13408,18 +13456,18 @@
   },
   "700011": {
    "allergens": [],
-   "ingredients": "Okra, Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Kosher Salt, Ground Black Pepper, Oregano (Oregano), Rosemary (Rosemary), Onions (Onions), Crushed Red Pepper (Red chile peppers), Whole Bay Leaves (Bay Leaves)",
+   "ingredients": "Okra, Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Onions (Onions), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Kosher Salt, Ground Black Pepper, Oregano (Oregano), Rosemary (Rosemary), Crushed Red Pepper (Red chile peppers), Whole Bay Leaves (Bay Leaves)",
    "name": "Stewed Okra",
    "note": null,
    "nutrition": {
-    "calories": 89,
+    "calories": 91,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.3,
+    "dietary_fiber_g": 2.4,
     "protein_g": 1.5,
     "sat_fat_g": 0.4,
-    "sodium_mg": 1200.5,
-    "sugars_g": 2.5,
-    "total_carb_g": 9.0,
+    "sodium_mg": 1200.7,
+    "sugars_g": 2.7,
+    "total_carb_g": 9.4,
     "total_fat_g": 5.6,
     "trans_fat_g": 0.0
    },
@@ -14077,18 +14125,18 @@
    "name": "Chicken Sausage",
    "note": null,
    "nutrition": {
-    "calories": 80,
-    "cholesterol_mg": 35.0,
+    "calories": 160,
+    "cholesterol_mg": 70.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 6.0,
-    "sat_fat_g": 1.5,
-    "sodium_mg": 240.0,
+    "protein_g": 12.0,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 480.0,
     "sugars_g": 0.0,
-    "total_carb_g": 2.0,
-    "total_fat_g": 5.0,
+    "total_carb_g": 4.0,
+    "total_fat_g": 10.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 each",
+   "portion": "2 each",
    "vegan": false,
    "vegetarian": false
   },
