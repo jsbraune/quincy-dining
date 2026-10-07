@@ -1,17 +1,17 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-13",
  "fetchedAt": "2026-10-07T16:04:30+00:00",
- "itemCount": 171,
- "locationNum": "30",
+ "itemCount": 179,
+ "locationNum": "08",
  "meals": [
   {
    "meal": "breakfast",
-   "sourceLabel": "Breakfast Menu",
+   "sourceLabel": "Breakfast",
    "stations": [
     {
      "items": [
       {
-       "name": "Chicken Sausage"
+       "name": "Pork Sausage Patty"
       }
      ],
      "name": "Breakfast Meats"
@@ -42,7 +42,7 @@
     {
      "items": [
       {
-       "name": "Cinnamon Roll"
+       "name": "Baked Blueberry Scone"
       },
       {
        "name": "Muffin Assortment"
@@ -81,16 +81,13 @@
     {
      "items": [
       {
-       "name": "Sweet Potato Hashbrowns"
+       "name": "Home Fried Potatoes"
       }
      ],
      "name": "Starch And Potatoes"
     },
     {
      "items": [
-      {
-       "name": "Chia Pudding with Oat Milk"
-      },
       {
        "name": "Malted Belgian Waffles"
       },
@@ -127,13 +124,25 @@
        "name": "Granola"
       },
       {
+       "name": "Grape Preserves"
+      },
+      {
        "name": "Low  Fat Chobani Plain Yogurt"
+      },
+      {
+       "name": "Overnight Oats"
       },
       {
        "name": "Plain Soy Yogurt"
       },
       {
        "name": "Sliced Strawberries"
+      },
+      {
+       "name": "Strawberry Preserves"
+      },
+      {
+       "name": "Sun Butter"
       }
      ],
      "name": "Featured Special Bar"
@@ -144,13 +153,13 @@
        "name": "Fresh Gala Apple"
       },
       {
-       "name": "Fresh Gala Apple"
-      },
-      {
-       "name": "Fresh Pear"
-      },
-      {
        "name": "Fruit, Bananas"
+      },
+      {
+       "name": "Fruit, Local Apples"
+      },
+      {
+       "name": "Kiwi"
       }
      ],
      "name": "Fresh Fruit"
@@ -159,26 +168,15 @@
   },
   {
    "meal": "lunch",
-   "sourceLabel": "Lunch Menu",
+   "sourceLabel": "LUNCH",
    "stations": [
     {
      "items": [
       {
-       "name": "Chicken Tender"
+       "name": "Broccoli And Cheddar Soup"
       },
       {
-       "name": "French Fries"
-      }
-     ],
-     "name": "MISC"
-    },
-    {
-     "items": [
-      {
-       "name": "New England Clam Chowder"
-      },
-      {
-       "name": "Roasted Vegetable Soup"
+       "name": "Lentil Soup"
       }
      ],
      "name": "Today's Soup"
@@ -186,16 +184,16 @@
     {
      "items": [
       {
-       "name": "Black Eyed Peas"
+       "name": "Baby Arugula"
       },
       {
-       "name": "Broccoli and Vegetable Honey Dijon Slaw"
+       "name": "Barley"
       },
       {
        "name": "Caesar Salad"
       },
       {
-       "name": "Chick Peas"
+       "name": "Cannellini Beans"
       },
       {
        "name": "Corn Niblets"
@@ -207,10 +205,10 @@
        "name": "Cranberries"
       },
       {
-       "name": "Diced Onions"
+       "name": "Currried Cauliflower Salad"
       },
       {
-       "name": "Farro with Dill"
+       "name": "Diced Onions"
       },
       {
        "name": "Feta Cheese"
@@ -237,13 +235,19 @@
        "name": "Kalamata Olives"
       },
       {
+       "name": "Kidney Beans"
+      },
+      {
        "name": "Little Leaf Greens"
       },
       {
-       "name": "Millet"
+       "name": "Roasted Butternut Squash"
       },
       {
        "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Sesame Lime Vinaigrette"
       },
       {
        "name": "Shredded Carrots"
@@ -255,19 +259,16 @@
        "name": "Sliced Cucumbers"
       },
       {
-       "name": "Spinach Salad Base"
-      },
-      {
        "name": "Steamed Broccoli"
       },
       {
        "name": "Suntan Pepper Strips"
       },
       {
-       "name": "Sweet Roasted Potatoes"
+       "name": "Tabouleh Salad"
       },
       {
-       "name": "Tabouleh Salad"
+       "name": "Tricolor Quinoa"
       }
      ],
      "name": "Salad Bar"
@@ -322,13 +323,13 @@
     {
      "items": [
       {
-       "name": "Cornmeal Crusted Local Catch"
-      },
-      {
        "name": "Grilled Chicken Breast"
       },
       {
-       "name": "Roasted  Hot Honey Chicken"
+       "name": "Halal Red Spiced Chicken"
+      },
+      {
+       "name": "Honey Mustard Salmon"
       }
      ],
      "name": "Entrees"
@@ -336,7 +337,7 @@
     {
      "items": [
       {
-       "name": "Smokey Hominy, Black Beans and Quinoa"
+       "name": "Vegan Cheese and Tomato Panini"
       }
      ],
      "name": "Veg,Vegan"
@@ -344,7 +345,7 @@
     {
      "items": [
       {
-       "name": "Cheesy Grits"
+       "name": "Madison Baked Shredded Potato Casserole"
       }
      ],
      "name": "Starch And Potatoes"
@@ -352,10 +353,10 @@
     {
      "items": [
       {
-       "name": "Roasted Corn with Jalapeno & Peach"
+       "name": "Roasted Broccoli"
       },
       {
-       "name": "Roasted Sprouts  and garlic"
+       "name": "Sauteed Savoy Cabbage with Mushrooms"
       }
      ],
      "name": "Vegetables"
@@ -363,7 +364,7 @@
     {
      "items": [
       {
-       "name": "Black-Eyed Pea and Peppers"
+       "name": "Green Lentils & Roasted Butternut Squash"
       }
      ],
      "name": "Plant protein"
@@ -371,10 +372,7 @@
     {
      "items": [
       {
-       "name": "Grilled Chicken Thigh"
-      },
-      {
-       "name": "Halal Cornmeal Crusted Local Catch"
+       "name": "Halal Red Spiced Chicken"
       }
      ],
      "name": "Halal"
@@ -382,13 +380,13 @@
     {
      "items": [
       {
-       "name": "Chocolate Chip Cookies"
+       "name": "Oatmeal Raisin Cookies"
       },
       {
-       "name": "Lime Soft Serve"
+       "name": "Orange Soft serve"
       },
       {
-       "name": "Mango Soft serve"
+       "name": "Raspberry Soft serve"
       }
      ],
      "name": "Desserts"
@@ -396,7 +394,15 @@
     {
      "items": [
       {
-       "name": "Raspberry  Banana  Smoothie"
+       "name": "Classic Dinner Roll"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "Strawberry Banana  Smoothie"
       }
      ],
      "name": "Delish"
@@ -412,10 +418,7 @@
     {
      "items": [
       {
-       "name": "Biscuit"
-      },
-      {
-       "name": "Chicken & Dumpling Soup"
+       "name": "Chicken  Stew"
       }
      ],
      "name": "Chili Bar/Stew"
@@ -424,15 +427,15 @@
   },
   {
    "meal": "dinner",
-   "sourceLabel": "Dinner Menu",
+   "sourceLabel": "DINNER",
    "stations": [
     {
      "items": [
       {
-       "name": "New England Clam Chowder"
+       "name": "Broccoli And Cheddar Soup"
       },
       {
-       "name": "Roasted Vegetable Soup"
+       "name": "Lentil Soup"
       }
      ],
      "name": "Today's Soup"
@@ -440,16 +443,16 @@
     {
      "items": [
       {
-       "name": "Black Eyed Peas"
+       "name": "Baby Arugula"
       },
       {
-       "name": "Broccoli and Vegetable Honey Dijon Slaw"
+       "name": "Barley"
       },
       {
        "name": "Caesar Salad"
       },
       {
-       "name": "Chick Peas"
+       "name": "Cannellini Beans"
       },
       {
        "name": "Corn Niblets"
@@ -461,10 +464,10 @@
        "name": "Cranberries"
       },
       {
-       "name": "Diced Onions"
+       "name": "Currried Cauliflower Salad"
       },
       {
-       "name": "Farro with Dill"
+       "name": "Diced Onions"
       },
       {
        "name": "Feta Cheese"
@@ -491,13 +494,19 @@
        "name": "Kalamata Olives"
       },
       {
+       "name": "Kidney Beans"
+      },
+      {
        "name": "Little Leaf Greens"
       },
       {
-       "name": "Millet"
+       "name": "Roasted Butternut Squash"
       },
       {
        "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Sesame Lime Vinaigrette"
       },
       {
        "name": "Shredded Carrots"
@@ -509,19 +518,16 @@
        "name": "Sliced Cucumbers"
       },
       {
-       "name": "Spinach Salad Base"
-      },
-      {
        "name": "Steamed Broccoli"
       },
       {
        "name": "Suntan Pepper Strips"
       },
       {
-       "name": "Sweet Roasted Potatoes"
+       "name": "Tabouleh Salad"
       },
       {
-       "name": "Tabouleh Salad"
+       "name": "Tricolor Quinoa"
       }
      ],
      "name": "Salad Bar"
@@ -529,10 +535,10 @@
     {
      "items": [
       {
-       "name": "Bistek Tagalog"
+       "name": "Pork Potsticker's"
       },
       {
-       "name": "Chicken Adobo"
+       "name": "Shaking Beef and Protein  Plus Pasta with Garlic"
       }
      ],
      "name": "Entrees"
@@ -540,7 +546,7 @@
     {
      "items": [
       {
-       "name": "Ginataan Kalabasa at Sitaw"
+       "name": "Edamame and Vegetable Potstickers"
       }
      ],
      "name": "Veg,Vegan"
@@ -548,7 +554,7 @@
     {
      "items": [
       {
-       "name": "Singang"
+       "name": "Jasmine Rice"
       }
      ],
      "name": "Starch And Potatoes"
@@ -556,10 +562,10 @@
     {
      "items": [
       {
-       "name": "Ginger Scallion Bok Choy"
+       "name": "Roasted Broccoli with Garlic & Sesame"
       },
       {
-       "name": "Steamed Broccoli"
+       "name": "Steamed Edamame"
       }
      ],
      "name": "Vegetables"
@@ -567,7 +573,7 @@
     {
      "items": [
       {
-       "name": "Bean Stew"
+       "name": "Fermented Black Bean & Garlic Lentils"
       }
      ],
      "name": "Plant protein"
@@ -575,10 +581,7 @@
     {
      "items": [
       {
-       "name": "Chicken Adobo"
-      },
-      {
-       "name": "Grilled Chicken Thigh"
+       "name": "Steamed Tofu with Ginger, Scallion & Cilantro"
       }
      ],
      "name": "Halal"
@@ -586,19 +589,25 @@
     {
      "items": [
       {
-       "name": "Lime Soft Serve"
+       "name": "Coconut Cardamom Mango Rice Pudding"
       },
       {
-       "name": "Mango Soft serve"
+       "name": "Orange Soft serve"
       },
       {
-       "name": "New York Cheese Cake"
+       "name": "Raspberry Soft serve"
       }
      ],
      "name": "Desserts"
     },
     {
      "items": [
+      {
+       "name": "Cage Free Eggs Cooked to Order"
+      },
+      {
+       "name": "Cage-Free Egg Whites Cooked to Order"
+      },
       {
        "name": "Cheddar Cheese"
       },
@@ -662,14 +671,6 @@
     {
      "items": [
       {
-       "name": "Burong Mangga"
-      }
-     ],
-     "name": "Sides"
-    },
-    {
-     "items": [
-      {
        "name": "Brown Rice"
       }
      ],
@@ -707,20 +708,43 @@
     {
      "items": [
       {
-       "name": "Creamy Basil Pesto Sauce"
-      },
-      {
        "name": "Marinara Spaghetti Sauce"
       },
       {
-       "name": "Protein Plus Cavatappi"
+       "name": "Protein Plus Spaghetti"
+      },
+      {
+       "name": "Scampi Sauce"
       }
      ],
      "name": "Whole Grain Pasta Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Broccoli"
+      },
+      {
+       "name": "Carrots"
+      },
+      {
+       "name": "Celery"
+      },
+      {
+       "name": "Italian Lite dressing (pc)"
+      },
+      {
+       "name": "Ranch Dressing"
+      },
+      {
+       "name": "Zucchini"
+      }
+     ],
+     "name": "Brain Break"
     }
    ]
   }
  ],
- "mealsSha256": "1757c3c8ee2b468552b02ce8f479c0ca9d70e4f1cf787d1c9d7aa4891eca89ad",
+ "mealsSha256": "d1832e193d0e03cf1dd6efb9c32f807cbc6b6032373a18c7fc778965f37dd23e",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
