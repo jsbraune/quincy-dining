@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-07T20:22:51+00:00",
+ "fetchedAt": "2026-10-08T16:06:38+00:00",
  "rows": [
   {
    "allergens": [
@@ -71077,14 +71077,14 @@
   },
   {
    "allergens": [],
-   "calories": 49,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "3.8g",
-    "percent": 13.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -71096,17 +71096,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "3 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "2.6mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "11.8g",
-    "percent": 4.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -96898,41 +96898,43 @@
   },
   {
    "allergens": [],
-   "calories": 69,
-   "calories_from_fat": 43,
+   "calories": 277,
+   "calories_from_fat": 172,
    "cholesterol": {
-    "amount": "17.4mg",
-    "percent": 6.0
+    "amount": "69.5mg",
+    "percent": 23.0
    },
    "dietary_fiber": {
-    "amount": "0.1g"
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "id": 300008,
    "information": null,
    "ingredients": "Beef Ground (H), Onions (Onions), Water, Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.)",
    "name": "Halal Beef Taco Meat",
    "protein": {
-    "amount": "5g",
-    "percent": 10.0
+    "amount": "20g",
+    "percent": 39.0
    },
    "sat_fat": {
-    "amount": "2.2g",
-    "percent": 10.0
+    "amount": "8.8g",
+    "percent": 40.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "133.7mg",
-    "percent": 6.0
+    "amount": "534.9mg",
+    "percent": 23.0
    },
    "sugars": {
-    "amount": "0.5g"
+    "amount": "2.2g"
    },
    "total_carb": {
-    "amount": "1.1g"
+    "amount": "4.6g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "4.8g",
-    "percent": 6.0
+    "amount": "19g",
+    "percent": 24.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -98724,11 +98726,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 291,
-   "calories_from_fat": 71,
+   "calories": 194,
+   "calories_from_fat": 48,
    "cholesterol": {
-    "amount": "60.8mg",
-    "percent": 20.0
+    "amount": "40.5mg",
+    "percent": 14.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98738,28 +98740,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "25.8g",
-    "percent": 51.0
+    "amount": "17.2g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "1g",
+    "percent": 5.0
    },
-   "serving_size": "6 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "440.4mg",
-    "percent": 19.0
+    "amount": "293.6mg",
+    "percent": 13.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.4g",
-    "percent": 11.0
+    "amount": "20.3g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "7.9g",
-    "percent": 10.0
+    "amount": "5.3g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134457,14 +134459,14 @@
    },
    "serving_size": "1 each",
    "sodium": {
-    "amount": "345.4mg",
+    "amount": "345.6mg",
     "percent": 15.0
    },
    "sugars": {
     "amount": "1g"
    },
    "total_carb": {
-    "amount": "18g",
+    "amount": "18.1g",
     "percent": 7.0
    },
    "total_fat": {
@@ -143914,36 +143916,36 @@
   },
   {
    "allergens": [],
-   "calories": 108,
+   "calories": 54,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.6g",
-    "percent": 2.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 444209,
    "information": null,
    "ingredients": "Water, Premium Brown Jasmine Rice",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1.9g",
-    "percent": 4.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "9.5mg"
+    "amount": "4.7mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "22.8g",
-    "percent": 8.0
+    "amount": "11.4g",
+    "percent": 4.0
    },
    "total_fat": {
     "amount": "0g"
@@ -145309,7 +145311,7 @@
   },
   {
    "allergens": [],
-   "calories": 30,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -145322,13 +145324,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "2 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -145336,8 +145338,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "7g",
-    "percent": 3.0
+    "amount": "14.1g",
+    "percent": 5.0
    },
    "total_fat": {
     "amount": "0g"
@@ -189149,6 +189151,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "9fbf1054a9bb2fd00c5d5c1e1d854af0d9567ca9d901929b572ae18debbf76b1",
+ "sha256": "e0bd01882d402a9747b8d1779112a15c099d26092a1d6f0ed95f08fe0f8d4ffe",
  "table": "recipes"
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T00:02:35+00:00",
+ "generatedAt": "2026-10-08T16:06:43+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -5165,17 +5165,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 49,
+    "calories": 81,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 3.8,
+    "dietary_fiber_g": 6.3,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 2.6,
-    "total_carb_g": 11.8,
-    "total_fat_g": 0.1,
+    "sodium_mg": 4.3,
+    "total_carb_g": 19.6,
+    "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "5 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -6555,18 +6555,18 @@
    "name": "Halal Beef Taco Meat",
    "note": null,
    "nutrition": {
-    "calories": 69,
-    "cholesterol_mg": 17.4,
-    "dietary_fiber_g": 0.1,
-    "protein_g": 5.0,
-    "sat_fat_g": 2.2,
-    "sodium_mg": 133.7,
-    "sugars_g": 0.5,
-    "total_carb_g": 1.1,
-    "total_fat_g": 4.8,
+    "calories": 277,
+    "cholesterol_mg": 69.5,
+    "dietary_fiber_g": 0.4,
+    "protein_g": 20.0,
+    "sat_fat_g": 8.8,
+    "sodium_mg": 534.9,
+    "sugars_g": 2.2,
+    "total_carb_g": 4.6,
+    "total_fat_g": 19.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -11526,9 +11526,9 @@
     "dietary_fiber_g": 1.3,
     "protein_g": 14.2,
     "sat_fat_g": 5.9,
-    "sodium_mg": 345.4,
+    "sodium_mg": 345.6,
     "sugars_g": 1.0,
-    "total_carb_g": 18.0,
+    "total_carb_g": 18.1,
     "total_fat_g": 12.6,
     "trans_fat_g": 0.0
    },

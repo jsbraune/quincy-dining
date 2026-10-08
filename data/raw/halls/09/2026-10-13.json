@@ -1,7 +1,7 @@
 {
  "date": "2026-10-13",
- "fetchedAt": "2026-10-07T16:04:30+00:00",
- "itemCount": 176,
+ "fetchedAt": "2026-10-08T16:06:43+00:00",
+ "itemCount": 125,
  "locationNum": "09",
  "meals": [
   {
@@ -413,13 +413,10 @@
     {
      "items": [
       {
-       "name": "Broccoli And Cheddar Soup"
-      },
-      {
-       "name": "Lentil Soup"
+       "name": "Adams House Closed for Special Event"
       }
      ],
-     "name": "Today's Soup"
+     "name": "MISC"
     },
     {
      "items": [
@@ -512,220 +509,10 @@
       }
      ],
      "name": "Salad Bar"
-    },
-    {
-     "items": [
-      {
-       "name": "Pork Potsticker's"
-      },
-      {
-       "name": "Shaking Beef and Protein  Plus Pasta with Garlic"
-      }
-     ],
-     "name": "Entrees"
-    },
-    {
-     "items": [
-      {
-       "name": "Edamame and Vegetable Potstickers"
-      }
-     ],
-     "name": "Veg,Vegan"
-    },
-    {
-     "items": [
-      {
-       "name": "Jasmine Rice"
-      }
-     ],
-     "name": "Starch And Potatoes"
-    },
-    {
-     "items": [
-      {
-       "name": "Roasted Broccoli with Garlic & Sesame"
-      },
-      {
-       "name": "Steamed Edamame"
-      }
-     ],
-     "name": "Vegetables"
-    },
-    {
-     "items": [
-      {
-       "name": "Fermented Black Bean & Garlic Lentils"
-      }
-     ],
-     "name": "Plant protein"
-    },
-    {
-     "items": [
-      {
-       "name": "Steamed Tofu with Ginger, Scallion & Cilantro"
-      }
-     ],
-     "name": "Halal"
-    },
-    {
-     "items": [
-      {
-       "name": "Coconut Cardamom Mango Rice Pudding"
-      },
-      {
-       "name": "Orange Soft serve"
-      },
-      {
-       "name": "Raspberry Soft serve"
-      }
-     ],
-     "name": "Desserts"
-    },
-    {
-     "items": [
-      {
-       "name": "Cage Free Eggs Cooked to Order"
-      },
-      {
-       "name": "Cage-Free Egg Whites Cooked to Order"
-      },
-      {
-       "name": "Cheddar Cheese"
-      },
-      {
-       "name": "Cheese Quesadilla"
-      },
-      {
-       "name": "Frankfurter Rolls"
-      },
-      {
-       "name": "French Fries"
-      },
-      {
-       "name": "Grilled All Beef Old Neighborhood Hot Dog"
-      },
-      {
-       "name": "Grilled Burger"
-      },
-      {
-       "name": "Grilled Burger Halal"
-      },
-      {
-       "name": "Grilled Cheese Sandwich"
-      },
-      {
-       "name": "Grilled Chicken"
-      },
-      {
-       "name": "Hamburger Rolls"
-      },
-      {
-       "name": "Huds Boom Sauce"
-      },
-      {
-       "name": "Jackfruit Burger"
-      },
-      {
-       "name": "Leaf Lettuce"
-      },
-      {
-       "name": "Nashville Hot Chicken Sandwich"
-      },
-      {
-       "name": "Sliced Red Onions"
-      },
-      {
-       "name": "Sliced Tomatoes"
-      },
-      {
-       "name": "Sour Cream"
-      },
-      {
-       "name": "Thick and Chunky Mild Salsa"
-      },
-      {
-       "name": "Wheat Hamburger Rolls"
-      }
-     ],
-     "name": "From the Grill"
-    },
-    {
-     "items": [
-      {
-       "name": "Brown Rice"
-      }
-     ],
-     "name": "Brown Rice station"
-    },
-    {
-     "items": [
-      {
-       "name": "Chobani Nonfat Plain Greek Yogurt"
-      },
-      {
-       "name": "Chobani Plain Greek Yogurt"
-      },
-      {
-       "name": "Fresh Fruit Salad"
-      },
-      {
-       "name": "Low  Fat Chobani Plain Yogurt"
-      },
-      {
-       "name": "Napa kimchi"
-      },
-      {
-       "name": "Pickled Okra"
-      },
-      {
-       "name": "Pickled Pepper Hot Cherry"
-      },
-      {
-       "name": "Plain Soy Yogurt"
-      }
-     ],
-     "name": "Extras"
-    },
-    {
-     "items": [
-      {
-       "name": "Marinara Spaghetti Sauce"
-      },
-      {
-       "name": "Protein Plus Spaghetti"
-      },
-      {
-       "name": "Scampi Sauce"
-      }
-     ],
-     "name": "Whole Grain Pasta Bar"
-    },
-    {
-     "items": [
-      {
-       "name": "Broccoli"
-      },
-      {
-       "name": "Carrots"
-      },
-      {
-       "name": "Celery"
-      },
-      {
-       "name": "Italian Lite dressing (pc)"
-      },
-      {
-       "name": "Ranch Dressing"
-      },
-      {
-       "name": "Zucchini"
-      }
-     ],
-     "name": "Brain Break"
     }
    ]
   }
  ],
- "mealsSha256": "55d4b647d01ed8e465848a39f21c3de9513695911c77ad25548fae44bc236c0e",
+ "mealsSha256": "5852f29492af81331426e8e6e3a77ffba44193a709c76d053779f8287c838554",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

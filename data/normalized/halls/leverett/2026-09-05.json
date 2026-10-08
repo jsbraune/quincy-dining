@@ -230,9 +230,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -427,9 +427,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1283,9 +1283,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1698,9 +1698,9 @@
       },
       {
        "allergens": [],
-       "calories": 69,
+       "calories": 277,
        "name": "Halal Beef Taco Meat",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 300008,
        "tags": []
       }
@@ -1787,9 +1787,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 69,
+       "calories": 277,
        "name": "Halal Beef Taco Meat",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 300008,
        "tags": [
         "halal"
