@@ -1,7 +1,7 @@
 {
  "date": "2026-10-13",
- "fetchedAt": "2026-10-07T16:04:30+00:00",
- "itemCount": 181,
+ "fetchedAt": "2026-10-08T20:27:11+00:00",
+ "itemCount": 182,
  "locationNum": "05",
  "meals": [
   {
@@ -709,6 +709,14 @@
     {
      "items": [
       {
+       "name": "Cabot House Closed for Special Event"
+      }
+     ],
+     "name": "Festive Meals"
+    },
+    {
+     "items": [
+      {
        "name": "Marinara Spaghetti Sauce"
       },
       {
@@ -746,6 +754,6 @@
    ]
   }
  ],
- "mealsSha256": "f6e73448cc4ff1712fcab2a170c0a54e8d04ef23d2f370352c9771bd76e00666",
+ "mealsSha256": "59e9994d8c7d3c75a937e7502f927c14fd7d32318d5a37f391820173e15278e3",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
