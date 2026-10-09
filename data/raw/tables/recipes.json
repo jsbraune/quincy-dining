@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-08T16:06:38+00:00",
+ "fetchedAt": "2026-10-09T19:57:56+00:00",
  "rows": [
   {
    "allergens": [
@@ -9889,42 +9889,42 @@
     "Tree Nuts",
     "Wheat"
    ],
-   "calories": 479,
-   "calories_from_fat": 194,
+   "calories": 599,
+   "calories_from_fat": 242,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "5.4g",
-    "percent": 19.0
+    "amount": "6.7g",
+    "percent": 24.0
    },
    "id": 40013,
    "information": null,
    "ingredients": "Rotini Pasta (Rotini Fusilli (Semolina (Wheat), Durum Wheat Flour, Niacin, Iron (Ferrous Sulfate), Thiamine Mononitrate, Riboflavin, Folic Acid. THIS PRODUCT IS MANUFACTURED ON EQUIPMENT THAT PROCESSES PRODUCTS CONTAINING EGGS)), Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Broccoli Florets (Broccoli), Carrot Coins (Carrots), Caribbean Seasoning (Salt, Spices (Including Red Pepper), Dextrose, Caramel Color, Chives, and Sulfiting Agents), Parmesan Vegan Cheese (Filtered Water, Organic Palm Fruit Oil\u2020, Modifi ed Food Starch, Canola Oil, Natural Flavors (Plant Sources [Contains Autolyzed Yeast]), VegetableGlycerin, Less than 2% of: Lactic Acid (Vegetable Source), Calcium Lactate (Vegetable Source), Sea Salt, Sodium Phosphate, Carrageenan, BambooFiber, Nutritional Yeast, Calcium Phosphate, Organic Chickpea Miso (Organic Handmade Rice Koji, Organic Whole Chickpeas, Sea Salt, Water, KojiSpores), Sunfl ower Lecithin, Citric Acid, Annatto.), Scallions (Scallions)",
    "name": "Rasta Seitan Pasta",
    "protein": {
-    "amount": "29.4g",
-    "percent": 58.0
+    "amount": "36.8g",
+    "percent": 72.0
    },
    "sat_fat": {
-    "amount": "16.6g",
-    "percent": 76.0
+    "amount": "20.8g",
+    "percent": 94.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "10 oz",
    "sodium": {
-    "amount": "917.6mg",
-    "percent": 40.0
+    "amount": "1147mg",
+    "percent": 50.0
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "4.1g"
    },
    "total_carb": {
-    "amount": "47.9g",
-    "percent": 17.0
+    "amount": "59.9g",
+    "percent": 22.0
    },
    "total_fat": {
-    "amount": "21.5g",
-    "percent": 28.0
+    "amount": "26.9g",
+    "percent": 34.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -35549,8 +35549,8 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 503,
-   "calories_from_fat": 64,
+   "calories": 522,
+   "calories_from_fat": 83,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -35560,31 +35560,31 @@
    },
    "id": 142042,
    "information": null,
-   "ingredients": "Aborio Rice (Arborio Rice), Sliced Mushrooms (Mushrooms), Vegetable Stock (Water, Vegetable Soup Base (Vegetables (Celery, Carrots, Onions), Salt, Sugar, Dehydrated Potatoes (Potatoes, Mono and Diglycerides, Sodium Acid Pyrophosphate, Citric Acid), Dextrose, Seasoning (Hydrolyzed Corn Protein, Yeast Extract), Flavoring, Disodium Inosinate, Disodium Guanylate, Beet Powder.)), Tempeh Soy (Cultured Organic Soybean, White Rice , Water.Lactic Acid from Plant Sources, Organic Brown Rice.), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Spanish Onions (Onions), Shallots (Shallots), Garlic (Garlic), Yeast Flakes (Inactive Dry Yeast, Pyridoxine Hydrochloride (Vitamin B6), Thiamin Hydrochloride (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid (Vitamin B9), Vitamin B12.), Fresh Thyme (Fresh Thyme)",
+   "ingredients": "Aborio Rice (Arborio Rice), Sliced Mushrooms (Mushrooms), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Tempeh Soy (Cultured Organic Soybean, White Rice , Water.Lactic Acid from Plant Sources, Organic Brown Rice.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Onions (Onions), Shallots (Shallots), Garlic (Garlic), Yeast Flakes (Inactive Dry Yeast, Pyridoxine Hydrochloride (Vitamin B6), Thiamin Hydrochloride (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid (Vitamin B9), Vitamin B12.), Fresh Thyme (Fresh Thyme)",
    "name": "Vegan Mushroom & Tempeh Risotto Cake",
    "protein": {
     "amount": "11.9g",
     "percent": 23.0
    },
    "sat_fat": {
-    "amount": "1.2g",
+    "amount": "1g",
     "percent": 5.0
    },
    "serving_size": "1 piece",
    "sodium": {
-    "amount": "503.3mg",
-    "percent": 22.0
+    "amount": "489.1mg",
+    "percent": 21.0
    },
    "sugars": {
-    "amount": "2.9g"
+    "amount": "3g"
    },
    "total_carb": {
-    "amount": "97.1g",
+    "amount": "97g",
     "percent": 35.0
    },
    "total_fat": {
-    "amount": "7.1g",
-    "percent": 9.0
+    "amount": "9.2g",
+    "percent": 12.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -54880,7 +54880,7 @@
    },
    "id": 171020,
    "information": null,
-   "ingredients": "Carrots (Carrots), Kosher Salt (Salt), Ground Black Pepper (BLACK PEPPER), Dill (Fresh dill)",
+   "ingredients": "Carrots (Carrots), Kosher Salt, Ground Black Pepper, Dill (Fresh dill)",
    "name": "Fresh Carrots with Dill",
    "protein": {
     "amount": "1.1g",
@@ -71077,14 +71077,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 49,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "3.8g",
+    "percent": 13.0
    },
    "id": 204010,
    "information": null,
@@ -71096,17 +71096,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "2.6mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "11.8g",
+    "percent": 4.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -96898,43 +96898,41 @@
   },
   {
    "allergens": [],
-   "calories": 277,
-   "calories_from_fat": 172,
+   "calories": 69,
+   "calories_from_fat": 43,
    "cholesterol": {
-    "amount": "69.5mg",
-    "percent": 23.0
+    "amount": "17.4mg",
+    "percent": 6.0
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
    "id": 300008,
    "information": null,
    "ingredients": "Beef Ground (H), Onions (Onions), Water, Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.)",
    "name": "Halal Beef Taco Meat",
    "protein": {
-    "amount": "20g",
-    "percent": 39.0
+    "amount": "5g",
+    "percent": 10.0
    },
    "sat_fat": {
-    "amount": "8.8g",
-    "percent": 40.0
+    "amount": "2.2g",
+    "percent": 10.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "534.9mg",
-    "percent": 23.0
+    "amount": "133.7mg",
+    "percent": 6.0
    },
    "sugars": {
-    "amount": "2.2g"
+    "amount": "0.5g"
    },
    "total_carb": {
-    "amount": "4.6g",
-    "percent": 2.0
+    "amount": "1.1g"
    },
    "total_fat": {
-    "amount": "19g",
-    "percent": 24.0
+    "amount": "4.8g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -98726,11 +98724,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 194,
-   "calories_from_fat": 48,
+   "calories": 291,
+   "calories_from_fat": 71,
    "cholesterol": {
-    "amount": "40.5mg",
-    "percent": 14.0
+    "amount": "60.8mg",
+    "percent": 20.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98740,28 +98738,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "17.2g",
-    "percent": 34.0
+    "amount": "25.8g",
+    "percent": 51.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "6 oz",
    "sodium": {
-    "amount": "293.6mg",
-    "percent": 13.0
+    "amount": "440.4mg",
+    "percent": 19.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "20.3g",
-    "percent": 7.0
+    "amount": "30.4g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "5.3g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -102260,7 +102258,7 @@
    },
    "id": 300190,
    "information": "A Monterey Bay Aquarium Seafood Watch Guide \"best\" choice. Cider and Mussels are both local and sustainable.",
-   "ingredients": "Apple Cider, White Cooking Wine (Wine, Water, Neutral Spirits, Salt, Tartaric Acid, Citric Acid, Potassium Sorbate (preservative) Potassium Metabisulfite (preservative) Caramel Color.), Half & Half Cream (Milk, Cream and Disodium Phosphate), Leeks, Shallots (Shallots), Fresh Thyme (Fresh Thyme), Ground Black Pepper (BLACK PEPPER)",
+   "ingredients": "Apple Cider, White Cooking Wine (Wine, Water, Neutral Spirits, Salt, Tartaric Acid, Citric Acid, Potassium Sorbate (preservative) Potassium Metabisulfite (preservative) Caramel Color.), Half & Half Cream (Milk, Cream and Disodium Phosphate), Leeks, Shallots (Shallots), Fresh Thyme (Fresh Thyme), Ground Black Pepper",
    "name": "Creamy Apple Cider Mussels",
    "protein": {
     "amount": "1g",
@@ -102297,8 +102295,8 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 325,
-   "calories_from_fat": 117,
+   "calories": 332,
+   "calories_from_fat": 118,
    "cholesterol": {
     "amount": "31.2mg",
     "percent": 10.0
@@ -102309,10 +102307,10 @@
    },
    "id": 300191,
    "information": null,
-   "ingredients": "Blueberries (Wild Blueberries from Maine), Oat Streusel Topping (Unsalted Butter (Cream (Milk), Natural Flavoring.), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Lite Brown Sugar (Brown Sugar), Rolled Oats (Whole grain Rolled Oats), Kosher Salt (Salt)), Fine Granulated Sugar (Sugar), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.)",
+   "ingredients": "Blueberries (Wild Blueberries from Maine), Oat Streusel Topping (Unsalted Butter (Cream (Milk), Natural Flavoring.), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Light Brown Sugar (Brown Sugar), Rolled Oats (Whole grain Rolled Oats), Kosher Salt), Fine Granulated Sugar (Sugar), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.)",
    "name": "Blueberry Cobbler",
    "protein": {
-    "amount": "2.8g",
+    "amount": "2.7g",
     "percent": 5.0
    },
    "sat_fat": {
@@ -102321,14 +102319,14 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "96.5mg",
+    "amount": "96.1mg",
     "percent": 4.0
    },
    "sugars": {
-    "amount": "18.2g"
+    "amount": "15.2g"
    },
    "total_carb": {
-    "amount": "48.8g",
+    "amount": "50.1g",
     "percent": 18.0
    },
    "total_fat": {
@@ -102391,6 +102389,56 @@
   },
   {
    "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 179,
+   "calories_from_fat": 89,
+   "cholesterol": {
+    "amount": "13mg",
+    "percent": 4.0
+   },
+   "dietary_fiber": {
+    "amount": "2.1g",
+    "percent": 8.0
+   },
+   "id": 300194,
+   "information": null,
+   "ingredients": "Little Leaf Spring Mix , Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.), Dried Cranberries Craisins (Cranberries, Sugar, Sunflower Oil), Sliced Red Onions (Red Onions), Cranberry Raisin Vinaigrette (Soybean Oil, Water, Sweetened Dried Cranberries (Cranberries, Sugar, Sunflower Oil), , Balsamic Vinegar, Red Wine Vinegar, Distilled Vinegar And Less That 2% Of Cranberry Juice Concentrate, Mustard Seed, Salt, White Wine, Pectin, Citric Acid, Tartaric Acid, Sugar, Spice, Garlic, Shallots, Wheat, Soybeans And Xanthan Gum.)",
+   "name": "Mixed GreensCranberry Salad",
+   "protein": {
+    "amount": "4g",
+    "percent": 8.0
+   },
+   "sat_fat": {
+    "amount": "3.6g",
+    "percent": 16.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "110.2mg",
+    "percent": 5.0
+   },
+   "sugars": {
+    "amount": "14.8g"
+   },
+   "total_carb": {
+    "amount": "18.8g",
+    "percent": 7.0
+   },
+   "total_fat": {
+    "amount": "9.9g",
+    "percent": 13.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
     "Milk"
    ],
    "calories": 132,
@@ -102405,7 +102453,7 @@
    },
    "id": 300195,
    "information": "Potatoes are grown in all 50 states and 105 countries worldwide. Ours come from the Maine Potato Growers Co-op.",
-   "ingredients": "Potatoes, Homogenized Milk (Milk, Vitamin D3.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Chives (Fresh chives), Kosher Salt (Salt), Ground White Pepper (White Peppercorns)",
+   "ingredients": "Potatoes, Homogenized Milk (Milk, Vitamin D3.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Chives (Fresh chives), Kosher Salt, Ground White Pepper (White Peppercorns)",
    "name": "Mashed Potatoes",
    "protein": {
     "amount": "2.5g",
@@ -117776,9 +117824,11 @@
    "vegetarian": false
   },
   {
-   "allergens": [],
-   "calories": 122,
-   "calories_from_fat": 114,
+   "allergens": [
+    "Soybeans"
+   ],
+   "calories": 145,
+   "calories_from_fat": 138,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -117788,17 +117838,17 @@
    },
    "id": 300569,
    "information": null,
-   "ingredients": "Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Shallots (Shallots), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Whole Black Pepper (Black Peppercorns), Garlic (Garlic)",
-   "name": "Cider Glaze For Chicken Halal",
+   "ingredients": "Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Shallots (Shallots), Black Peppercorn (Black Peppercorns), Garlic (Garlic), Fresh Thyme (Fresh Thyme)",
+   "name": "Cider Glazed Chicken H",
    "protein": {
     "amount": "0.4g",
     "percent": 1.0
    },
    "sat_fat": {
-    "amount": "1.8g",
-    "percent": 9.0
+    "amount": "2.2g",
+    "percent": 10.0
    },
-   "serving_size": "10 oz",
+   "serving_size": "8 oz",
    "sodium": {
     "amount": "2mg"
    },
@@ -117810,8 +117860,8 @@
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "12.6g",
-    "percent": 17.0
+    "amount": "15.3g",
+    "percent": 20.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134625,6 +134675,78 @@
   {
    "allergens": [
     "Milk",
+    "Wheat"
+   ],
+   "calories": 190,
+   "calories_from_fat": 99,
+   "cholesterol": {
+    "amount": "35mg",
+    "percent": 12.0
+   },
+   "dietary_fiber": {
+    "amount": "2g",
+    "percent": 7.0
+   },
+   "id": 301109,
+   "information": null,
+   "ingredients": "Butternut Squash & Apple Soup (Butternut Squash, Water, Light Cream, Apples, Onions, Butter (Cream, Salt), Contains 2% Or Less Of: Chicken Base (Chicken, Salt, Rendered Chicken Fat, Dextrose, Sugar, Natural Flavor, Safflower Oil, Chicken Broth, Turmeric), Wheat Flour, Modified Corn Starch, Salt, Rosemary And Spice.)",
+   "name": "Butternut Squash and Apple Soup",
+   "protein": {
+    "amount": "3g",
+    "percent": 6.0
+   },
+   "sat_fat": {
+    "amount": "7g",
+    "percent": 32.0
+   },
+   "serving_size": "8 oz",
+   "sodium": {
+    "amount": "509.6mg",
+    "percent": 22.0
+   },
+   "sugars": {
+    "amount": "1g"
+   },
+   "total_carb": {
+    "amount": "19g",
+    "percent": 7.0
+   },
+   "total_fat": {
+    "amount": "11g",
+    "percent": 14.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Milk"
+   ],
+   "calories": null,
+   "calories_from_fat": null,
+   "cholesterol": null,
+   "dietary_fiber": null,
+   "id": 301111,
+   "information": null,
+   "ingredients": null,
+   "name": "Chice and Onion Cream Cheese",
+   "protein": null,
+   "sat_fat": null,
+   "serving_size": "1 oz",
+   "sodium": null,
+   "sugars": null,
+   "total_carb": null,
+   "total_fat": null,
+   "trans_fat": null,
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Milk",
     "Tree Nuts"
    ],
    "calories": 308,
@@ -143916,36 +144038,36 @@
   },
   {
    "allergens": [],
-   "calories": 54,
+   "calories": 108,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "0.6g",
+    "percent": 2.0
    },
    "id": 444209,
    "information": null,
    "ingredients": "Water, Premium Brown Jasmine Rice",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "1.9g",
+    "percent": 4.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "4.7mg"
+    "amount": "9.5mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "11.4g",
-    "percent": 4.0
+    "amount": "22.8g",
+    "percent": 8.0
    },
    "total_fat": {
     "amount": "0g"
@@ -145311,7 +145433,7 @@
   },
   {
    "allergens": [],
-   "calories": 60,
+   "calories": 30,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -145324,13 +145446,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "1 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -145338,8 +145460,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "14.1g",
-    "percent": 5.0
+    "amount": "7g",
+    "percent": 3.0
    },
    "total_fat": {
     "amount": "0g"
@@ -185049,9 +185171,9 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1/2 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "0mg"
+    "amount": "0.1mg"
    },
    "sugars": {
     "amount": "0g"
@@ -189151,6 +189273,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "e0bd01882d402a9747b8d1779112a15c099d26092a1d6f0ed95f08fe0f8d4ffe",
+ "sha256": "b31e89f8b6fd708c52834cd485e6749665531595f0c1366bf18e70e52a6b01e1",
  "table": "recipes"
 }

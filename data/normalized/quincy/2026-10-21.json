@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
  "fetchedAt": "2026-10-09T15:48:22+00:00",
- "itemCount": 339,
+ "itemCount": 342,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -979,6 +979,17 @@
        "recipeId": 204016,
        "tags": [
         "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "name": "Chice and Onion Cream Cheese",
+       "portion": "1 oz",
+       "recipeId": 301111,
+       "tags": [
         "vegetarian"
        ]
       },
@@ -3258,6 +3269,19 @@
      "items": [
       {
        "allergens": [
+        "Milk",
+        "Wheat"
+       ],
+       "calories": 190,
+       "name": "Butternut Squash and Apple Soup",
+       "portion": "8 oz",
+       "recipeId": 301109,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
         "Crustacean Shellfish",
         "Fish",
         "Milk",
@@ -3441,6 +3465,20 @@
        ]
       },
       {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 179,
+       "name": "Mixed GreensCranberry Salad",
+       "portion": "4 oz",
+       "recipeId": 300194,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
        "allergens": [],
        "calories": 45,
        "name": "Quinoa Black Bean and Rost Corn Salad",
@@ -3590,10 +3628,12 @@
      "categoryId": 12,
      "items": [
       {
-       "allergens": [],
-       "calories": 122,
-       "name": "Cider Glaze For Chicken Halal",
-       "portion": "10 oz",
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 145,
+       "name": "Cider Glazed Chicken H",
+       "portion": "8 oz",
        "recipeId": 300569,
        "tags": []
       },
@@ -3617,7 +3657,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 503,
+       "calories": 522,
        "name": "Vegan Mushroom & Tempeh Risotto Cake",
        "portion": "1 piece",
        "recipeId": 142042,
@@ -3696,7 +3736,7 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 325,
+       "calories": 332,
        "name": "Blueberry Cobbler",
        "portion": "4 oz",
        "recipeId": 300191,
