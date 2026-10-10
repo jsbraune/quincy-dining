@@ -312,9 +312,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1075,7 +1075,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 824,
+       "calories": 860,
        "name": "Italian Cold Cut Grinder",
        "portion": "1 each",
        "recipeId": 301088,

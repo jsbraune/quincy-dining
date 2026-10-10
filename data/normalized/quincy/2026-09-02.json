@@ -53,7 +53,7 @@
        "allergens": [
         "Eggs"
        ],
-       "calories": 180,
+       "calories": 190,
        "name": "Scrambled Cage Free Eggs",
        "portion": "4 oz",
        "recipeId": 61203,
@@ -1258,7 +1258,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 161,
+       "calories": 159,
        "name": "Basmati Rice Pullao",
        "portion": "4 oz",
        "recipeId": 163041,
@@ -1277,7 +1277,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 276,
+       "calories": 254,
        "name": "Braised Kale with Garlic and TomatO",
        "portion": "4 oz",
        "recipeId": 300196,
@@ -1288,7 +1288,7 @@
       },
       {
        "allergens": [],
-       "calories": 60,
+       "calories": 58,
        "name": "Roasted Carrots with Garam Masala & Mint",
        "portion": "4 oz",
        "recipeId": 300290,
@@ -1907,7 +1907,7 @@
       },
       {
        "allergens": [],
-       "calories": 374,
+       "calories": 398,
        "name": "Smokey Chicken Wings",
        "portion": "6 oz",
        "recipeId": 301072,

@@ -230,9 +230,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -887,7 +887,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 387,
+       "calories": 390,
        "name": "Congee with Shallots & Edamame",
        "portion": "6 oz",
        "recipeId": 300486,
@@ -938,7 +938,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 125,
+       "calories": 172,
        "name": "Scrambled Tofu with Tomato & Scallion",
        "portion": "4 oz",
        "recipeId": 300485,
@@ -954,7 +954,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 172,
+       "calories": 178,
        "name": "Scallion Roasted Potatoes",
        "portion": "4 oz",
        "recipeId": 300487,
@@ -987,7 +987,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 125,
+       "calories": 172,
        "name": "Scrambled Tofu with Tomato & Scallion",
        "portion": "4 oz",
        "recipeId": 300485,
@@ -1144,9 +1144,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1548,7 +1548,7 @@
       },
       {
        "allergens": [],
-       "calories": 69,
+       "calories": 71,
        "name": "Halal Beef Taco Meat",
        "portion": "1 oz",
        "recipeId": 300008,
@@ -1621,7 +1621,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 117,
+       "calories": 124,
        "name": "Refried Homemade Beans",
        "portion": "2 oz",
        "recipeId": 144020,
@@ -1637,7 +1637,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 69,
+       "calories": 71,
        "name": "Halal Beef Taco Meat",
        "portion": "1 oz",
        "recipeId": 300008,

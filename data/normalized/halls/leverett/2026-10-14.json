@@ -310,9 +310,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1103,7 +1103,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 161,
+       "calories": 159,
        "name": "Basmati Rice Pullao",
        "portion": "4 oz",
        "recipeId": 163041,
@@ -1121,7 +1121,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 276,
+       "calories": 254,
        "name": "Braised Kale with  Garlic and TomatO",
        "portion": "4 oz",
        "recipeId": 300196,
@@ -1132,7 +1132,7 @@
       },
       {
        "allergens": [],
-       "calories": 60,
+       "calories": 58,
        "name": "Roasted Carrots with Garam Masala & Mint",
        "portion": "4 oz",
        "recipeId": 300290,
@@ -1675,7 +1675,7 @@
       },
       {
        "allergens": [],
-       "calories": 374,
+       "calories": 398,
        "name": "Smokey Chicken Wings",
        "portion": "6 oz",
        "recipeId": 301072,

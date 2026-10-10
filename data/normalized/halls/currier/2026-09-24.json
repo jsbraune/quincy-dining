@@ -852,7 +852,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 168,
+       "calories": 167,
        "name": "Chickpea Chilaquiles",
        "portion": "8 oz",
        "recipeId": 300627,
@@ -868,7 +868,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 203,
+       "calories": 199,
        "name": "Red Chile Rice",
        "portion": "4 oz",
        "recipeId": 300507,
@@ -913,7 +913,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 129,
+       "calories": 128,
        "name": "Stewed Pintos with Peppers & Corn",
        "portion": "4 oz",
        "recipeId": 300508,
@@ -1505,7 +1505,7 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 170,
+       "calories": 168,
        "name": "Halal Buttermilk Marinated Chicken Thighs",
        "portion": "4 oz",
        "recipeId": 300086,

@@ -345,9 +345,9 @@
       },
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1113,9 +1113,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1548,7 +1548,7 @@
         "Tree Nuts",
         "Wheat"
        ],
-       "calories": 289,
+       "calories": 391,
        "name": "Vegan Chicken Parmesan",
        "portion": "4 oz",
        "recipeId": 300813,
@@ -1635,7 +1635,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 318,
+       "calories": 337,
        "name": "Halal Chicken Parmesan",
        "portion": "6 oz",
        "recipeId": 300067,

@@ -322,9 +322,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -2207,6 +2207,8 @@
       {
        "allergens": [],
        "name": "Cabot House Closed for Special Event",
+       "portion": "1 ea",
+       "recipeId": 999886,
        "tags": []
       }
      ],

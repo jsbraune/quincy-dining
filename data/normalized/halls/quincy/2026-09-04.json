@@ -312,9 +312,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1110,7 +1110,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 59,
+       "calories": 58,
        "name": "Roasted Winter Squash with Citrus & Ginger",
        "portion": "4 oz",
        "recipeId": 300314,
@@ -1139,7 +1139,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 321,
+       "calories": 346,
        "name": "Green Lentils with Autumn Vegetables",
        "portion": "4 oz",
        "recipeId": 156156,

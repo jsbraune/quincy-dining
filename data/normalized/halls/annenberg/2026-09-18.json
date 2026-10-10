@@ -323,9 +323,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1628,7 +1628,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 307,
+       "calories": 276,
        "name": "Chicken Adobo",
        "portion": "6 oz",
        "recipeId": 300882,
@@ -1725,7 +1725,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 307,
+       "calories": 276,
        "name": "Chicken Adobo",
        "portion": "6 oz",
        "recipeId": 300882,
