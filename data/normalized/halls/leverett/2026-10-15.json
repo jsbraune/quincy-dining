@@ -306,9 +306,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1064,7 +1064,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 167,
+       "calories": 168,
        "name": "Chickpea Chilaquiles",
        "portion": "8 oz",
        "recipeId": 300627,
@@ -1080,7 +1080,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 199,
+       "calories": 203,
        "name": "Red Chile Rice",
        "portion": "4 oz",
        "recipeId": 300507,
@@ -1096,7 +1096,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 76,
+       "calories": 68,
        "name": "Roasted Carrots & Parsnips with Coriander",
        "portion": "4 oz",
        "recipeId": 300389,
@@ -1125,7 +1125,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 128,
+       "calories": 129,
        "name": "Stewed Pintos with Peppers & Corn",
        "portion": "4 oz",
        "recipeId": 300508,
@@ -1728,7 +1728,7 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 168,
+       "calories": 170,
        "name": "Halal Buttermilk Marinated Chicken Thighs",
        "portion": "4 oz",
        "recipeId": 300086,

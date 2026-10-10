@@ -1,7 +1,7 @@
 {
  "date": "2026-10-13",
- "fetchedAt": "2026-10-10T19:05:40+00:00",
- "itemCount": 355,
+ "fetchedAt": "2026-10-10T23:18:49+00:00",
+ "itemCount": 353,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -172,7 +172,7 @@
        "allergens": [
         "Eggs"
        ],
-       "calories": 190,
+       "calories": 180,
        "name": "Scrambled Cage Free Eggs",
        "portion": "4 oz",
        "recipeId": 61203,
@@ -1928,7 +1928,7 @@
        "allergens": [
         "Fish"
        ],
-       "calories": 232,
+       "calories": 237,
        "name": "Honey Mustard Salmon",
        "portion": "4 oz",
        "recipeId": 300523,
@@ -4427,32 +4427,6 @@
       }
      ],
      "name": "Bagged Meal Condiments"
-    },
-    {
-     "categoryId": 4,
-     "items": [
-      {
-       "allergens": [],
-       "name": "Adams House Closed for Special Event",
-       "portion": "1 ea",
-       "recipeId": 999891,
-       "tags": []
-      }
-     ],
-     "name": "MISC"
-    },
-    {
-     "categoryId": 40,
-     "items": [
-      {
-       "allergens": [],
-       "name": "Cabot House Closed for Special Event",
-       "portion": "1 ea",
-       "recipeId": 999886,
-       "tags": []
-      }
-     ],
-     "name": "Festive Meals"
     }
    ]
   }

@@ -55,7 +55,7 @@
        "allergens": [
         "Eggs"
        ],
-       "calories": 190,
+       "calories": 180,
        "name": "Scrambled Cage Free Eggs",
        "portion": "4 oz",
        "recipeId": 61203,
@@ -2639,7 +2639,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 58,
+       "calories": 59,
        "name": "Roasted Winter Squash with Citrus & Ginger",
        "portion": "4 oz",
        "recipeId": 300314,
@@ -2669,7 +2669,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 346,
+       "calories": 321,
        "name": "Green Lentils with Autumn Vegetables",
        "portion": "4 oz",
        "recipeId": 156156,
@@ -3929,7 +3929,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 181,
+       "calories": 158,
        "name": "Tofu with Sesame Glaze",
        "portion": "5 oz",
        "recipeId": 145008,
@@ -3992,7 +3992,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 154,
+       "calories": 155,
        "name": "Sauteed Shiitakes with Napa Cabbage & Water Chestnuts",
        "portion": "4 oz",
        "recipeId": 300384,
@@ -4022,7 +4022,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 98,
+       "calories": 99,
        "name": "Quinoa Pilaf",
        "portion": "4 oz",
        "recipeId": 163069,
@@ -4042,7 +4042,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 181,
+       "calories": 158,
        "name": "Tofu with Sesame Glaze",
        "portion": "5 oz",
        "recipeId": 145008,

@@ -287,9 +287,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1047,7 +1047,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 159,
+       "calories": 161,
        "name": "Basmati Rice Pullao",
        "portion": "4 oz",
        "recipeId": 163041,
@@ -1065,7 +1065,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 254,
+       "calories": 276,
        "name": "Braised Kale with  Garlic and TomatO",
        "portion": "4 oz",
        "recipeId": 300196,
@@ -1076,7 +1076,7 @@
       },
       {
        "allergens": [],
-       "calories": 58,
+       "calories": 60,
        "name": "Roasted Carrots with Garam Masala & Mint",
        "portion": "4 oz",
        "recipeId": 300290,

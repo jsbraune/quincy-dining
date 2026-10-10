@@ -1058,9 +1058,9 @@
       },
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1199,7 +1199,7 @@
        "allergens": [
         "Eggs"
        ],
-       "calories": 190,
+       "calories": 180,
        "name": "Scrambled Cage Free Eggs",
        "portion": "4 oz",
        "recipeId": 61203,
@@ -2920,7 +2920,7 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 549,
+       "calories": 510,
        "name": "Chicken Parmesan",
        "portion": "6 oz",
        "recipeId": 111029,
@@ -2946,7 +2946,7 @@
         "Tree Nuts",
         "Wheat"
        ],
-       "calories": 391,
+       "calories": 289,
        "name": "Vegan Chicken Parmesan",
        "portion": "4 oz",
        "recipeId": 300813,
@@ -3037,7 +3037,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 337,
+       "calories": 318,
        "name": "Halal Chicken Parmesan",
        "portion": "6 oz",
        "recipeId": 300067,

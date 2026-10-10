@@ -67,7 +67,7 @@
        "allergens": [
         "Eggs"
        ],
-       "calories": 190,
+       "calories": 180,
        "name": "Scrambled Cage Free Eggs",
        "portion": "4 oz",
        "recipeId": 61203,
@@ -1378,9 +1378,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1466,7 +1466,7 @@
        "allergens": [
         "Eggs"
        ],
-       "calories": 190,
+       "calories": 180,
        "name": "Scrambled Cage Free Eggs",
        "portion": "4 oz",
        "recipeId": 61203,

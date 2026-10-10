@@ -160,7 +160,7 @@
        "allergens": [
         "Eggs"
        ],
-       "calories": 190,
+       "calories": 180,
        "name": "Scrambled Cage Free Eggs",
        "portion": "4 oz",
        "recipeId": 61203,
@@ -3196,9 +3196,9 @@
       },
       {
        "allergens": [],
-       "calories": 70,
+       "calories": 47,
        "name": "Stir Fry Vegetables",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 300827,
        "tags": [
         "vegan",
