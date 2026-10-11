@@ -346,9 +346,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -797,7 +797,7 @@
       },
       {
        "allergens": [],
-       "calories": 63,
+       "calories": 88,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -1569,7 +1569,7 @@
       },
       {
        "allergens": [],
-       "calories": 63,
+       "calories": 88,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -1685,7 +1685,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 307,
+       "calories": 276,
        "name": "Chicken Adobo",
        "portion": "6 oz",
        "recipeId": 300882,
@@ -1782,7 +1782,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 307,
+       "calories": 276,
        "name": "Chicken Adobo",
        "portion": "6 oz",
        "recipeId": 300882,
@@ -2187,9 +2187,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

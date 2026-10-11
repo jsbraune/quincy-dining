@@ -508,7 +508,7 @@
       },
       {
        "allergens": [],
-       "calories": 63,
+       "calories": 88,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -812,7 +812,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 824,
+       "calories": 860,
        "name": "Italian Cold Cut Grinder",
        "portion": "1 each",
        "recipeId": 301088,
@@ -1262,7 +1262,7 @@
       },
       {
        "allergens": [],
-       "calories": 63,
+       "calories": 88,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -1938,9 +1938,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

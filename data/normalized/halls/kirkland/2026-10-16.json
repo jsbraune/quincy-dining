@@ -517,7 +517,7 @@
       },
       {
        "allergens": [],
-       "calories": 63,
+       "calories": 88,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -858,7 +858,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 59,
+       "calories": 58,
        "name": "Roasted Winter Squash with Citrus & Ginger",
        "portion": "4 oz",
        "recipeId": 300314,
@@ -887,7 +887,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 321,
+       "calories": 346,
        "name": "Green Lentils with Autumn Vegetables",
        "portion": "4 oz",
        "recipeId": 156156,
@@ -1330,7 +1330,7 @@
       },
       {
        "allergens": [],
-       "calories": 63,
+       "calories": 88,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -1465,7 +1465,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 158,
+       "calories": 181,
        "name": "Tofu with Sesame Glaze",
        "portion": "5 oz",
        "recipeId": 145008,
@@ -1511,7 +1511,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 155,
+       "calories": 154,
        "name": "Sauteed Shiitakes with Napa Cabbage & Water Chestnuts",
        "portion": "4 oz",
        "recipeId": 300384,
@@ -1540,7 +1540,7 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 99,
+       "calories": 98,
        "name": "Quinoa Pilaf",
        "portion": "4 oz",
        "recipeId": 163069,
@@ -1559,7 +1559,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 158,
+       "calories": 181,
        "name": "Tofu with Sesame Glaze",
        "portion": "5 oz",
        "recipeId": 145008,
@@ -2038,9 +2038,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

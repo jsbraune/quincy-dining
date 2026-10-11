@@ -44,9 +44,9 @@
       },
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -438,7 +438,7 @@
       },
       {
        "allergens": [],
-       "calories": 63,
+       "calories": 88,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -794,9 +794,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1096,7 +1096,7 @@
       },
       {
        "allergens": [],
-       "calories": 63,
+       "calories": 88,
        "name": "Seasoned Halal Chicken Breast",
        "portion": "2 oz",
        "recipeId": 111049,
@@ -1229,7 +1229,7 @@
         "Tree Nuts",
         "Wheat"
        ],
-       "calories": 289,
+       "calories": 391,
        "name": "Vegan Chicken Parmesan",
        "portion": "4 oz",
        "recipeId": 300813,
@@ -1316,7 +1316,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 318,
+       "calories": 337,
        "name": "Halal Chicken Parmesan",
        "portion": "6 oz",
        "recipeId": 300067,
@@ -1824,9 +1824,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",
