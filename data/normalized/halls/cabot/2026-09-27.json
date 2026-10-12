@@ -950,9 +950,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 345,
+       "calories": 173,
        "name": "Protein Plus Penne with Creamy Tomato,Bacon,  Basil Sauce",
-       "portion": "8 oz",
+       "portion": "4 oz",
        "recipeId": 300978,
        "tags": []
       }
@@ -2219,9 +2219,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

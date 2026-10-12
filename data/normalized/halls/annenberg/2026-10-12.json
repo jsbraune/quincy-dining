@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "fetchedAt": "2026-10-06T15:40:35+00:00",
+ "fetchedAt": "2026-10-12T22:21:42+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 175,
@@ -1791,21 +1791,6 @@
      "items": [
       {
        "allergens": [
-        "Eggs",
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 300,
-       "name": "Orange Cake",
-       "portion": "1 portn",
-       "recipeId": 300893,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
         "Tree Nuts"
        ],
        "calories": 110,
@@ -1825,6 +1810,17 @@
        "name": "Raspberry Soft serve",
        "portion": "4 oz",
        "recipeId": 300860,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 80,
+       "name": "Strawberry Italian Ice",
+       "portion": "1 each",
+       "recipeId": 184005,
        "tags": [
         "vegan",
         "vegetarian"
@@ -2141,9 +2137,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

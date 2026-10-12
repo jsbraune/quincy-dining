@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "fetchedAt": "2026-10-06T15:40:35+00:00",
+ "fetchedAt": "2026-10-12T22:21:42+00:00",
  "itemCount": 175,
  "locationNum": "30",
  "meals": [
@@ -595,13 +595,13 @@
     {
      "items": [
       {
-       "name": "Orange Cake"
-      },
-      {
        "name": "Orange Soft serve"
       },
       {
        "name": "Raspberry Soft serve"
+      },
+      {
+       "name": "Strawberry Italian Ice"
       }
      ],
      "name": "Desserts"
@@ -733,6 +733,6 @@
    ]
   }
  ],
- "mealsSha256": "25e5a432d903fc64e490144746d7c5dd32bc2ae25626a127241b689e0d46aaab",
+ "mealsSha256": "b1f0b7129e4aae2042e0bff3411fbe83e024b93689a085c274e06551b6f639c6",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
