@@ -1294,9 +1294,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 80,
+       "calories": 160,
        "name": "Chicken Sausage",
-       "portion": "1 each",
+       "portion": "2 each",
        "recipeId": 89020,
        "tags": []
       },
@@ -1553,9 +1553,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -3079,9 +3079,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
