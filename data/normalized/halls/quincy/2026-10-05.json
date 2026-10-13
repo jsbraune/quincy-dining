@@ -13,9 +13,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 160,
+       "calories": 80,
        "name": "Chicken Sausage",
-       "portion": "2 each",
+       "portion": "1 each",
        "recipeId": 89020,
        "tags": []
       }
@@ -748,9 +748,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1520,9 +1520,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1661,10 +1661,10 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 408,
+       "calories": 279,
        "name": "Korean Beef Bulgogi",
        "portion": "4 oz",
-       "recipeId": 301106,
+       "recipeId": 444090,
        "tags": []
       }
      ],
@@ -1755,10 +1755,10 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 408,
+       "calories": 279,
        "name": "Korean Beef Bulgogi",
        "portion": "4 oz",
-       "recipeId": 301106,
+       "recipeId": 444090,
        "tags": [
         "halal"
        ]

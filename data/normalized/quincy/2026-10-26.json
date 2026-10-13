@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
  "fetchedAt": "2026-10-13T20:28:43+00:00",
- "itemCount": 346,
+ "itemCount": 345,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -1412,9 +1412,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -2858,9 +2858,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -2994,16 +2994,6 @@
        "name": "Gochujang Chicken",
        "portion": "1 each",
        "recipeId": 300490,
-       "tags": []
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 408,
-       "name": "Korean Beef Bulgogi",
-       "portion": "4 oz",
-       "recipeId": 301106,
        "tags": []
       }
      ],

@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-13T20:28:43+00:00",
+ "fetchedAt": "2026-10-13T23:38:15+00:00",
  "rows": [
   {
    "allergens": [
@@ -21758,11 +21758,11 @@
   },
   {
    "allergens": [],
-   "calories": 160,
-   "calories_from_fat": 90,
+   "calories": 80,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "70mg",
-    "percent": 23.0
+    "amount": "35mg",
+    "percent": 12.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21772,28 +21772,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "12g",
-    "percent": 24.0
+    "amount": "6g",
+    "percent": 12.0
    },
    "sat_fat": {
-    "amount": "3g",
-    "percent": 14.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "2 each",
+   "serving_size": "1 each",
    "sodium": {
-    "amount": "480mg",
-    "percent": 21.0
+    "amount": "240mg",
+    "percent": 10.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "2g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "10g",
-    "percent": 13.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -62494,40 +62494,38 @@
   },
   {
    "allergens": [],
-   "calories": 8,
-   "calories_from_fat": 1,
+   "calories": 4,
+   "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.7g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 1.0
    },
    "id": 176066,
    "information": null,
    "ingredients": "Little Leaf Spring Mix",
    "name": "Little Leaf Greens",
    "protein": {
-    "amount": "0.8g",
+    "amount": "0.4g",
     "percent": 1.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "15.6mg",
-    "percent": 1.0
+    "amount": "7.8mg"
    },
    "sugars": {
-    "amount": "0.4g"
+    "amount": "0.2g"
    },
    "total_carb": {
-    "amount": "1.6g",
-    "percent": 1.0
+    "amount": "0.8g"
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -87908,43 +87906,42 @@
    "allergens": [
     "Fish"
    ],
-   "calories": 270,
-   "calories_from_fat": 176,
+   "calories": 68,
+   "calories_from_fat": 44,
    "cholesterol": {
-    "amount": "62.4mg",
-    "percent": 21.0
+    "amount": "15.6mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "1g",
-    "percent": 4.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 270427,
    "information": null,
    "ingredients": "Salmon, Lemons (LEMONS), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)",
    "name": "Roasted Salmon with Lemon Zest",
    "protein": {
-    "amount": "22.8g",
-    "percent": 45.0
+    "amount": "5.7g",
+    "percent": 11.0
    },
    "sat_fat": {
-    "amount": "2.9g",
-    "percent": 13.0
+    "amount": "0.7g",
+    "percent": 3.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "50.6mg",
-    "percent": 2.0
+    "amount": "12.6mg",
+    "percent": 1.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2.3g",
-    "percent": 1.0
+    "amount": "0.6g"
    },
    "total_fat": {
-    "amount": "19.5g",
-    "percent": 25.0
+    "amount": "4.9g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134065,43 +134062,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 274,
-   "calories_from_fat": 136,
+   "calories": 69,
+   "calories_from_fat": 34,
    "cholesterol": {
-    "amount": "28.6mg",
-    "percent": 10.0
+    "amount": "7.1mg",
+    "percent": 2.0
    },
    "dietary_fiber": {
-    "amount": "0.9g",
-    "percent": 3.0
+    "amount": "0.2g",
+    "percent": 1.0
    },
    "id": 301089,
    "information": null,
    "ingredients": "Tempura Chicken (Chicken breast water, seasoning [salt, flavors, maltodextrin, sugar, vegetable stock (carrot, onion, celery), garlic powder], salt, sodium phosphates. BATTERED WITH: Water, yellow corn flour, bleached wheat flour, modified corn starch, salt, spices, leavening (sodium bicarbonate, sodium aluminum phosphate), dextrose, wheat starch, onion powder, extractives of turmeric, spice extractive. PREDUSTED WITH: Wheat flour, leavening (sodium acid pyrophosphate, sodium bicarbonate, monocalcium phosphate), salt, spices, calcium lactate, soybean oil (as a processing aid), calcium lactate. Vegetable oil), Sweet & Sour Sauce (Water, High Fructose Corn Syrup, Distilled White Vinegar, Sugar, Tomato Paste, modified Corn Starch, Pineapple Juice Concentrate, Salt, Fd&c Yellow 5, Fd&c red 40, Citric Acid, Fd&c Yellow 6, Xanthan Gum, Natural Flavor, Sodium benzoate Added As A Preservative.), Pineapple (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Onions (Onions), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Sweet and Sour Chicken",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
-   },
-   "sat_fat": {
-    "amount": "2.7g",
-    "percent": 12.0
-   },
-   "serving_size": "4 oz",
-   "sodium": {
-    "amount": "511.8mg",
-    "percent": 22.0
-   },
-   "sugars": {
-    "amount": "12g"
-   },
-   "total_carb": {
-    "amount": "12.8g",
+    "amount": "2.6g",
     "percent": 5.0
    },
+   "sat_fat": {
+    "amount": "0.7g",
+    "percent": 3.0
+   },
+   "serving_size": "1 oz",
+   "sodium": {
+    "amount": "127.9mg",
+    "percent": 6.0
+   },
+   "sugars": {
+    "amount": "3g"
+   },
+   "total_carb": {
+    "amount": "3.2g",
+    "percent": 1.0
+   },
    "total_fat": {
-    "amount": "15.1g",
-    "percent": 19.0
+    "amount": "3.8g",
+    "percent": 5.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134625,54 +134622,6 @@
    "total_fat": {
     "amount": "5.3g",
     "percent": 7.0
-   },
-   "trans_fat": {
-    "amount": "0g"
-   },
-   "vegan": false,
-   "vegetarian": false
-  },
-  {
-   "allergens": [
-    "Soybeans"
-   ],
-   "calories": 408,
-   "calories_from_fat": 244,
-   "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
-   },
-   "dietary_fiber": {
-    "amount": "0.8g",
-    "percent": 3.0
-   },
-   "id": 301106,
-   "information": null,
-   "ingredients": "Beef Stir Fry Strips , Sliced White Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions)",
-   "name": "Korean Beef Bulgogi",
-   "protein": {
-    "amount": "25g",
-    "percent": 49.0
-   },
-   "sat_fat": {
-    "amount": "9.7g",
-    "percent": 44.0
-   },
-   "serving_size": "4 oz",
-   "sodium": {
-    "amount": "1550mg",
-    "percent": 67.0
-   },
-   "sugars": {
-    "amount": "5g"
-   },
-   "total_carb": {
-    "amount": "16.4g",
-    "percent": 6.0
-   },
-   "total_fat": {
-    "amount": "27.1g",
-    "percent": 35.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189435,6 +189384,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "fed26bc6df4dd654f2c93d9e0d4f51b0719478fc4418c5f1372e17533f2679c1",
+ "sha256": "57249bc64d612960267088d5d98f7e8e7b2673a7934bf60a77caf2edb9642264",
  "table": "recipes"
 }

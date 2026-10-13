@@ -697,9 +697,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1467,9 +1467,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1608,10 +1608,10 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 408,
+       "calories": 279,
        "name": "Korean Beef Bulgogi",
        "portion": "4 oz",
-       "recipeId": 301106,
+       "recipeId": 444090,
        "tags": []
       }
      ],
@@ -1703,10 +1703,10 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 408,
+       "calories": 279,
        "name": "Korean Beef Bulgogi",
        "portion": "4 oz",
-       "recipeId": 301106,
+       "recipeId": 444090,
        "tags": [
         "halal"
        ]
