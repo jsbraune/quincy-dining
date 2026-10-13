@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T01:53:36+00:00",
+ "generatedAt": "2026-10-13T16:43:24+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -11174,6 +11174,30 @@
    "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "301046": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Beef Stew Meat (Beef Stew Meat), Green Seasoning Marinade (Scallions (Fresh Scallions), Cilantro (Cilantro), Onions (Onions), Parsley (Parsley), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Suntan Peppers (Bell Peppers), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Habanero Pepper, Celery (Celery), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Spanish Paprika (Paprika), Ground Ginger (Dried Ginger.)), Beef Stock (Water, Classic Beef Base (Roasted Beef and Beef Juices, Hydrolyzed Soy, Corn and Wheat Proteins, Salt, Sugar, Beef Stock, Yeast Extract, Maltodextrin, Onion Powder, Caramel Color, Contains less than 2% of Corn Syrup Solids, Disodium Guanylate, Disodium Inosinate, Garlic Powder, Lactic Acid, Natural Flavorings, Thiamine Hydrochloride.)), Potatoes, Carrots (Carrots), Onions (Onions), Water, Scallions (Fresh Scallions), Suntan Peppers (Bell Peppers), Curry Powder (Spices (including Cumin, Fennel, Coriander, Mustard, Fenugreek, Chile powder, Clove, Ginger, Cinnamon, Cardamom), Turmeric, Salt. Contains: Mustard.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Fresh Thyme (Fresh Thyme), Spanish Paprika (Paprika), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.)",
+   "name": "Jamaican Beef Stew",
+   "note": null,
+   "nutrition": {
+    "calories": 471,
+    "cholesterol_mg": 147.3,
+    "dietary_fiber_g": 6.1,
+    "protein_g": 52.1,
+    "sat_fat_g": 4.8,
+    "sodium_mg": 883.3,
+    "sugars_g": 4.5,
+    "total_carb_g": 24.6,
+    "total_fat_g": 19.5,
+    "trans_fat_g": 0.1
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "301061": {
    "allergens": [
