@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "fetchedAt": "2026-10-12T22:21:36+00:00",
+ "fetchedAt": "2026-10-13T01:52:02+00:00",
  "itemCount": 342,
  "location": "quincy",
  "locationId": 8,
@@ -3463,9 +3463,9 @@
       },
       {
        "allergens": [],
-       "calories": 10,
+       "calories": 14,
        "name": "Pickled Okra",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

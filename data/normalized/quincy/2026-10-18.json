@@ -1,7 +1,7 @@
 {
  "date": "2026-10-18",
- "fetchedAt": "2026-10-12T22:21:36+00:00",
- "itemCount": 348,
+ "fetchedAt": "2026-10-13T01:52:02+00:00",
+ "itemCount": 351,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -298,6 +298,17 @@
        "name": "Sun Butter",
        "portion": "1 oz",
        "recipeId": 143404,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 32,
+       "name": "Blueberries",
+       "portion": "2 fl. oz",
+       "recipeId": 204016,
        "tags": [
         "vegan",
         "vegetarian"
@@ -1016,6 +1027,25 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 23,
+     "items": [
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Build Your Own"
     }
    ]
   },
@@ -1594,9 +1624,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 173,
+       "calories": 345,
        "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300978,
        "tags": []
       }
@@ -1665,6 +1695,19 @@
        "name": "Chipotle Braised Pinto Beans",
        "portion": "4 oz",
        "recipeId": 300448,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 238,
+       "name": "Quinoa and Vegetable Jambalaya",
+       "portion": "8 oz",
+       "recipeId": 141087,
        "tags": [
         "vegan",
         "vegetarian"
@@ -3550,9 +3593,9 @@
       },
       {
        "allergens": [],
-       "calories": 10,
+       "calories": 14,
        "name": "Pickled Okra",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",
