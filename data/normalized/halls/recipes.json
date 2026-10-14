@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T23:39:59+00:00",
+ "generatedAt": "2026-10-14T14:20:29+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2307,18 +2307,18 @@
    "name": "Seasoned Red Beans",
    "note": null,
    "nutrition": {
-    "calories": 36,
+    "calories": 143,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.7,
-    "protein_g": 1.5,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 72.3,
-    "sugars_g": 0.6,
-    "total_carb_g": 4.6,
-    "total_fat_g": 1.6,
+    "dietary_fiber_g": 6.7,
+    "protein_g": 5.8,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 289.4,
+    "sugars_g": 2.5,
+    "total_carb_g": 18.4,
+    "total_fat_g": 6.4,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -4391,18 +4391,18 @@
    "name": "Little Leaf Greens",
    "note": null,
    "nutrition": {
-    "calories": 4,
+    "calories": 8,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.4,
-    "protein_g": 0.4,
+    "dietary_fiber_g": 0.7,
+    "protein_g": 0.8,
     "sat_fat_g": 0.0,
-    "sodium_mg": 7.8,
-    "sugars_g": 0.2,
-    "total_carb_g": 0.8,
-    "total_fat_g": 0.0,
+    "sodium_mg": 15.6,
+    "sugars_g": 0.4,
+    "total_carb_g": 1.6,
+    "total_fat_g": 0.1,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "2 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -10922,7 +10922,7 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Argentine Vegetable Empanada (Water, Corn Onions, Green Bell Peppers, Red Bell Peppers, Textured Wheat Protein, Canola Oil, Pea Protein Isolate, Garlic, Lemon Juice, apple Cider Vinegar, Salt , Smoked Paprika, Cumin, Chili Powder, Onion Powder, Garlic Powder, Oregano, Black Pepper, Dough, Enriched Wheat Flour Water Canola Oil Salt. PRODUCED IN A FACILITY THAT ALSO HANDLES SESAME, SOY, MILK, EGGS, FISH, AND SHELLFISH), Chimichurri Sauce (Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Italian Parsley (Italian Parsley), Green Chili Peppers (Green Chile Peppers, Water, Salt, and Citric Acid.), Red Chili Peppers, Oregano (Oregano), Garlic (Garlic), Kosher Salt), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
+   "ingredients": "Argentine Vegetable Empanada (PRODUCED IN A FACILITY THAT ALSO HANDLES SESAME, SOY MILK EGGS FISH AND SHELLFISH Water, Corn Onions, Green Bell Peppers, Red Bell Peppers, Textured Wheat Protein, Canola Oil, Pea Protein Isolate, Garlic, Lemon Juice, apple Cider Vinegar, Salt, Smoked Paprika, Cumin, Chili Powder, Onion Powder, Garlic Powder, Oregano, Black Pepper, Dough, Enriched Wheat Flour Water Canola Oil Salt. PRODUCED IN A FACILITY THAT ALSO HANDLES SESAME, SOY, MILK, EGGS, FISH, AND SHELLFISH), Chimichurri Sauce (Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Italian Parsley (Italian Parsley), Green Chili Peppers (Green Chile Peppers, Water, Salt, and Citric Acid.), Red Chili Peppers, Oregano (Oregano), Garlic (Garlic), Kosher Salt), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
    "name": "Vegetable Empanada with Chimichurri",
    "note": null,
    "nutrition": {
@@ -11570,18 +11570,18 @@
    "name": "Sweet and Sour Chicken",
    "note": null,
    "nutrition": {
-    "calories": 69,
-    "cholesterol_mg": 7.1,
-    "dietary_fiber_g": 0.2,
-    "protein_g": 2.6,
-    "sat_fat_g": 0.7,
-    "sodium_mg": 127.9,
-    "sugars_g": 3.0,
-    "total_carb_g": 3.2,
-    "total_fat_g": 3.8,
+    "calories": 274,
+    "cholesterol_mg": 28.6,
+    "dietary_fiber_g": 0.9,
+    "protein_g": 10.4,
+    "sat_fat_g": 2.7,
+    "sodium_mg": 511.8,
+    "sugars_g": 12.0,
+    "total_carb_g": 12.8,
+    "total_fat_g": 15.1,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -11818,6 +11818,29 @@
    "portion": "1 sandwich",
    "vegan": true,
    "vegetarian": true
+  },
+  "301106": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Beef Stir Fry Strips , Sliced White Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions)",
+   "name": "Korean Beef Bulgogi",
+   "note": null,
+   "nutrition": {
+    "calories": 408,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.8,
+    "protein_g": 25.0,
+    "sat_fat_g": 9.7,
+    "sodium_mg": 1550.0,
+    "sugars_g": 5.0,
+    "total_carb_g": 16.4,
+    "total_fat_g": 27.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "301107": {
    "allergens": [
@@ -12187,29 +12210,6 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
-  },
-  "444090": {
-   "allergens": [
-    "Soybeans"
-   ],
-   "ingredients": "Flap Meat (H) (Beef), Sliced White Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions)",
-   "name": "Korean Beef Bulgogi",
-   "note": null,
-   "nutrition": {
-    "calories": 279,
-    "cholesterol_mg": 62.9,
-    "dietary_fiber_g": 0.8,
-    "protein_g": 25.9,
-    "sat_fat_g": 4.4,
-    "sodium_mg": 947.6,
-    "sugars_g": 5.0,
-    "total_carb_g": 11.4,
-    "total_fat_g": 13.9,
-    "trans_fat_g": 0.3
-   },
-   "portion": "4 oz",
-   "vegan": false,
-   "vegetarian": false
   },
   "444111": {
    "allergens": [
@@ -14237,18 +14237,18 @@
    "name": "Chicken Sausage",
    "note": null,
    "nutrition": {
-    "calories": 80,
-    "cholesterol_mg": 35.0,
+    "calories": 160,
+    "cholesterol_mg": 70.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 6.0,
-    "sat_fat_g": 1.5,
-    "sodium_mg": 240.0,
+    "protein_g": 12.0,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 480.0,
     "sugars_g": 0.0,
-    "total_carb_g": 2.0,
-    "total_fat_g": 5.0,
+    "total_carb_g": 4.0,
+    "total_fat_g": 10.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 each",
+   "portion": "2 each",
    "vegan": false,
    "vegetarian": false
   },
