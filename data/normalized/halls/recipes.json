@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T23:02:39+00:00",
+ "generatedAt": "2026-10-15T13:57:05+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -91,6 +91,29 @@
    "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "10016": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Butternut & Apple Soup (Butternut Squash, Water, Apple, Light Cream (milk, cream), Onions, Butter (cream, salt), Honey, Amontillado Sherry (grape wine [amontillado medium], alcohol), Corn Starch, Sea Salt, Dried Rosemary, Allspice, Cloves, Nutmeg, White Pepper.)",
+   "name": "Butternut Squash and Apple Soup",
+   "note": null,
+   "nutrition": {
+    "calories": 157,
+    "cholesterol_mg": 27.8,
+    "dietary_fiber_g": 2.8,
+    "protein_g": 1.9,
+    "sat_fat_g": 5.6,
+    "sodium_mg": 333.3,
+    "sugars_g": 9.3,
+    "total_carb_g": 21.3,
+    "total_fat_g": 8.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": true
   },
   "10018": {
    "allergens": [],
@@ -1919,6 +1942,29 @@
    "vegan": true,
    "vegetarian": true
   },
+  "142042": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Aborio Rice (Arborio Rice), Sliced Mushrooms (Mushrooms), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Tempeh Soy (Cultured Organic Soybean, White Rice , Water.Lactic Acid from Plant Sources, Organic Brown Rice.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Onions (Onions), Shallots (Shallots), Garlic (Garlic), Yeast Flakes (Inactive Dry Yeast, Pyridoxine Hydrochloride (Vitamin B6), Thiamin Hydrochloride (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid (Vitamin B9), Vitamin B12.), Fresh Thyme (Fresh Thyme)",
+   "name": "Vegan Mushroom & Tempeh Risotto Cake",
+   "note": null,
+   "nutrition": {
+    "calories": 522,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.3,
+    "protein_g": 11.9,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 489.1,
+    "sugars_g": 3.0,
+    "total_carb_g": 97.0,
+    "total_fat_g": 9.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 piece",
+   "vegan": true,
+   "vegetarian": true
+  },
   "142062": {
    "allergens": [],
    "ingredients": "Spinach (Spinach), Sangria Heirloom Tomatoes, Green Lentils (French Green Lentils), Celery (Celery), Diced Onions (Onions), Kalamata Olives (Kalamata Olives, Water, Salt, Sunflower Oil, Extra Virgin Olive Oil, Lactic Acid.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Garlic (Garlic), Capers (Capers, Water, and Salt Vinegar.), Kosher Salt, Ground Black Pepper, Italian Parsley (Italian Parsley)",
@@ -2950,6 +2996,29 @@
    "vegan": true,
    "vegetarian": true
   },
+  "161006": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Yukon Gold Potatoes (Yukon Gold Potatoes), Homogenized Milk (Milk, Vitamin D3.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Kosher Salt (Salt), Ground White Pepper (White Peppercorns), Parsley (Parsley)",
+   "name": "Mashed Potatoes",
+   "note": "Potatoes are grown in all 50 states and 105 countries worldwide. Ours come from the Maine Potato Growers Co-op.",
+   "nutrition": {
+    "calories": 129,
+    "cholesterol_mg": 10.3,
+    "dietary_fiber_g": 1.2,
+    "protein_g": 3.1,
+    "sat_fat_g": 2.6,
+    "sodium_mg": 97.8,
+    "sugars_g": 1.0,
+    "total_carb_g": 19.3,
+    "total_fat_g": 4.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "161007": {
    "allergens": [
     "Soybeans"
@@ -3599,6 +3668,27 @@
     "sugars_g": 0.0,
     "total_carb_g": 15.2,
     "total_fat_g": 2.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "171020": {
+   "allergens": [],
+   "ingredients": "Carrots (Carrots), Kosher Salt, Ground Black Pepper, Dill (Fresh dill)",
+   "name": "Fresh Carrots with Dill",
+   "note": null,
+   "nutrition": {
+    "calories": 47,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.2,
+    "protein_g": 1.1,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 246.2,
+    "sugars_g": 5.4,
+    "total_carb_g": 11.0,
+    "total_fat_g": 0.3,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -4784,6 +4874,32 @@
    "vegan": true,
    "vegetarian": true
   },
+  "185025": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Blueberry Filling (Blueberries, High Fructose Corn Syrup, Water, Modified Food Starch (Contains less than 2% of Citric Acid, ) Natural Flavor, Potassium Sorbate and Sodium Benzoate (Preservative) Salt, Sodium Citrate, Spice.), Streusel Topping Butter Flavor (Bleached Wheat Flour, Sugar, Margarine [Palm Oil, Water, Soybean Oil, Contains 2% or less of: Salt Mono and Diglycerides, Soy Lecithin, Natural Flavor, Citric Acid (preservative), Beta Carotene Color, Vitamin A Palmitate added], Natural and Artificial Flavor (Milk), Sodium Propionate (preservative). MANUFACTURED ON EQUIPMENT EXPOSED TO EGG PRODUCTS.), Butter (Cream (milk), salt.)",
+   "name": "Blueberry Cobbler",
+   "note": null,
+   "nutrition": {
+    "calories": 282,
+    "cholesterol_mg": 8.3,
+    "dietary_fiber_g": 3.5,
+    "protein_g": 0.6,
+    "sat_fat_g": 2.2,
+    "sodium_mg": 122.7,
+    "sugars_g": 50.6,
+    "total_carb_g": 60.9,
+    "total_fat_g": 4.1,
+    "trans_fat_g": 0.1
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "185032": {
    "allergens": [
     "Soybeans",
@@ -5350,6 +5466,27 @@
     "sodium_mg": 1.4,
     "sugars_g": 14.3,
     "total_carb_g": 19.1,
+    "total_fat_g": 0.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "201016": {
+   "allergens": [],
+   "ingredients": "Local Bartlett Pears",
+   "name": "Fresh Pears",
+   "note": null,
+   "nutrition": {
+    "calories": 96,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 5.1,
+    "protein_g": 0.6,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 1.7,
+    "sugars_g": 16.2,
+    "total_carb_g": 25.6,
     "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
@@ -7416,6 +7553,54 @@
    "vegan": false,
    "vegetarian": false
   },
+  "300190": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Apple Cider, White Cooking Wine (Wine, Water, Neutral Spirits, Salt, Tartaric Acid, Citric Acid, Potassium Sorbate (preservative) Potassium Metabisulfite (preservative) Caramel Color.), Half & Half Cream (Milk, Cream and Disodium Phosphate), Leeks, Shallots (Shallots), Fresh Thyme (Fresh Thyme), Ground Black Pepper",
+   "name": "Creamy Apple Cider Mussels",
+   "note": "A Monterey Bay Aquarium Seafood Watch Guide \"best\" choice. Cider and Mussels are both local and sustainable.",
+   "nutrition": {
+    "calories": 90,
+    "cholesterol_mg": 5.6,
+    "dietary_fiber_g": 0.8,
+    "protein_g": 1.0,
+    "sat_fat_g": 1.1,
+    "sodium_mg": 106.9,
+    "sugars_g": 10.1,
+    "total_carb_g": 14.9,
+    "total_fat_g": 1.9,
+    "trans_fat_g": 0.1
+   },
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300194": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Little Leaf Spring Mix , Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.), Dried Cranberries Craisins (Cranberries, Sugar, Sunflower Oil), Sliced Red Onions (Red Onions), Cranberry Raisin Vinaigrette (Soybean Oil, Water, Sweetened Dried Cranberries (Cranberries, Sugar, Sunflower Oil), , Balsamic Vinegar, Red Wine Vinegar, Distilled Vinegar And Less That 2% Of Cranberry Juice Concentrate, Mustard Seed, Salt, White Wine, Pectin, Citric Acid, Tartaric Acid, Sugar, Spice, Garlic, Shallots, Wheat, Soybeans And Xanthan Gum.)",
+   "name": "Mixed GreensCranberry Salad",
+   "note": null,
+   "nutrition": {
+    "calories": 179,
+    "cholesterol_mg": 13.0,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 4.0,
+    "sat_fat_g": 3.6,
+    "sodium_mg": 110.2,
+    "sugars_g": 14.8,
+    "total_carb_g": 18.8,
+    "total_fat_g": 9.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "300196": {
    "allergens": [
     "Soybeans"
@@ -9232,6 +9417,29 @@
    "vegan": false,
    "vegetarian": false
   },
+  "300569": {
+   "allergens": [
+    "Soybeans"
+   ],
+   "ingredients": "Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Shallots (Shallots), Black Peppercorn (Black Peppercorns), Garlic (Garlic), Fresh Thyme (Fresh Thyme)",
+   "name": "Cider Glazed Chicken H",
+   "note": null,
+   "nutrition": {
+    "calories": 145,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.6,
+    "protein_g": 0.4,
+    "sat_fat_g": 2.2,
+    "sodium_mg": 2.0,
+    "sugars_g": 1.1,
+    "total_carb_g": 3.9,
+    "total_fat_g": 15.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300606": {
    "allergens": [
     "Soybeans"
@@ -9642,6 +9850,31 @@
    "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "300824": {
+   "allergens": [
+    "Crustacean Shellfish",
+    "Fish",
+    "Milk",
+    "Soybeans"
+   ],
+   "ingredients": "Seafood Chowder (Fish Stock (water, Cod Bones, Haddock Bones, Onions, Celery, Black Pepper, Thyme, Mustard Seed, Bay Leaves), Light Cream (milk, Cream), Potatoes, Haddock, Water, Sea Clams (sea Clams Water), Onions, Rice Flour, Scallops, Shrimp (may Contain Water, Salt), Soybean Oil, Carrots, Celery, Butter (cream, Salt), Sea Salt, Lobster Stock (lobster, Salt, Cod), Garlic, Black Pepper. Contains Fish, Milk, Shellfish.)",
+   "name": "New England Seafood Chowder",
+   "note": null,
+   "nutrition": {
+    "calories": 241,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.9,
+    "protein_g": 11.1,
+    "sat_fat_g": 6.5,
+    "sodium_mg": 620.2,
+    "total_carb_g": 14.8,
+    "total_fat_g": 14.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "300825": {
    "allergens": [
@@ -11864,6 +12097,18 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "301111": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": null,
+   "name": "Chice and Onion Cream Cheese",
+   "note": null,
+   "nutrition": {},
+   "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": true
   },
   "31003": {
    "allergens": [
