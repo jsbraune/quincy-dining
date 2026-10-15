@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T13:57:05+00:00",
+ "generatedAt": "2026-10-15T18:51:24+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -9583,18 +9583,18 @@
    "name": "Herbed Gravy",
    "note": null,
    "nutrition": {
-    "calories": 134,
-    "cholesterol_mg": 0.5,
-    "dietary_fiber_g": 0.2,
-    "protein_g": 0.9,
-    "sat_fat_g": 0.8,
-    "sodium_mg": 672.3,
-    "sugars_g": 1.0,
-    "total_carb_g": 8.4,
-    "total_fat_g": 10.2,
+    "calories": 67,
+    "cholesterol_mg": 0.2,
+    "dietary_fiber_g": 0.1,
+    "protein_g": 0.5,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 336.1,
+    "sugars_g": 0.5,
+    "total_carb_g": 4.2,
+    "total_fat_g": 5.1,
     "trans_fat_g": 0.0
    },
-   "portion": "4 fl. oz",
+   "portion": "2 fl. oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -10725,18 +10725,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 716,
-    "cholesterol_mg": 14.3,
-    "dietary_fiber_g": 7.8,
-    "protein_g": 36.4,
-    "sat_fat_g": 9.9,
-    "sodium_mg": 1849.1,
-    "sugars_g": 7.1,
-    "total_carb_g": 64.8,
-    "total_fat_g": 37.3,
+    "calories": 358,
+    "cholesterol_mg": 7.1,
+    "dietary_fiber_g": 3.9,
+    "protein_g": 18.2,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 924.6,
+    "sugars_g": 3.5,
+    "total_carb_g": 32.4,
+    "total_fat_g": 18.7,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -12079,18 +12079,18 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Apricot Preserves (Apricots, High Fructose Corn Syrup, Corn Syrup, Fruit Pectin, Citric Acid), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), White Clover Honey (Honey), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Apricot Preserves (Apricots, High Fructose Corn Syrup, Corn Syrup, Fruit Pectin, Citric Acid), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Kosher Salt, Ground Black Pepper",
    "name": "Cajun Teriyaki Apriocot Glazed Tofu",
    "note": null,
    "nutrition": {
-    "calories": 322,
+    "calories": 304,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 1.7,
     "protein_g": 12.8,
     "sat_fat_g": 1.4,
-    "sodium_mg": 3274.9,
-    "sugars_g": 26.6,
-    "total_carb_g": 35.3,
+    "sodium_mg": 2798.4,
+    "sugars_g": 21.9,
+    "total_carb_g": 30.6,
     "total_fat_g": 16.0,
     "trans_fat_g": 0.0
    },

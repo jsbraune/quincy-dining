@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-14T14:18:56+00:00",
+ "fetchedAt": "2026-10-15T18:50:22+00:00",
  "rows": [
   {
    "allergens": [
@@ -98728,11 +98728,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 291,
-   "calories_from_fat": 71,
+   "calories": 194,
+   "calories_from_fat": 48,
    "cholesterol": {
-    "amount": "60.8mg",
-    "percent": 20.0
+    "amount": "40.5mg",
+    "percent": 14.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98742,28 +98742,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "25.8g",
-    "percent": 51.0
+    "amount": "17.2g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "1g",
+    "percent": 5.0
    },
-   "serving_size": "6 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "440.4mg",
-    "percent": 19.0
+    "amount": "293.6mg",
+    "percent": 13.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.4g",
-    "percent": 11.0
+    "amount": "20.3g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "7.9g",
-    "percent": 10.0
+    "amount": "5.3g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -115733,8 +115733,8 @@
    "allergens": [
     "Fish"
    ],
-   "calories": 232,
-   "calories_from_fat": 118,
+   "calories": 307,
+   "calories_from_fat": 193,
    "cholesterol": {
     "amount": "62.4mg",
     "percent": 21.0
@@ -115748,17 +115748,17 @@
    "ingredients": "Salmon, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Whole Grain Mustard (Water, Mustard Seeds, Vinegar, Salt), Shallots (Shallots), Garlic (Garlic), White Clover Honey (Honey), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Kosher Salt, Italian Parsley (Italian Parsley), Rosemary (Rosemary), Sage (Sage), Ground Black Pepper",
    "name": "Honey Mustard Salmon",
    "protein": {
-    "amount": "22.9g",
-    "percent": 45.0
+    "amount": "23.3g",
+    "percent": 46.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "3.8g",
+    "percent": 17.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "572.7mg",
-    "percent": 25.0
+    "amount": "589.8mg",
+    "percent": 26.0
    },
    "sugars": {
     "amount": "2.6g"
@@ -115768,8 +115768,8 @@
     "percent": 2.0
    },
    "total_fat": {
-    "amount": "13.1g",
-    "percent": 17.0
+    "amount": "21.4g",
+    "percent": 27.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -121277,42 +121277,41 @@
    "allergens": [
     "Wheat"
    ],
-   "calories": 134,
-   "calories_from_fat": 92,
+   "calories": 67,
+   "calories_from_fat": 46,
    "cholesterol": {
-    "amount": "0.5mg"
+    "amount": "0.2mg"
    },
    "dietary_fiber": {
-    "amount": "0.2g",
-    "percent": 1.0
+    "amount": "0.1g"
    },
    "id": 300677,
    "information": null,
    "ingredients": "Roux with Oil (All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)), Chicken Stock (Chicken Base (Roasted Chicken And Chicken Juices, Salt, Sugar, Corn Starch, Chicken Fat, Dehydrated Onion, Turmeric, Flavoring.)), Sage (Sage), Parsley (Parsley), Kosher Salt, Ground White Pepper (White Peppercorns)",
    "name": "Herbed Gravy",
    "protein": {
-    "amount": "0.9g",
-    "percent": 2.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "sat_fat": {
-    "amount": "0.8g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
-   "serving_size": "4 fl. oz",
+   "serving_size": "2 fl. oz",
    "sodium": {
-    "amount": "672.3mg",
-    "percent": 29.0
+    "amount": "336.1mg",
+    "percent": 15.0
    },
    "sugars": {
-    "amount": "1g"
+    "amount": "0.5g"
    },
    "total_carb": {
-    "amount": "8.4g",
-    "percent": 3.0
+    "amount": "4.2g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "10.2g",
-    "percent": 13.0
+    "amount": "5.1g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130648,43 +130647,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 716,
-   "calories_from_fat": 337,
+   "calories": 358,
+   "calories_from_fat": 168,
    "cholesterol": {
-    "amount": "14.3mg",
-    "percent": 5.0
+    "amount": "7.1mg",
+    "percent": 2.0
    },
    "dietary_fiber": {
-    "amount": "7.8g",
-    "percent": 28.0
+    "amount": "3.9g",
+    "percent": 14.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "36.4g",
-    "percent": 71.0
+    "amount": "18.2g",
+    "percent": 36.0
    },
    "sat_fat": {
-    "amount": "9.9g",
-    "percent": 45.0
+    "amount": "4.9g",
+    "percent": 22.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "1849.1mg",
-    "percent": 80.0
+    "amount": "924.6mg",
+    "percent": 40.0
    },
    "sugars": {
-    "amount": "7.1g"
+    "amount": "3.5g"
    },
    "total_carb": {
-    "amount": "64.8g",
-    "percent": 24.0
+    "amount": "32.4g",
+    "percent": 12.0
    },
    "total_fat": {
-    "amount": "37.3g",
-    "percent": 48.0
+    "amount": "18.7g",
+    "percent": 24.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -132231,43 +132230,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 251,
-   "calories_from_fat": 113,
+   "calories": 342,
+   "calories_from_fat": 203,
    "cholesterol": {
-    "amount": "83.2mg",
+    "amount": "83.3mg",
     "percent": 28.0
    },
    "dietary_fiber": {
-    "amount": "0.1g",
+    "amount": "0.2g",
     "percent": 1.0
    },
    "id": 301003,
    "information": null,
-   "ingredients": "Salmon, Tandoori Marinade (Low Fat Plain Yogurt (Cultured Pasteurized Milk, Nonfat Milk Solids, Active Cultures), Canola Oil, Lime Juice, Spices, Garlic, Ginger, Tapioca Starch, Salt, Jalapeno Peppers, Cilantro, Natural Extractives of Beet ([color] ascorbic acid), Natural Extractives of Annatto [color], Fenugreek Leaves, Black Salt. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS.), Limes (Fresh Limes), Butter (Cream (milk), salt.)",
+   "ingredients": "Salmon, Tandoori Marinade (Low Fat Plain Yogurt (Cultured Pasteurized Milk, Nonfat Milk Solids, Active Cultures), Canola Oil, Lime Juice, Spices, Garlic, Ginger, Tapioca Starch, Salt, Jalapeno Peppers, Cilantro, Natural Extractives of Beet ([color] ascorbic acid), Natural Extractives of Annatto [color], Fenugreek Leaves, Black Salt. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS.), Limes (Fresh Limes), Limes (Fresh Limes), Butter (Cream (milk), salt.), Cilantro (Cilantro)",
    "name": "Tandoori Salmon",
    "protein": {
-    "amount": "28.3g",
-    "percent": 55.0
+    "amount": "28.8g",
+    "percent": 56.0
    },
    "sat_fat": {
-    "amount": "1.9g",
-    "percent": 9.0
+    "amount": "4.7g",
+    "percent": 21.0
    },
    "serving_size": "5 oz",
    "sodium": {
-    "amount": "347mg",
-    "percent": 15.0
+    "amount": "367.6mg",
+    "percent": 16.0
    },
    "sugars": {
-    "amount": "1.3g"
+    "amount": "1.4g"
    },
    "total_carb": {
-    "amount": "4.2g",
+    "amount": "4.5g",
     "percent": 2.0
    },
    "total_fat": {
-    "amount": "12.5g",
-    "percent": 16.0
+    "amount": "22.5g",
+    "percent": 29.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134683,7 +134682,7 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 322,
+   "calories": 304,
    "calories_from_fat": 145,
    "cholesterol": {
     "amount": "0mg"
@@ -134694,7 +134693,7 @@
    },
    "id": 301107,
    "information": null,
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Apricot Preserves (Apricots, High Fructose Corn Syrup, Corn Syrup, Fruit Pectin, Citric Acid), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), White Clover Honey (Honey), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Apricot Preserves (Apricots, High Fructose Corn Syrup, Corn Syrup, Fruit Pectin, Citric Acid), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Kosher Salt, Ground Black Pepper",
    "name": "Cajun Teriyaki Apriocot Glazed Tofu",
    "protein": {
     "amount": "12.8g",
@@ -134706,15 +134705,15 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "3274.9mg",
-    "percent": 142.0
+    "amount": "2798.4mg",
+    "percent": 122.0
    },
    "sugars": {
-    "amount": "26.6g"
+    "amount": "21.9g"
    },
    "total_carb": {
-    "amount": "35.3g",
-    "percent": 13.0
+    "amount": "30.6g",
+    "percent": 11.0
    },
    "total_fat": {
     "amount": "16g",
@@ -189434,6 +189433,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "b0a5d10d6c9cbcf36b42824a204799e78d13d412441aff6eb5af08ca23ca9d60",
+ "sha256": "fa66f9ee0176e04bda1ad89d8c177b679883e5336b7c26f3d7c665ee1cbcae5e",
  "table": "recipes"
 }
