@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-15T18:50:22+00:00",
+ "fetchedAt": "2026-10-16T13:43:45+00:00",
  "rows": [
   {
    "allergens": [
@@ -19683,9 +19683,7 @@
     "amount": "106.3mg",
     "percent": 5.0
    },
-   "sugars": {
-    "amount": "0g"
-   },
+   "sugars": null,
    "total_carb": {
     "amount": "0g"
    },
@@ -37597,11 +37595,11 @@
    },
    "dietary_fiber": {
     "amount": "0.9g",
-    "percent": 4.0
+    "percent": 3.0
    },
    "id": 143001,
    "information": null,
-   "ingredients": "Nature Soy Tofu (Water, non-GMO Soybeans, Calcium Sulfate, Glucono Delta-lactone, Magnesium chloride.)",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride)",
    "name": "Tofu",
    "protein": {
     "amount": "10.1g",
@@ -37624,7 +37622,7 @@
    },
    "total_fat": {
     "amount": "5g",
-    "percent": 7.0
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -98728,11 +98726,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 194,
-   "calories_from_fat": 48,
+   "calories": 291,
+   "calories_from_fat": 71,
    "cholesterol": {
-    "amount": "40.5mg",
-    "percent": 14.0
+    "amount": "60.8mg",
+    "percent": 20.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98742,28 +98740,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "17.2g",
-    "percent": 34.0
+    "amount": "25.8g",
+    "percent": 51.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "6 oz",
    "sodium": {
-    "amount": "293.6mg",
-    "percent": 13.0
+    "amount": "440.4mg",
+    "percent": 19.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "20.3g",
-    "percent": 7.0
+    "amount": "30.4g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "5.3g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -132982,7 +132980,7 @@
    },
    "id": 301030,
    "information": null,
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Lima Beans (Lima Beans, Salt.), Happy Little Plant Chorizo Morning Star (Water, Soy Flour, Corn Oil, Onions, Paprika.contains 2% Or Less of Garlic (Garlic, Water), Salt, Soy Protein Isolate, Spices, Citric acid, Cooked Onion And Carrot Juice Concentrate, Garlic powder, Vinegar Solids, Onion Powder, Sugar, Paprika Extract color, Natural Flavor, Faba Bean Protein, Pea Protein.), Corn (Corn), Suntan Peppers (Bell Peppers), Spanish Onions (Onions), Celery (Celery), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Garlic (Garlic), Jalapeno Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Smoked Paprika (PAPRIKA, AND SILICON DIOXIDE (ADDED TO MAKE FREE FLOWING)..), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Ground Black Pepper",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Lima Beans (Lima Beans, Salt.), Happy Little Plant Chorizo Morning Star (Water, Soy Flour, Corn Oil, Onions, Paprika.contains 2% Or Less of Garlic (Garlic, Water), Salt, Soy Protein Isolate, Spices, Citric acid, Cooked Onion And Carrot Juice Concentrate, Garlic powder, Vinegar Solids, Onion Powder, Sugar, Paprika Extract color, Natural Flavor, Faba Bean Protein, Pea Protein.), Corn (Corn), Suntan Peppers (Bell Peppers), Onions (Onions), Celery (Celery), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Garlic (Garlic), Jalapeno Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Smoked Paprika (PAPRIKA, AND SILICON DIOXIDE (ADDED TO MAKE FREE FLOWING)..), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Ground Black Pepper",
    "name": "Corn Maque Choux",
    "protein": {
     "amount": "7.5g",
@@ -147855,8 +147853,8 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 230,
-   "calories_from_fat": 154,
+   "calories": 152,
+   "calories_from_fat": 71,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -147866,15 +147864,15 @@
    },
    "id": 501093,
    "information": null,
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Chili Garlic Sauce (Salted Chili Peppers (Chili peppers, salt), Water, Sugar, Rice Vinegar, Dehydrated Garlic, Modified Corn Starch, Acetic Acid.), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Chili Garlic Sauce (Salted Chili Peppers (Chili peppers, salt), Water, Sugar, Rice Vinegar, Dehydrated Garlic, Modified Corn Starch, Acetic Acid.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
    "name": "Garlic Chili Glazed Tofu",
    "protein": {
     "amount": "10.1g",
     "percent": 20.0
    },
    "sat_fat": {
-    "amount": "1.4g",
-    "percent": 7.0
+    "amount": "0.8g",
+    "percent": 4.0
    },
    "serving_size": "4 oz",
    "sodium": {
@@ -147889,8 +147887,8 @@
     "percent": 3.0
    },
    "total_fat": {
-    "amount": "17.1g",
-    "percent": 22.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189433,6 +189431,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "fa66f9ee0176e04bda1ad89d8c177b679883e5336b7c26f3d7c665ee1cbcae5e",
+ "sha256": "52af7d3a714f32e5af32516eca0843fa3d00c278897635630d229411dbe96bd2",
  "table": "recipes"
 }
