@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "fetchedAt": "2026-10-15T13:55:19+00:00",
- "itemCount": 350,
+ "fetchedAt": "2026-10-17T18:29:56+00:00",
+ "itemCount": 351,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -4378,6 +4378,19 @@
       }
      ],
      "name": "Brain Break"
+    },
+    {
+     "categoryId": null,
+     "items": [
+      {
+       "allergens": [],
+       "name": "Mather House Closed for Special Event",
+       "portion": "1 ea",
+       "recipeId": 999889,
+       "tags": []
+      }
+     ],
+     "name": "Other"
     }
    ]
   }
