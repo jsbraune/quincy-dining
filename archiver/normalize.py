@@ -91,6 +91,13 @@ def tags_for(recipe, is_halal):
     return tags
 
 
+def station_name(cat, cats):
+    """Label a station, tolerating a category id that is missing or null."""
+    if not isinstance(cat, int):
+        return "Other"
+    return cats.get(cat, "Station %d" % cat)
+
+
 def normalize_day(raw, location_id, location_slug, cats, recs):
     """One raw menu file -> one normalized day."""
     rows = [r for r in raw["rows"] if location_id in r.get("location", [])]
@@ -98,8 +105,16 @@ def normalize_day(raw, location_id, location_slug, cats, recs):
     # Group by meal, preserving the feed's station order. It is NOT sorted by
     # category id -- the sequence mirrors how FoodPro lays the meal out
     # (Soup, Salad Bar, Entrees, ...), which is the order a human expects.
+    # Upstream occasionally publishes rows with a null category -- both
+    # broadcast notices ("Mather House Closed for Special Event") and the
+    # odd real dish. Never crash on one, and never silently drop it either:
+    # a closure notice is exactly what a student needs to see.
+    UNCATEGORIZED = "__none__"
+
     meals = {}
     for row in rows:
+        if row.get("meal") is None or row.get("recipe") is None:
+            continue
         meals.setdefault(row["meal"], []).append(row)
 
     out_meals = []
@@ -113,7 +128,7 @@ def normalize_day(raw, location_id, location_slug, cats, recs):
 
         stations, order = {}, []
         for row in meal_rows:
-            cat = row["category"]
+            cat = row["category"] if row.get("category") is not None else UNCATEGORIZED
             if cat not in stations:
                 stations[cat] = []
                 order.append(cat)
@@ -137,7 +152,8 @@ def normalize_day(raw, location_id, location_slug, cats, recs):
         out_meals.append({
             "meal": MEALS.get(meal_id, "meal%d" % meal_id),
             "stations": [
-                {"name": cats.get(c, "Station %d" % c), "categoryId": c, "items": stations[c]}
+                {"name": station_name(c, cats), "categoryId": c if c != UNCATEGORIZED else None,
+                 "items": stations[c]}
                 for c in order if stations[c]
             ],
         })

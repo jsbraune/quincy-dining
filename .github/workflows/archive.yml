@@ -34,7 +34,12 @@ jobs:
       - name: Run archiver
         run: python3 archiver/archive.py
 
+      # Normalization is regenerable from data/raw; the CS50 snapshot is not.
+      # A crash here used to abort the job before the commit step, so a
+      # normalizer bug destroyed that run's archive -- the one thing we
+      # cannot refetch. Never let that happen again.
       - name: Normalize
+        continue-on-error: true
         run: python3 archiver/normalize.py
 
       # All-halls pipeline for the second app. Independent of the Quincy
