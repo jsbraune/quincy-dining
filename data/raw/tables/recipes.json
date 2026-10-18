@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-17T18:29:56+00:00",
+ "fetchedAt": "2026-10-18T17:43:40+00:00",
  "rows": [
   {
    "allergens": [
@@ -71078,14 +71078,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -71097,17 +71097,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -189452,6 +189452,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "950ce488703873328d4e200526505bf0b167301fa015d42af83d550facea9cb3",
+ "sha256": "0b34bcbd8a2fe46a1049fc66c3823ae5e7fdc1c0ed37316add9f640f4b2290c5",
  "table": "recipes"
 }
