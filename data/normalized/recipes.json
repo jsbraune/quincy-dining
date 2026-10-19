@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T22:16:31+00:00",
+ "generatedAt": "2026-10-19T16:10:31+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -569,7 +569,7 @@
    "name": "Chefs Choice",
    "note": null,
    "nutrition": {},
-   "portion": "1 each",
+   "portion": "4 each",
    "vegan": true,
    "vegetarian": true
   },
@@ -4404,6 +4404,31 @@
    "vegan": false,
    "vegetarian": true
   },
+  "184016": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Cookie 'n Cream Ice Cream (Milk, Cream, Sugar, Corn Syrup, Cookies (Sugar, Enriched Flour [wheat flour, niacin, reduced iron, thiamine mononitrate (Vitamin B1), riboflavin (Vitamin B2), folic acid], Soybean and Palm Oil, Cocoa Processed with Alkali, Invert Sugar, Contains 2% or less of Yellow Corn Flour, Cornstarch, Chocolate, Salt, Leavening [baking soda, monocalcium phosphate], Artificial Flavor, Soy Lecithin, Whey), Non Fat Milk, High Fructose Corn Syrup, Whey, Mono & Diglycerides, Natural & Artificial Flavors, Molasses, Guar Gum, Locust Bean Gum, Polysorbate 80 and Carrageenan)",
+   "name": "Cookies and Cream Ice Cream",
+   "note": null,
+   "nutrition": {
+    "calories": 391,
+    "cholesterol_mg": 68.4,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 3.9,
+    "sat_fat_g": 11.7,
+    "sodium_mg": 166.2,
+    "sugars_g": 37.1,
+    "total_carb_g": 48.9,
+    "total_fat_g": 19.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 fl. oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "184019": {
    "allergens": [
     "Milk"
@@ -5253,17 +5278,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 81,
+    "calories": 32,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 6.3,
+    "dietary_fiber_g": 2.5,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 4.3,
-    "total_carb_g": 19.6,
-    "total_fat_g": 0.2,
+    "sodium_mg": 1.7,
+    "total_carb_g": 7.9,
+    "total_fat_g": 0.1,
     "trans_fat_g": 0.0
    },
-   "portion": "5 oz",
+   "portion": "2 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -14181,13 +14206,13 @@
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 0.0,
+    "sodium_mg": 0.1,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1/2 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },

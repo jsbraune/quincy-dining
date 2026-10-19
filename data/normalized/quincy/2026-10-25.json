@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "fetchedAt": "2026-10-14T14:18:56+00:00",
- "itemCount": 340,
+ "fetchedAt": "2026-10-19T16:10:27+00:00",
+ "itemCount": 342,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -308,6 +308,17 @@
        "name": "Sun Butter",
        "portion": "1 oz",
        "recipeId": 143404,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 32,
+       "name": "Blueberries",
+       "portion": "2 fl. oz",
+       "recipeId": 204016,
        "tags": [
         "vegan",
         "vegetarian"
@@ -1026,6 +1037,25 @@
       }
      ],
      "name": "Bag Meal Beverages"
+    },
+    {
+     "categoryId": 23,
+     "items": [
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Build Your Own"
     }
    ]
   },
@@ -1038,7 +1068,7 @@
       {
        "allergens": [],
        "name": "Chefs Choice",
-       "portion": "1 each",
+       "portion": "4 each",
        "recipeId": 111000,
        "tags": [
         "vegan",
@@ -1064,9 +1094,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",

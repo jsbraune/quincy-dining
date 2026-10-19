@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-18T17:43:40+00:00",
+ "fetchedAt": "2026-10-19T16:10:27+00:00",
  "rows": [
   {
    "allergens": [
@@ -22315,7 +22315,7 @@
    "name": "Chefs Choice",
    "protein": null,
    "sat_fat": null,
-   "serving_size": "1 each",
+   "serving_size": "4 each",
    "sodium": null,
    "sugars": null,
    "total_carb": null,
@@ -65702,6 +65702,56 @@
    "vegetarian": true
   },
   {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 391,
+   "calories_from_fat": 176,
+   "cholesterol": {
+    "amount": "68.4mg",
+    "percent": 23.0
+   },
+   "dietary_fiber": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "id": 184016,
+   "information": null,
+   "ingredients": "Cookie 'n Cream Ice Cream (Milk, Cream, Sugar, Corn Syrup, Cookies (Sugar, Enriched Flour [wheat flour, niacin, reduced iron, thiamine mononitrate (Vitamin B1), riboflavin (Vitamin B2), folic acid], Soybean and Palm Oil, Cocoa Processed with Alkali, Invert Sugar, Contains 2% or less of Yellow Corn Flour, Cornstarch, Chocolate, Salt, Leavening [baking soda, monocalcium phosphate], Artificial Flavor, Soy Lecithin, Whey), Non Fat Milk, High Fructose Corn Syrup, Whey, Mono & Diglycerides, Natural & Artificial Flavors, Molasses, Guar Gum, Locust Bean Gum, Polysorbate 80 and Carrageenan)",
+   "name": "Cookies and Cream Ice Cream",
+   "protein": {
+    "amount": "3.9g",
+    "percent": 8.0
+   },
+   "sat_fat": {
+    "amount": "11.7g",
+    "percent": 53.0
+   },
+   "serving_size": "6 fl. oz",
+   "sodium": {
+    "amount": "166.2mg",
+    "percent": 7.0
+   },
+   "sugars": {
+    "amount": "37.1g"
+   },
+   "total_carb": {
+    "amount": "48.9g",
+    "percent": 18.0
+   },
+   "total_fat": {
+    "amount": "19.6g",
+    "percent": 25.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
    "allergens": [],
    "calories": 332,
    "calories_from_fat": 141,
@@ -71078,14 +71128,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 32,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "2.5g",
+    "percent": 9.0
    },
    "id": 204010,
    "information": null,
@@ -71097,17 +71147,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "1.7mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -185266,9 +185316,9 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1/2 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "0mg"
+    "amount": "0.1mg"
    },
    "sugars": {
     "amount": "0g"
@@ -189452,6 +189502,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "0b34bcbd8a2fe46a1049fc66c3823ae5e7fdc1c0ed37316add9f640f4b2290c5",
+ "sha256": "e537ef4de0a5623c5d094759fca00fb19382bef9bfd25a3145708fa0c455f555",
  "table": "recipes"
 }
