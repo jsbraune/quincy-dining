@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "fetchedAt": "2026-10-13T16:42:23+00:00",
+ "fetchedAt": "2026-10-19T20:19:37+00:00",
  "itemCount": 164,
  "locationNum": "30",
  "meals": [
@@ -524,7 +524,7 @@
     {
      "items": [
       {
-       "name": "Pumpkin Squash Rice"
+       "name": "Rice"
       }
      ],
      "name": "Starch And Potatoes"
@@ -700,6 +700,6 @@
    ]
   }
  ],
- "mealsSha256": "80e1fe14ee9e8123b8afc6227673433d63a6968e2bec1ceb225b80ab0f3a2bbc",
+ "mealsSha256": "1f303db4378422078c585c9b5b72f1b540e097734cbce0164f692954c18739a2",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

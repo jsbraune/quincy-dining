@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "fetchedAt": "2026-10-13T16:42:23+00:00",
+ "fetchedAt": "2026-10-19T20:19:37+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 164,
@@ -1570,14 +1570,11 @@
     {
      "items": [
       {
-       "allergens": [
-        "Soybeans",
-        "Tree Nuts"
-       ],
-       "calories": 155,
-       "name": "Pumpkin Squash Rice",
+       "allergens": [],
+       "calories": 506,
+       "name": "Rice",
        "portion": "4 oz",
-       "recipeId": 301044,
+       "recipeId": 163001,
        "tags": [
         "vegan",
         "vegetarian"

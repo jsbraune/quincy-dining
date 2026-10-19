@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T16:11:30+00:00",
+ "generatedAt": "2026-10-19T20:20:47+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -3238,6 +3238,27 @@
    },
    "portion": "4 oz",
    "vegan": false,
+   "vegetarian": true
+  },
+  "163001": {
+   "allergens": [],
+   "ingredients": "White Rice, Water",
+   "name": "Rice",
+   "note": null,
+   "nutrition": {
+    "calories": 506,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.4,
+    "protein_g": 10.2,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 2.7,
+    "sugars_g": 0.4,
+    "total_carb_g": 109.5,
+    "total_fat_g": 1.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
    "vegetarian": true
   },
   "163022": {
