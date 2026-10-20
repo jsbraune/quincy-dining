@@ -1,9 +1,9 @@
 {
  "date": "2026-10-21",
- "fetchedAt": "2026-10-15T13:55:22+00:00",
+ "fetchedAt": "2026-10-20T18:52:14+00:00",
  "hall": "leverett",
  "hallName": "Leverett House",
- "itemCount": 177,
+ "itemCount": 178,
  "locationNum": "16",
  "meals": [
   {
@@ -1622,22 +1622,20 @@
      "items": [
       {
        "allergens": [
-        "Soybeans"
-       ],
-       "calories": 145,
-       "name": "Cider Glazed  Chicken H",
-       "portion": "8 oz",
-       "recipeId": 300569,
-       "tags": []
-      },
-      {
-       "allergens": [
         "Milk"
        ],
        "calories": 90,
        "name": "Creamy Apple Cider Mussels",
        "portion": "8 oz",
        "recipeId": 300190,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 236,
+       "name": "Herb Roasted Chicken",
+       "portion": "1 piece",
+       "recipeId": 300367,
        "tags": []
       }
      ],
@@ -2029,6 +2027,17 @@
     },
     {
      "items": [
+      {
+       "allergens": [
+        "Milk",
+        "Wheat"
+       ],
+       "calories": 29,
+       "name": "Country Gravy",
+       "portion": "1 fl. oz",
+       "recipeId": 250012,
+       "tags": []
+      },
       {
        "allergens": [
         "Wheat"

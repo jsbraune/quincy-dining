@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "fetchedAt": "2026-10-15T13:55:22+00:00",
- "itemCount": 177,
+ "fetchedAt": "2026-10-20T18:52:14+00:00",
+ "itemCount": 178,
  "locationNum": "16",
  "meals": [
   {
@@ -527,10 +527,10 @@
     {
      "items": [
       {
-       "name": "Cider Glazed  Chicken H"
+       "name": "Creamy Apple Cider Mussels"
       },
       {
-       "name": "Creamy Apple Cider Mussels"
+       "name": "Herb Roasted Chicken"
       }
      ],
      "name": "Entrees"
@@ -653,6 +653,9 @@
     {
      "items": [
       {
+       "name": "Country Gravy"
+      },
+      {
        "name": "Herbed Gravy"
       }
      ],
@@ -734,6 +737,6 @@
    ]
   }
  ],
- "mealsSha256": "0ece95226075c1016babd2bb66fead0c5615004c59df3e5458a9f2bac43d04dd",
+ "mealsSha256": "d41e6a1634287eda11d3928a9b2cdccaa0f8f8656031acd82fae53d1667a3c02",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

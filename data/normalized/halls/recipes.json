@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T14:06:07+00:00",
+ "generatedAt": "2026-10-20T18:53:29+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -6537,6 +6537,30 @@
     "trans_fat_g": 0.3
    },
    "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "250012": {
+   "allergens": [
+    "Milk",
+    "Wheat"
+   ],
+   "ingredients": "Half & Half Cream (Milk, Cream and Disodium Phosphate), Water, Roux (All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Butter (Cream (milk), salt.)), Chicken Base (Roasted Chicken And Chicken Juices, Salt, Sugar, Corn Starch, Chicken Fat, Dehydrated Onion, Turmeric, Flavoring.), Ground White Pepper (White Peppercorns), Ground Thyme (Dried Thyme), Rubbed Sage (Rubbed Sage), Kosher Salt",
+   "name": "Country Gravy",
+   "note": null,
+   "nutrition": {
+    "calories": 29,
+    "cholesterol_mg": 6.1,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.5,
+    "sat_fat_g": 1.1,
+    "sodium_mg": 360.6,
+    "sugars_g": 0.5,
+    "total_carb_g": 1.8,
+    "total_fat_g": 1.8,
+    "trans_fat_g": 0.1
+   },
+   "portion": "1 fl. oz",
    "vegan": false,
    "vegetarian": false
   },
