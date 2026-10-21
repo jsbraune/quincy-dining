@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "fetchedAt": "2026-10-18T12:57:59+00:00",
+ "fetchedAt": "2026-10-21T14:19:33+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 176,
@@ -1706,14 +1706,8 @@
     {
      "items": [
       {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 275,
-       "name": "Chicken Piccatta",
-       "portion": "6 oz",
-       "recipeId": 111003,
+       "allergens": [],
+       "name": "Chicken Piccata",
        "tags": []
       },
       {

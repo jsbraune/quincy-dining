@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "fetchedAt": "2026-10-18T12:57:59+00:00",
+ "fetchedAt": "2026-10-21T14:19:33+00:00",
  "itemCount": 176,
  "locationNum": "30",
  "meals": [
@@ -562,7 +562,7 @@
     {
      "items": [
       {
-       "name": "Chicken Piccatta"
+       "name": "Chicken Piccata"
       },
       {
        "name": "Meatballs in Marinara Sauce"
@@ -746,6 +746,6 @@
    ]
   }
  ],
- "mealsSha256": "a0da1e0146cc76caf4de38fc9a56f2a7c8dc33c3dc1fc79db03eb8b4ef64d1ea",
+ "mealsSha256": "215a66f1c54429d355118b41f0b9bf99d55cdb1e88a3ae22ea7023d5ed5989b9",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
