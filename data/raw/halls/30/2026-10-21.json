@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "fetchedAt": "2026-10-15T13:55:22+00:00",
+ "fetchedAt": "2026-10-21T19:04:35+00:00",
  "itemCount": 172,
  "locationNum": "30",
  "meals": [
@@ -317,7 +317,7 @@
        "name": "Grilled Chicken Breast"
       },
       {
-       "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Tomato"
+       "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Onions"
       }
      ],
      "name": "Entrees"
@@ -724,6 +724,6 @@
    ]
   }
  ],
- "mealsSha256": "90fca584c57d87c51e08b1668f9e1f51b785c591798f6e2fec860ae18dacf9e8",
+ "mealsSha256": "66cc6b9061151c5d8ccad610d997b50d7f28b14be9e801f03945def3fd386633",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

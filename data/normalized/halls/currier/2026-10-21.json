@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "fetchedAt": "2026-10-15T13:55:22+00:00",
+ "fetchedAt": "2026-10-21T19:04:35+00:00",
  "hall": "currier",
  "hallName": "Currier House",
  "itemCount": 160,
@@ -823,16 +823,8 @@
        "tags": []
       },
       {
-       "allergens": [
-        "Crustacean Shellfish",
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 499,
-       "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Tomato",
-       "portion": "1 each",
-       "recipeId": 300033,
+       "allergens": [],
+       "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Onions",
        "tags": []
       }
      ],
