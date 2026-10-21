@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "fetchedAt": "2026-10-21T19:04:35+00:00",
+ "fetchedAt": "2026-10-21T23:02:57+00:00",
  "hall": "adams",
  "hallName": "Adams House",
  "itemCount": 173,
@@ -1408,7 +1408,7 @@
         "Wheat"
        ],
        "calories": 179,
-       "name": "Mixed GreensCranberry Salad",
+       "name": "Mixed Greens Cranberry Salad",
        "portion": "4 oz",
        "recipeId": 300194,
        "tags": [
@@ -1628,7 +1628,7 @@
         "Soybeans"
        ],
        "calories": 254,
-       "name": "Braised Kale with  Garlic and TomatO",
+       "name": "Braised Kale with Garlic and Tomato",
        "portion": "4 oz",
        "recipeId": 300196,
        "tags": [

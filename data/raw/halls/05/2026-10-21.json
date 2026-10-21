@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "fetchedAt": "2026-10-21T19:04:35+00:00",
+ "fetchedAt": "2026-10-21T23:02:57+00:00",
  "itemCount": 178,
  "locationNum": "05",
  "meals": [
@@ -483,7 +483,7 @@
        "name": "Little Leaf Greens"
       },
       {
-       "name": "Mixed GreensCranberry Salad"
+       "name": "Mixed Greens Cranberry Salad"
       },
       {
        "name": "Quinoa Black Bean and Rost Corn Salad"
@@ -557,7 +557,7 @@
     {
      "items": [
       {
-       "name": "Braised Kale with  Garlic and TomatO"
+       "name": "Braised Kale with Garlic and Tomato"
       },
       {
        "name": "Fresh Carrots with Dill"
@@ -737,6 +737,6 @@
    ]
   }
  ],
- "mealsSha256": "e4f8954ebae5a0723694c889d429ab57f3fa1a59e1df05d740da768a1cb70771",
+ "mealsSha256": "f6c671abb0162e5c4698417c01af91ff514a0593f59ddbc5986aeb0abc2cf87d",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
