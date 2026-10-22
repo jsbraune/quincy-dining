@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "fetchedAt": "2026-10-16T13:43:49+00:00",
+ "fetchedAt": "2026-10-22T14:19:33+00:00",
  "hall": "bagmeals",
  "hallName": "Bag Meals",
  "itemCount": 160,
@@ -912,17 +912,9 @@
     {
      "items": [
       {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 139,
-       "name": "Kidney and Cannelini Bean Stew",
-       "portion": "4 oz",
-       "recipeId": 300471,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
+       "allergens": [],
+       "name": "Kidney and Cannellini Bean Stew",
+       "tags": []
       }
      ],
      "name": "Plant protein"

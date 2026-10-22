@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "fetchedAt": "2026-10-16T13:43:49+00:00",
+ "fetchedAt": "2026-10-22T14:19:33+00:00",
  "itemCount": 173,
  "locationNum": "30",
  "meals": [
@@ -355,7 +355,7 @@
     {
      "items": [
       {
-       "name": "Kidney and Cannelini Bean Stew"
+       "name": "Kidney and Cannellini Bean Stew"
       }
      ],
      "name": "Plant protein"
@@ -722,6 +722,6 @@
    ]
   }
  ],
- "mealsSha256": "adaa8c7f29fdce4ffc169bed6025fcbda1caf4da32548503186859e64f46d920",
+ "mealsSha256": "bc39ebc56ace7db4a71945fbfd6b979c8858ecad0dc357106e9d5185e8ed326f",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
