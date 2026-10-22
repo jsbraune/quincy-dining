@@ -334,9 +334,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1062,7 +1062,7 @@
       },
       {
        "allergens": [],
-       "calories": 150,
+       "calories": 260,
        "name": "Roasted  Hot Honey Chicken",
        "portion": "4 oz",
        "recipeId": 300926,

@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-21T14:19:26+00:00",
+ "fetchedAt": "2026-10-22T19:01:10+00:00",
  "rows": [
   {
    "allergens": [
@@ -71125,14 +71125,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -71144,17 +71144,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -87953,43 +87953,42 @@
    "allergens": [
     "Fish"
    ],
-   "calories": 270,
-   "calories_from_fat": 176,
+   "calories": 68,
+   "calories_from_fat": 44,
    "cholesterol": {
-    "amount": "62.4mg",
-    "percent": 21.0
+    "amount": "15.6mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "1g",
-    "percent": 4.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 270427,
    "information": null,
    "ingredients": "Salmon, Lemons (LEMONS), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)",
    "name": "Roasted Salmon with Lemon Zest",
    "protein": {
-    "amount": "22.8g",
-    "percent": 45.0
+    "amount": "5.7g",
+    "percent": 11.0
    },
    "sat_fat": {
-    "amount": "2.9g",
-    "percent": 13.0
+    "amount": "0.7g",
+    "percent": 3.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "50.6mg",
-    "percent": 2.0
+    "amount": "12.6mg",
+    "percent": 1.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2.3g",
-    "percent": 1.0
+    "amount": "0.6g"
    },
    "total_fat": {
-    "amount": "19.5g",
-    "percent": 25.0
+    "amount": "4.9g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -126522,8 +126521,8 @@
   },
   {
    "allergens": [],
-   "calories": 70,
-   "calories_from_fat": 74,
+   "calories": 47,
+   "calories_from_fat": 49,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -126538,13 +126537,12 @@
     "amount": "0g"
    },
    "sat_fat": {
-    "amount": "0.6g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
-   "serving_size": "3 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "17mg",
-    "percent": 1.0
+    "amount": "11.3mg"
    },
    "sugars": {
     "amount": "0g"
@@ -126553,8 +126551,8 @@
     "amount": "0g"
    },
    "total_fat": {
-    "amount": "8.2g",
-    "percent": 10.0
+    "amount": "5.5g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130027,8 +130025,8 @@
   },
   {
    "allergens": [],
-   "calories": 150,
-   "calories_from_fat": 41,
+   "calories": 260,
+   "calories_from_fat": 90,
    "cholesterol": {
     "amount": "106.3mg",
     "percent": 35.0
@@ -130038,31 +130036,31 @@
    },
    "id": 300926,
    "information": null,
-   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Water, Hot Sauce (Aged Cayenne Red Peppers, Distilled Vinegar, Water, Salt & Garlic Powder), Garlic (Garlic), HOT HONEY (Honey, Real Chili Peppers, Vinegar, ), White Clover Honey (Honey), Ground Black Pepper, Kosher Dill Pickle Spears (Fresh Cucumbers, Water, Vinegar, Salt, Calcium Chloride, Natural Flavors, Polysorbate 80, Garlic Oil, Yellow 5.), Ground Cayenne Pepper (Dried Chilies), Parsley (Parsley)",
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Water, HOT HONEY (Honey, Real Chili Peppers, Vinegar, ), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Light Brown Sugar (Brown Sugar), Garlic (Garlic), Ground Black Pepper, Kosher Salt, Kosher Dill Pickle Spears (Fresh Cucumbers, Water, Vinegar, Salt, Calcium Chloride, Natural Flavors, Polysorbate 80, Garlic Oil, Yellow 5.), Ground Cayenne Pepper (Dried Chilies), Black Peppercorn (Black Peppercorns), Parsley (Parsley)",
    "name": "Roasted Hot Honey Chicken",
    "protein": {
     "amount": "22.4g",
     "percent": 44.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "1.4g",
+    "percent": 6.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "278mg",
-    "percent": 12.0
+    "amount": "129.6mg",
+    "percent": 6.0
    },
    "sugars": {
-    "amount": "1.4g"
+    "amount": "12.8g"
    },
    "total_carb": {
-    "amount": "2.1g",
-    "percent": 1.0
+    "amount": "17.9g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "4.6g",
-    "percent": 6.0
+    "amount": "10g",
+    "percent": 13.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130692,43 +130690,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 716,
-   "calories_from_fat": 337,
+   "calories": 358,
+   "calories_from_fat": 168,
    "cholesterol": {
-    "amount": "14.3mg",
-    "percent": 5.0
+    "amount": "7.1mg",
+    "percent": 2.0
    },
    "dietary_fiber": {
-    "amount": "7.8g",
-    "percent": 28.0
+    "amount": "3.9g",
+    "percent": 14.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "36.4g",
-    "percent": 71.0
+    "amount": "18.2g",
+    "percent": 36.0
    },
    "sat_fat": {
-    "amount": "9.9g",
-    "percent": 45.0
+    "amount": "4.9g",
+    "percent": 22.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "1849.1mg",
-    "percent": 80.0
+    "amount": "924.6mg",
+    "percent": 40.0
    },
    "sugars": {
-    "amount": "7.1g"
+    "amount": "3.5g"
    },
    "total_carb": {
-    "amount": "64.8g",
-    "percent": 24.0
+    "amount": "32.4g",
+    "percent": 12.0
    },
    "total_fat": {
-    "amount": "37.3g",
-    "percent": 48.0
+    "amount": "18.7g",
+    "percent": 24.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189499,6 +189497,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "a8257655ec061c161c603b8ed5a20c51d57eabc63b4128bffd4934264a2da383",
+ "sha256": "adc0deb10a36404f2b6e988ef02052d90ebd79456a6f2161f9a74412746afb64",
  "table": "recipes"
 }
