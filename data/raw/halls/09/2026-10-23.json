@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "fetchedAt": "2026-10-17T18:30:00+00:00",
- "itemCount": 124,
+ "fetchedAt": "2026-10-23T18:50:05+00:00",
+ "itemCount": 173,
  "locationNum": "09",
  "meals": [
   {
@@ -416,10 +416,13 @@
     {
      "items": [
       {
-       "name": "Adams House Closed for Special Event"
+       "name": "New England Clam Chowder"
+      },
+      {
+       "name": "Roasted Vegetable Soup"
       }
      ],
-     "name": "MISC"
+     "name": "Today's Soup"
     },
     {
      "items": [
@@ -506,10 +509,214 @@
       }
      ],
      "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Chicken Lemongrass Potstickers"
+      },
+      {
+       "name": "Emerald Beef and Vegetable Stir-Fry"
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Vegetable Edamame Potstickers"
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "name": "Shiitake & Scallion Sticky Rice"
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Roasted Broccoli"
+      },
+      {
+       "name": "StirFry  Vegetable Medley"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Mushrooms, Barley, Kale, with Scallions"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "Emerald Beef  and Vegetable Stir-Fry"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Maple and Apple Bread Pudding"
+      },
+      {
+       "name": "Pineapple Soft serve"
+      },
+      {
+       "name": "Strawberry Soft serve"
+      },
+      {
+       "name": "Whipped Topping"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Cage Free Eggs Cooked to Order"
+      },
+      {
+       "name": "Cage-Free Egg Whites Cooked to Order"
+      },
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Cheese Quesadilla"
+      },
+      {
+       "name": "Frankfurter Rolls"
+      },
+      {
+       "name": "French Fries"
+      },
+      {
+       "name": "Grilled All Beef Old Neighborhood Hot Dog"
+      },
+      {
+       "name": "Grilled Burger"
+      },
+      {
+       "name": "Grilled Burger Halal"
+      },
+      {
+       "name": "Grilled Cheese Sandwich"
+      },
+      {
+       "name": "Grilled Chicken"
+      },
+      {
+       "name": "Hamburger Rolls"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Jackfruit Burger"
+      },
+      {
+       "name": "Leaf Lettuce"
+      },
+      {
+       "name": "Nashville Hot Chicken Sandwich"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Sour Cream"
+      },
+      {
+       "name": "Thick and Chunky Mild Salsa"
+      },
+      {
+       "name": "Wheat Hamburger Rolls"
+      }
+     ],
+     "name": "From the Grill"
+    },
+    {
+     "items": [
+      {
+       "name": "Ginger Soy Sesame Dipping Sauce"
+      },
+      {
+       "name": "Hoisin Sauce"
+      },
+      {
+       "name": "Sweet & Sour Sauce"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Rice"
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Chobani Nonfat Plain Greek Yogurt"
+      },
+      {
+       "name": "Chobani Plain Greek Yogurt"
+      },
+      {
+       "name": "Fresh Fruit Salad"
+      },
+      {
+       "name": "Low  Fat Chobani Plain Yogurt"
+      },
+      {
+       "name": "Napa kimchi"
+      },
+      {
+       "name": "Pickled Okra"
+      },
+      {
+       "name": "Pickled Pepper Hot Cherry"
+      },
+      {
+       "name": "Plain Soy Yogurt"
+      }
+     ],
+     "name": "Extras"
+    },
+    {
+     "items": [
+      {
+       "name": "Creamy Basil Pesto Sauce"
+      },
+      {
+       "name": "Marinara Spaghetti Sauce"
+      },
+      {
+       "name": "Protein Plus Cavatappi"
+      }
+     ],
+     "name": "Whole Grain Pasta Bar"
     }
    ]
   }
  ],
- "mealsSha256": "7721881de18b58037e579c9e1e946e2f860b67eaab41409c1d30b80aeecd2903",
+ "mealsSha256": "f70030aff9cfe416b3ddbb6f740ed952616f331167c6dbbde056310df08230ab",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
