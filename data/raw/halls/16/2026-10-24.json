@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "fetchedAt": "2026-10-21T14:19:33+00:00",
+ "fetchedAt": "2026-10-23T14:02:52+00:00",
  "itemCount": 175,
  "locationNum": "16",
  "meals": [
@@ -366,7 +366,7 @@
     {
      "items": [
       {
-       "name": "Chipotle Chicken (H)"
+       "name": "Chipotle Chicken"
       }
      ],
      "name": "Halal"
@@ -738,6 +738,6 @@
    ]
   }
  ],
- "mealsSha256": "6ea3da4239d89ab5749f9bf9d31262911067ff639ecd3833d13036419dba2880",
+ "mealsSha256": "1c7afea7a8225b8856b35c86b975e69bb69ed196244d4a10d709545671d2a74c",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

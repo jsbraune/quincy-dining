@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "fetchedAt": "2026-10-21T14:19:33+00:00",
+ "fetchedAt": "2026-10-23T14:02:52+00:00",
  "hall": "kirkland",
  "hallName": "Kirkland House",
  "itemCount": 154,
@@ -164,9 +164,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -857,10 +857,10 @@
      "items": [
       {
        "allergens": [],
-       "calories": 179,
-       "name": "Chipotle Chicken (H)",
-       "portion": "4 oz",
-       "recipeId": 300076,
+       "calories": 170,
+       "name": "Chipotle Chicken",
+       "portion": "1 each",
+       "recipeId": 250020,
        "tags": [
         "halal"
        ]
@@ -1015,9 +1015,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1396,8 +1396,13 @@
     {
      "items": [
       {
-       "allergens": [],
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 314,
        "name": "Chicken Piccata",
+       "portion": "6 oz",
+       "recipeId": 111103,
        "tags": []
       },
       {
@@ -1855,9 +1860,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -1890,9 +1895,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 83,
+       "calories": 63,
        "name": "Low  Fat Chobani Plain Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -1937,9 +1942,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",

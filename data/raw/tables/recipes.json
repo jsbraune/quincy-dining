@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-22T19:01:10+00:00",
+ "fetchedAt": "2026-10-23T14:02:48+00:00",
  "rows": [
   {
    "allergens": [
@@ -9889,42 +9889,42 @@
     "Tree Nuts",
     "Wheat"
    ],
-   "calories": 599,
-   "calories_from_fat": 242,
+   "calories": 479,
+   "calories_from_fat": 194,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.7g",
-    "percent": 24.0
+    "amount": "5.4g",
+    "percent": 19.0
    },
    "id": 40013,
    "information": null,
    "ingredients": "Rotini Pasta (Rotini Fusilli (Semolina (Wheat), Durum Wheat Flour, Niacin, Iron (Ferrous Sulfate), Thiamine Mononitrate, Riboflavin, Folic Acid. THIS PRODUCT IS MANUFACTURED ON EQUIPMENT THAT PROCESSES PRODUCTS CONTAINING EGGS)), Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Broccoli Florets (Broccoli), Carrot Coins (Carrots), Caribbean Seasoning (Salt, Spices (Including Red Pepper), Dextrose, Caramel Color, Chives, and Sulfiting Agents), Parmesan Vegan Cheese (Filtered Water, Organic Palm Fruit Oil\u2020, Modifi ed Food Starch, Canola Oil, Natural Flavors (Plant Sources [Contains Autolyzed Yeast]), VegetableGlycerin, Less than 2% of: Lactic Acid (Vegetable Source), Calcium Lactate (Vegetable Source), Sea Salt, Sodium Phosphate, Carrageenan, BambooFiber, Nutritional Yeast, Calcium Phosphate, Organic Chickpea Miso (Organic Handmade Rice Koji, Organic Whole Chickpeas, Sea Salt, Water, KojiSpores), Sunfl ower Lecithin, Citric Acid, Annatto.), Scallions (Scallions)",
    "name": "Rasta Seitan Pasta",
    "protein": {
-    "amount": "36.8g",
-    "percent": 72.0
+    "amount": "29.4g",
+    "percent": 58.0
    },
    "sat_fat": {
-    "amount": "20.8g",
-    "percent": 94.0
+    "amount": "16.6g",
+    "percent": 76.0
    },
-   "serving_size": "10 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "1147mg",
-    "percent": 50.0
+    "amount": "917.6mg",
+    "percent": 40.0
    },
    "sugars": {
-    "amount": "4.1g"
+    "amount": "3.3g"
    },
    "total_carb": {
-    "amount": "59.9g",
-    "percent": 22.0
+    "amount": "47.9g",
+    "percent": 17.0
    },
    "total_fat": {
-    "amount": "26.9g",
-    "percent": 34.0
+    "amount": "21.5g",
+    "percent": 28.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -24046,8 +24046,8 @@
    },
    "id": 111103,
    "information": null,
-   "ingredients": "Chicken Breast (H) (Chicken Breast Boneless, Skinless.), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Picata Sauce (Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Water, White Cooking Wine (Wine, Water, Neutral Spirits, Salt, Tartaric Acid, Citric Acid, Potassium Sorbate (preservative) Potassium Metabisulfite (preservative) Caramel Color.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Chicken Stock (Chicken Base (Roasted Chicken And Chicken Juices, Salt, Sugar, Corn Starch, Chicken Fat, Dehydrated Onion, Turmeric, Flavoring.)), Cornstarch (Corn Starch), Garlic (Garlic), Parsley (Parsley)), Capers (Capers, Water, and Salt Vinegar.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Ground Black Pepper, Kosher Salt",
-   "name": "Chicken Piccatta",
+   "ingredients": "Chicken Breast (H) (Chicken Breast Boneless, Skinless.), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Picata Sauce (Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Water, White Cooking Wine (Wine, Water, Neutral Spirits, Salt, Tartaric Acid, Citric Acid, Potassium Sorbate (preservative) Potassium Metabisulfite (preservative) Caramel Color.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Chicken Stock (Chicken Base (Roasted Chicken And Chicken Juices, Salt, Sugar, Corn Starch, Chicken Fat, Dehydrated Onion, Turmeric, Flavoring.)), Cornstarch (Corn Starch), Garlic (Garlic), Parsley (Parsley)), Capers (Capers, Water, and Salt Vinegar.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Lemons (LEMONS), Parsley (Parsley), Ground Black Pepper, Kosher Salt",
+   "name": "Chicken Piccata",
    "protein": {
     "amount": "28.2g",
     "percent": 55.0
@@ -24065,7 +24065,7 @@
     "amount": "0.3g"
    },
    "total_carb": {
-    "amount": "22.5g",
+    "amount": "22.7g",
     "percent": 8.0
    },
    "total_fat": {
@@ -38028,10 +38028,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 60,
+   "calories": 45,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "6.7mg",
+    "amount": "5mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38042,22 +38042,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "10.7g",
-    "percent": 21.0
+    "amount": "8g",
+    "percent": 16.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "40mg",
-    "percent": 2.0
+    "amount": "30mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "2.7g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "3g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38545,11 +38545,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 83,
-   "calories_from_fat": 22,
+   "calories": 63,
+   "calories_from_fat": 16,
    "cholesterol": {
-    "amount": "13.9mg",
-    "percent": 5.0
+    "amount": "10.4mg",
+    "percent": 3.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38559,28 +38559,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "7.8g",
+    "percent": 15.0
    },
    "sat_fat": {
-    "amount": "1.7g",
-    "percent": 8.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "41.7mg",
-    "percent": 2.0
+    "amount": "31.3mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "4.2g"
+    "amount": "3.1g"
    },
    "total_carb": {
-    "amount": "4.9g",
-    "percent": 2.0
+    "amount": "3.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.4g",
-    "percent": 3.0
+    "amount": "1.8g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -51429,39 +51429,38 @@
   },
   {
    "allergens": [],
-   "calories": 138,
-   "calories_from_fat": 2,
+   "calories": 34,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.5g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
    "id": 163046,
    "information": "Bas in the Hindi language means \"aroma\" and Mati means full. Hence Basmati rice is full of aroma.",
    "ingredients": "Water, Basmati Rice (White basmati rice.)",
    "name": "Basmati Rice",
    "protein": {
-    "amount": "2.7g",
-    "percent": 5.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "1.9mg"
+    "amount": "0.5mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.2g",
-    "percent": 11.0
+    "amount": "7.6g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -71125,14 +71124,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 32,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "2.5g",
+    "percent": 9.0
    },
    "id": 204010,
    "information": null,
@@ -71144,17 +71143,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "1.7mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -81078,41 +81077,41 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 72,
-   "calories_from_fat": 18,
+   "calories": 18,
+   "calories_from_fat": 5,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "4g",
-    "percent": 14.0
+    "amount": "1g",
+    "percent": 4.0
    },
    "id": 255116,
    "information": null,
    "ingredients": "Makhni Dal (Water, Urad Dal (Black Lentils), Tomato Paste (Tomatoes, Citric Acid), Onions, Red Kidney Beans, Canola Oil, Salt, Ginger, Garlic, Spices. PRODUCED IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK , EGGS)",
    "name": "Makhni Dal",
    "protein": {
-    "amount": "4g",
-    "percent": 8.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "319.4mg",
-    "percent": 14.0
+    "amount": "79.9mg",
+    "percent": 3.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "0.2g"
    },
    "total_carb": {
-    "amount": "9.6g",
-    "percent": 3.0
+    "amount": "2.4g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2g",
-    "percent": 3.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -102454,7 +102453,7 @@
    "id": 300194,
    "information": null,
    "ingredients": "Little Leaf Spring Mix , Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.), Dried Cranberries Craisins (Cranberries, Sugar, Sunflower Oil), Sliced Red Onions (Red Onions), Cranberry Raisin Vinaigrette (Soybean Oil, Water, Sweetened Dried Cranberries (Cranberries, Sugar, Sunflower Oil), , Balsamic Vinegar, Red Wine Vinegar, Distilled Vinegar And Less That 2% Of Cranberry Juice Concentrate, Mustard Seed, Salt, White Wine, Pectin, Citric Acid, Tartaric Acid, Sugar, Spice, Garlic, Shallots, Wheat, Soybeans And Xanthan Gum.)",
-   "name": "Mixed GreensCranberry Salad",
+   "name": "Mixed Greens Cranberry Salad",
    "protein": {
     "amount": "4g",
     "percent": 8.0
@@ -102549,7 +102548,7 @@
    "id": 300196,
    "information": null,
    "ingredients": "Local Backyard Beauty Tomatoes, Green Kale (Kale), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Diced Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Ground Black Pepper, Kosher Salt",
-   "name": "Braised Kale with Garlic and TomatO",
+   "name": "Braised Kale with Garlic and Tomato",
    "protein": {
     "amount": "3.2g",
     "percent": 6.0
@@ -153840,7 +153839,7 @@
    "id": 503334,
    "information": null,
    "ingredients": "Flour Pressed 8\" Tortilla (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Blend Of Vegetable Oils (Soybean Oil, Hydrogenated Cottonseed Oil), Contains 2% Or Less Of The Following: Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Salt, Tortilla Premix [Mono-and Diglycerides, Guar Gum, Dextrose, Cellulose Gum, Enzyme Blend (Salt, Wheat Starch, Enzyme (s))], Sugar, Calcium Propionate (Preservative), Vital Wheat Gluten, Fumaric Acid, Potassium Sorbate (Preservative), Sodium Metabisulfite.), Monterey Jack Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzyme, Annatto Color), Potato Starch, Corn Starch, Dextrose, Calcium Sulfate, Enzyme. *Produced With Bio Engineered Ingredients*), Shrimp, Suntan Peppers (Bell Peppers), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Scallions (Fresh Scallions), Greek Leaf Oregano (Dried Oregano), Kosher Salt, Ground Black Pepper",
-   "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Tomato",
+   "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Onions",
    "protein": {
     "amount": "16.3g",
     "percent": 32.0
@@ -176068,42 +176067,40 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 73,
-   "calories_from_fat": 24,
+   "calories": 18,
+   "calories_from_fat": 6,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.3g",
-    "percent": 5.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "4.7g",
-    "percent": 9.0
+    "amount": "1.2g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "43.4mg",
-    "percent": 2.0
+    "amount": "10.8mg"
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "6.7g",
-    "percent": 2.0
+    "amount": "1.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.7g",
-    "percent": 3.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189497,6 +189494,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "adc0deb10a36404f2b6e988ef02052d90ebd79456a6f2161f9a74412746afb64",
+ "sha256": "5983b87cdfebf2ae5cab126b783bced9e7e17ae46009be381499fa5b55e3b3a2",
  "table": "recipes"
 }

@@ -823,8 +823,16 @@
        "tags": []
       },
       {
-       "allergens": [],
+       "allergens": [
+        "Crustacean Shellfish",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 304,
        "name": "Shrimp & Monterey Jack Quesadilla with Peppers & Onions",
+       "portion": "1 each",
+       "recipeId": 503334,
        "tags": []
       }
      ],
