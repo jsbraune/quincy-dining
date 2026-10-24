@@ -1137,17 +1137,9 @@
     {
      "items": [
       {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 139,
+       "allergens": [],
        "name": "Kidney and Cannelini Bean Stew",
-       "portion": "4 oz",
-       "recipeId": 300471,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
+       "tags": []
       }
      ],
      "name": "Plant protein"

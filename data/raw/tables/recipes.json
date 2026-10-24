@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-23T14:02:48+00:00",
+ "fetchedAt": "2026-10-24T22:16:55+00:00",
  "rows": [
   {
    "allergens": [
@@ -281,7 +281,7 @@
     "amount": "0g"
    },
    "vegan": false,
-   "vegetarian": true
+   "vegetarian": false
   },
   {
    "allergens": [],
@@ -98736,7 +98736,7 @@
    "id": 300076,
    "information": null,
    "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Light Brown Sugar (Brown Sugar), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.)",
-   "name": "Chipotle Chicken (H)",
+   "name": "Chipotle Chicken",
    "protein": {
     "amount": "22.7g",
     "percent": 45.0
@@ -98771,11 +98771,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 291,
-   "calories_from_fat": 71,
+   "calories": 194,
+   "calories_from_fat": 48,
    "cholesterol": {
-    "amount": "60.8mg",
-    "percent": 20.0
+    "amount": "40.5mg",
+    "percent": 14.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98785,28 +98785,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "25.8g",
-    "percent": 51.0
+    "amount": "17.2g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "1g",
+    "percent": 5.0
    },
-   "serving_size": "6 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "440.4mg",
-    "percent": 19.0
+    "amount": "293.6mg",
+    "percent": 13.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.4g",
-    "percent": 11.0
+    "amount": "20.3g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "7.9g",
-    "percent": 10.0
+    "amount": "5.3g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -113416,7 +113416,7 @@
    "id": 300471,
    "information": null,
    "ingredients": "Kidney Beans (Prepared Kidney Beans, Water, Sugar, Dextrose, Salt, Calcium Chloride (Firming Agent) , and Disodium EDTA (To Promote Color Retention).), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Cannellini Beans (Prepared Cannellini Beans, Water, Salt, and Calcium Chloride. Disodium EDTA added as a preservative.), Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Onions (Onions), Diced Celery, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Basil (Basil), Italian Parsley (Italian Parsley), Kosher Salt, Ground Black Pepper, Whole Bay Leaves (Bay Leaves)",
-   "name": "Kidney and Cannelini Bean Stew",
+   "name": "Kidney and Cannellini Bean Stew",
    "protein": {
     "amount": "8.3g",
     "percent": 16.0
@@ -121320,41 +121320,42 @@
    "allergens": [
     "Wheat"
    ],
-   "calories": 67,
-   "calories_from_fat": 46,
+   "calories": 134,
+   "calories_from_fat": 92,
    "cholesterol": {
-    "amount": "0.2mg"
+    "amount": "0.5mg"
    },
    "dietary_fiber": {
-    "amount": "0.1g"
+    "amount": "0.2g",
+    "percent": 1.0
    },
    "id": 300677,
    "information": null,
    "ingredients": "Roux with Oil (All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)), Chicken Stock (Chicken Base (Roasted Chicken And Chicken Juices, Salt, Sugar, Corn Starch, Chicken Fat, Dehydrated Onion, Turmeric, Flavoring.)), Sage (Sage), Parsley (Parsley), Kosher Salt, Ground White Pepper (White Peppercorns)",
    "name": "Herbed Gravy",
    "protein": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "0.9g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.8g",
+    "percent": 3.0
    },
-   "serving_size": "2 fl. oz",
+   "serving_size": "4 fl. oz",
    "sodium": {
-    "amount": "336.1mg",
-    "percent": 15.0
+    "amount": "672.3mg",
+    "percent": 29.0
    },
    "sugars": {
-    "amount": "0.5g"
+    "amount": "1g"
    },
    "total_carb": {
-    "amount": "4.2g",
-    "percent": 2.0
+    "amount": "8.4g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "5.1g",
-    "percent": 7.0
+    "amount": "10.2g",
+    "percent": 13.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -188384,43 +188385,43 @@
     "Soybeans",
     "Tree Nuts"
    ],
-   "calories": 119,
-   "calories_from_fat": 77,
+   "calories": 79,
+   "calories_from_fat": 51,
    "cholesterol": {
-    "amount": "5mg",
-    "percent": 2.0
+    "amount": "3.4mg",
+    "percent": 1.0
    },
    "dietary_fiber": {
-    "amount": "6.8g",
-    "percent": 24.0
+    "amount": "4.5g",
+    "percent": 16.0
    },
    "id": 799002,
    "information": null,
    "ingredients": "Green Leaf Lettuce, Ranch Dressing (Buttermilk (Cultured Pasteurized Low Fat Milk, Fat Free Milk, Modified Corn Starch, Salt, Mono and Diglycerides, Carrageenan, Locust Bean Gum Sodium Citrate), Soybean Oil, Water Seasoning Mix (Salt Maltodextrin, Onion Powder, Garlic Powder, Dextrose, Dehydrated Parsley, Disodium Inosinate, Disodium Guanylate, Spices, Xanthan Gum, Autolyzed Yeast Extract, Buttermilk, Turmeric (Color) Egg yolk, Liquid Sugar (Sugar Water), Vinegar, Modified Food Starch, Salt Chives, Spices, Xanthan Gum, Potassium Sorbate (Preservative) Calcium Disodium EDTA to Protect Flavor.), Red Cabbage, Grape Tomato, Shredded Carrots (Carrots), Cucumbers",
    "name": "Garden Salad",
    "protein": {
-    "amount": "2.6g",
-    "percent": 5.0
+    "amount": "1.7g",
+    "percent": 3.0
    },
    "sat_fat": {
-    "amount": "1.6g",
+    "amount": "1g",
+    "percent": 5.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "160.9mg",
     "percent": 7.0
    },
-   "serving_size": "6 oz",
-   "sodium": {
-    "amount": "241.3mg",
-    "percent": 10.0
-   },
    "sugars": {
-    "amount": "5.3g"
+    "amount": "3.5g"
    },
    "total_carb": {
-    "amount": "10.2g",
-    "percent": 4.0
+    "amount": "6.8g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "8.5g",
-    "percent": 11.0
+    "amount": "5.7g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189494,6 +189495,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "5983b87cdfebf2ae5cab126b783bced9e7e17ae46009be381499fa5b55e3b3a2",
+ "sha256": "5b77e4f0c786e0f779a31d0de96ce078a063d2f96c09a1f94ddf22bd35ddd8ef",
  "table": "recipes"
 }

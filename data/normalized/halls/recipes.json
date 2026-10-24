@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T17:47:41+00:00",
+ "generatedAt": "2026-10-24T22:18:18+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -113,7 +113,7 @@
    },
    "portion": "8 oz",
    "vegan": false,
-   "vegetarian": true
+   "vegetarian": false
   },
   "10018": {
    "allergens": [],
@@ -7474,27 +7474,6 @@
    "vegan": false,
    "vegetarian": false
   },
-  "300076": {
-   "allergens": [],
-   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Light Brown Sugar (Brown Sugar), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Chipotle Peppers (Chipotle Peppers, Water, Tomato Paste, Onion, Sugar, May Contain 2% or less of Salt, Vinegar, Sunflower Seed Oil, Paprika, Garlic, Corn Starch, Spices.), Onion Powder (Onion, silicon dioxide (anti-caking agent) MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.), Garlic Powder (Garlic. MAY CONTAIN NATURALLY OCCURRING SULFUR COMPOUNDS.)",
-   "name": "Chipotle Chicken (H)",
-   "note": null,
-   "nutrition": {
-    "calories": 179,
-    "cholesterol_mg": 106.3,
-    "dietary_fiber_g": 0.8,
-    "protein_g": 22.7,
-    "sat_fat_g": 1.2,
-    "sodium_mg": 116.2,
-    "sugars_g": 1.6,
-    "total_carb_g": 4.7,
-    "total_fat_g": 6.9,
-    "trans_fat_g": 0.0
-   },
-   "portion": "4 oz",
-   "vegan": false,
-   "vegetarian": false
-  },
   "300086": {
    "allergens": [
     "Milk"
@@ -8839,7 +8818,7 @@
     "Soybeans"
    ],
    "ingredients": "Kidney Beans (Prepared Kidney Beans, Water, Sugar, Dextrose, Salt, Calcium Chloride (Firming Agent) , and Disodium EDTA (To Promote Color Retention).), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Cannellini Beans (Prepared Cannellini Beans, Water, Salt, and Calcium Chloride. Disodium EDTA added as a preservative.), Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Onions (Onions), Diced Celery, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Basil (Basil), Italian Parsley (Italian Parsley), Kosher Salt, Ground Black Pepper, Whole Bay Leaves (Bay Leaves)",
-   "name": "Kidney and Cannelini Bean Stew",
+   "name": "Kidney and Cannellini Bean Stew",
    "note": null,
    "nutrition": {
     "calories": 139,
@@ -9695,18 +9674,18 @@
    "name": "Herbed Gravy",
    "note": null,
    "nutrition": {
-    "calories": 67,
-    "cholesterol_mg": 0.2,
-    "dietary_fiber_g": 0.1,
-    "protein_g": 0.5,
-    "sat_fat_g": 0.4,
-    "sodium_mg": 336.1,
-    "sugars_g": 0.5,
-    "total_carb_g": 4.2,
-    "total_fat_g": 5.1,
+    "calories": 134,
+    "cholesterol_mg": 0.5,
+    "dietary_fiber_g": 0.2,
+    "protein_g": 0.9,
+    "sat_fat_g": 0.8,
+    "sodium_mg": 672.3,
+    "sugars_g": 1.0,
+    "total_carb_g": 8.4,
+    "total_fat_g": 10.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 fl. oz",
+   "portion": "4 fl. oz",
    "vegan": false,
    "vegetarian": false
   },
