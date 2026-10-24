@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T22:58:07+00:00",
+ "generatedAt": "2026-10-24T13:06:25+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -14755,6 +14755,16 @@
    "allergens": [],
    "ingredients": null,
    "name": "Currier House Closed for Special Event",
+   "note": null,
+   "nutrition": {},
+   "portion": "1 ea",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "999899": {
+   "allergens": [],
+   "ingredients": null,
+   "name": "Closed for Special Event in Yard",
    "note": null,
    "nutrition": {},
    "portion": "1 ea",
