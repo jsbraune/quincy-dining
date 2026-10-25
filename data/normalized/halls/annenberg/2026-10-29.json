@@ -1,9 +1,9 @@
 {
  "date": "2026-10-29",
- "fetchedAt": "2026-10-23T14:02:52+00:00",
+ "fetchedAt": "2026-10-25T22:21:10+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
- "itemCount": 175,
+ "itemCount": 173,
  "locationNum": "30",
  "meals": [
   {
@@ -1603,17 +1603,6 @@
      "items": [
       {
        "allergens": [
-        "Milk",
-        "Soybeans"
-       ],
-       "calories": 201,
-       "name": "Chicken Paprikash",
-       "portion": "6 oz",
-       "recipeId": 300740,
-       "tags": []
-      },
-      {
-       "allergens": [
         "Milk"
        ],
        "calories": 399,
@@ -1649,13 +1638,12 @@
        "allergens": [
         "Eggs",
         "Milk",
-        "Soybeans",
         "Wheat"
        ],
-       "calories": 318,
-       "name": "Potato Pierogie",
-       "portion": "6 oz",
-       "recipeId": 300848,
+       "calories": 510,
+       "name": "Macaroni and Cheese",
+       "portion": "8 oz",
+       "recipeId": 10040,
        "tags": [
         "vegetarian"
        ]
@@ -1738,23 +1726,6 @@
     },
     {
      "items": [
-      {
-       "allergens": [
-        "Eggs",
-        "Milk",
-        "Peanuts",
-        "Soybeans",
-        "Tree Nuts",
-        "Wheat"
-       ],
-       "calories": 430,
-       "name": "Fudge Brownies",
-       "portion": "1 each",
-       "recipeId": 599009,
-       "tags": [
-        "vegetarian"
-       ]
-      },
       {
        "allergens": [
         "Tree Nuts"

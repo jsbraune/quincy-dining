@@ -1,9 +1,9 @@
 {
  "date": "2026-10-25",
- "fetchedAt": "2026-10-19T16:10:31+00:00",
+ "fetchedAt": "2026-10-25T22:21:10+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
- "itemCount": 170,
+ "itemCount": 155,
  "locationNum": "30",
  "meals": [
   {
@@ -1730,46 +1730,6 @@
      "items": [
       {
        "allergens": [
-        "Milk"
-       ],
-       "calories": 114,
-       "name": "Cheddar Cheese",
-       "portion": "1 oz",
-       "recipeId": 130014,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 293,
-       "name": "Cheese Quesadilla",
-       "portion": "1 each",
-       "recipeId": 250066,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 110,
-       "name": "Frankfurter Rolls",
-       "portion": "1 each",
-       "recipeId": 211029,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
         "Soybeans"
        ],
        "calories": 319,
@@ -1782,44 +1742,12 @@
        ]
       },
       {
-       "allergens": [
-        "Milk"
-       ],
-       "calories": 151,
-       "name": "Grilled All Beef Old Neighborhood Hot Dog",
-       "portion": "1 each",
-       "recipeId": 77022,
-       "tags": []
-      },
-      {
        "allergens": [],
        "calories": 271,
        "name": "Grilled Burger",
        "portion": "1 each",
        "recipeId": 77003,
        "tags": []
-      },
-      {
-       "allergens": [],
-       "calories": 320,
-       "name": "Grilled Burger Halal",
-       "portion": "1 each",
-       "recipeId": 300873,
-       "tags": []
-      },
-      {
-       "allergens": [
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 480,
-       "name": "Grilled Cheese Sandwich",
-       "portion": "1 each",
-       "recipeId": 138003,
-       "tags": [
-        "vegetarian"
-       ]
       },
       {
        "allergens": [],
@@ -1838,114 +1766,6 @@
        "name": "Hamburger Rolls",
        "portion": "1 roll",
        "recipeId": 211020,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs",
-        "Soybeans"
-       ],
-       "calories": 132,
-       "name": "Huds Boom Sauce",
-       "portion": "1 fl. oz",
-       "recipeId": 300988,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 211,
-       "name": "Jackfruit Burger",
-       "portion": "1 each",
-       "recipeId": 301000,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 4,
-       "name": "Leaf Lettuce",
-       "portion": "1 oz",
-       "recipeId": 175035,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 597,
-       "name": "Nashville Hot Chicken Sandwich",
-       "portion": "1 each",
-       "recipeId": 300225,
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "calories": 11,
-       "name": "Sliced Red Onions",
-       "portion": "1 oz",
-       "recipeId": 175033,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 12,
-       "name": "Sliced Tomatoes",
-       "portion": "2 oz",
-       "recipeId": 175036,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Milk"
-       ],
-       "calories": 55,
-       "name": "Sour Cream",
-       "portion": "1 oz",
-       "recipeId": 221004,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 18,
-       "name": "Thick and Chunky Mild Salsa",
-       "portion": "2 fl. oz",
-       "recipeId": 144018,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 150,
-       "name": "Wheat Hamburger Rolls",
-       "portion": "1 roll",
-       "recipeId": 211028,
        "tags": [
         "vegan",
         "vegetarian"
