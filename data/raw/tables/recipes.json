@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-24T22:16:55+00:00",
+ "fetchedAt": "2026-10-25T13:32:46+00:00",
  "rows": [
   {
    "allergens": [
@@ -22315,7 +22315,7 @@
    "name": "Chefs Choice",
    "protein": null,
    "sat_fat": null,
-   "serving_size": "4 each",
+   "serving_size": "1 each",
    "sodium": null,
    "sugars": null,
    "total_carb": null,
@@ -38028,10 +38028,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 45,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "5mg",
+    "amount": "6.7mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38042,22 +38042,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "8g",
-    "percent": 16.0
+    "amount": "10.7g",
+    "percent": 21.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "3 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "30mg",
-    "percent": 1.0
+    "amount": "40mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "2g"
+    "amount": "2.7g"
    },
    "total_carb": {
-    "amount": "3g",
+    "amount": "4g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38545,11 +38545,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 63,
-   "calories_from_fat": 16,
+   "calories": 83,
+   "calories_from_fat": 22,
    "cholesterol": {
-    "amount": "10.4mg",
-    "percent": 3.0
+    "amount": "13.9mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38559,28 +38559,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "7.8g",
-    "percent": 15.0
+    "amount": "10.4g",
+    "percent": 20.0
    },
    "sat_fat": {
-    "amount": "1.3g",
-    "percent": 6.0
+    "amount": "1.7g",
+    "percent": 8.0
    },
-   "serving_size": "3 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "31.3mg",
-    "percent": 1.0
+    "amount": "41.7mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "3.1g"
+    "amount": "4.2g"
    },
    "total_carb": {
-    "amount": "3.7g",
-    "percent": 1.0
+    "amount": "4.9g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "1.8g",
-    "percent": 2.0
+    "amount": "2.4g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -71124,14 +71124,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -71143,17 +71143,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -176068,40 +176068,42 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 18,
-   "calories_from_fat": 6,
+   "calories": 73,
+   "calories_from_fat": 24,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "1.3g",
+    "percent": 5.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "1.2g",
-    "percent": 2.0
+    "amount": "4.7g",
+    "percent": 9.0
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0.3g",
+    "percent": 2.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "10.8mg"
+    "amount": "43.4mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "3.3g"
    },
    "total_carb": {
-    "amount": "1.7g",
-    "percent": 1.0
+    "amount": "6.7g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "0.7g",
-    "percent": 1.0
+    "amount": "2.7g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189495,6 +189497,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "5b77e4f0c786e0f779a31d0de96ce078a063d2f96c09a1f94ddf22bd35ddd8ef",
+ "sha256": "734b12bdc23cefa6924e70b590d1c9584a52c453bdf5dad1e925e5eab4cdbcd9",
  "table": "recipes"
 }

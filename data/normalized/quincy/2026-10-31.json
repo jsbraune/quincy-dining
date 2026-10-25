@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "fetchedAt": "2026-10-18T12:57:35+00:00",
- "itemCount": 338,
+ "fetchedAt": "2026-10-25T13:32:46+00:00",
+ "itemCount": 345,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -31,6 +31,58 @@
        "name": "Steel Cut Oatmeal",
        "portion": "6 fl. oz",
        "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 180,
+       "name": "Belgian Waffles",
+       "portion": "1 each",
+       "recipeId": 36016,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 78,
+       "name": "Cage Free Hard Boiled Eggs",
+       "portion": "1 each",
+       "recipeId": 161049,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 190,
+       "name": "Scrambled Cage Free Eggs",
+       "portion": "4 oz",
+       "recipeId": 61203,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Tofu Scramble",
+       "portion": "4 oz",
+       "recipeId": 142100,
        "tags": [
         "vegan",
         "vegetarian"
@@ -224,6 +276,19 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Build Your Own"
@@ -257,9 +322,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -315,9 +380,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -327,9 +392,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -1082,6 +1147,37 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 1,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 242,
+       "name": "Bacon",
+       "portion": "2 each",
+       "recipeId": 89001,
+       "tags": []
+      }
+     ],
+     "name": "Breakfast Meats"
+    },
+    {
+     "categoryId": 14,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 113,
+       "name": "Home Fried Potatoes",
+       "portion": "4 oz",
+       "recipeId": 161003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Starch And Potatoes"
     }
    ]
   },
@@ -1093,9 +1189,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1678,7 +1774,7 @@
       {
        "allergens": [],
        "name": "Chefs Choice",
-       "portion": "4 each",
+       "portion": "1 each",
        "recipeId": 111000,
        "tags": [
         "vegan",
@@ -3459,9 +3555,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -3494,9 +3590,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -3541,9 +3637,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",

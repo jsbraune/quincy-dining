@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "fetchedAt": "2026-10-21T14:19:33+00:00",
- "itemCount": 183,
+ "fetchedAt": "2026-10-25T13:32:52+00:00",
+ "itemCount": 184,
  "locationNum": "05",
  "meals": [
   {
@@ -442,6 +442,14 @@
     {
      "items": [
       {
+       "name": "Pforzheimer House Closed for Special Event"
+      }
+     ],
+     "name": "MISC"
+    },
+    {
+     "items": [
+      {
        "name": "Broccoli And Cheddar Soup"
       },
       {
@@ -752,6 +760,6 @@
    ]
   }
  ],
- "mealsSha256": "3c8db3914a090631c6a9feb8eae6f140ccdcae815ce8514e0c9dbc0159cf40df",
+ "mealsSha256": "739badea0c8a8eb69c7031299e00a16adc1f7a66b16505496383883fdc178d0d",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
