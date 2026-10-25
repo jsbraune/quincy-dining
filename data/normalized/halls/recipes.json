@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T13:33:49+00:00",
+ "generatedAt": "2026-10-25T18:03:56+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -3584,6 +3584,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "2 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "164140": {
+   "allergens": [],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Vegetables (Celery, Carrots, Onions), Salt, Sugar, Dehydrated Potatoes (Potatoes, Mono and Diglycerides, Sodium Acid Pyrophosphate, Citric Acid), Dextrose, Seasoning (Hydrolyzed Corn Protein, Yeast Extract), Flavoring, Disodium Inosinate, Disodium Guanylate, Beet Powder.)), Red Quinoa",
+   "name": "Red Quinoa",
+   "note": null,
+   "nutrition": {
+    "calories": 219,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.8,
+    "protein_g": 7.7,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 201.6,
+    "sugars_g": 0.2,
+    "total_carb_g": 37.4,
+    "total_fat_g": 3.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },

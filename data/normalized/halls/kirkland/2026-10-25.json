@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "fetchedAt": "2026-10-19T16:10:31+00:00",
+ "fetchedAt": "2026-10-25T18:02:27+00:00",
  "hall": "kirkland",
  "hallName": "Kirkland House",
  "itemCount": 158,
@@ -657,18 +657,11 @@
     {
      "items": [
       {
-       "allergens": [
-        "Eggs",
-        "Milk",
-        "Peanuts",
-        "Soybeans",
-        "Tree Nuts",
-        "Wheat"
-       ],
-       "calories": 585,
-       "name": "Cumin and Chili Spiced Quinoa",
-       "portion": "8 oz",
-       "recipeId": 150078,
+       "allergens": [],
+       "calories": 219,
+       "name": "Red Quinoa",
+       "portion": "4 oz",
+       "recipeId": 164140,
        "tags": [
         "vegan",
         "vegetarian"
