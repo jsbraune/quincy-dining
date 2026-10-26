@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "fetchedAt": "2026-10-20T14:04:49+00:00",
+ "fetchedAt": "2026-10-26T15:49:36+00:00",
  "itemCount": 177,
  "locationNum": "30",
  "meals": [
@@ -320,7 +320,7 @@
        "name": "Grilled Chicken Breast"
       },
       {
-       "name": "Philly Cheese Steak Sub"
+       "name": "Philly Cheesesteak"
       }
      ],
      "name": "Entrees"
@@ -744,6 +744,6 @@
    ]
   }
  ],
- "mealsSha256": "f49f548210d2c5bdd5d84818f795517f73f27e9c4867f5f8592cdc8b3eab4a98",
+ "mealsSha256": "1d8afef6d7d1a7199016b609029646a99bcbfe7b96e335d13e03ab4f90e280c8",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

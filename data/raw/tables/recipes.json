@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-25T13:32:46+00:00",
+ "fetchedAt": "2026-10-26T15:49:31+00:00",
  "rows": [
   {
    "allergens": [
@@ -21756,11 +21756,11 @@
   },
   {
    "allergens": [],
-   "calories": 160,
-   "calories_from_fat": 90,
+   "calories": 80,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "70mg",
-    "percent": 23.0
+    "amount": "35mg",
+    "percent": 12.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21770,28 +21770,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "12g",
-    "percent": 24.0
+    "amount": "6g",
+    "percent": 12.0
    },
    "sat_fat": {
-    "amount": "3g",
-    "percent": 14.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "2 each",
+   "serving_size": "1 each",
    "sodium": {
-    "amount": "480mg",
-    "percent": 21.0
+    "amount": "240mg",
+    "percent": 10.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "2g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "10g",
-    "percent": 13.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -65796,6 +65796,54 @@
    "allergens": [
     "Milk"
    ],
+   "calories": 381,
+   "calories_from_fat": 165,
+   "cholesterol": {
+    "amount": "70.5mg",
+    "percent": 24.0
+   },
+   "dietary_fiber": {
+    "amount": "1.4g",
+    "percent": 5.0
+   },
+   "id": 184018,
+   "information": null,
+   "ingredients": "BLUEBERRY N' CREAM ICE CREAM (Cream, Milk, Nonfat Milk, Blueberry Whirl (Corn Syrup, Sugar, Blueberry Puree, Water, Blueberries, Corn Starch, Blueberry Juice Concentrate, Lemon Juice Concentrate, Salt), Sugar, Blueberries, Corn Syrup, Modified Corn Starch, Blueberry Juice Concentrate, Natural & Artificial Flavors, Citric Acid, Red 40, Blue 1, Mono & Diglycerides, Guar Gum And Locust Bean Gum.)",
+   "name": "Blueberry n'Cream Ice Cream",
+   "protein": {
+    "amount": "5.6g",
+    "percent": 11.0
+   },
+   "sat_fat": {
+    "amount": "11.3g",
+    "percent": 51.0
+   },
+   "serving_size": "6 fl. oz",
+   "sodium": {
+    "amount": "105.8mg",
+    "percent": 5.0
+   },
+   "sugars": {
+    "amount": "38.1g"
+   },
+   "total_carb": {
+    "amount": "47.9g",
+    "percent": 17.0
+   },
+   "total_fat": {
+    "amount": "18.3g",
+    "percent": 24.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Milk"
+   ],
    "calories": 352,
    "calories_from_fat": 141,
    "cholesterol": {
@@ -71124,14 +71172,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 49,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "3.8g",
+    "percent": 13.0
    },
    "id": 204010,
    "information": null,
@@ -71143,17 +71191,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "2.6mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "11.8g",
+    "percent": 4.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -131456,46 +131504,46 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 173,
-   "calories_from_fat": 60,
+   "calories": 345,
+   "calories_from_fat": 120,
    "cholesterol": {
-    "amount": "13.3mg",
-    "percent": 4.0
+    "amount": "26.6mg",
+    "percent": 9.0
    },
    "dietary_fiber": {
-    "amount": "10.9g",
-    "percent": 39.0
+    "amount": "21.9g",
+    "percent": 78.0
    },
    "id": 300978,
    "information": null,
    "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grape Tomato, Onions (Onions), Pure Bacon Bits (Bacon Cured with (Water, Salt, Sugar, Sodium Phosphates, Sodium Nitrite.) May Contain Smoke Flavor, Sodium Ascorbate, Sugar, Brown Sugar.), Heavy Cream (Cream, Carrageenan, and Mono & Diglycerides.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parmesan Cheese (Pasteurized Part Skim Cow\u2019s Milk, Cheese Cultures, Salt, and Enzymes.), Basil (Fresh Basil.), Ground Black Pepper, Kosher Salt",
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "protein": {
-    "amount": "8.6g",
-    "percent": 17.0
+    "amount": "17.1g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "2.1g",
-    "percent": 9.0
+    "amount": "4.1g",
+    "percent": 19.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "335mg",
-    "percent": 15.0
+    "amount": "670mg",
+    "percent": 29.0
    },
    "sugars": {
-    "amount": "3.4g"
+    "amount": "6.9g"
    },
    "total_carb": {
-    "amount": "23.6g",
-    "percent": 9.0
+    "amount": "47.3g",
+    "percent": 17.0
    },
    "total_fat": {
-    "amount": "6.6g",
-    "percent": 9.0
+    "amount": "13.3g",
+    "percent": 17.0
    },
    "trans_fat": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
    "vegan": false,
    "vegetarian": false
@@ -189497,6 +189545,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "734b12bdc23cefa6924e70b590d1c9584a52c453bdf5dad1e925e5eab4cdbcd9",
+ "sha256": "f610c4c6814d1c7407671eb1ae24e1edfb060b552101600f794cc31609ada7be",
  "table": "recipes"
 }

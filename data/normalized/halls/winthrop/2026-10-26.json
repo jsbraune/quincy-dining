@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "fetchedAt": "2026-10-20T14:04:49+00:00",
+ "fetchedAt": "2026-10-26T15:49:36+00:00",
  "hall": "winthrop",
  "hallName": "Winthrop House",
  "itemCount": 184,
@@ -346,9 +346,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1089,15 +1089,8 @@
        "tags": []
       },
       {
-       "allergens": [
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 391,
-       "name": "Philly Cheese Steak Sub",
-       "portion": "1 sub",
-       "recipeId": 300123,
+       "allergens": [],
+       "name": "Philly Cheesesteak",
        "tags": []
       }
      ],
