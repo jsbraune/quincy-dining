@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "fetchedAt": "2026-10-25T22:21:10+00:00",
+ "fetchedAt": "2026-10-26T23:37:04+00:00",
  "itemCount": 173,
  "locationNum": "30",
  "meals": [
@@ -388,10 +388,10 @@
     {
      "items": [
       {
-       "name": "Plant Based Strawberry Banana Smoothie"
+       "name": "Chefs Choice Housemade Smoothie"
       }
      ],
-     "name": "Delish"
+     "name": "Sides"
     },
     {
      "items": [
@@ -722,6 +722,6 @@
    ]
   }
  ],
- "mealsSha256": "4ee65dff6c83cbbadbfb84d1da254da7e87c2d81a26d54aacce8a0850369d0bb",
+ "mealsSha256": "302daa9a0c482a3aad04a4af7defa4bda8b7dbff1b0ca54b492b7d9c2505eb85",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

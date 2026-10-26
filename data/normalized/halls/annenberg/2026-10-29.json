@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "fetchedAt": "2026-10-25T22:21:10+00:00",
+ "fetchedAt": "2026-10-26T23:37:04+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 173,
@@ -1182,17 +1182,13 @@
      "items": [
       {
        "allergens": [],
-       "calories": 76,
-       "name": "Plant Based Strawberry Banana Smoothie",
-       "portion": "7 fl. oz",
-       "recipeId": 300610,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
+       "name": "Chefs Choice Housemade Smoothie",
+       "portion": "1 each",
+       "recipeId": 700424,
+       "tags": []
       }
      ],
-     "name": "Delish"
+     "name": "Sides"
     },
     {
      "items": [
