@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "fetchedAt": "2026-10-26T15:49:31+00:00",
- "itemCount": 349,
+ "fetchedAt": "2026-10-27T15:06:38+00:00",
+ "itemCount": 350,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -1126,6 +1126,17 @@
        "name": "White Bean and Escarole",
        "portion": "8 fl. oz",
        "recipeId": 10032,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 107,
+       "name": "Brown Rice",
+       "portion": "3 oz",
+       "recipeId": 505064,
        "tags": [
         "vegan",
         "vegetarian"
