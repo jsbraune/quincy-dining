@@ -490,9 +490,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 80,
+       "calories": 160,
        "name": "Chicken Sausage",
-       "portion": "1 each",
+       "portion": "2 each",
        "recipeId": 89020,
        "tags": []
       },
@@ -1696,9 +1696,9 @@
       },
       {
        "allergens": [],
-       "calories": 71,
+       "calories": 285,
        "name": "Halal Beef Taco Meat",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 300008,
        "tags": []
       }
@@ -1785,9 +1785,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 71,
+       "calories": 285,
        "name": "Halal Beef Taco Meat",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 300008,
        "tags": [
         "halal"

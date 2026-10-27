@@ -13,9 +13,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 80,
+       "calories": 160,
        "name": "Chicken Sausage",
-       "portion": "1 each",
+       "portion": "2 each",
        "recipeId": 89020,
        "tags": []
       }
@@ -1145,9 +1145,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 143,
+       "calories": 36,
        "name": "Seasoned Red Beans",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 144044,
        "tags": [
         "vegan",
