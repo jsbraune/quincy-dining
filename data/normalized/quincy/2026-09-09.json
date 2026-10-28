@@ -864,7 +864,8 @@
       {
        "allergens": [
         "Eggs",
-        "Milk"
+        "Milk",
+        "Soybeans"
        ],
        "calories": 90,
        "name": "Fried Egg",

@@ -104,7 +104,8 @@
       {
        "allergens": [
         "Eggs",
-        "Milk"
+        "Milk",
+        "Soybeans"
        ],
        "calories": 90,
        "name": "Fried Egg",
@@ -309,9 +310,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1670,9 +1671,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 358,
+       "calories": 716,
        "name": "Shaking Beef and Protein  Plus Pasta with Garlic",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300957,
        "tags": []
       }

@@ -105,7 +105,8 @@
       {
        "allergens": [
         "Eggs",
-        "Milk"
+        "Milk",
+        "Soybeans"
        ],
        "calories": 90,
        "name": "Fried Egg",
@@ -310,9 +311,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1029,9 +1030,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 274,
+       "calories": 137,
        "name": "Sweet and Sour Chicken",
-       "portion": "4 oz",
+       "portion": "2 oz",
        "recipeId": 301089,
        "tags": []
       }

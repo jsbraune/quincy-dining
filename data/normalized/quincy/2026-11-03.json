@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "fetchedAt": "2026-10-24T22:16:55+00:00",
- "itemCount": 349,
+ "fetchedAt": "2026-10-28T20:01:45+00:00",
+ "itemCount": 357,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -31,6 +31,71 @@
        "name": "Steel Cut Oatmeal",
        "portion": "6 fl. oz",
        "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 78,
+       "name": "Cage Free Hard Boiled Eggs",
+       "portion": "1 each",
+       "recipeId": 161049,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 255,
+       "name": "French Toast",
+       "portion": "1 each",
+       "recipeId": 36405,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 135,
+       "name": "Plant Protein Breakfast Sausage",
+       "portion": "2 oz",
+       "recipeId": 300606,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 190,
+       "name": "Scrambled Cage Free Eggs",
+       "portion": "4 oz",
+       "recipeId": 61203,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Tofu Scramble",
+       "portion": "4 oz",
+       "recipeId": 142100,
        "tags": [
         "vegan",
         "vegetarian"
@@ -106,7 +171,8 @@
       {
        "allergens": [
         "Eggs",
-        "Milk"
+        "Milk",
+        "Soybeans"
        ],
        "calories": 90,
        "name": "Fried Egg",
@@ -303,6 +369,19 @@
        "portion": "1 fl. oz",
        "recipeId": 199001,
        "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
         "vegetarian"
        ]
       }
@@ -1174,6 +1253,37 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 1,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 320,
+       "name": "Pork Sausage Patty",
+       "portion": "2 patties",
+       "recipeId": 89003,
+       "tags": []
+      }
+     ],
+     "name": "Breakfast Meats"
+    },
+    {
+     "categoryId": 14,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 113,
+       "name": "Home Fried Potatoes",
+       "portion": "4 oz",
+       "recipeId": 161003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Starch And Potatoes"
     }
    ]
   },
@@ -3096,9 +3206,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 358,
+       "calories": 716,
        "name": "Shaking Beef and Protein Plus Pasta with Garlic",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300957,
        "tags": []
       }

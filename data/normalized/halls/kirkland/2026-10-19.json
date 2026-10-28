@@ -105,7 +105,8 @@
       {
        "allergens": [
         "Eggs",
-        "Milk"
+        "Milk",
+        "Soybeans"
        ],
        "calories": 90,
        "name": "Fried Egg",
@@ -779,9 +780,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 274,
+       "calories": 137,
        "name": "Sweet and Sour Chicken",
-       "portion": "4 oz",
+       "portion": "2 oz",
        "recipeId": 301089,
        "tags": []
       }

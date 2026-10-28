@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-27T23:35:04+00:00",
+ "fetchedAt": "2026-10-28T20:01:45+00:00",
  "rows": [
   {
    "allergens": [
@@ -45387,18 +45387,18 @@
   },
   {
    "allergens": [],
-   "calories": 110,
-   "calories_from_fat": 5,
+   "calories": 112,
+   "calories_from_fat": 6,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "8.3g",
-    "percent": 29.0
+    "amount": "8.4g",
+    "percent": 30.0
    },
    "id": 150302,
    "information": null,
-   "ingredients": "Cannellini Beans (Prepared Cannellini Beans, Water, Salt, Calcium Chloride, (Firming Agent) Disodium EDTA (Preservative.)), Spinach (Spinach), Onions (Onions), Rosemary (Fresh Rosemary), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Crushed Red Pepper (Red chile peppers), Spanish Paprika (Paprika), Ground Black Pepper, Kosher Salt, Greek Leaf Oregano (Dried Oregano)",
+   "ingredients": "Cannellini Beans (Prepared Cannellini Beans, Water, Salt, Calcium Chloride, (Firming Agent) Disodium EDTA (Preservative.)), Spinach (Spinach), Diced Tomatoes (Fresh Vine-Ripened California Tomatoes, Tomato Juice, Sea Salt, Calcium Chloride, Naturally Derived Citric Acid.), Onions (Onions), Rosemary (Fresh Rosemary), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Crushed Red Pepper (Red chile peppers), Spanish Paprika (Paprika), Ground Black Pepper, Kosher Salt, Greek Leaf Oregano (Dried Oregano)",
    "name": "White Bean Stew",
    "protein": {
     "amount": "7.5g",
@@ -45410,14 +45410,14 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "184.5mg",
-    "percent": 8.0
+    "amount": "200.9mg",
+    "percent": 9.0
    },
    "sugars": {
-    "amount": "1.2g"
+    "amount": "1.5g"
    },
    "total_carb": {
-    "amount": "19.2g",
+    "amount": "19.6g",
     "percent": 7.0
    },
    "total_fat": {
@@ -51429,38 +51429,39 @@
   },
   {
    "allergens": [],
-   "calories": 34,
-   "calories_from_fat": 1,
+   "calories": 138,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.1g"
+    "amount": "0.5g",
+    "percent": 2.0
    },
    "id": 163046,
    "information": "Bas in the Hindi language means \"aroma\" and Mati means full. Hence Basmati rice is full of aroma.",
    "ingredients": "Water, Basmati Rice (White basmati rice.)",
    "name": "Basmati Rice",
    "protein": {
-    "amount": "0.7g",
-    "percent": 1.0
+    "amount": "2.7g",
+    "percent": 5.0
    },
    "sat_fat": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "0.5mg"
+    "amount": "1.9mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "7.6g",
-    "percent": 3.0
+    "amount": "30.2g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -71172,14 +71173,14 @@
   },
   {
    "allergens": [],
-   "calories": 49,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "3.8g",
-    "percent": 13.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -71191,17 +71192,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "3 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "2.6mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "11.8g",
-    "percent": 4.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -81125,41 +81126,41 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 18,
-   "calories_from_fat": 5,
+   "calories": 72,
+   "calories_from_fat": 18,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1g",
-    "percent": 4.0
+    "amount": "4g",
+    "percent": 14.0
    },
    "id": 255116,
    "information": null,
    "ingredients": "Makhni Dal (Water, Urad Dal (Black Lentils), Tomato Paste (Tomatoes, Citric Acid), Onions, Red Kidney Beans, Canola Oil, Salt, Ginger, Garlic, Spices. PRODUCED IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK , EGGS)",
    "name": "Makhni Dal",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "4g",
+    "percent": 8.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "79.9mg",
-    "percent": 3.0
+    "amount": "319.4mg",
+    "percent": 14.0
    },
    "sugars": {
-    "amount": "0.2g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "2.4g",
-    "percent": 1.0
+    "amount": "9.6g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "2g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -96993,43 +96994,41 @@
   },
   {
    "allergens": [],
-   "calories": 285,
-   "calories_from_fat": 180,
+   "calories": 71,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "69.5mg",
-    "percent": 23.0
+    "amount": "17.4mg",
+    "percent": 6.0
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
    "id": 300008,
    "information": null,
    "ingredients": "Beef Ground (H), Onions (Onions), Water, Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
    "name": "Halal Beef Taco Meat",
    "protein": {
-    "amount": "20g",
-    "percent": 39.0
+    "amount": "5g",
+    "percent": 10.0
    },
    "sat_fat": {
-    "amount": "8.9g",
-    "percent": 40.0
+    "amount": "2.2g",
+    "percent": 10.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "534.9mg",
-    "percent": 23.0
+    "amount": "133.7mg",
+    "percent": 6.0
    },
    "sugars": {
-    "amount": "2.2g"
+    "amount": "0.5g"
    },
    "total_carb": {
-    "amount": "4.6g",
-    "percent": 2.0
+    "amount": "1.1g"
    },
    "total_fat": {
-    "amount": "19.9g",
-    "percent": 26.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -98821,11 +98820,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 194,
-   "calories_from_fat": 48,
+   "calories": 291,
+   "calories_from_fat": 71,
    "cholesterol": {
-    "amount": "40.5mg",
-    "percent": 14.0
+    "amount": "60.8mg",
+    "percent": 20.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98835,28 +98834,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "17.2g",
-    "percent": 34.0
+    "amount": "25.8g",
+    "percent": 51.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "6 oz",
    "sodium": {
-    "amount": "293.6mg",
-    "percent": 13.0
+    "amount": "440.4mg",
+    "percent": 19.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "20.3g",
-    "percent": 7.0
+    "amount": "30.4g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "5.3g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -126847,7 +126846,8 @@
   {
    "allergens": [
     "Eggs",
-    "Milk"
+    "Milk",
+    "Soybeans"
    ],
    "calories": 90,
    "calories_from_fat": 72,
@@ -126860,7 +126860,7 @@
    },
    "id": 300837,
    "information": null,
-   "ingredients": "Fried Egg , (Egg Whites, Egg Yolks, Soybean Oil, Water, Contains 2% or less of the following: Modified Corn Starch, Salt, BLack Pepper, Cellulose Gum, Natural Flavor, Xanthan Gum, Citric Acid)",
+   "ingredients": "Fried Egg (Egg Whites, Egg Yolks, Soybean Oil, Water, Contains 2% Or Less Of The Following: Modified Corn Starch, Salt, Black Pepper, Cellulose Gum, Natural Butter Flavor, Xanthan Gum, Citric Acid.), Vegetable Pan Coating Spray (Canola Oil, Canola Lecithin, Mono and Diglycerides, Natural Flavor and Propellant)",
    "name": "Fried Egg",
    "protein": {
     "amount": "5g",
@@ -130740,43 +130740,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 358,
-   "calories_from_fat": 168,
+   "calories": 716,
+   "calories_from_fat": 337,
    "cholesterol": {
-    "amount": "7.1mg",
-    "percent": 2.0
+    "amount": "14.3mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "3.9g",
-    "percent": 14.0
+    "amount": "7.8g",
+    "percent": 28.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "18.2g",
-    "percent": 36.0
+    "amount": "36.4g",
+    "percent": 71.0
    },
    "sat_fat": {
-    "amount": "4.9g",
-    "percent": 22.0
+    "amount": "9.9g",
+    "percent": 45.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "924.6mg",
-    "percent": 40.0
+    "amount": "1849.1mg",
+    "percent": 80.0
    },
    "sugars": {
-    "amount": "3.5g"
+    "amount": "7.1g"
    },
    "total_carb": {
-    "amount": "32.4g",
-    "percent": 12.0
+    "amount": "64.8g",
+    "percent": 24.0
    },
    "total_fat": {
-    "amount": "18.7g",
-    "percent": 24.0
+    "amount": "37.3g",
+    "percent": 48.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134157,43 +134157,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 274,
-   "calories_from_fat": 136,
+   "calories": 137,
+   "calories_from_fat": 68,
    "cholesterol": {
-    "amount": "28.6mg",
-    "percent": 10.0
+    "amount": "14.3mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "0.9g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "id": 301089,
    "information": null,
    "ingredients": "Tempura Chicken (Chicken breast water, seasoning [salt, flavors, maltodextrin, sugar, vegetable stock (carrot, onion, celery), garlic powder], salt, sodium phosphates. BATTERED WITH: Water, yellow corn flour, bleached wheat flour, modified corn starch, salt, spices, leavening (sodium bicarbonate, sodium aluminum phosphate), dextrose, wheat starch, onion powder, extractives of turmeric, spice extractive. PREDUSTED WITH: Wheat flour, leavening (sodium acid pyrophosphate, sodium bicarbonate, monocalcium phosphate), salt, spices, calcium lactate, soybean oil (as a processing aid), calcium lactate. Vegetable oil), Sweet & Sour Sauce (Water, High Fructose Corn Syrup, Distilled White Vinegar, Sugar, Tomato Paste, modified Corn Starch, Pineapple Juice Concentrate, Salt, Fd&c Yellow 5, Fd&c red 40, Citric Acid, Fd&c Yellow 6, Xanthan Gum, Natural Flavor, Sodium benzoate Added As A Preservative.), Pineapple (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Onions (Onions), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Sweet and Sour Chicken",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "5.2g",
+    "percent": 10.0
    },
    "sat_fat": {
-    "amount": "2.7g",
-    "percent": 12.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "511.8mg",
-    "percent": 22.0
+    "amount": "255.9mg",
+    "percent": 11.0
    },
    "sugars": {
-    "amount": "12g"
+    "amount": "6g"
    },
    "total_carb": {
-    "amount": "12.8g",
-    "percent": 5.0
+    "amount": "6.4g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "15.1g",
-    "percent": 19.0
+    "amount": "7.5g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -154180,7 +154180,7 @@
    "id": 503384,
    "information": null,
    "ingredients": "Shaved Steak (Beef Shaved Steak), Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED), Sliced White Onions (Onions), White American Cheese (Cultured Pasteurized Milk and Skim Milk, Cream, Sodium Citrate, Salt Enzymes, Sorbic Acid (preservative) Soy Lecithin (Anti Sticking Agent), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Ground Black Pepper, Kosher Salt",
-   "name": "Philly Cheese Steak Sub",
+   "name": "Philly Cheesesteak",
    "protein": {
     "amount": "29.5g",
     "percent": 58.0
@@ -189547,6 +189547,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "d5bdfb34eea63e96c615f2fffc3904bd886e72b9610f8af8593acde0e1aea1dc",
+ "sha256": "65af6d1a9c6e349276ca3d9adaef5a423ac5a82f852c7c12d222572ac93ab7c2",
  "table": "recipes"
 }

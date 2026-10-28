@@ -105,7 +105,8 @@
       {
        "allergens": [
         "Eggs",
-        "Milk"
+        "Milk",
+        "Soybeans"
        ],
        "calories": 90,
        "name": "Fried Egg",
@@ -321,9 +322,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1004,8 +1005,15 @@
        "tags": []
       },
       {
-       "allergens": [],
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 406,
        "name": "Philly Cheesesteak",
+       "portion": "1 each",
+       "recipeId": 503384,
        "tags": []
       }
      ],
@@ -1080,7 +1088,7 @@
      "items": [
       {
        "allergens": [],
-       "calories": 110,
+       "calories": 112,
        "name": "White Bean Stew",
        "portion": "4 oz",
        "recipeId": 150302,

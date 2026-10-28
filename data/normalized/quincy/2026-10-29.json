@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "fetchedAt": "2026-10-27T23:35:04+00:00",
+ "fetchedAt": "2026-10-28T20:01:45+00:00",
  "itemCount": 352,
  "location": "quincy",
  "locationId": 8,
@@ -47,7 +47,8 @@
       {
        "allergens": [
         "Eggs",
-        "Milk"
+        "Milk",
+        "Soybeans"
        ],
        "calories": 90,
        "name": "Fried Egg",
