@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-28T20:01:45+00:00",
+ "fetchedAt": "2026-10-29T23:49:38+00:00",
  "rows": [
   {
    "allergens": [
@@ -38028,10 +38028,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 60,
+   "calories": 45,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "6.7mg",
+    "amount": "5mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38042,22 +38042,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "10.7g",
-    "percent": 21.0
+    "amount": "8g",
+    "percent": 16.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "40mg",
-    "percent": 2.0
+    "amount": "30mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "2.7g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "3g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38545,11 +38545,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 83,
-   "calories_from_fat": 22,
+   "calories": 63,
+   "calories_from_fat": 16,
    "cholesterol": {
-    "amount": "13.9mg",
-    "percent": 5.0
+    "amount": "10.4mg",
+    "percent": 3.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38559,28 +38559,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "7.8g",
+    "percent": 15.0
    },
    "sat_fat": {
-    "amount": "1.7g",
-    "percent": 8.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "41.7mg",
-    "percent": 2.0
+    "amount": "31.3mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "4.2g"
+    "amount": "3.1g"
    },
    "total_carb": {
-    "amount": "4.9g",
-    "percent": 2.0
+    "amount": "3.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.4g",
-    "percent": 3.0
+    "amount": "1.8g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -71173,14 +71173,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 49,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "3.8g",
+    "percent": 13.0
    },
    "id": 204010,
    "information": null,
@@ -71192,17 +71192,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "2.6mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "11.8g",
+    "percent": 4.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -98820,11 +98820,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 291,
-   "calories_from_fat": 71,
+   "calories": 194,
+   "calories_from_fat": 48,
    "cholesterol": {
-    "amount": "60.8mg",
-    "percent": 20.0
+    "amount": "40.5mg",
+    "percent": 14.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98834,28 +98834,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "25.8g",
-    "percent": 51.0
+    "amount": "17.2g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "1g",
+    "percent": 5.0
    },
-   "serving_size": "6 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "440.4mg",
-    "percent": 19.0
+    "amount": "293.6mg",
+    "percent": 13.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.4g",
-    "percent": 11.0
+    "amount": "20.3g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "7.9g",
-    "percent": 10.0
+    "amount": "5.3g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -176118,42 +176118,40 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 73,
-   "calories_from_fat": 24,
+   "calories": 18,
+   "calories_from_fat": 6,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.3g",
-    "percent": 5.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "4.7g",
-    "percent": 9.0
+    "amount": "1.2g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "43.4mg",
-    "percent": 2.0
+    "amount": "10.8mg"
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "6.7g",
-    "percent": 2.0
+    "amount": "1.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.7g",
-    "percent": 3.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189547,6 +189545,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "65af6d1a9c6e349276ca3d9adaef5a423ac5a82f852c7c12d222572ac93ab7c2",
+ "sha256": "91de2b1578865020b2374c739074ce2fb5117c0f8cc94330aac373d495124e3a",
  "table": "recipes"
 }
