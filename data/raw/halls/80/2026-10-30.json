@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "fetchedAt": "2026-10-24T13:04:44+00:00",
- "itemCount": 109,
+ "fetchedAt": "2026-10-30T19:48:42+00:00",
+ "itemCount": 82,
  "locationNum": "80",
  "meals": [
   {
@@ -365,96 +365,10 @@
       }
      ],
      "name": "MISC"
-    },
-    {
-     "items": [
-      {
-       "name": "Black Eyed Peas"
-      },
-      {
-       "name": "Broccoli and Vegetable Honey Dijon Slaw"
-      },
-      {
-       "name": "Caesar Salad"
-      },
-      {
-       "name": "Chick Peas"
-      },
-      {
-       "name": "Corn Niblets"
-      },
-      {
-       "name": "Cottage Cheese"
-      },
-      {
-       "name": "Cranberries"
-      },
-      {
-       "name": "Diced Onions"
-      },
-      {
-       "name": "Farro with Dill"
-      },
-      {
-       "name": "Feta Cheese"
-      },
-      {
-       "name": "Flaked Tuna"
-      },
-      {
-       "name": "Grape Tomatoes"
-      },
-      {
-       "name": "Hard Cooked Eggs"
-      },
-      {
-       "name": "Huds Boom Sauce"
-      },
-      {
-       "name": "Hummus"
-      },
-      {
-       "name": "Kalamata Olives"
-      },
-      {
-       "name": "Little Leaf Greens"
-      },
-      {
-       "name": "Millet"
-      },
-      {
-       "name": "Seasoned Halal Chicken Breast"
-      },
-      {
-       "name": "Shredded Carrots"
-      },
-      {
-       "name": "Sliced Avocado"
-      },
-      {
-       "name": "Sliced Cucumbers"
-      },
-      {
-       "name": "Spinach Salad Base"
-      },
-      {
-       "name": "Steamed Broccoli"
-      },
-      {
-       "name": "Suntan Pepper Strips"
-      },
-      {
-       "name": "Sweet Roasted Potatoes"
-      },
-      {
-       "name": "Tofu"
-      }
-     ],
-     "name": "Salad Bar"
     }
    ]
   }
  ],
- "mealsSha256": "40549aab49f37924e4114b5c54072cfba96ea43ca517959ca30264ae86eba83c",
+ "mealsSha256": "9b8d2b702fa7faff74faa35a5d8cad0c369e4d9bdfc4e5d07dad7362c68e9c55",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

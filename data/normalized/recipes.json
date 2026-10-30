@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T15:30:27+00:00",
+ "generatedAt": "2026-10-30T19:48:42+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -12474,30 +12474,6 @@
     "sugars_g": 0.2,
     "total_carb_g": 0.4,
     "total_fat_g": 25.6,
-    "trans_fat_g": 0.0
-   },
-   "portion": "4 oz",
-   "vegan": false,
-   "vegetarian": false
-  },
-  "48517": {
-   "allergens": [
-    "Eggs",
-    "Soybeans"
-   ],
-   "ingredients": "Classic Chunk Chicken Salad (Fully Cooked Chicken Breast (Boneless Skinless Chicken Breast Meat With Rib Meat, Water, Potato Starch, Vinegar, Sea Salt); Mayonnaise Extra Heavy (Soybean Oil, Water, Whole Eggs And Egg Yolks, Distilled Vinegar, Salt, Sugar, Lemon Juice Concentrate, Calcium Disodium Edta, Natural Flavors); Celery; Onion; Dijon Mustard (Water, Mustard Seeds, Vinegar, Salt, Sodium Bisulphite (Preservative)); Lemon Juice; Citrus Fiber; Cultured Dextrose; Maltodextrin; Pepper, Black.)",
-   "name": "Homemade Chicken Salad",
-   "note": "We make this white-meat chicken salad homemade in our kitchens at 80 J.F.K. Street.",
-   "nutrition": {
-    "calories": 249,
-    "cholesterol_mg": 62.4,
-    "dietary_fiber_g": 1.1,
-    "protein_g": 14.7,
-    "sat_fat_g": 2.8,
-    "sodium_mg": 476.3,
-    "sugars_g": 1.1,
-    "total_carb_g": 3.4,
-    "total_fat_g": 20.4,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",

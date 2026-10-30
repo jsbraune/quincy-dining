@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "fetchedAt": "2026-10-24T13:04:44+00:00",
- "itemCount": 126,
+ "fetchedAt": "2026-10-30T19:48:42+00:00",
+ "itemCount": 98,
  "locationNum": "30",
  "meals": [
   {
@@ -428,99 +428,10 @@
       }
      ],
      "name": "MISC"
-    },
-    {
-     "items": [
-      {
-       "name": "Black Eyed Peas"
-      },
-      {
-       "name": "Broccoli and Vegetable Honey Dijon Slaw"
-      },
-      {
-       "name": "Caesar Salad"
-      },
-      {
-       "name": "Chick Peas"
-      },
-      {
-       "name": "Corn Niblets"
-      },
-      {
-       "name": "Cottage Cheese"
-      },
-      {
-       "name": "Cranberries"
-      },
-      {
-       "name": "Diced Onions"
-      },
-      {
-       "name": "Farro with Dill"
-      },
-      {
-       "name": "Feta Cheese"
-      },
-      {
-       "name": "Flaked Tuna"
-      },
-      {
-       "name": "Grape Tomatoes"
-      },
-      {
-       "name": "Hard Cooked Eggs"
-      },
-      {
-       "name": "Huds Boom Sauce"
-      },
-      {
-       "name": "Hummus"
-      },
-      {
-       "name": "Kalamata Olives"
-      },
-      {
-       "name": "Little Leaf Greens"
-      },
-      {
-       "name": "Millet"
-      },
-      {
-       "name": "Seasoned Halal Chicken Breast"
-      },
-      {
-       "name": "Shredded Carrots"
-      },
-      {
-       "name": "Sliced Avocado"
-      },
-      {
-       "name": "Sliced Cucumbers"
-      },
-      {
-       "name": "Spinach Salad Base"
-      },
-      {
-       "name": "Steamed Broccoli"
-      },
-      {
-       "name": "Suntan Pepper Strips"
-      },
-      {
-       "name": "Sweet Roasted Potatoes"
-      },
-      {
-       "name": "Tabouleh Salad"
-      },
-      {
-       "name": "Tofu"
-      }
-     ],
-     "name": "Salad Bar"
     }
    ]
   }
  ],
- "mealsSha256": "03ca3541e08504ba6f25231e43169a8cc7c7179fdad00c16cf815c352105bb67",
+ "mealsSha256": "93d28c87d3e1d01f0c68c11f3fb961c525ea00654bcc4137ef1e77830c7ab64a",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

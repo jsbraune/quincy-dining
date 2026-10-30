@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "fetchedAt": "2026-10-24T13:04:44+00:00",
- "itemCount": 100,
+ "fetchedAt": "2026-10-30T19:48:42+00:00",
+ "itemCount": 102,
  "locationNum": "05",
  "meals": [
   {
@@ -420,8 +420,25 @@
      "name": "Chili Bar/Stew"
     }
    ]
+  },
+  {
+   "meal": "dinner",
+   "sourceLabel": "Dinner",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Closed for Special Event in Yard"
+      },
+      {
+       "name": "Dinner Served at Currier,  Dunster, Hillel"
+      }
+     ],
+     "name": "MISC"
+    }
+   ]
   }
  ],
- "mealsSha256": "ec9af732bea51990686dca82547a90e1d31c6135cfc0ec55c5616fb1b65a8011",
+ "mealsSha256": "e683f93bd1c7fd26a2432bc130c72d1f70b4a220cb4bb906ba9bf733e44d1b01",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

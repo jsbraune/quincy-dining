@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "fetchedAt": "2026-10-24T13:04:44+00:00",
- "itemCount": 128,
+ "fetchedAt": "2026-10-30T19:48:42+00:00",
+ "itemCount": 100,
  "locationNum": "08",
  "meals": [
   {
@@ -434,99 +434,10 @@
       }
      ],
      "name": "MISC"
-    },
-    {
-     "items": [
-      {
-       "name": "Black Eyed Peas"
-      },
-      {
-       "name": "Broccoli and Vegetable Honey Dijon Slaw"
-      },
-      {
-       "name": "Caesar Salad"
-      },
-      {
-       "name": "Chick Peas"
-      },
-      {
-       "name": "Corn Niblets"
-      },
-      {
-       "name": "Cottage Cheese"
-      },
-      {
-       "name": "Cranberries"
-      },
-      {
-       "name": "Diced Onions"
-      },
-      {
-       "name": "Farro with Dill"
-      },
-      {
-       "name": "Feta Cheese"
-      },
-      {
-       "name": "Flaked Tuna"
-      },
-      {
-       "name": "Grape Tomatoes"
-      },
-      {
-       "name": "Hard Cooked Eggs"
-      },
-      {
-       "name": "Huds Boom Sauce"
-      },
-      {
-       "name": "Hummus"
-      },
-      {
-       "name": "Kalamata Olives"
-      },
-      {
-       "name": "Little Leaf Greens"
-      },
-      {
-       "name": "Millet"
-      },
-      {
-       "name": "Seasoned Halal Chicken Breast"
-      },
-      {
-       "name": "Shredded Carrots"
-      },
-      {
-       "name": "Sliced Avocado"
-      },
-      {
-       "name": "Sliced Cucumbers"
-      },
-      {
-       "name": "Spinach Salad Base"
-      },
-      {
-       "name": "Steamed Broccoli"
-      },
-      {
-       "name": "Suntan Pepper Strips"
-      },
-      {
-       "name": "Sweet Roasted Potatoes"
-      },
-      {
-       "name": "Tabouleh Salad"
-      },
-      {
-       "name": "Tofu"
-      }
-     ],
-     "name": "Salad Bar"
     }
    ]
   }
  ],
- "mealsSha256": "f0196fb15a8bba3c99345f607c377e3f48a6db6ee8f13653ab57e6883d2ead4b",
+ "mealsSha256": "6c4ec0a9828d5b2380686462fa425a74d91b9cb5de09c6158e4edb1cd7021e22",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "fetchedAt": "2026-10-30T15:30:24+00:00",
- "itemCount": 348,
+ "fetchedAt": "2026-10-30T19:48:40+00:00",
+ "itemCount": 346,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -1787,8 +1787,7 @@
        "recipeId": 300485,
        "tags": [
         "vegan",
-        "vegetarian",
-        "halal"
+        "vegetarian"
        ]
       }
      ],
@@ -1822,20 +1821,6 @@
        "name": "Scrambled Tofu with Tomato & Scallion",
        "portion": "4 oz",
        "recipeId": 300485,
-       "tags": [
-        "vegan",
-        "vegetarian",
-        "halal"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 390,
-       "name": "Congee with Shallots & Edamame",
-       "portion": "6 oz",
-       "recipeId": 300486,
        "tags": [
         "vegan",
         "vegetarian"
@@ -2693,26 +2678,6 @@
       }
      ],
      "name": "Bagged Meal Condiments"
-    },
-    {
-     "categoryId": 17,
-     "items": [
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 172,
-       "name": "Scrambled Tofu with Tomato & Scallion",
-       "portion": "4 oz",
-       "recipeId": 300485,
-       "tags": [
-        "vegan",
-        "vegetarian",
-        "halal"
-       ]
-      }
-     ],
-     "name": "Halal"
     }
    ]
   },
