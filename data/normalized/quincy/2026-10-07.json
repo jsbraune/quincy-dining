@@ -1016,7 +1016,7 @@
       {
        "allergens": [],
        "name": "Scallions",
-       "portion": "1/2 oz",
+       "portion": "1 oz",
        "recipeId": 791567,
        "tags": [
         "vegan",
@@ -1127,9 +1127,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -1185,9 +1185,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -1197,9 +1197,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -3900,9 +3900,9 @@
       },
       {
        "allergens": [],
-       "calories": 47,
+       "calories": 70,
        "name": "Stir Fry Vegetables",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 300827,
        "tags": [
         "vegan",
@@ -4304,9 +4304,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -4339,9 +4339,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -4386,9 +4386,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",

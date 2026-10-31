@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "fetchedAt": "2026-10-27T23:35:04+00:00",
- "itemCount": 350,
+ "fetchedAt": "2026-10-31T14:59:34+00:00",
+ "itemCount": 357,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -220,6 +220,58 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 78,
+       "name": "Cage Free Hard Boiled Eggs",
+       "portion": "1 each",
+       "recipeId": 161049,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 255,
+       "name": "French Toast",
+       "portion": "1 each",
+       "recipeId": 36405,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs"
+       ],
+       "calories": 190,
+       "name": "Scrambled Cage Free Eggs",
+       "portion": "4 oz",
+       "recipeId": 61203,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 132,
+       "name": "Tofu Scramble",
+       "portion": "4 oz",
+       "recipeId": 142100,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Breakfast Entrees"
@@ -396,6 +448,19 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 122,
+       "name": "Steel Cut Oatmeal",
+       "portion": "6 fl. oz",
+       "recipeId": 31003,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
       }
      ],
      "name": "Build Your Own"
@@ -429,9 +494,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -487,9 +552,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -510,9 +575,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -1173,6 +1238,37 @@
       }
      ],
      "name": "Bagged Meal Condiments"
+    },
+    {
+     "categoryId": 1,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 247,
+       "name": "Pork Sausage Links",
+       "portion": "2 each",
+       "recipeId": 89002,
+       "tags": []
+      }
+     ],
+     "name": "Breakfast Meats"
+    },
+    {
+     "categoryId": 14,
+     "items": [
+      {
+       "allergens": [],
+       "calories": 184,
+       "name": "Sweet Potato Hashbrowns",
+       "portion": "4 oz",
+       "recipeId": 161051,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Starch And Potatoes"
     }
    ]
   },
@@ -3600,9 +3696,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -3635,9 +3731,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -3682,9 +3778,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 18,
+       "calories": 73,
        "name": "Plain Soy Yogurt",
-       "portion": "1 oz",
+       "portion": "4 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",

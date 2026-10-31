@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T23:29:32+00:00",
+ "generatedAt": "2026-10-31T14:59:39+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -305,18 +305,18 @@
    "name": "Macaroni and Cheese",
    "note": null,
    "nutrition": {
-    "calories": 510,
-    "cholesterol_mg": 89.9,
-    "dietary_fiber_g": 2.0,
-    "protein_g": 21.0,
-    "sat_fat_g": 19.0,
-    "sodium_mg": 949.2,
-    "sugars_g": 3.0,
-    "total_carb_g": 42.0,
-    "total_fat_g": 29.0,
+    "calories": 382,
+    "cholesterol_mg": 67.4,
+    "dietary_fiber_g": 1.5,
+    "protein_g": 15.7,
+    "sat_fat_g": 14.2,
+    "sodium_mg": 711.9,
+    "sugars_g": 2.2,
+    "total_carb_g": 31.5,
+    "total_fat_g": 21.7,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "6 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -1806,18 +1806,18 @@
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 45,
-    "cholesterol_mg": 5.0,
+    "calories": 60,
+    "cholesterol_mg": 6.7,
     "dietary_fiber_g": 0.0,
-    "protein_g": 8.0,
+    "protein_g": 10.7,
     "sat_fat_g": 0.0,
-    "sodium_mg": 30.0,
-    "sugars_g": 2.0,
-    "total_carb_g": 3.0,
+    "sodium_mg": 40.0,
+    "sugars_g": 2.7,
+    "total_carb_g": 4.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -1878,18 +1878,18 @@
    "name": "Low Fat Chobani Plain Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 63,
-    "cholesterol_mg": 10.4,
+    "calories": 83,
+    "cholesterol_mg": 13.9,
     "dietary_fiber_g": 0.0,
-    "protein_g": 7.8,
-    "sat_fat_g": 1.3,
-    "sodium_mg": 31.3,
-    "sugars_g": 3.1,
-    "total_carb_g": 3.7,
-    "total_fat_g": 1.8,
+    "protein_g": 10.4,
+    "sat_fat_g": 1.7,
+    "sodium_mg": 41.7,
+    "sugars_g": 4.2,
+    "total_carb_g": 4.9,
+    "total_fat_g": 2.4,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -5301,17 +5301,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 49,
+    "calories": 81,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 3.8,
+    "dietary_fiber_g": 6.3,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 2.6,
-    "total_carb_g": 11.8,
-    "total_fat_g": 0.1,
+    "sodium_mg": 4.3,
+    "total_carb_g": 19.6,
+    "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "5 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -6842,6 +6842,27 @@
     "total_carb_g": 5.0,
     "total_fat_g": 5.4,
     "trans_fat_g": 0.1
+   },
+   "portion": "5 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "300064": {
+   "allergens": [],
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Lemons (LEMONS), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Rosemary (Rosemary), Greek Leaf Oregano (Dried Oregano), Parsley (Parsley)",
+   "name": "Rosemary Lemon Garlic Roasted Chicken",
+   "note": null,
+   "nutrition": {
+    "calories": 191,
+    "cholesterol_mg": 127.6,
+    "dietary_fiber_g": 0.2,
+    "protein_g": 26.8,
+    "sat_fat_g": 1.4,
+    "sodium_mg": 127.8,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.5,
+    "total_fat_g": 7.8,
+    "trans_fat_g": 0.0
    },
    "portion": "5 oz",
    "vegan": false,
@@ -8997,6 +9018,32 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300557": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Tri Blend Pizza Cheese (Pasteurized Part Skim Milk, Pasteurized Milk, Cheese Culture, Salt, Enzymes, Powdered Cellulose and Dextrose (to Prevent Caking)), Pizza Sauce (Vine-Ripened Fresh Tomatoes, Extra Virgin Olive Oil, Sunflower Oil, Salt, Oregano, Seasonings, Granulated Garlic, Naturally Derived Citric Acid.), PIZZA DOUGH (Enriched Unbleached Wheat Flour (Wheat Flour, Niacin, Iron As Ferrous Sulfate, Thiamine Mononitrate, Enzyme, Riboflavin, Folic Acid), Water, yeast, Contains Less Than 2% Of The Following: Bread Crumbs (Bleached Wheat Flour, Yeast, Sugar, Salt), Sugar, Soybean Oil, Palm Oil, Leavening (Baking Soda, Sodium Aluminum Phosphate), Salt, Buttermilk, Wheat Gluten, Pasteurized Part Skim Milk, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Guar Gum, Whey Powder (A Milk Derivative), Xanthan Gum, Garlic Powder, Datem, Malted Barley Flour, Dextrose, Cheese Culture, Sodium Phosphate, Lactic Acid, Enzymes, Ascorbic Acid, Calcium Chloride, Powdered Cellulose, Natamycin (A Natural Mold Inhibitor). MAY CONTAIN EGGS AND SOY)",
+   "name": "Cheese Pizza",
+   "note": null,
+   "nutrition": {
+    "calories": 136,
+    "cholesterol_mg": 15.2,
+    "dietary_fiber_g": 0.5,
+    "protein_g": 8.4,
+    "sat_fat_g": 4.3,
+    "sodium_mg": 357.2,
+    "sugars_g": 0.2,
+    "total_carb_g": 10.2,
+    "total_fat_g": 7.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
+   "vegan": false,
+   "vegetarian": true
+  },
   "300558": {
    "allergens": [
     "Eggs",
@@ -9553,18 +9600,18 @@
    "name": "Stir Fry Vegetables",
    "note": null,
    "nutrition": {
-    "calories": 47,
+    "calories": 70,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
-    "sat_fat_g": 0.4,
-    "sodium_mg": 11.3,
+    "sat_fat_g": 0.6,
+    "sodium_mg": 17.0,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
-    "total_fat_g": 5.5,
+    "total_fat_g": 8.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -10199,6 +10246,33 @@
    },
    "portion": "2 oz",
    "vegan": true,
+   "vegetarian": true
+  },
+  "300917": {
+   "allergens": [
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Steamed Butternut Squash (Chunked Local Butternut Squash, Kosher Salt, Ground Black Pepper), Whole Cranberry Sauce (Cranberries, High Fructose Corn Syrup, Corn Syrup, Water), Walnut Pieces Nuggets (Contains Walnuts. This product is manufactured and packaged on shared equipment with Peanuts. Other Tree Nuts, Milk, Wheat, Soy and Sesame), Unsalted Butter (Cream (Milk), Natural Flavoring.), Light Brown Sugar (Brown Sugar), Ground Cinnamon (Ground Cinnamon Bark), Kosher Salt, Ground Allspice (Allspice), Ground Nutmeg (Nutmeg)",
+   "name": "Wampanoag Cranberries and Squash",
+   "note": null,
+   "nutrition": {
+    "calories": 94,
+    "cholesterol_mg": 2.8,
+    "dietary_fiber_g": 2.1,
+    "protein_g": 1.6,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 85.7,
+    "sugars_g": 7.8,
+    "total_carb_g": 16.1,
+    "total_fat_g": 3.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
    "vegetarian": true
   },
   "300918": {
@@ -10930,6 +11004,30 @@
    "vegan": false,
    "vegetarian": true
   },
+  "300985": {
+   "allergens": [
+    "Milk",
+    "Wheat"
+   ],
+   "ingredients": "Water, Grape Tomato, Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.), Green Peas (Green Peas, Salt), Basil Pesto (Olive Oil, Fresh Basil, Imported Pecorino Romano Cheese (Sheep's Milk, Cheese Cultures, Salt, Enzymes), Pureed Garlic (Garlic, Citric Acid), Water, Sodium Ascorbate, Black Pepper.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
+   "name": "Protein Plus Spaghetti with Spring Peas and Pesto",
+   "note": null,
+   "nutrition": {
+    "calories": 510,
+    "cholesterol_mg": 3.2,
+    "dietary_fiber_g": 20.1,
+    "protein_g": 17.3,
+    "sat_fat_g": 3.2,
+    "sodium_mg": 265.3,
+    "sugars_g": 7.7,
+    "total_carb_g": 57.1,
+    "total_fat_g": 25.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "300987": {
    "allergens": [
     "Crustacean Shellfish",
@@ -11563,7 +11661,7 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Mortadella (Pork, Pork Fat, Water, Contains less than 2% of Dextrose, Salt, Corn Syrup, Flavoring, Nonfat Dry Milk, Sodium Phosphate, Chablis Wine, Potassium Lactate, Ascorbic Acid (Vitamin C), Sodium Diacetate, Sodium Nitrite.), Capicola (Sliced Hot Cooked Capicola (Pork) Coated With Spices, Paprika, Natural Flavors, Oleoresin Of Paprika. Cured With Water, Salt, Contains 2% Or Less Of Sugar, Flavorings, Dextrose, Corn Syrup, Sodium Phosphates, Sodium Lactate, Sodium Diacetate, Sodium Erythorbate, Sodium Nitrate.), Salami (Pork, Beef, Salt, Contains Less Than 2% Or Less Of Dextrose, Water, Natural Spices, Sodium Ascorbate, Lactic Acid Starter Culture, Sodium Nitrite, Garlic Powder, Bha, Bht, Citric Acid.), Provolone Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, ), Submarine relish (Diced Tomato (Fresh Diced Tomatoes), Kosher Dill Pickle Spears (Fresh Cucumbers, Water, Vinegar, Salt, Calcium Chloride, Natural Flavors, Polysorbate 80, Garlic Oil, Yellow 5.), Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Greek Leaf Oregano (Dried Oregano), Sweet Basil Leaf (Basil Leaf), Ground Black Pepper), French Bread (Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Salt (Salt, Yellow Prussiate Of Soda), Soybean Oil, Liquid Sugar, Dough Conditioner (Corn Flour, Calcium Sulfate, L-cysteine, Enzymes), Wheat Gluten, Monoglycerides [Water, Monoglycerides, And 2% Or Less Of Each Of The Following: Preservatives: Propionic Acid, Phosphoric Acid, Calcium Propionate], Enzymes (Corn Flour, Enzymes), Microcrystalline Cellulose, Sodium Bicarbonate, Sodium Acid Pyrophosphate, Tricalcium Phosphate, Magnesium Stearate (Processing Aid), And Tricalcium Phosphate].), Parsley (Parsley)",
+   "ingredients": "Mortadella (Pork, Pork Fat, Water, Contains less than 2% of Dextrose, Salt, Corn Syrup, Flavoring, Nonfat Dry Milk, Sodium Phosphate, Chablis Wine, Potassium Lactate, Ascorbic Acid (Vitamin C), Sodium Diacetate, Sodium Nitrite.), Capicola (Sliced Hot Cooked Capicola (Pork) Coated With Spices, Paprika, Natural Flavors, Oleoresin Of Paprika. Cured With Water, Salt, Contains 2% Or Less Of Sugar, Flavorings, Dextrose, Corn Syrup, Sodium Phosphates, Sodium Lactate, Sodium Diacetate, Sodium Erythorbate, Sodium Nitrate.), Salami (Pork, Beef, Salt, Contains Less Than 2% Or Less Of Dextrose, Water, Natural Spices, Sodium Ascorbate, Lactic Acid Starter Culture, Sodium Nitrite, Garlic Powder, Bha, Bht, Citric Acid.), Provolone Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, ), Italian Pickle Relish (Diced Tomato (Fresh Diced Tomatoes), Kosher Dill Pickle Spears (Fresh Cucumbers, Water, Vinegar, Salt, Calcium Chloride, Natural Flavors, Polysorbate 80, Garlic Oil, Yellow 5.), Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Greek Leaf Oregano (Dried Oregano), Sweet Basil Leaf (Basil Leaf), Ground Black Pepper), French Bread (Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Salt (Salt, Yellow Prussiate Of Soda), Soybean Oil, Liquid Sugar, Dough Conditioner (Corn Flour, Calcium Sulfate, L-cysteine, Enzymes), Wheat Gluten, Monoglycerides [Water, Monoglycerides, And 2% Or Less Of Each Of The Following: Preservatives: Propionic Acid, Phosphoric Acid, Calcium Propionate], Enzymes (Corn Flour, Enzymes), Microcrystalline Cellulose, Sodium Bicarbonate, Sodium Acid Pyrophosphate, Tricalcium Phosphate, Magnesium Stearate (Processing Aid), And Tricalcium Phosphate].), Parsley (Parsley)",
    "name": "Italian Cold Cut Grinder",
    "note": null,
    "nutrition": {
@@ -12480,6 +12578,30 @@
    "vegan": false,
    "vegetarian": false
   },
+  "48517": {
+   "allergens": [
+    "Eggs",
+    "Soybeans"
+   ],
+   "ingredients": "Classic Chunk Chicken Salad (Fully Cooked Chicken Breast (Boneless Skinless Chicken Breast Meat With Rib Meat, Water, Potato Starch, Vinegar, Sea Salt); Mayonnaise Extra Heavy (Soybean Oil, Water, Whole Eggs And Egg Yolks, Distilled Vinegar, Salt, Sugar, Lemon Juice Concentrate, Calcium Disodium Edta, Natural Flavors); Celery; Onion; Dijon Mustard (Water, Mustard Seeds, Vinegar, Salt, Sodium Bisulphite (Preservative)); Lemon Juice; Citrus Fiber; Cultured Dextrose; Maltodextrin; Pepper, Black.)",
+   "name": "Homemade Chicken Salad",
+   "note": "We make this white-meat chicken salad homemade in our kitchens at 80 J.F.K. Street.",
+   "nutrition": {
+    "calories": 249,
+    "cholesterol_mg": 62.4,
+    "dietary_fiber_g": 1.1,
+    "protein_g": 14.7,
+    "sat_fat_g": 2.8,
+    "sodium_mg": 476.3,
+    "sugars_g": 1.1,
+    "total_carb_g": 3.4,
+    "total_fat_g": 20.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "501025": {
    "allergens": [],
    "ingredients": "Cauliflower Florets (Cauliflower), Crushed Tomatoes (Vine Ripened Unpeeled Tomatoes, Tomato Puree, Less than 2% of Citric Acid. Naturally Derived), Onions (Onions), Garbanzo Beans (Prepared Chick Peas, Water, Salt, Mustard Calcium Chloride (Firming Agent), and Disodium EDTA (Promotes Color Retention).), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Curry Powder (Spices (including Cumin, Fennel, Coriander, Mustard, Fenugreek, Chile powder, Clove, Ginger, Cinnamon, Cardamom), Turmeric, Salt. Contains: Mustard.)",
@@ -13192,18 +13314,18 @@
    "name": "Seitan Pepper Sizzle",
    "note": null,
    "nutrition": {
-    "calories": 271,
+    "calories": 136,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 3.6,
-    "protein_g": 21.2,
-    "sat_fat_g": 1.0,
-    "sodium_mg": 564.1,
-    "sugars_g": 3.3,
-    "total_carb_g": 14.5,
-    "total_fat_g": 15.7,
+    "dietary_fiber_g": 1.8,
+    "protein_g": 10.6,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 282.0,
+    "sugars_g": 1.7,
+    "total_carb_g": 7.3,
+    "total_fat_g": 7.9,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -13867,18 +13989,18 @@
    "name": "Plain Soy Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 18,
+    "calories": 73,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.3,
-    "protein_g": 1.2,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 10.8,
-    "sugars_g": 0.8,
-    "total_carb_g": 1.7,
-    "total_fat_g": 0.7,
+    "dietary_fiber_g": 1.3,
+    "protein_g": 4.7,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 43.4,
+    "sugars_g": 3.3,
+    "total_carb_g": 6.7,
+    "total_fat_g": 2.7,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -14230,13 +14352,13 @@
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 0.0,
+    "sodium_mg": 0.1,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1/2 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
