@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "fetchedAt": "2026-11-01T19:19:28+00:00",
- "itemCount": 343,
+ "fetchedAt": "2026-11-01T23:24:12+00:00",
+ "itemCount": 345,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -1221,6 +1221,32 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 181,
+       "name": "Biscuit",
+       "portion": "1 each",
+       "recipeId": 111666,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Wheat"
+       ],
+       "calories": 213,
+       "name": "Chicken & Dumpling Soup",
+       "portion": "8 oz",
+       "recipeId": 10050,
+       "tags": []
       }
      ],
      "name": "Today's Soup"
@@ -3573,9 +3599,9 @@
       },
       {
        "allergens": [],
-       "calories": 14,
+       "calories": 10,
        "name": "Pickled Okra",
-       "portion": "3 oz",
+       "portion": "2 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",
