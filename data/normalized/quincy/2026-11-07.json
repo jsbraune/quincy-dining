@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "fetchedAt": "2026-11-01T15:43:40+00:00",
- "itemCount": 362,
+ "fetchedAt": "2026-11-01T19:19:28+00:00",
+ "itemCount": 348,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -31,58 +31,6 @@
        "name": "Steel Cut Oatmeal",
        "portion": "6 fl. oz",
        "recipeId": 31003,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs"
-       ],
-       "calories": 78,
-       "name": "Cage Free Hard Boiled Eggs",
-       "portion": "1 each",
-       "recipeId": 161049,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs",
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 183,
-       "name": "Pancakes",
-       "portion": "2 each",
-       "recipeId": 36004,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs"
-       ],
-       "calories": 190,
-       "name": "Scrambled Cage Free Eggs",
-       "portion": "4 oz",
-       "recipeId": 61203,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 132,
-       "name": "Tofu Scramble",
-       "portion": "4 oz",
-       "recipeId": 142100,
        "tags": [
         "vegan",
         "vegetarian"
@@ -263,19 +211,6 @@
        "portion": "1 fl. oz",
        "recipeId": 199001,
        "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Wheat"
-       ],
-       "calories": 122,
-       "name": "Steel Cut Oatmeal",
-       "portion": "6 fl. oz",
-       "recipeId": 31003,
-       "tags": [
-        "vegan",
         "vegetarian"
        ]
       }
@@ -1147,37 +1082,6 @@
       }
      ],
      "name": "Bagged Meal Condiments"
-    },
-    {
-     "categoryId": 1,
-     "items": [
-      {
-       "allergens": [],
-       "calories": 80,
-       "name": "Chicken Sausage",
-       "portion": "1 each",
-       "recipeId": 89020,
-       "tags": []
-      }
-     ],
-     "name": "Breakfast Meats"
-    },
-    {
-     "categoryId": 14,
-     "items": [
-      {
-       "allergens": [],
-       "calories": 113,
-       "name": "Home Fried Potatoes",
-       "portion": "4 oz",
-       "recipeId": 161003,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      }
-     ],
-     "name": "Starch And Potatoes"
     }
    ]
   },
@@ -1367,9 +1271,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1434,9 +1338,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 80,
+       "calories": 160,
        "name": "Chicken Sausage",
-       "portion": "1 each",
+       "portion": "2 each",
        "recipeId": 89020,
        "tags": []
       },
@@ -3173,81 +3077,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [],
-       "calories": 69,
-       "name": "Dried Apple Rings",
-       "portion": "1 oz",
-       "recipeId": 202003,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Wheat"
-       ],
-       "calories": 26,
-       "name": "Farro with Dill",
-       "portion": "1 oz",
-       "recipeId": 150045,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 6,
-       "name": "Mint",
-       "portion": "1/2 oz",
-       "recipeId": 10063,
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "calories": 5,
-       "name": "Pepperoncini",
-       "portion": "1 oz",
-       "recipeId": 173014,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 4,
-       "name": "Radishes",
-       "portion": "1 oz",
-       "recipeId": 175226,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "name": "Scallions",
-       "portion": "1/2 oz",
-       "recipeId": 791567,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 59,
-       "name": "Sweet Roasted Potatoes",
-       "portion": "2 oz",
-       "recipeId": 161071,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
       }
      ],
      "name": "Salad Bar"
@@ -3799,9 +3628,9 @@
       },
       {
        "allergens": [],
-       "calories": 10,
+       "calories": 14,
        "name": "Pickled Okra",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",

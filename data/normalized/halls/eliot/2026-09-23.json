@@ -858,9 +858,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 16,
+       "calories": 32,
        "name": "Palak Paneer",
-       "portion": "1 fl. oz",
+       "portion": "2 fl. oz",
        "recipeId": 255122,
        "tags": [
         "vegetarian"
@@ -1918,9 +1918,9 @@
       },
       {
        "allergens": [],
-       "calories": 10,
+       "calories": 14,
        "name": "Pickled Okra",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 270434,
        "tags": [
         "vegan",
