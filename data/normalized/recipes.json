@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T23:24:20+00:00",
+ "generatedAt": "2026-11-02T19:08:56+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -305,18 +305,18 @@
    "name": "Macaroni and Cheese",
    "note": null,
    "nutrition": {
-    "calories": 382,
-    "cholesterol_mg": 67.4,
-    "dietary_fiber_g": 1.5,
-    "protein_g": 15.7,
-    "sat_fat_g": 14.2,
-    "sodium_mg": 711.9,
-    "sugars_g": 2.2,
-    "total_carb_g": 31.5,
-    "total_fat_g": 21.7,
+    "calories": 510,
+    "cholesterol_mg": 89.9,
+    "dietary_fiber_g": 2.0,
+    "protein_g": 21.0,
+    "sat_fat_g": 19.0,
+    "sodium_mg": 949.2,
+    "sugars_g": 3.0,
+    "total_carb_g": 42.0,
+    "total_fat_g": 29.0,
     "trans_fat_g": 0.0
    },
-   "portion": "6 oz",
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -1806,18 +1806,18 @@
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 60,
-    "cholesterol_mg": 6.7,
+    "calories": 45,
+    "cholesterol_mg": 5.0,
     "dietary_fiber_g": 0.0,
-    "protein_g": 10.7,
+    "protein_g": 8.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 40.0,
-    "sugars_g": 2.7,
-    "total_carb_g": 4.0,
+    "sodium_mg": 30.0,
+    "sugars_g": 2.0,
+    "total_carb_g": 3.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "3 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -1878,18 +1878,18 @@
    "name": "Low Fat Chobani Plain Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 83,
-    "cholesterol_mg": 13.9,
+    "calories": 63,
+    "cholesterol_mg": 10.4,
     "dietary_fiber_g": 0.0,
-    "protein_g": 10.4,
-    "sat_fat_g": 1.7,
-    "sodium_mg": 41.7,
-    "sugars_g": 4.2,
-    "total_carb_g": 4.9,
-    "total_fat_g": 2.4,
+    "protein_g": 7.8,
+    "sat_fat_g": 1.3,
+    "sodium_mg": 31.3,
+    "sugars_g": 3.1,
+    "total_carb_g": 3.7,
+    "total_fat_g": 1.8,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "3 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -4429,6 +4429,29 @@
    "vegan": false,
    "vegetarian": true
   },
+  "184017": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Strawberry Ice Cream (Milk, Cream, Sugar, Strawberries, Corn Syrup, Nonfat Milk, High Fructose Corn Syrup, Whey, Natural Flavors, citric Acid, Modified Corn Starch, Mono & Diglycerides, Guar Gum, Locust Bean Gum, Polysorbate 80, Carrgeenan and Beet Juice Concentrate (Color))",
+   "name": "Strawberry Ice Cream",
+   "note": null,
+   "nutrition": {
+    "calories": 332,
+    "cholesterol_mg": 58.7,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 3.9,
+    "sat_fat_g": 9.8,
+    "sodium_mg": 88.0,
+    "sugars_g": 37.1,
+    "total_carb_g": 43.0,
+    "total_fat_g": 15.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 fl. oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "184018": {
    "allergens": [
     "Milk"
@@ -6379,18 +6402,18 @@
    "name": "Pickled Okra",
    "note": null,
    "nutrition": {
-    "calories": 10,
+    "calories": 14,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 675.0,
+    "sodium_mg": 1012.5,
     "sugars_g": 0.0,
-    "total_carb_g": 1.9,
+    "total_carb_g": 2.9,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -7431,7 +7454,7 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Soft White Wheat berries , Dried Pitted Prunes 50/60ct (Prunes. Potassium sorbate as a preservative), Scallions (Scallions)",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Soft White Wheat berries , Dried Pitted Prunes 50/60ct (Prunes. Potassium sorbate as a preservative), Scallions (Scallions)",
    "name": "Wheat Berries, Dried Plums & Green Onion",
    "note": null,
    "nutrition": {
@@ -10894,18 +10917,18 @@
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "note": null,
    "nutrition": {
-    "calories": 173,
-    "cholesterol_mg": 13.3,
-    "dietary_fiber_g": 10.9,
-    "protein_g": 8.6,
-    "sat_fat_g": 2.1,
-    "sodium_mg": 335.0,
-    "sugars_g": 3.4,
-    "total_carb_g": 23.6,
-    "total_fat_g": 6.6,
-    "trans_fat_g": 0.0
+    "calories": 345,
+    "cholesterol_mg": 26.6,
+    "dietary_fiber_g": 21.9,
+    "protein_g": 17.1,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 670.0,
+    "sugars_g": 6.9,
+    "total_carb_g": 47.3,
+    "total_fat_g": 13.3,
+    "trans_fat_g": 0.1
    },
-   "portion": "4 oz",
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -13989,18 +14012,18 @@
    "name": "Plain Soy Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 73,
+    "calories": 18,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.3,
-    "protein_g": 4.7,
-    "sat_fat_g": 0.3,
-    "sodium_mg": 43.4,
-    "sugars_g": 3.3,
-    "total_carb_g": 6.7,
-    "total_fat_g": 2.7,
+    "dietary_fiber_g": 0.3,
+    "protein_g": 1.2,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 10.8,
+    "sugars_g": 0.8,
+    "total_carb_g": 1.7,
+    "total_fat_g": 0.7,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },

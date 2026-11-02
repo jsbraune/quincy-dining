@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-01T23:24:12+00:00",
+ "fetchedAt": "2026-11-02T19:08:50+00:00",
  "rows": [
   {
    "allergens": [
@@ -1378,43 +1378,43 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 382,
-   "calories_from_fat": 196,
+   "calories": 510,
+   "calories_from_fat": 261,
    "cholesterol": {
-    "amount": "67.4mg",
-    "percent": 22.0
+    "amount": "89.9mg",
+    "percent": 30.0
    },
    "dietary_fiber": {
-    "amount": "1.5g",
-    "percent": 5.0
+    "amount": "2g",
+    "percent": 7.0
    },
    "id": 10040,
    "information": null,
    "ingredients": "Macaroni and Cheese (Water, Elbow Macaroni (Semolina Wheat, Egg Whites), Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Light Cream (Milk, Cream), Butter (Cream, Salt), Rice Flour, Monterey Jack Cheese (Milk, Cheese Cultures, Salt, Enzymes), Sea Salt, Annatto Seed Powder, Bay Leaves, Nutmeg, White Pepper, Cayenne Ground Pepper.)",
    "name": "Macaroni and Cheese",
    "protein": {
-    "amount": "15.7g",
-    "percent": 31.0
+    "amount": "21g",
+    "percent": 41.0
    },
    "sat_fat": {
-    "amount": "14.2g",
-    "percent": 65.0
+    "amount": "19g",
+    "percent": 86.0
    },
-   "serving_size": "6 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "711.9mg",
-    "percent": 31.0
+    "amount": "949.2mg",
+    "percent": 41.0
    },
    "sugars": {
-    "amount": "2.2g"
+    "amount": "3g"
    },
    "total_carb": {
-    "amount": "31.5g",
-    "percent": 11.0
+    "amount": "42g",
+    "percent": 15.0
    },
    "total_fat": {
-    "amount": "21.7g",
-    "percent": 28.0
+    "amount": "29g",
+    "percent": 37.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -38028,10 +38028,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 60,
+   "calories": 45,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "6.7mg",
+    "amount": "5mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38042,22 +38042,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "10.7g",
-    "percent": 21.0
+    "amount": "8g",
+    "percent": 16.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "40mg",
-    "percent": 2.0
+    "amount": "30mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "2.7g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "3g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38545,11 +38545,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 83,
-   "calories_from_fat": 22,
+   "calories": 63,
+   "calories_from_fat": 16,
    "cholesterol": {
-    "amount": "13.9mg",
-    "percent": 5.0
+    "amount": "10.4mg",
+    "percent": 3.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38559,28 +38559,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "7.8g",
+    "percent": 15.0
    },
    "sat_fat": {
-    "amount": "1.7g",
-    "percent": 8.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "41.7mg",
-    "percent": 2.0
+    "amount": "31.3mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "4.2g"
+    "amount": "3.1g"
    },
    "total_carb": {
-    "amount": "4.9g",
-    "percent": 2.0
+    "amount": "3.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.4g",
-    "percent": 3.0
+    "amount": "1.8g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -65749,7 +65749,9 @@
    "vegetarian": true
   },
   {
-   "allergens": [],
+   "allergens": [
+    "Milk"
+   ],
    "calories": 332,
    "calories_from_fat": 141,
    "cholesterol": {
@@ -65761,7 +65763,7 @@
    },
    "id": 184017,
    "information": null,
-   "ingredients": "Strawberry Ice Cream",
+   "ingredients": "Strawberry Ice Cream (Milk, Cream, Sugar, Strawberries, Corn Syrup, Nonfat Milk, High Fructose Corn Syrup, Whey, Natural Flavors, citric Acid, Modified Corn Starch, Mono & Diglycerides, Guar Gum, Locust Bean Gum, Polysorbate 80, Carrgeenan and Beet Juice Concentrate (Color))",
    "name": "Strawberry Ice Cream",
    "protein": {
     "amount": "3.9g",
@@ -88293,7 +88295,7 @@
   },
   {
    "allergens": [],
-   "calories": 10,
+   "calories": 14,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -88311,16 +88313,16 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "675mg",
-    "percent": 29.0
+    "amount": "1012.5mg",
+    "percent": 44.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "1.9g",
+    "amount": "2.9g",
     "percent": 1.0
    },
    "total_fat": {
@@ -106128,7 +106130,7 @@
    },
    "id": 300295,
    "information": null,
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Soft White Wheat berries , Dried Pitted Prunes 50/60ct (Prunes. Potassium sorbate as a preservative), Scallions (Scallions)",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Soft White Wheat berries , Dried Pitted Prunes 50/60ct (Prunes. Potassium sorbate as a preservative), Scallions (Scallions)",
    "name": "Wheat Berries, Dried Plums & Green Onion",
    "protein": {
     "amount": "3.1g",
@@ -131557,46 +131559,46 @@
     "Milk",
     "Wheat"
    ],
-   "calories": 173,
-   "calories_from_fat": 60,
+   "calories": 345,
+   "calories_from_fat": 120,
    "cholesterol": {
-    "amount": "13.3mg",
-    "percent": 4.0
+    "amount": "26.6mg",
+    "percent": 9.0
    },
    "dietary_fiber": {
-    "amount": "10.9g",
-    "percent": 39.0
+    "amount": "21.9g",
+    "percent": 78.0
    },
    "id": 300978,
    "information": null,
    "ingredients": "Protein Plus Penne Pasta (Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grape Tomato, Onions (Onions), Pure Bacon Bits (Bacon Cured with (Water, Salt, Sugar, Sodium Phosphates, Sodium Nitrite.) May Contain Smoke Flavor, Sodium Ascorbate, Sugar, Brown Sugar.), Heavy Cream (Cream, Carrageenan, and Mono & Diglycerides.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parmesan Cheese (Pasteurized Part Skim Cow\u2019s Milk, Cheese Cultures, Salt, and Enzymes.), Basil (Fresh Basil.), Ground Black Pepper, Kosher Salt",
    "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
    "protein": {
-    "amount": "8.6g",
-    "percent": 17.0
+    "amount": "17.1g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "2.1g",
-    "percent": 9.0
+    "amount": "4.1g",
+    "percent": 19.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "8 oz",
    "sodium": {
-    "amount": "335mg",
-    "percent": 15.0
+    "amount": "670mg",
+    "percent": 29.0
    },
    "sugars": {
-    "amount": "3.4g"
+    "amount": "6.9g"
    },
    "total_carb": {
-    "amount": "23.6g",
-    "percent": 9.0
+    "amount": "47.3g",
+    "percent": 17.0
    },
    "total_fat": {
-    "amount": "6.6g",
-    "percent": 9.0
+    "amount": "13.3g",
+    "percent": 17.0
    },
    "trans_fat": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
    "vegan": false,
    "vegetarian": false
@@ -138260,7 +138262,7 @@
    },
    "id": 400344,
    "information": null,
-   "ingredients": "Collard Greens (Fresh Collard Greens), Onions (Onions), Local Backyard Beauty Tomatoes, Scallions (Fresh Scallions), Garlic (Garlic), Jalapeno Peppers, Vegetable broth (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Collard Greens (Fresh Collard Greens), Onions (Onions), Local Backyard Beauty Tomatoes, Scallions (Fresh Scallions), Garlic (Garlic), Jalapeno Peppers, Vegetable broth (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper",
    "name": "Chile Braised Collard Greens",
    "protein": {
     "amount": "2.7g",
@@ -145724,7 +145726,7 @@
   },
   {
    "allergens": [],
-   "calories": 60,
+   "calories": 30,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -145737,13 +145739,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "1 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -145751,8 +145753,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "14.1g",
-    "percent": 5.0
+    "amount": "7g",
+    "percent": 3.0
    },
    "total_fat": {
     "amount": "0g"
@@ -176218,42 +176220,40 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 73,
-   "calories_from_fat": 24,
+   "calories": 18,
+   "calories_from_fat": 6,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.3g",
-    "percent": 5.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "4.7g",
-    "percent": 9.0
+    "amount": "1.2g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "43.4mg",
-    "percent": 2.0
+    "amount": "10.8mg"
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "6.7g",
-    "percent": 2.0
+    "amount": "1.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.7g",
-    "percent": 3.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189647,6 +189647,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "c0ff905eed8eca2a0be6957e8c4c25a9cd1a98e563038dd2ca4343c460a9bac6",
+ "sha256": "22ee238ce5b8ee6e20d7351778ea85da930d1803f2aad1786f2d48707bb2df5e",
  "table": "recipes"
 }
