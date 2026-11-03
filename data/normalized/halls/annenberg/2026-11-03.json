@@ -1,9 +1,9 @@
 {
  "date": "2026-11-03",
- "fetchedAt": "2026-10-28T15:42:56+00:00",
+ "fetchedAt": "2026-11-03T16:48:59+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
- "itemCount": 180,
+ "itemCount": 179,
  "locationNum": "30",
  "meals": [
   {
@@ -1059,24 +1059,6 @@
       }
      ],
      "name": "Veg,Vegan"
-    },
-    {
-     "items": [
-      {
-       "allergens": [
-        "Milk",
-        "Soybeans"
-       ],
-       "calories": 260,
-       "name": "Madison Baked Shredded Potato Casserole",
-       "portion": "3 oz",
-       "recipeId": 300983,
-       "tags": [
-        "vegetarian"
-       ]
-      }
-     ],
-     "name": "Starch And Potatoes"
     },
     {
      "items": [

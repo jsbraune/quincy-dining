@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "fetchedAt": "2026-10-28T15:42:56+00:00",
- "itemCount": 180,
+ "fetchedAt": "2026-11-03T16:48:59+00:00",
+ "itemCount": 179,
  "locationNum": "30",
  "meals": [
   {
@@ -335,14 +335,6 @@
       }
      ],
      "name": "Veg,Vegan"
-    },
-    {
-     "items": [
-      {
-       "name": "Madison Baked Shredded Potato Casserole"
-      }
-     ],
-     "name": "Starch And Potatoes"
     },
     {
      "items": [
@@ -753,6 +745,6 @@
    ]
   }
  ],
- "mealsSha256": "758e57b00718652735279af6c88218da6c8ab671f296e0c7513321d12f92f455",
+ "mealsSha256": "0a792155b5f27467a5bc1b9ee5431d46e6474fc192d6290ed6ba91dab9fbb761",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
