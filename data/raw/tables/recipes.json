@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-03T02:02:24+00:00",
+ "fetchedAt": "2026-11-03T20:44:20+00:00",
  "rows": [
   {
    "allergens": [
@@ -13778,11 +13778,11 @@
    "allergens": [
     "Fish"
    ],
-   "calories": 60,
-   "calories_from_fat": 6,
+   "calories": 120,
+   "calories_from_fat": 12,
    "cholesterol": {
-    "amount": "20mg",
-    "percent": 7.0
+    "amount": "40mg",
+    "percent": 13.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -13792,16 +13792,16 @@
    "ingredients": "Tuna fish (White Tuna, Water, Vegetable Broth.Salt)",
    "name": "Flaked Tuna",
    "protein": {
-    "amount": "14g",
-    "percent": 27.0
+    "amount": "28g",
+    "percent": 55.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "140.1mg",
-    "percent": 6.0
+    "amount": "280.2mg",
+    "percent": 12.0
    },
    "sugars": {
     "amount": "0g"
@@ -13810,8 +13810,8 @@
     "amount": "0g"
    },
    "total_fat": {
-    "amount": "0.7g",
-    "percent": 1.0
+    "amount": "1.3g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -21756,11 +21756,11 @@
   },
   {
    "allergens": [],
-   "calories": 160,
-   "calories_from_fat": 90,
+   "calories": 80,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "70mg",
-    "percent": 23.0
+    "amount": "35mg",
+    "percent": 12.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -21770,28 +21770,28 @@
    "ingredients": "Four Pepper Chicken Sausage (Chicken, Water, Salt, Potato Starch, Sugar, Spices, Dried Parsley, Made with Calcium Alginate Casing)",
    "name": "Chicken Sausage",
    "protein": {
-    "amount": "12g",
-    "percent": 24.0
+    "amount": "6g",
+    "percent": 12.0
    },
    "sat_fat": {
-    "amount": "3g",
-    "percent": 14.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "2 each",
+   "serving_size": "1 each",
    "sodium": {
-    "amount": "480mg",
-    "percent": 21.0
+    "amount": "240mg",
+    "percent": 10.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "2g",
     "percent": 1.0
    },
    "total_fat": {
-    "amount": "10g",
-    "percent": 13.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -38028,10 +38028,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 60,
+   "calories": 45,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "6.7mg",
+    "amount": "5mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38042,22 +38042,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "10.7g",
-    "percent": 21.0
+    "amount": "8g",
+    "percent": 16.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "40mg",
-    "percent": 2.0
+    "amount": "30mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "2.7g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "3g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38545,11 +38545,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 83,
-   "calories_from_fat": 22,
+   "calories": 63,
+   "calories_from_fat": 16,
    "cholesterol": {
-    "amount": "13.9mg",
-    "percent": 5.0
+    "amount": "10.4mg",
+    "percent": 3.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38559,28 +38559,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "7.8g",
+    "percent": 15.0
    },
    "sat_fat": {
-    "amount": "1.7g",
-    "percent": 8.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "41.7mg",
-    "percent": 2.0
+    "amount": "31.3mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "4.2g"
+    "amount": "3.1g"
    },
    "total_carb": {
-    "amount": "4.9g",
-    "percent": 2.0
+    "amount": "3.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.4g",
-    "percent": 3.0
+    "amount": "1.8g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -62492,40 +62492,38 @@
   },
   {
    "allergens": [],
-   "calories": 8,
-   "calories_from_fat": 1,
+   "calories": 4,
+   "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.7g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 1.0
    },
    "id": 176066,
    "information": null,
    "ingredients": "Little Leaf Spring Mix",
    "name": "Little Leaf Greens",
    "protein": {
-    "amount": "0.8g",
+    "amount": "0.4g",
     "percent": 1.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "15.6mg",
-    "percent": 1.0
+    "amount": "7.8mg"
    },
    "sugars": {
-    "amount": "0.4g"
+    "amount": "0.2g"
    },
    "total_carb": {
-    "amount": "1.6g",
-    "percent": 1.0
+    "amount": "0.8g"
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -80989,42 +80987,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 80,
-   "calories_from_fat": 14,
+   "calories": 20,
+   "calories_from_fat": 4,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.4g",
-    "percent": 9.0
+    "amount": "0.6g",
+    "percent": 2.0
    },
    "id": 255112,
    "information": null,
    "ingredients": "Alu Chole (Aw-loo Cho-lay) Water, Garbanzo Beans, Potatoes, Onions, Tomato Paste (Tomatoes, Citric Acid), Canola Oil, Ginger, Garlic, Mango Powder Jalape\u00f1o Peppers, Spices, Salt, Cilantro. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, EGGS)",
    "name": "Alu Chole",
    "protein": {
-    "amount": "3.2g",
-    "percent": 6.0
+    "amount": "0.8g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "2.4g",
-    "percent": 11.0
+    "amount": "0.6g",
+    "percent": 3.0
    },
-   "serving_size": "4 fl. oz",
+   "serving_size": "1 fl. oz",
    "sodium": {
-    "amount": "343.4mg",
-    "percent": 15.0
+    "amount": "85.8mg",
+    "percent": 4.0
    },
    "sugars": {
-    "amount": "3.2g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "13.6g",
-    "percent": 5.0
+    "amount": "3.4g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "1.6g",
-    "percent": 2.0
+    "amount": "0.4g",
+    "percent": 1.0
    },
    "trans_fat": null,
    "vegan": true,
@@ -88003,43 +88001,42 @@
    "allergens": [
     "Fish"
    ],
-   "calories": 270,
-   "calories_from_fat": 176,
+   "calories": 68,
+   "calories_from_fat": 44,
    "cholesterol": {
-    "amount": "62.4mg",
-    "percent": 21.0
+    "amount": "15.6mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "1g",
-    "percent": 4.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 270427,
    "information": null,
    "ingredients": "Salmon, Lemons (LEMONS), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)",
    "name": "Roasted Salmon with Lemon Zest",
    "protein": {
-    "amount": "22.8g",
-    "percent": 45.0
+    "amount": "5.7g",
+    "percent": 11.0
    },
    "sat_fat": {
-    "amount": "2.9g",
-    "percent": 13.0
+    "amount": "0.7g",
+    "percent": 3.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "50.6mg",
-    "percent": 2.0
+    "amount": "12.6mg",
+    "percent": 1.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2.3g",
-    "percent": 1.0
+    "amount": "0.6g"
    },
    "total_fat": {
-    "amount": "19.5g",
-    "percent": 25.0
+    "amount": "4.9g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -102443,42 +102440,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 402,
-   "calories_from_fat": 232,
+   "calories": 319,
+   "calories_from_fat": 165,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "3.7g",
-    "percent": 13.0
+    "amount": "5.4g",
+    "percent": 19.0
    },
    "id": 300192,
    "information": null,
-   "ingredients": "Plant Based Chicken Nugget (Water Flour, Soy Protein Concentrate, Soybean Oil, Sunflower Oil, 2% Or Less Of: Potato Starch, Methylcellulose, Salt, Natural Flavors, Yellow Corn Flour, Cultured Dextrose Gluten, Yeast Extract, Dried Onion, Dried Garlic, Dextrose, Spices, Food Starch Modified, Paprika And Turmeric Extract (for Color), Leavening (cream Of Tartar, Sodium Bicarbonate), Garlic Powder, Onion Powder, Corn Starch, Dried Yeast Starch, Dextrin, Mixed Tocopherols (antioxidant), Guar Gum Vitamins & Minerals: Zinc Gluconate, Niacin (vitamin B3), Calcium Pantothenate (vitamin B5), Thiamine Hydrochloride (vitamin B1), Pyridoxine Hydrochloride (vitamin B6), Riboflavin (vitamin B2), Vitamin B12), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Red Peppers, Suntan Peppers (Bell Peppers), Crushed Red Pepper (Red chile peppers), Garlic (Garlic), Scallions (Scallions)",
+   "ingredients": "Plant Protein Grilled Chicken Strips (Water, Textured Wheat Protein, Soy Protein Concentrate, Natural Flavor (Includes Onion Powder), High Oleic Sunflower oil, Carrageenan, Methylcellulose, Cultured Dextrose, Salt, Potassium Chloride), Onions (Onions), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Red Peppers, Suntan Peppers (Bell Peppers), Crushed Red Pepper (Red chile peppers), Garlic (Garlic), Scallions (Scallions)",
    "name": "Plant Based Chicken and Peppers Spicy",
    "protein": {
-    "amount": "14.5g",
-    "percent": 28.0
+    "amount": "15.5g",
+    "percent": 30.0
    },
    "sat_fat": {
-    "amount": "2.7g",
-    "percent": 12.0
+    "amount": "1.8g",
+    "percent": 8.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "468mg",
-    "percent": 20.0
+    "amount": "710.2mg",
+    "percent": 31.0
    },
    "sugars": {
     "amount": "3g"
    },
    "total_carb": {
-    "amount": "29.2g",
-    "percent": 11.0
+    "amount": "17.2g",
+    "percent": 6.0
    },
    "total_fat": {
-    "amount": "25.7g",
-    "percent": 33.0
+    "amount": "18.3g",
+    "percent": 23.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134262,43 +134259,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 274,
-   "calories_from_fat": 136,
+   "calories": 137,
+   "calories_from_fat": 68,
    "cholesterol": {
-    "amount": "28.6mg",
-    "percent": 10.0
+    "amount": "14.3mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "0.9g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "id": 301089,
    "information": null,
    "ingredients": "Tempura Chicken (Chicken breast water, seasoning [salt, flavors, maltodextrin, sugar, vegetable stock (carrot, onion, celery), garlic powder], salt, sodium phosphates. BATTERED WITH: Water, yellow corn flour, bleached wheat flour, modified corn starch, salt, spices, leavening (sodium bicarbonate, sodium aluminum phosphate), dextrose, wheat starch, onion powder, extractives of turmeric, spice extractive. PREDUSTED WITH: Wheat flour, leavening (sodium acid pyrophosphate, sodium bicarbonate, monocalcium phosphate), salt, spices, calcium lactate, soybean oil (as a processing aid), calcium lactate. Vegetable oil), Sweet & Sour Sauce (Water, High Fructose Corn Syrup, Distilled White Vinegar, Sugar, Tomato Paste, modified Corn Starch, Pineapple Juice Concentrate, Salt, Fd&c Yellow 5, Fd&c red 40, Citric Acid, Fd&c Yellow 6, Xanthan Gum, Natural Flavor, Sodium benzoate Added As A Preservative.), Pineapple (Pineapple, Pineapple Juice), Suntan Peppers (Bell Peppers), Onions (Onions), Scallions (Fresh Scallions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt",
    "name": "Sweet and Sour Chicken",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "5.2g",
+    "percent": 10.0
    },
    "sat_fat": {
-    "amount": "2.7g",
-    "percent": 12.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "511.8mg",
-    "percent": 22.0
+    "amount": "255.9mg",
+    "percent": 11.0
    },
    "sugars": {
-    "amount": "12g"
+    "amount": "6g"
    },
    "total_carb": {
-    "amount": "12.8g",
-    "percent": 5.0
+    "amount": "6.4g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "15.1g",
-    "percent": 19.0
+    "amount": "7.5g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -160613,7 +160610,7 @@
    },
    "id": 507054,
    "information": null,
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Split Yellow Peas (Yellow Peas), Diced Tomato (Fresh Diced Tomatoes), Onions (Onions), Garlic (Garlic), Fresh Thyme (Fresh Thyme), Kosher Salt, Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Parsley (Parsley), Ground Black Pepper",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Split Yellow Peas (Yellow Peas), Diced Tomato (Fresh Diced Tomatoes), Onions (Onions), Garlic (Garlic), Fresh Thyme (Fresh Thyme), Kosher Salt, Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Parsley (Parsley), Ground Black Pepper",
    "name": "Mediterranean Split Pea",
    "protein": {
     "amount": "12.8g",
@@ -176223,42 +176220,40 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 73,
-   "calories_from_fat": 24,
+   "calories": 18,
+   "calories_from_fat": 6,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.3g",
-    "percent": 5.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "4.7g",
-    "percent": 9.0
+    "amount": "1.2g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "43.4mg",
-    "percent": 2.0
+    "amount": "10.8mg"
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "6.7g",
-    "percent": 2.0
+    "amount": "1.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.7g",
-    "percent": 3.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189652,6 +189647,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "978481b4fe81c5316df5237b28985f2c2386fed3348cf7ac6f62329eb2c56e70",
+ "sha256": "22ee238ce5b8ee6e20d7351778ea85da930d1803f2aad1786f2d48707bb2df5e",
  "table": "recipes"
 }
