@@ -1,9 +1,9 @@
 {
  "date": "2026-11-10",
- "fetchedAt": "2026-11-04T16:49:33+00:00",
+ "fetchedAt": "2026-11-04T21:01:45+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
- "itemCount": 135,
+ "itemCount": 144,
  "locationNum": "30",
  "meals": [
   {
@@ -1242,9 +1242,43 @@
      "items": [
       {
        "allergens": [],
+       "name": "Baked Brie with Strawberry Preserves",
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 50,
+       "name": "Heritage PF Crackers",
+       "portion": "1 each",
+       "recipeId": 217013,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
        "name": "Memorial Hall Closed for Special Event",
        "portion": "1 ea",
        "recipeId": 999896,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "name": "Red Grapes",
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 205,
+       "name": "Vermont  Cheese  Platter",
+       "portion": "2 oz",
+       "recipeId": 300230,
        "tags": []
       }
      ],
@@ -1587,6 +1621,76 @@
       }
      ],
      "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "allergens": [],
+       "calories": 207,
+       "name": "Chimichurri Sauce",
+       "portion": "2 fl. oz",
+       "recipeId": 300509,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 651,
+       "name": "Kelp and Chickpea Po Boy",
+       "portion": "6 oz",
+       "recipeId": 300870,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 111,
+       "name": "Yukon Gold Mashed Potatoes",
+       "portion": "4 oz",
+       "recipeId": 161086,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "allergens": [],
+       "calories": 35,
+       "name": "Steamed Fresh Green Beans",
+       "portion": "4 oz",
+       "recipeId": 171007,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 42,
+       "name": "Steamed Local Seasonal Squash",
+       "portion": "4 oz",
+       "recipeId": 509069,
+       "tags": [
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Vegetables"
     },
     {
      "items": [

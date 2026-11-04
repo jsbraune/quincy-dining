@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "fetchedAt": "2026-11-04T16:49:33+00:00",
- "itemCount": 135,
+ "fetchedAt": "2026-11-04T21:01:45+00:00",
+ "itemCount": 144,
  "locationNum": "30",
  "meals": [
   {
@@ -423,7 +423,19 @@
     {
      "items": [
       {
+       "name": "Baked Brie with Strawberry Preserves"
+      },
+      {
+       "name": "Heritage PF Crackers"
+      },
+      {
        "name": "Memorial Hall Closed for Special Event"
+      },
+      {
+       "name": "Red Grapes"
+      },
+      {
+       "name": "Vermont  Cheese  Platter"
       }
      ],
      "name": "Miscellaneous"
@@ -528,6 +540,36 @@
     {
      "items": [
       {
+       "name": "Chimichurri Sauce"
+      },
+      {
+       "name": "Kelp and Chickpea Po Boy"
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "name": "Yukon Gold Mashed Potatoes"
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Steamed Fresh Green Beans"
+      },
+      {
+       "name": "Steamed Local Seasonal Squash"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
        "name": "Grilled Chicken Thigh"
       }
      ],
@@ -573,6 +615,6 @@
    ]
   }
  ],
- "mealsSha256": "e8170702fda355d7b4637fb09c07e7cb84d44bbc294e60d42cd4462e5825dc69",
+ "mealsSha256": "102f182336b0ad4222622bdf2f285efa3afa4b221395321d68ec2ca8f3a1eb48",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T16:50:50+00:00",
+ "generatedAt": "2026-11-04T21:02:54+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -6347,6 +6347,31 @@
    "vegan": true,
    "vegetarian": true
   },
+  "217013": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Distinctive Asst Crackers (Golden Butter Crackers: Unbleached Enriched Wheat Flour [Flour, Niacin, Reduced Iron, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Butter (Milk), Vegetable Oils (Canola, Sunflower and/or Soybean), Sugar, Organic Evaporated Cane Juice Medium Invert Syrup, Salt, Contains 2 Percent or less of: Malted Barley Flour, Leavening (Baking Soda, Ammonium Bicarbonate, Monocalcium Phosphate) and Enzyme. Harvest Wheat Crackers: Unbleached Enriched Wheat Flour [Flour, Niacin, Reduced Iron, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Vegetable Oils: (Canola, Sunflower and/or Soybean), Brown Sugar, (Sugar invert sugar Molasses) Defatted Wheat Germ, Whole Wheat Flour, Sugar, Contains 2 % or less of Salt Honey, Oat Fiber, Leavening (Ammonium Bicarbonate, Baking Soda, Monocalcium Phosphate), Malted Barley Flour, Dextrose Soy Lecithin Nonfat Milk Lactose. (Milk) Classic Water Cracker: Unbleached Enriched wheat flour (Flour Niacin , Reduced Iron, Thiamine Mononitrate (Vitamin B1), Riboflavin Vitamin B2) Folic Acid) Vegetable Oils (Canola Sunflower and or Soybean). Sugar, Contains 2 percent or less of sat. Oat Fiber, Nonfat Milk)",
+   "name": "Heritage PF Crackers",
+   "note": null,
+   "nutrition": {
+    "calories": 50,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.2,
+    "protein_g": 0.7,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 86.5,
+    "sugars_g": 0.7,
+    "total_carb_g": 6.1,
+    "total_fat_g": 2.6,
+    "trans_fat_g": 0.1
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": true
+  },
   "22045": {
    "allergens": [
     "Soybeans",
@@ -7830,6 +7855,29 @@
    "vegan": false,
    "vegetarian": false
   },
+  "300230": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Jalapeno Monteray Jack Cheese (Cultured Pasteurized Milk, Jalapeno Peppers, Salt, Enzymes.), Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.), White Mild Cheddar Cheese",
+   "name": "Vermont Cheese Platter",
+   "note": null,
+   "nutrition": {
+    "calories": 205,
+    "cholesterol_mg": 51.4,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 12.2,
+    "sat_fat_g": 10.7,
+    "sodium_mg": 269.1,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.4,
+    "total_fat_g": 16.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300249": {
    "allergens": [
     "Milk",
@@ -9217,6 +9265,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300509": {
+   "allergens": [],
+   "ingredients": "Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Olive Oil (Refined Olive Oil, Extra Virgin Olive Oil.), Green Chili Peppers (Green Chile Peppers, Water, Salt, and Citric Acid.), Italian Parsley (Italian Parsley), Red Chili Peppers, Oregano (Oregano), Garlic (Garlic), Kosher Salt (Salt)",
+   "name": "Chimichurri Sauce",
+   "note": null,
+   "nutrition": {
+    "calories": 207,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.3,
+    "protein_g": 0.2,
+    "sat_fat_g": 3.3,
+    "sodium_mg": 90.0,
+    "sugars_g": 0.6,
+    "total_carb_g": 2.2,
+    "total_fat_g": 23.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 fl. oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "300513": {
    "allergens": [],
    "ingredients": "Sugar Snap Peas",
@@ -10392,6 +10461,30 @@
    },
    "portion": "1 each",
    "vegan": false,
+   "vegetarian": true
+  },
+  "300870": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Kelp Slider (Maine Sugar Kelp, Green Chickpeas, Brown Rice, Pea Protein, Basil, Extra Virgin Olive Oil, Chickpea Flour, Pea Starch, Oat Fiber, Spices, (Garlic Nutritional Yeast, Kosher Salt, Methyl Cellulose (Plant Fiber) Lemon Red Pepper Flakes)), Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Shredded Lettuce (Lettuce), Diced Tomato (Fresh Diced Tomatoes), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Whole Grain Mustard (Water, Mustard Seeds, Vinegar, Salt), Horseradish (Horseradish, Distilled Vinegar, Water, Soybean Oil, Salt, Artificial Flavor.), Tabasco Sauce (Distilled Vinegar, Red Pepper, Salt.), Hot Smoked Paprika (Paprika And Silicon Dioxide)",
+   "name": "Kelp and Chickpea Po Boy",
+   "note": null,
+   "nutrition": {
+    "calories": 651,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 11.2,
+    "protein_g": 28.2,
+    "sat_fat_g": 5.1,
+    "sodium_mg": 1199.5,
+    "sugars_g": 1.5,
+    "total_carb_g": 62.0,
+    "total_fat_g": 33.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 oz",
+   "vegan": true,
    "vegetarian": true
   },
   "300873": {
@@ -13583,6 +13676,27 @@
    },
    "portion": "4 oz",
    "vegan": true,
+   "vegetarian": true
+  },
+  "509069": {
+   "allergens": [],
+   "ingredients": "Local Winter Squash (Winter Squash)",
+   "name": "Steamed Local Seasonal Squash",
+   "note": null,
+   "nutrition": {
+    "calories": 42,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.2,
+    "protein_g": 1.0,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 1.1,
+    "sugars_g": 3.7,
+    "total_carb_g": 10.0,
+    "total_fat_g": 0.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
    "vegetarian": true
   },
   "510066": {
