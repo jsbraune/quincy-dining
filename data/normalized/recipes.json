@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T00:26:38+00:00",
+ "generatedAt": "2026-11-04T16:49:33+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2027,18 +2027,18 @@
    "name": "Seasoned Red Beans",
    "note": null,
    "nutrition": {
-    "calories": 36,
+    "calories": 143,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.7,
-    "protein_g": 1.5,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 72.3,
-    "sugars_g": 0.6,
-    "total_carb_g": 4.6,
-    "total_fat_g": 1.6,
+    "dietary_fiber_g": 6.7,
+    "protein_g": 5.8,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 289.4,
+    "sugars_g": 2.5,
+    "total_carb_g": 18.4,
+    "total_fat_g": 6.4,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -5828,6 +5828,34 @@
    "vegan": true,
    "vegetarian": true
   },
+  "214010": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Assorted Danish (Flour (Wheat Flour, Malted Barley Flour), Margarine [Palm Oil, Soybean Oil, Soy Lecithin, Mono and Diglycerides, Citric Acid, Salt, Beta Carotene, Vitamin A Palmitate), Sugar, Eggs, Yeast, Apples, Raspberries, Cream Cheese [Pasteurized Cultured Milk and Cream, Stabilizers (Carob Bean and/or Guar Gums)], Corn Syrup, Modified Food Starch, Whey (Milk), Soy Flour, Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Mono Calcium Phosphate), Wheat Gluten, Lemon Juice Solids, Lemon Oil, Dry Milk Powder, Whey (Milk), Dextrose, Sodium Citrate, Agar Agar, Gellan Gum), Cinnamon, Nutmeg, Pectin, Ammonium Sulfate, Dextrin, Wheat Gluten, Maltdextrin, Locust Bean Gum, Pectin, Calcium Lactate, Calcium Carbonate, Stearic Acid, Sodium Hexametaphosphate, Enzymes, Ascorbic Acid (Vitamin C), Phosphoric Acid, Calcium Sulfate, Silicon Dioxide, Titanium Dioxide, Acacia Gum, Natural and Artificial Flavors and Colors, Preservatives (Potassium Sorbate, Calcium Propionate, Sodium Benzoate). MANUFACTURED IN A FACILITY WHERE MILK, EGGS, TREE NUTS, WHEAT, PEANUTS, AND SOYBEANS ARE USED.)",
+   "name": "Assorted Mini Danish",
+   "note": null,
+   "nutrition": {
+    "calories": 140,
+    "cholesterol_mg": 5.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 2.0,
+    "sat_fat_g": 2.5,
+    "sodium_mg": 110.0,
+    "sugars_g": 8.0,
+    "total_carb_g": 17.0,
+    "total_fat_g": 7.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": true
+  },
   "214016": {
    "allergens": [
     "Milk",
@@ -7963,7 +7991,7 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Quinoa (Quinoa), Carrots (Carrots), Green Kale (Kale), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Kosher Salt, Ground Black Pepper, Ground Black Pepper, Whole Bay Leaves (Bay Leaves)",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Quinoa (Quinoa), Carrots (Carrots), Green Kale (Kale), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Garlic (Garlic), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Kosher Salt, Ground Black Pepper, Ground Black Pepper, Whole Bay Leaves (Bay Leaves)",
    "name": "Quinoa with Kale & Roasted Carrots",
    "note": null,
    "nutrition": {
@@ -10420,7 +10448,7 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "White Rice, Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Onions (Onions), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Ground Turmeric (Turmeric), Parsley (Parsley), Ground Cumin (Ground Cumin)",
+   "ingredients": "White Rice, Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Onions (Onions), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Ground Turmeric (Turmeric), Parsley (Parsley), Ground Cumin (Ground Cumin)",
    "name": "Yellow Rice",
    "note": null,
    "nutrition": {
@@ -13361,18 +13389,18 @@
    "name": "Seitan Pepper Sizzle",
    "note": null,
    "nutrition": {
-    "calories": 136,
+    "calories": 271,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.8,
-    "protein_g": 10.6,
-    "sat_fat_g": 0.5,
-    "sodium_mg": 282.0,
-    "sugars_g": 1.7,
-    "total_carb_g": 7.3,
-    "total_fat_g": 7.9,
+    "dietary_fiber_g": 3.6,
+    "protein_g": 21.2,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 564.1,
+    "sugars_g": 3.3,
+    "total_carb_g": 14.5,
+    "total_fat_g": 15.7,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "8 oz",
    "vegan": true,
    "vegetarian": true
   },
