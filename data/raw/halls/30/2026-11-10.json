@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "fetchedAt": "2026-11-04T21:01:45+00:00",
- "itemCount": 144,
+ "fetchedAt": "2026-11-05T17:04:37+00:00",
+ "itemCount": 151,
  "locationNum": "30",
  "meals": [
   {
@@ -540,6 +540,14 @@
     {
      "items": [
       {
+       "name": "Duck Sauce"
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
        "name": "Chimichurri Sauce"
       },
       {
@@ -574,6 +582,29 @@
       }
      ],
      "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Cranberries"
+      },
+      {
+       "name": "Crumbled Bleu Cheese"
+      },
+      {
+       "name": "Dressing, Cranberry Balsamic Vinaigrette"
+      },
+      {
+       "name": "Little Leaf Greens"
+      },
+      {
+       "name": "Pumpkin Seeds"
+      }
+     ],
+     "name": "Entree Salads"
     },
     {
      "items": [
@@ -615,6 +646,6 @@
    ]
   }
  ],
- "mealsSha256": "102f182336b0ad4222622bdf2f285efa3afa4b221395321d68ec2ca8f3a1eb48",
+ "mealsSha256": "ce3c2037340df18fadd4bc6f9e6439481da69e36fbe9da1efb394c0008edcff6",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

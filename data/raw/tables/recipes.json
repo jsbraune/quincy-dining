@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-04T16:49:25+00:00",
+ "fetchedAt": "2026-11-05T17:04:28+00:00",
  "rows": [
   {
    "allergens": [
@@ -100767,7 +100767,7 @@
    },
    "id": 300145,
    "information": null,
-   "ingredients": "Red Skin On Cooked 8cut Potato, Onions (Onions), Green Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Kosher Salt, Seasoning Steak Montreal 29Z (Coarse Salt, Spices Black Pepper And Red Pepper, Garlic, Onion, Sunflower Oil, Natural Flavor And Extractives Of Paprika), Ground White Pepper (White Peppercorns)",
+   "ingredients": "Red Skin On Cooked 8cut Potato, Onions (Onions), Green Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Kosher Salt, Ground White Pepper (White Peppercorns)",
    "name": "Home Fried Potatoes with Peppers",
    "protein": {
     "amount": "3.4g",
@@ -100779,8 +100779,8 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "566.2mg",
-    "percent": 25.0
+    "amount": "502.9mg",
+    "percent": 22.0
    },
    "sugars": {
     "amount": "1g"
@@ -130796,43 +130796,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 716,
-   "calories_from_fat": 337,
+   "calories": 358,
+   "calories_from_fat": 168,
    "cholesterol": {
-    "amount": "14.3mg",
-    "percent": 5.0
+    "amount": "7.1mg",
+    "percent": 2.0
    },
    "dietary_fiber": {
-    "amount": "7.8g",
-    "percent": 28.0
+    "amount": "3.9g",
+    "percent": 14.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "36.4g",
-    "percent": 71.0
+    "amount": "18.2g",
+    "percent": 36.0
    },
    "sat_fat": {
-    "amount": "9.9g",
-    "percent": 45.0
+    "amount": "4.9g",
+    "percent": 22.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "1849.1mg",
-    "percent": 80.0
+    "amount": "924.6mg",
+    "percent": 40.0
    },
    "sugars": {
-    "amount": "7.1g"
+    "amount": "3.5g"
    },
    "total_carb": {
-    "amount": "64.8g",
-    "percent": 24.0
+    "amount": "32.4g",
+    "percent": 12.0
    },
    "total_fat": {
-    "amount": "37.3g",
-    "percent": 48.0
+    "amount": "18.7g",
+    "percent": 24.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189652,6 +189652,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "ed944eb8c9080358407cdff8307a7a4bfbb84bcf42628ee6ff4e3be30136200b",
+ "sha256": "44ba73491d2bf049256e32a30b23354824a5a9d1912fecb0798a9db2347c4dae",
  "table": "recipes"
 }

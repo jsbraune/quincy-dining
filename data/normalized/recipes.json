@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T00:45:55+00:00",
+ "generatedAt": "2026-11-05T17:04:36+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -7025,7 +7025,7 @@
   },
   "300145": {
    "allergens": [],
-   "ingredients": "Red Skin On Cooked 8cut Potato, Onions (Onions), Green Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Kosher Salt, Seasoning Steak Montreal 29Z (Coarse Salt, Spices Black Pepper And Red Pepper, Garlic, Onion, Sunflower Oil, Natural Flavor And Extractives Of Paprika), Ground White Pepper (White Peppercorns)",
+   "ingredients": "Red Skin On Cooked 8cut Potato, Onions (Onions), Green Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Kosher Salt, Ground White Pepper (White Peppercorns)",
    "name": "Home Fried Potatoes with Peppers",
    "note": null,
    "nutrition": {
@@ -7034,7 +7034,7 @@
     "dietary_fiber_g": 4.2,
     "protein_g": 3.4,
     "sat_fat_g": 0.7,
-    "sodium_mg": 566.2,
+    "sodium_mg": 502.9,
     "sugars_g": 1.0,
     "total_carb_g": 20.7,
     "total_fat_g": 9.4,
@@ -10589,18 +10589,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 716,
-    "cholesterol_mg": 14.3,
-    "dietary_fiber_g": 7.8,
-    "protein_g": 36.4,
-    "sat_fat_g": 9.9,
-    "sodium_mg": 1849.1,
-    "sugars_g": 7.1,
-    "total_carb_g": 64.8,
-    "total_fat_g": 37.3,
+    "calories": 358,
+    "cholesterol_mg": 7.1,
+    "dietary_fiber_g": 3.9,
+    "protein_g": 18.2,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 924.6,
+    "sugars_g": 3.5,
+    "total_carb_g": 32.4,
+    "total_fat_g": 18.7,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },

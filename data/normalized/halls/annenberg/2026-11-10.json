@@ -1,9 +1,9 @@
 {
  "date": "2026-11-10",
- "fetchedAt": "2026-11-04T21:01:45+00:00",
+ "fetchedAt": "2026-11-05T17:04:37+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
- "itemCount": 144,
+ "itemCount": 151,
  "locationNum": "30",
  "meals": [
   {
@@ -1626,6 +1626,22 @@
      "items": [
       {
        "allergens": [],
+       "calories": 32,
+       "name": "Duck Sauce",
+       "portion": "1 fl. oz",
+       "recipeId": 157023,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
+       "allergens": [],
        "calories": 207,
        "name": "Chimichurri Sauce",
        "portion": "2 fl. oz",
@@ -1706,6 +1722,86 @@
       }
      ],
      "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "allergens": [
+        "Milk",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 118,
+       "name": "Caesar Salad",
+       "portion": "4 oz",
+       "recipeId": 47046,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 44,
+       "name": "Cranberries",
+       "portion": "1 oz",
+       "recipeId": 87044,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 101,
+       "name": "Crumbled Bleu Cheese",
+       "portion": "1 oz",
+       "recipeId": 161055,
+       "tags": []
+      },
+      {
+       "allergens": [
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 123,
+       "name": "Dressing, Cranberry Balsamic Vinaigrette",
+       "portion": "1 fl. oz",
+       "recipeId": 51026,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "calories": 8,
+       "name": "Little Leaf Greens",
+       "portion": "2 oz",
+       "recipeId": 176066,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Peanuts",
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
+       ],
+       "calories": 123,
+       "name": "Pumpkin Seeds",
+       "portion": "1 oz",
+       "recipeId": 300060,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Entree Salads"
     },
     {
      "items": [

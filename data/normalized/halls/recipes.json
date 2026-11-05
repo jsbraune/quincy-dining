@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T00:46:45+00:00",
+ "generatedAt": "2026-11-05T17:05:55+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -2907,6 +2907,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "157023": {
+   "allergens": [],
+   "ingredients": "Duck Sauce (Water, Dextrose, Sugar, Peaches and/or Apricots (Preserved with Sulfur Dioxide), Vinegar, Salt, Guar Gum, Paprika, Xanthan Gum, Natural Flavor and Garlic.)",
+   "name": "Duck Sauce",
+   "note": null,
+   "nutrition": {
+    "calories": 32,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.2,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 53.8,
+    "sugars_g": 6.7,
+    "total_carb_g": 8.0,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 fl. oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "157034": {
    "allergens": [
     "Eggs",
@@ -3218,6 +3239,29 @@
    "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "161055": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Bleu Crumbles Cheese (Blue Cheese (Cultured Milk, salt Enzymes, Penicillium Roquefort), Potato Starch to prevent caking))",
+   "name": "Crumbled Bleu Cheese",
+   "note": null,
+   "nutrition": {
+    "calories": 101,
+    "cholesterol_mg": 25.3,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 7.1,
+    "sat_fat_g": 5.1,
+    "sodium_mg": 263.3,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.0,
+    "total_fat_g": 8.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "161056": {
    "allergens": [
@@ -7628,7 +7672,7 @@
   },
   "300145": {
    "allergens": [],
-   "ingredients": "Red Skin On Cooked 8cut Potato, Onions (Onions), Green Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Kosher Salt, Seasoning Steak Montreal 29Z (Coarse Salt, Spices Black Pepper And Red Pepper, Garlic, Onion, Sunflower Oil, Natural Flavor And Extractives Of Paprika), Ground White Pepper (White Peppercorns)",
+   "ingredients": "Red Skin On Cooked 8cut Potato, Onions (Onions), Green Peppers, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Spanish Paprika (Paprika), Kosher Salt, Ground White Pepper (White Peppercorns)",
    "name": "Home Fried Potatoes with Peppers",
    "note": null,
    "nutrition": {
@@ -7637,7 +7681,7 @@
     "dietary_fiber_g": 4.2,
     "protein_g": 3.4,
     "sat_fat_g": 0.7,
-    "sodium_mg": 566.2,
+    "sodium_mg": 502.9,
     "sugars_g": 1.0,
     "total_carb_g": 20.7,
     "total_fat_g": 9.4,
@@ -10979,18 +11023,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 716,
-    "cholesterol_mg": 14.3,
-    "dietary_fiber_g": 7.8,
-    "protein_g": 36.4,
-    "sat_fat_g": 9.9,
-    "sodium_mg": 1849.1,
-    "sugars_g": 7.1,
-    "total_carb_g": 64.8,
-    "total_fat_g": 37.3,
+    "calories": 358,
+    "cholesterol_mg": 7.1,
+    "dietary_fiber_g": 3.9,
+    "protein_g": 18.2,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 924.6,
+    "sugars_g": 3.5,
+    "total_carb_g": 32.4,
+    "total_fat_g": 18.7,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -12876,6 +12920,27 @@
    "vegan": false,
    "vegetarian": false
   },
+  "48501": {
+   "allergens": [],
+   "ingredients": "Chicken Salad (Diced All White Meat Chicken (Chicken, water, rice starch, vinegar, seasoning (maltodextrin, yeast extract, chicken stock, salt and flavors)), Mayonnaise (Soybean Oil, Whole Eggs, Egg Yolks, , Water Distilled Vinegar Salt, Sugar, Dextrose, Lemon Juice concentrate , Calcium Disodium EDTA used to protect quality, Natural Flavors), Diced Celery, Kosher Salt (Salt), Gum Stabalizer, Ground White Pepper)",
+   "name": "Homemade Chicken Salad",
+   "note": "We make this white-meat chicken salad homemade in our kitchens at 80 J.F.K. Street.",
+   "nutrition": {
+    "calories": 384,
+    "cholesterol_mg": 35.7,
+    "dietary_fiber_g": 1.2,
+    "protein_g": 9.0,
+    "sat_fat_g": 5.3,
+    "sodium_mg": 650.6,
+    "sugars_g": 0.6,
+    "total_carb_g": 10.0,
+    "total_fat_g": 33.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "48504": {
    "allergens": [
     "Eggs",
@@ -13722,6 +13787,30 @@
    "portion": "1 fajitas",
    "vegan": true,
    "vegetarian": true
+  },
+  "51026": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Cranberry Raisin Vinaigrette (Soybean Oil, Water, Sweetened Dried Cranberries (Cranberries, Sugar, Sunflower Oil), , Balsamic Vinegar, Red Wine Vinegar, Distilled Vinegar And Less That 2% of Cranberry Juice Concentrate, Mustard Seed, Salt, White Wine, Pectin, Citric Acid, Tartaric Acid, Sugar, Spice, Garlic, Shallots, Wheat, Soybeans and Xanthan Gum.)",
+   "name": "Dressing, Cranberry Balsamic Vinaigrette",
+   "note": null,
+   "nutrition": {
+    "calories": 123,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.0,
+    "sat_fat_g": 1.9,
+    "sodium_mg": 141.8,
+    "sugars_g": 2.8,
+    "total_carb_g": 3.8,
+    "total_fat_g": 12.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 fl. oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "560050": {
    "allergens": [],

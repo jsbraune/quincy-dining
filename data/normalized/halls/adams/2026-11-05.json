@@ -1,9 +1,9 @@
 {
  "date": "2026-11-05",
- "fetchedAt": "2026-10-30T15:30:27+00:00",
+ "fetchedAt": "2026-11-05T17:04:37+00:00",
  "hall": "adams",
  "hallName": "Adams House",
- "itemCount": 178,
+ "itemCount": 179,
  "locationNum": "09",
  "meals": [
   {
@@ -467,12 +467,13 @@
       {
        "allergens": [
         "Eggs",
+        "Milk",
         "Wheat"
        ],
-       "calories": 83,
-       "name": "Chicken Noodle Soup",
+       "calories": 170,
+       "name": "Lasagna Soup with Chicken Sausage",
        "portion": "8 oz",
-       "recipeId": 10015,
+       "recipeId": 10066,
        "tags": []
       },
       {
@@ -1221,6 +1222,14 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [],
+       "calories": 200,
+       "name": "Turkey and Bean Chili",
+       "portion": "8 oz",
+       "recipeId": 10039,
+       "tags": []
       }
      ],
      "name": "Chili Bar/Stew"
@@ -1235,12 +1244,13 @@
       {
        "allergens": [
         "Eggs",
+        "Milk",
         "Wheat"
        ],
-       "calories": 83,
-       "name": "Chicken Noodle Soup",
+       "calories": 170,
+       "name": "Lasagna Soup with Chicken Sausage",
        "portion": "8 oz",
-       "recipeId": 10015,
+       "recipeId": 10066,
        "tags": []
       },
       {

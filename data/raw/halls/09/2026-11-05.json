@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "fetchedAt": "2026-10-30T15:30:27+00:00",
- "itemCount": 178,
+ "fetchedAt": "2026-11-05T17:04:37+00:00",
+ "itemCount": 179,
  "locationNum": "09",
  "meals": [
   {
@@ -157,7 +157,7 @@
     {
      "items": [
       {
-       "name": "Chicken Noodle Soup"
+       "name": "Lasagna Soup with Chicken Sausage"
       },
       {
        "name": "Sweet Potato Chipotle"
@@ -398,6 +398,9 @@
       },
       {
        "name": "Kings Hawaiian"
+      },
+      {
+       "name": "Turkey and Bean Chili"
       }
      ],
      "name": "Chili Bar/Stew"
@@ -411,7 +414,7 @@
     {
      "items": [
       {
-       "name": "Chicken Noodle Soup"
+       "name": "Lasagna Soup with Chicken Sausage"
       },
       {
        "name": "Sweet Potato Chipotle"
@@ -732,6 +735,6 @@
    ]
   }
  ],
- "mealsSha256": "f62bda0974e23e640f2ae6289a3b2694e156c0e9ee1f645309ec2c68e6515e2c",
+ "mealsSha256": "831ec21e5af7f773e7656e2b114df1ffc405ccd26ed4f0eaaa33836c56e4cf83",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
