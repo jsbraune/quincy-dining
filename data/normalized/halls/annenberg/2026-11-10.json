@@ -1,9 +1,9 @@
 {
  "date": "2026-11-10",
- "fetchedAt": "2026-11-05T17:04:37+00:00",
+ "fetchedAt": "2026-11-06T16:34:51+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
- "itemCount": 151,
+ "itemCount": 124,
  "locationNum": "30",
  "meals": [
   {
@@ -1242,43 +1242,9 @@
      "items": [
       {
        "allergens": [],
-       "name": "Baked Brie with Strawberry Preserves",
-       "tags": []
-      },
-      {
-       "allergens": [
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 50,
-       "name": "Heritage PF Crackers",
-       "portion": "1 each",
-       "recipeId": 217013,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
        "name": "Memorial Hall Closed for Special Event",
        "portion": "1 ea",
        "recipeId": 999896,
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "name": "Red Grapes",
-       "tags": []
-      },
-      {
-       "allergens": [
-        "Milk"
-       ],
-       "calories": 205,
-       "name": "Vermont  Cheese  Platter",
-       "portion": "2 oz",
-       "recipeId": 300230,
        "tags": []
       }
      ],
@@ -1318,314 +1284,6 @@
      "items": [
       {
        "allergens": [],
-       "calories": 4,
-       "name": "Baby Arugula",
-       "portion": "1 oz",
-       "recipeId": 175048,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 24,
-       "name": "Black  Beans",
-       "portion": "1 oz",
-       "recipeId": 173023,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 21,
-       "name": "Butter   Beans",
-       "portion": "1 oz",
-       "recipeId": 173022,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Milk",
-        "Tree Nuts",
-        "Wheat"
-       ],
-       "calories": 118,
-       "name": "Caesar Salad",
-       "portion": "4 oz",
-       "recipeId": 47046,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 44,
-       "name": "Corn Niblets",
-       "portion": "2 oz",
-       "recipeId": 171060,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Milk"
-       ],
-       "calories": 30,
-       "name": "Cottage Cheese",
-       "portion": "1 oz",
-       "recipeId": 130005,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 11,
-       "name": "Diced Onions",
-       "portion": "1 oz",
-       "recipeId": 175040,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Fish"
-       ],
-       "calories": 60,
-       "name": "Flaked Tuna",
-       "portion": "2 oz",
-       "recipeId": 48006,
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "calories": 10,
-       "name": "Grape Tomatoes",
-       "portion": "1 oz",
-       "recipeId": 177073,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs"
-       ],
-       "calories": 78,
-       "name": "Hard Cooked Eggs",
-       "portion": "1 each",
-       "recipeId": 161056,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Eggs",
-        "Soybeans"
-       ],
-       "calories": 132,
-       "name": "Huds Boom Sauce",
-       "portion": "1 fl. oz",
-       "recipeId": 300988,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 110,
-       "name": "Hummus",
-       "portion": "2 oz",
-       "recipeId": 142439,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 70,
-       "name": "Kalamata Olives",
-       "portion": "1 oz",
-       "recipeId": 221061,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 8,
-       "name": "Little Leaf Greens",
-       "portion": "2 oz",
-       "recipeId": 176066,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 45,
-       "name": "Quinoa Black Bean and Rost Corn Salad",
-       "portion": "2 oz",
-       "recipeId": 300898,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 79,
-       "name": "Roasted Diced Beets",
-       "portion": "4 oz",
-       "recipeId": 171058,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 88,
-       "name": "Seasoned Halal Chicken Breast",
-       "portion": "2 oz",
-       "recipeId": 111049,
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "calories": 12,
-       "name": "Shredded Carrots",
-       "portion": "1 oz",
-       "recipeId": 140070,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Milk"
-       ],
-       "calories": 223,
-       "name": "Shredded Cheddar Cheese",
-       "portion": "2 oz",
-       "recipeId": 130004,
-       "tags": [
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 45,
-       "name": "Sliced Avocado",
-       "portion": "1 oz",
-       "recipeId": 221115,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 3,
-       "name": "Sliced Cucumbers",
-       "portion": "1 oz",
-       "recipeId": 175022,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 194,
-       "name": "Sorghum",
-       "portion": "2 oz",
-       "recipeId": 163065,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 8,
-       "name": "Steamed Broccoli",
-       "portion": "1 oz",
-       "recipeId": 120126,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 5,
-       "name": "Suntan Pepper Strips",
-       "portion": "1 oz",
-       "recipeId": 176067,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 48,
-       "name": "Tofu",
-       "portion": "2 oz",
-       "recipeId": 142099,
-       "tags": []
-      },
-      {
-       "allergens": [],
-       "calories": 32,
-       "name": "Tricolor Quinoa",
-       "portion": "1 oz",
-       "recipeId": 150044,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 142,
-       "name": "Wonton Strips",
-       "portion": "1 oz",
-       "recipeId": 791621,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      }
-     ],
-     "name": "Salad Bar"
-    },
-    {
-     "items": [
-      {
-       "allergens": [],
        "calories": 32,
        "name": "Duck Sauce",
        "portion": "1 fl. oz",
@@ -1653,7 +1311,7 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 651,
+       "calories": 645,
        "name": "Kelp and Chickpea Po Boy",
        "portion": "6 oz",
        "recipeId": 300870,
@@ -1722,6 +1380,61 @@
       }
      ],
      "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "allergens": [
+        "Eggs",
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 109,
+       "name": "Baked Brie with Strawberry Preserves",
+       "portion": "1 oz",
+       "recipeId": 130048,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 50,
+       "name": "Heritage PF Crackers",
+       "portion": "1 each",
+       "recipeId": 217013,
+       "tags": [
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [],
+       "calories": 20,
+       "name": "Red Grapes",
+       "portion": "1 oz",
+       "recipeId": 201013,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Milk"
+       ],
+       "calories": 205,
+       "name": "Vermont  Cheese  Platter",
+       "portion": "2 oz",
+       "recipeId": 300230,
+       "tags": []
+      }
+     ],
+     "name": "Culinary Display"
     },
     {
      "items": [

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "fetchedAt": "2026-11-05T17:04:37+00:00",
- "itemCount": 151,
+ "fetchedAt": "2026-11-06T16:34:51+00:00",
+ "itemCount": 124,
  "locationNum": "30",
  "meals": [
   {
@@ -423,19 +423,7 @@
     {
      "items": [
       {
-       "name": "Baked Brie with Strawberry Preserves"
-      },
-      {
-       "name": "Heritage PF Crackers"
-      },
-      {
        "name": "Memorial Hall Closed for Special Event"
-      },
-      {
-       "name": "Red Grapes"
-      },
-      {
-       "name": "Vermont  Cheese  Platter"
       }
      ],
      "name": "Miscellaneous"
@@ -450,92 +438,6 @@
       }
      ],
      "name": "Today's Soup"
-    },
-    {
-     "items": [
-      {
-       "name": "Baby Arugula"
-      },
-      {
-       "name": "Black  Beans"
-      },
-      {
-       "name": "Butter   Beans"
-      },
-      {
-       "name": "Caesar Salad"
-      },
-      {
-       "name": "Corn Niblets"
-      },
-      {
-       "name": "Cottage Cheese"
-      },
-      {
-       "name": "Diced Onions"
-      },
-      {
-       "name": "Flaked Tuna"
-      },
-      {
-       "name": "Grape Tomatoes"
-      },
-      {
-       "name": "Hard Cooked Eggs"
-      },
-      {
-       "name": "Huds Boom Sauce"
-      },
-      {
-       "name": "Hummus"
-      },
-      {
-       "name": "Kalamata Olives"
-      },
-      {
-       "name": "Little Leaf Greens"
-      },
-      {
-       "name": "Quinoa Black Bean and Rost Corn Salad"
-      },
-      {
-       "name": "Roasted Diced Beets"
-      },
-      {
-       "name": "Seasoned Halal Chicken Breast"
-      },
-      {
-       "name": "Shredded Carrots"
-      },
-      {
-       "name": "Shredded Cheddar Cheese"
-      },
-      {
-       "name": "Sliced Avocado"
-      },
-      {
-       "name": "Sliced Cucumbers"
-      },
-      {
-       "name": "Sorghum"
-      },
-      {
-       "name": "Steamed Broccoli"
-      },
-      {
-       "name": "Suntan Pepper Strips"
-      },
-      {
-       "name": "Tofu"
-      },
-      {
-       "name": "Tricolor Quinoa"
-      },
-      {
-       "name": "Wonton Strips"
-      }
-     ],
-     "name": "Salad Bar"
     },
     {
      "items": [
@@ -582,6 +484,23 @@
       }
      ],
      "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Baked Brie with Strawberry Preserves"
+      },
+      {
+       "name": "Heritage PF Crackers"
+      },
+      {
+       "name": "Red Grapes"
+      },
+      {
+       "name": "Vermont  Cheese  Platter"
+      }
+     ],
+     "name": "Culinary Display"
     },
     {
      "items": [
@@ -646,6 +565,6 @@
    ]
   }
  ],
- "mealsSha256": "ce3c2037340df18fadd4bc6f9e6439481da69e36fbe9da1efb394c0008edcff6",
+ "mealsSha256": "3fc3f05b4d3e9c528d99d0e17260f616382542ba1543938ef68eb18c7e0bf047",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

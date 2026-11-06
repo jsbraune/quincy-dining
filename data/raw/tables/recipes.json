@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-05T17:04:28+00:00",
+ "fetchedAt": "2026-11-06T16:34:41+00:00",
  "rows": [
   {
    "allergens": [
@@ -9889,42 +9889,42 @@
     "Tree Nuts",
     "Wheat"
    ],
-   "calories": 479,
-   "calories_from_fat": 194,
+   "calories": 599,
+   "calories_from_fat": 242,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "5.4g",
-    "percent": 19.0
+    "amount": "6.7g",
+    "percent": 24.0
    },
    "id": 40013,
    "information": null,
    "ingredients": "Rotini Pasta (Rotini Fusilli (Semolina (Wheat), Durum Wheat Flour, Niacin, Iron (Ferrous Sulfate), Thiamine Mononitrate, Riboflavin, Folic Acid. THIS PRODUCT IS MANUFACTURED ON EQUIPMENT THAT PROCESSES PRODUCTS CONTAINING EGGS)), Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Broccoli Florets (Broccoli), Carrot Coins (Carrots), Caribbean Seasoning (Salt, Spices (Including Red Pepper), Dextrose, Caramel Color, Chives, and Sulfiting Agents), Parmesan Vegan Cheese (Filtered Water, Organic Palm Fruit Oil\u2020, Modifi ed Food Starch, Canola Oil, Natural Flavors (Plant Sources [Contains Autolyzed Yeast]), VegetableGlycerin, Less than 2% of: Lactic Acid (Vegetable Source), Calcium Lactate (Vegetable Source), Sea Salt, Sodium Phosphate, Carrageenan, BambooFiber, Nutritional Yeast, Calcium Phosphate, Organic Chickpea Miso (Organic Handmade Rice Koji, Organic Whole Chickpeas, Sea Salt, Water, KojiSpores), Sunfl ower Lecithin, Citric Acid, Annatto.), Scallions (Scallions)",
    "name": "Rasta Seitan Pasta",
    "protein": {
-    "amount": "29.4g",
-    "percent": 58.0
+    "amount": "36.8g",
+    "percent": 72.0
    },
    "sat_fat": {
-    "amount": "16.6g",
-    "percent": 76.0
+    "amount": "20.8g",
+    "percent": 94.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "10 oz",
    "sodium": {
-    "amount": "917.6mg",
-    "percent": 40.0
+    "amount": "1147mg",
+    "percent": 50.0
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "4.1g"
    },
    "total_carb": {
-    "amount": "47.9g",
-    "percent": 17.0
+    "amount": "59.9g",
+    "percent": 22.0
    },
    "total_fat": {
-    "amount": "21.5g",
-    "percent": 28.0
+    "amount": "26.9g",
+    "percent": 34.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -30805,6 +30805,57 @@
    },
    "sugars": {
     "amount": "1.1g"
+   },
+   "total_carb": {
+    "amount": "7.9g",
+    "percent": 3.0
+   },
+   "total_fat": {
+    "amount": "6.7g",
+    "percent": 9.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 109,
+   "calories_from_fat": 60,
+   "cholesterol": {
+    "amount": "19.1mg",
+    "percent": 6.0
+   },
+   "dietary_fiber": {
+    "amount": "0.2g",
+    "percent": 1.0
+   },
+   "id": 130048,
+   "information": null,
+   "ingredients": "Brie (Culterized Pasteurized Milk and Cream, Salt, Enzymes), Puff Pastry (Enriched Bleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Margarine (Palm Oil, Palm Kernel Oil, Soybean Oil, Water, Salt, Vegetable Mono- and Diglycerides, Polyglycerol Esters of Fatty Acids, Soy Lecithin, Natural Flavor, Citric Acid, Vitamin A Palmitate, Beta Carotene (Color)), Water. Contains 2% or Less of the Following: Monocalcium Phosphate, Salt, Yellow Color Blend (Wheat Starch, Annatto, Turmeric).), French Baguette (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous, Sulfate, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Sour Culture, Salt, Yeast, Semolina), Strawberry Preserves (Strawberries, High Fructose Corn Syrup, Corn Syrup, Sugar, Contains less than 2% Fruit Pectin, Citric Acid.), Egg Wash (Whole Milk (Milk, Vitamin D3.), Cage Free Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added to Preserve Color.))",
+   "name": "Baked Brie with Strawberry Preserves",
+   "protein": {
+    "amount": "4.5g",
+    "percent": 9.0
+   },
+   "sat_fat": {
+    "amount": "4g",
+    "percent": 18.0
+   },
+   "serving_size": "1 oz",
+   "sodium": {
+    "amount": "141.4mg",
+    "percent": 6.0
+   },
+   "sugars": {
+    "amount": "1g"
    },
    "total_carb": {
     "amount": "7.9g",
@@ -69844,6 +69895,52 @@
   },
   {
    "allergens": [],
+   "calories": 20,
+   "calories_from_fat": 0,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "0.3g",
+    "percent": 1.0
+   },
+   "id": 201013,
+   "information": null,
+   "ingredients": "Red Grapes",
+   "name": "Red Grapes",
+   "protein": {
+    "amount": "0.2g",
+    "percent": 0.0
+   },
+   "sat_fat": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "serving_size": "1 oz",
+   "sodium": {
+    "amount": "0.6mg",
+    "percent": 0.0
+   },
+   "sugars": {
+    "amount": "4.4g"
+   },
+   "total_carb": {
+    "amount": "5.1g",
+    "percent": 2.0
+   },
+   "total_fat": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
+  },
+  {
+   "allergens": [],
    "calories": 19,
    "calories_from_fat": 1,
    "cholesterol": {
@@ -106270,7 +106367,7 @@
    },
    "id": 300298,
    "information": null,
-   "ingredients": "Gardein Chicken Protein (Water, Soy Protein Isolate, Vital Wheat Gluten, Natural Flavors (from Plant Sources), Yeast Extract, Organic Cane Sugar, Expeller Pressed Canola Oil, Sea Salt, Pea Protein, Onion Powder, Color Added, Paprika and Turmeric Extracts.), Crushed Tomatoes (Vine Ripened Unpeeled Tomatoes, Tomato Puree, Less than 2% of Citric Acid. Naturally Derived), Onions (Onions), Red Peppers, Water, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Oregano (Oregano), Kosher Salt, Ground Cumin (Ground Cumin), Ground Black Pepper, Greek Leaf Oregano (Dried Oregano), Ground Cayenne Pepper (Dried Chilies), Ground Allspice (Allspice), Whole Bay Leaves (Bay Leaves)",
+   "ingredients": "Gardein Chicken Protein (Water, Soy Protein Isolate, Vital Wheat Gluten, Natural Flavors (from Plant Sources), Yeast Extract, Organic Cane Sugar, Expeller Pressed Canola Oil, Sea Salt, Pea Protein, Onion Powder, Color Added, Paprika and Turmeric Extracts.), Crushed Tomatoes (Vine Ripened Unpeeled Tomatoes, Tomato Puree, Less than 2% of Citric Acid. Naturally Derived), Onions (Onions), Red Peppers, Water, Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Oregano (Oregano), Kosher Salt, Ground Cumin (Ground Cumin), Ground Black Pepper, Greek Leaf Oregano (Dried Oregano), Ground Cayenne Pepper (Dried Chilies), Ground Allspice (Allspice), Whole Bay Leaves (Bay Leaves)",
    "name": "Cumin & Tomato Braised Vegan Chick'n",
    "protein": {
     "amount": "29g",
@@ -116128,7 +116225,7 @@
    },
    "id": 300529,
    "information": null,
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Medium Pearl Barley, Green Peas (Green Peas, Salt), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Italian Parsley (Italian Parsley), Kosher Salt, Caraway Seeds (Caraway seeds)",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Medium Pearl Barley, Green Peas (Green Peas, Salt), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Italian Parsley (Italian Parsley), Kosher Salt, Caraway Seeds (Caraway seeds)",
    "name": "Barley with Peas",
    "protein": {
     "amount": "3.5g",
@@ -118817,7 +118914,7 @@
    },
    "id": 300594,
    "information": null,
-   "ingredients": "White Rice, Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Diced Tomato (Fresh Diced Tomatoes), Onions (Onions), Suntan Peppers (Bell Peppers), Ground Coriander (Coriander), Garlic (Garlic), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cilantro (Cilantro), Kosher Salt, Ground Cumin (Ground Cumin), Greek Leaf Oregano (Dried Oregano), Ground Black Pepper, Parsley (Parsley)",
+   "ingredients": "White Rice, Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Diced Tomato (Fresh Diced Tomatoes), Onions (Onions), Suntan Peppers (Bell Peppers), Ground Coriander (Coriander), Garlic (Garlic), Tomato Paste (Tomato Paste, Less Than 2% of\" Salt, Citric Acid*. *Naturally Derived.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cilantro (Cilantro), Kosher Salt, Ground Cumin (Ground Cumin), Greek Leaf Oregano (Dried Oregano), Ground Black Pepper, Parsley (Parsley)",
    "name": "Arroz Con Pollo",
    "protein": {
     "amount": "31g",
@@ -123845,7 +123942,7 @@
    },
    "id": 300740,
    "information": null,
-   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Local Backyard Beauty Tomatoes, Spanish Onions (Onions), Suntan Peppers (Bell Peppers), Sour Cream (Cultured Pasteurized Light Cream, Nonfat Milk, Enzymes.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Spanish Paprika (Paprika)",
+   "ingredients": "Chicken Thighs, (H) (Chicken Thighs Halal Boneless Skinless. Up To 3% Retained Water.), Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Local Backyard Beauty Tomatoes, Spanish Onions (Onions), Suntan Peppers (Bell Peppers), Sour Cream (Cultured Pasteurized Light Cream, Nonfat Milk, Enzymes.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Spanish Paprika (Paprika)",
    "name": "Chicken Paprikash",
    "protein": {
     "amount": "23.2g",
@@ -126628,7 +126725,7 @@
    },
    "id": 300828,
    "information": null,
-   "ingredients": "Red Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Red Quinoa (Red Quinoa), Sauteed Onions (Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)), Kosher Salt, Ground Black Pepper, Parsley (Parsley)), Quinoa for your Salad (Water, Quinoa (Quinoa)), Sesame Lime Vinaigrette (Lime Juice (Lime Juice), Shallots (Shallots), Pure Toasted Sesame Oil (Sesame oil), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Fine Granulated Sugar (Sugar), Kosher Salt), White Vinegar (White Distilled Vinegar dilluted with Water to 5% Acidity.), Soy Beans Edamame (Soybeans), Fine Granulated Sugar (Sugar), Chopped Kale (Chopped Kale), Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Black Sesame Seeds (Black Sesame Seeds), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions), Pure Toasted Sesame Oil (Sesame oil), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Red Quinoa (Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Red Quinoa (Red Quinoa), Sauteed Onions (Onions (Onions), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)), Kosher Salt, Ground Black Pepper, Parsley (Parsley)), Quinoa for your Salad (Water, Quinoa (Quinoa)), Sesame Lime Vinaigrette (Lime Juice (Lime Juice), Shallots (Shallots), Pure Toasted Sesame Oil (Sesame oil), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Fine Granulated Sugar (Sugar), Kosher Salt), White Vinegar (White Distilled Vinegar dilluted with Water to 5% Acidity.), Soy Beans Edamame (Soybeans), Fine Granulated Sugar (Sugar), Chopped Kale (Chopped Kale), Onions (Onions), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Black Sesame Seeds (Black Sesame Seeds), Whole Hulled Sesame Seeds (Sesame Seeds), Scallions (Fresh Scallions), Pure Toasted Sesame Oil (Sesame oil), Kosher Salt, Ground Black Pepper",
    "name": "Quinoa with Shoyu, Sesame and Greens",
    "protein": {
     "amount": "8.2g",
@@ -128217,8 +128314,8 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 651,
-   "calories_from_fat": 301,
+   "calories": 645,
+   "calories_from_fat": 295,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -128228,19 +128325,19 @@
    },
    "id": 300870,
    "information": null,
-   "ingredients": "Kelp Slider (Maine Sugar Kelp, Green Chickpeas, Brown Rice, Pea Protein, Basil, Extra Virgin Olive Oil, Chickpea Flour, Pea Starch, Oat Fiber, Spices, (Garlic Nutritional Yeast, Kosher Salt, Methyl Cellulose (Plant Fiber) Lemon Red Pepper Flakes)), Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Shredded Lettuce (Lettuce), Diced Tomato (Fresh Diced Tomatoes), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Whole Grain Mustard (Water, Mustard Seeds, Vinegar, Salt), Horseradish (Horseradish, Distilled Vinegar, Water, Soybean Oil, Salt, Artificial Flavor.), Tabasco Sauce (Distilled Vinegar, Red Pepper, Salt.), Hot Smoked Paprika (Paprika And Silicon Dioxide)",
+   "ingredients": "Kelp Slider (Maine Sugar Kelp, Green Chickpeas, Brown Rice, Pea Protein, Basil, Extra Virgin Olive Oil, Chickpea Flour, Pea Starch, Oat Fiber, Spices, (Garlic Nutritional Yeast, Kosher Salt, Methyl Cellulose (Plant Fiber) Lemon Red Pepper Flakes)), Sub Roll 6.5\" (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Less Than 2% Of: Soybean Oil, Yeast, Salt, Sugar, Dough Conditioner (Ascorbic Acid, Enzymes, Sunflower Oil), Monoglycerides (Propionic Acid, Phosphoric Acid [To Retain Freshness]), Dough Conditioner (Sunflower Oil, Enzymes), Calcium Propionate [To Retain Freshness]. MADE IN A BAKERY THAT USED SESAME SEED), Shredded Lettuce (Lettuce), Vegan Mayonnaise (Canola Oil Soybean Oil, Water, Sugar, Distilled Vinegar, Salt, Contains 2% or less of each of the following: Modified Food Starch (corn, potato), Lemon Juice Concentrate, Natural Flavor, Calcium Disodium EDTA, (Used to protect quality), Paprika Oleoresin, ), Diced Tomato (Fresh Diced Tomatoes), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Whole Grain Mustard (Water, Mustard Seeds, Vinegar, Salt), Horseradish (Horseradish, Distilled Vinegar, Water, Soybean Oil, Salt, Artificial Flavor.), Tabasco Sauce (Distilled Vinegar, Red Pepper, Salt.), Hot Smoked Paprika (Paprika And Silicon Dioxide)",
    "name": "Kelp and Chickpea Po Boy",
    "protein": {
     "amount": "28.2g",
     "percent": 55.0
    },
    "sat_fat": {
-    "amount": "5.1g",
+    "amount": "5g",
     "percent": 23.0
    },
    "serving_size": "6 oz",
    "sodium": {
-    "amount": "1199.5mg",
+    "amount": "1190.6mg",
     "percent": 52.0
    },
    "sugars": {
@@ -128251,8 +128348,8 @@
     "percent": 23.0
    },
    "total_fat": {
-    "amount": "33.4g",
-    "percent": 43.0
+    "amount": "32.7g",
+    "percent": 42.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -135041,6 +135138,57 @@
    "total_carb": null,
    "total_fat": null,
    "trans_fat": null,
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 270,
+   "calories_from_fat": 108,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "1g",
+    "percent": 4.0
+   },
+   "id": 301117,
+   "information": null,
+   "ingredients": "Donut Cake Sour Cream Glaze (Old Fashioned Sour Cream Donut: Enriched Wheat Flour, Water, Sugar, Vegetable Oil (palm Oil Shortening, Canola And/or Soybean Oil), Soy Flour, Whey Powder, Dextrose, Contains 2% Or Less Of: Salt, Sodium Acid Pyrophosphate, Sodium Bicarbonate, Soy Lecithin, Monoglycerides, Dried Albumen (egg Whites, Yeast, Preservative [citric Acid]), Preservatives (potassium Sorbate, Sodium Propionate). glaze: Icing Sugar (sugar, Corn Starch), Water, Sugar, Palm Oil Shortening, Maltodextrin, Contains 2% Or Less Of: Icing Base (calcium Carbonate, Sugar, Agar, Salt, Mono And Diglycerides, Sorbitan Monostearate), Natural Flavour, Preservative (potassium Sorbate). Contains Bio Engineered Food Ingredients.)",
+   "name": "Glazed Donut",
+   "protein": {
+    "amount": "3g",
+    "percent": 6.0
+   },
+   "sat_fat": {
+    "amount": "3g",
+    "percent": 14.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "280mg",
+    "percent": 12.0
+   },
+   "sugars": {
+    "amount": "8g"
+   },
+   "total_carb": {
+    "amount": "37g",
+    "percent": 13.0
+   },
+   "total_fat": {
+    "amount": "12g",
+    "percent": 15.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
    "vegan": false,
    "vegetarian": true
   },
@@ -144334,36 +144482,36 @@
   },
   {
    "allergens": [],
-   "calories": 108,
+   "calories": 54,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.6g",
-    "percent": 2.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 444209,
    "information": null,
    "ingredients": "Water, Premium Brown Jasmine Rice",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1.9g",
-    "percent": 4.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "9.5mg"
+    "amount": "4.7mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "22.8g",
-    "percent": 8.0
+    "amount": "11.4g",
+    "percent": 4.0
    },
    "total_fat": {
     "amount": "0g"
@@ -156350,7 +156498,7 @@
    },
    "id": 504333,
    "information": null,
-   "ingredients": "Orzo Pasta (Semolina (Wheat), Durum Wheat Flour, Vitamin B3, B1, B2 Niacin, Iron (Ferrous Sulfate), Thiamine Mononitrate, Riboflavin, Folic Acid.), Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Diced Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Garlic (Garlic), Oregano (Oregano), Ground White Pepper (White Peppercorns), Whole Bay Leaves (Bay Leaves)",
+   "ingredients": "Orzo Pasta (Semolina (Wheat), Durum Wheat Flour, Vitamin B3, B1, B2 Niacin, Iron (Ferrous Sulfate), Thiamine Mononitrate, Riboflavin, Folic Acid.), Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Diced Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Garlic (Garlic), Oregano (Oregano), Ground White Pepper (White Peppercorns), Whole Bay Leaves (Bay Leaves)",
    "name": "Lemon Herbed Orzo",
    "protein": {
     "amount": "17.5g",
@@ -162646,6 +162794,52 @@
    },
    "vegan": true,
    "vegetarian": false
+  },
+  {
+   "allergens": [],
+   "calories": 58,
+   "calories_from_fat": 56,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "0.3g",
+    "percent": 1.0
+   },
+   "id": 508091,
+   "information": "The name of this sauce may have derived from an Argentinean pronunciation of \"Jimmy McCurry\", an Irishman who first made the sauce.",
+   "ingredients": "Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Cilantro (Cilantro), Parsley (Parsley), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Garlic (Garlic), Ground Cumin (Ground Cumin), Kosher Salt",
+   "name": "Chimichurri Sauce",
+   "protein": {
+    "amount": "0.3g",
+    "percent": 1.0
+   },
+   "sat_fat": {
+    "amount": "0.9g",
+    "percent": 4.0
+   },
+   "serving_size": "1 fl. oz",
+   "sodium": {
+    "amount": "13mg",
+    "percent": 1.0
+   },
+   "sugars": {
+    "amount": "0.1g"
+   },
+   "total_carb": {
+    "amount": "1g",
+    "percent": 0.0
+   },
+   "total_fat": {
+    "amount": "6.3g",
+    "percent": 8.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
   },
   {
    "allergens": [],
@@ -189186,6 +189380,27 @@
    "calories_from_fat": null,
    "cholesterol": null,
    "dietary_fiber": null,
+   "id": 999892,
+   "information": null,
+   "ingredients": null,
+   "name": "Kirkland House Closed for Special Event",
+   "protein": null,
+   "sat_fat": null,
+   "serving_size": "1 ea",
+   "sodium": null,
+   "sugars": null,
+   "total_carb": null,
+   "total_fat": null,
+   "trans_fat": null,
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [],
+   "calories": null,
+   "calories_from_fat": null,
+   "cholesterol": null,
+   "dietary_fiber": null,
    "id": 999893,
    "information": null,
    "ingredients": null,
@@ -189652,6 +189867,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "44ba73491d2bf049256e32a30b23354824a5a9d1912fecb0798a9db2347c4dae",
+ "sha256": "6886418833e96a5a47776431f4849ed0077702a8152125911d42964cbf2b9de9",
  "table": "recipes"
 }
