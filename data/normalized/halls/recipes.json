@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T00:00:17+00:00",
+ "generatedAt": "2026-11-07T15:24:48+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -7023,18 +7023,18 @@
    "name": "Palak Paneer",
    "note": null,
    "nutrition": {
-    "calories": 16,
+    "calories": 64,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.4,
-    "protein_g": 0.6,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 97.8,
-    "sugars_g": 0.2,
-    "total_carb_g": 1.0,
-    "total_fat_g": 1.0,
+    "dietary_fiber_g": 1.6,
+    "protein_g": 2.4,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 391.3,
+    "sugars_g": 0.8,
+    "total_carb_g": 4.0,
+    "total_fat_g": 4.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1 fl. oz",
+   "portion": "4 fl. oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -13778,19 +13778,19 @@
   },
   "508097": {
    "allergens": [],
-   "ingredients": "White Rice, Spinach (Spinach), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Dill (Fresh dill), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Garlic (Garlic), Kosher Salt, Ground Black Pepper",
+   "ingredients": "White Rice, Spinach (Spinach), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Dill (Fresh dill), Garlic (Garlic), Kosher Salt, Ground Black Pepper",
    "name": "Classic Spanakorizo: Spinach & Rice",
    "note": "\"Yiasou! That's Greek for \"Hello\" and \"To Your Health\" This is a Diane Kochilas recipe\"",
    "nutrition": {
-    "calories": 334,
+    "calories": 332,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.5,
-    "protein_g": 7.0,
+    "dietary_fiber_g": 2.4,
+    "protein_g": 6.8,
     "sat_fat_g": 0.6,
-    "sodium_mg": 47.6,
+    "sodium_mg": 45.0,
     "sugars_g": 1.2,
-    "total_carb_g": 61.8,
-    "total_fat_g": 6.4,
+    "total_carb_g": 61.5,
+    "total_fat_g": 6.3,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -13891,7 +13891,7 @@
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Cranberry Raisin Vinaigrette (Soybean Oil, Water, Sweetened Dried Cranberries (Cranberries, Sugar, Sunflower Oil), , Balsamic Vinegar, Red Wine Vinegar, Distilled Vinegar And Less That 2% of Cranberry Juice Concentrate, Mustard Seed, Salt, White Wine, Pectin, Citric Acid, Tartaric Acid, Sugar, Spice, Garlic, Shallots, Wheat, Soybeans and Xanthan Gum.)",
+   "ingredients": "Cranberry Raisin Vinaigrette (Soybean Oil, Water, Sweetened Dried Cranberries (Cranberries, Sugar, Sunflower Oil), , Balsamic Vinegar, Red Wine Vinegar, Distilled Vinegar And Less That 2% Of Cranberry Juice Concentrate, Mustard Seed, Salt, White Wine, Pectin, Citric Acid, Tartaric Acid, Sugar, Spice, Garlic, Shallots, Wheat, Soybeans And Xanthan Gum.)",
    "name": "Dressing, Cranberry Balsamic Vinaigrette",
    "note": null,
    "nutrition": {
@@ -14899,19 +14899,20 @@
   },
   "87044": {
    "allergens": [],
-   "ingredients": "Dried Cranberries (Cranberry)",
+   "ingredients": "Dried Cranberries Craisins (Cranberries, Sugar, Sunflower Oil)",
    "name": "Cranberries",
    "note": null,
    "nutrition": {
     "calories": 44,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.8,
+    "dietary_fiber_g": 1.0,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 0.4,
-    "sugars_g": 9.2,
-    "total_carb_g": 11.7,
-    "total_fat_g": 0.2
+    "sodium_mg": 0.0,
+    "sugars_g": 9.8,
+    "total_carb_g": 11.1,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
    },
    "portion": "1 oz",
    "vegan": true,

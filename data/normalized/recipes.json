@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T23:58:46+00:00",
+ "generatedAt": "2026-11-07T15:23:48+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -13504,19 +13504,19 @@
   },
   "508097": {
    "allergens": [],
-   "ingredients": "White Rice, Spinach (Spinach), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Dill (Fresh dill), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Garlic (Garlic), Kosher Salt, Ground Black Pepper",
+   "ingredients": "White Rice, Spinach (Spinach), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Dill (Fresh dill), Garlic (Garlic), Kosher Salt, Ground Black Pepper",
    "name": "Classic Spanakorizo: Spinach & Rice",
    "note": "\"Yiasou! That's Greek for \"Hello\" and \"To Your Health\" This is a Diane Kochilas recipe\"",
    "nutrition": {
-    "calories": 334,
+    "calories": 332,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.5,
-    "protein_g": 7.0,
+    "dietary_fiber_g": 2.4,
+    "protein_g": 6.8,
     "sat_fat_g": 0.6,
-    "sodium_mg": 47.6,
+    "sodium_mg": 45.0,
     "sugars_g": 1.2,
-    "total_carb_g": 61.8,
-    "total_fat_g": 6.4,
+    "total_carb_g": 61.5,
+    "total_fat_g": 6.3,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -13569,18 +13569,18 @@
   },
   "509062": {
    "allergens": [],
-   "ingredients": "Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Oregano (Oregano), Ground Black Pepper",
+   "ingredients": "Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper, Oregano (Oregano)",
    "name": "Baked Lemon Potatoes",
    "note": null,
    "nutrition": {
-    "calories": 79,
+    "calories": 78,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 0.2,
     "protein_g": 0.1,
     "sat_fat_g": 0.6,
     "sodium_mg": 909.6,
     "sugars_g": 0.3,
-    "total_carb_g": 1.1,
+    "total_carb_g": 1.0,
     "total_fat_g": 8.8,
     "trans_fat_g": 0.0
    },

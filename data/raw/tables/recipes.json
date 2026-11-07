@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-06T16:34:41+00:00",
+ "fetchedAt": "2026-11-07T15:23:43+00:00",
  "rows": [
   {
    "allergens": [
@@ -15102,7 +15102,7 @@
    },
    "id": 51026,
    "information": null,
-   "ingredients": "Cranberry Raisin Vinaigrette (Soybean Oil, Water, Sweetened Dried Cranberries (Cranberries, Sugar, Sunflower Oil), , Balsamic Vinegar, Red Wine Vinegar, Distilled Vinegar And Less That 2% of Cranberry Juice Concentrate, Mustard Seed, Salt, White Wine, Pectin, Citric Acid, Tartaric Acid, Sugar, Spice, Garlic, Shallots, Wheat, Soybeans and Xanthan Gum.)",
+   "ingredients": "Cranberry Raisin Vinaigrette (Soybean Oil, Water, Sweetened Dried Cranberries (Cranberries, Sugar, Sunflower Oil), , Balsamic Vinegar, Red Wine Vinegar, Distilled Vinegar And Less That 2% Of Cranberry Juice Concentrate, Mustard Seed, Salt, White Wine, Pectin, Citric Acid, Tartaric Acid, Sugar, Spice, Garlic, Shallots, Wheat, Soybeans And Xanthan Gum.)",
    "name": "Dressing, Cranberry Balsamic Vinaigrette",
    "protein": {
     "amount": "0g"
@@ -21306,17 +21306,17 @@
   {
    "allergens": [],
    "calories": 44,
-   "calories_from_fat": 2,
+   "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.8g",
-    "percent": 3.0
+    "amount": "1g",
+    "percent": 4.0
    },
    "id": 87044,
    "information": null,
-   "ingredients": "Dried Cranberries (Cranberry)",
+   "ingredients": "Dried Cranberries Craisins (Cranberries, Sugar, Sunflower Oil)",
    "name": "Cranberries",
    "protein": {
     "amount": "0g"
@@ -21326,19 +21326,21 @@
    },
    "serving_size": "1 oz",
    "sodium": {
-    "amount": "0.4mg"
+    "amount": "0mg"
    },
    "sugars": {
-    "amount": "9.2g"
+    "amount": "9.8g"
    },
    "total_carb": {
-    "amount": "11.7g",
+    "amount": "11.1g",
     "percent": 4.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0g"
    },
-   "trans_fat": null,
+   "trans_fat": {
+    "amount": "0g"
+   },
    "vegan": true,
    "vegetarian": true
   },
@@ -69896,10 +69898,9 @@
   {
    "allergens": [],
    "calories": 20,
-   "calories_from_fat": 0,
+   "calories_from_fat": null,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "0.3g",
@@ -69910,17 +69911,14 @@
    "ingredients": "Red Grapes",
    "name": "Red Grapes",
    "protein": {
-    "amount": "0.2g",
-    "percent": 0.0
+    "amount": "0.2g"
    },
    "sat_fat": {
-    "amount": "0g",
-    "percent": 0.0
+    "amount": "0g"
    },
    "serving_size": "1 oz",
    "sodium": {
-    "amount": "0.6mg",
-    "percent": 0.0
+    "amount": "0.6mg"
    },
    "sugars": {
     "amount": "4.4g"
@@ -69930,8 +69928,7 @@
     "percent": 2.0
    },
    "total_fat": {
-    "amount": "0g",
-    "percent": 0.0
+    "amount": "0g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -81456,40 +81453,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 16,
-   "calories_from_fat": 9,
+   "calories": 64,
+   "calories_from_fat": 36,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 1.0
+    "amount": "1.6g",
+    "percent": 6.0
    },
    "id": 255122,
    "information": null,
    "ingredients": "Monsoon Palak Paneer (Spinach, Water, Paneer Cheese, (Pasteurized Milk, Acetic Acid, Lactic Acid) Canola Oil) Braccall, Tomato Paste, Onions Milk Powder (Lactose, Non Dairy Creamer, Whole Milk Powder, Nonfat Dry Milk) Canola Oil Spices, Ginger, Garlic, Salt, Baking Soda, Black Salt MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, AND EGGS i)",
    "name": "Palak Paneer",
    "protein": {
-    "amount": "0.6g",
-    "percent": 1.0
+    "amount": "2.4g",
+    "percent": 5.0
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0.4g",
+    "percent": 2.0
    },
-   "serving_size": "1 fl. oz",
+   "serving_size": "4 fl. oz",
    "sodium": {
-    "amount": "97.8mg",
-    "percent": 4.0
+    "amount": "391.3mg",
+    "percent": 17.0
    },
    "sugars": {
-    "amount": "0.2g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "1g"
+    "amount": "4g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "1g",
-    "percent": 1.0
+    "amount": "4g",
+    "percent": 5.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -98920,11 +98919,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 291,
-   "calories_from_fat": 71,
+   "calories": 194,
+   "calories_from_fat": 48,
    "cholesterol": {
-    "amount": "60.8mg",
-    "percent": 20.0
+    "amount": "40.5mg",
+    "percent": 14.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98934,28 +98933,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "25.8g",
-    "percent": 51.0
+    "amount": "17.2g",
+    "percent": 34.0
    },
    "sat_fat": {
-    "amount": "1.5g",
-    "percent": 7.0
+    "amount": "1g",
+    "percent": 5.0
    },
-   "serving_size": "6 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "440.4mg",
-    "percent": 19.0
+    "amount": "293.6mg",
+    "percent": 13.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.4g",
-    "percent": 11.0
+    "amount": "20.3g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "7.9g",
-    "percent": 10.0
+    "amount": "5.3g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -135151,8 +135150,7 @@
    "calories": 270,
    "calories_from_fat": 108,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "1g",
@@ -144482,36 +144480,36 @@
   },
   {
    "allergens": [],
-   "calories": 54,
+   "calories": 108,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "0.6g",
+    "percent": 2.0
    },
    "id": 444209,
    "information": null,
    "ingredients": "Water, Premium Brown Jasmine Rice",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "1.9g",
+    "percent": 4.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "4.7mg"
+    "amount": "9.5mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "11.4g",
-    "percent": 4.0
+    "amount": "22.8g",
+    "percent": 8.0
    },
    "total_fat": {
     "amount": "0g"
@@ -145877,7 +145875,7 @@
   },
   {
    "allergens": [],
-   "calories": 60,
+   "calories": 30,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -145890,13 +145888,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "1g",
-    "percent": 2.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "1 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -145904,8 +145902,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "14.1g",
-    "percent": 5.0
+    "amount": "7g",
+    "percent": 3.0
    },
    "total_fat": {
     "amount": "0g"
@@ -162800,8 +162798,7 @@
    "calories": 58,
    "calories_from_fat": 56,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "0.3g",
@@ -162828,8 +162825,7 @@
     "amount": "0.1g"
    },
    "total_carb": {
-    "amount": "1g",
-    "percent": 0.0
+    "amount": "1g"
    },
    "total_fat": {
     "amount": "6.3g",
@@ -162843,22 +162839,22 @@
   },
   {
    "allergens": [],
-   "calories": 334,
+   "calories": 332,
    "calories_from_fat": 57,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
+    "amount": "2.4g",
     "percent": 9.0
    },
    "id": 508097,
    "information": "\"Yiasou! That's Greek for \"Hello\" and \"To Your Health\" This is a Diane Kochilas recipe\"",
-   "ingredients": "White Rice, Spinach (Spinach), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Dill (Fresh dill), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Garlic (Garlic), Kosher Salt, Ground Black Pepper",
+   "ingredients": "White Rice, Spinach (Spinach), Water, Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Red Wine Vinegar (Red Wine Vinegar, Water, Potassium Metabisulfite (preservative).), Dill (Fresh dill), Garlic (Garlic), Kosher Salt, Ground Black Pepper",
    "name": "Classic Spanakorizo: Spinach & Rice",
    "protein": {
-    "amount": "7g",
-    "percent": 14.0
+    "amount": "6.8g",
+    "percent": 13.0
    },
    "sat_fat": {
     "amount": "0.6g",
@@ -162866,18 +162862,18 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "47.6mg",
+    "amount": "45mg",
     "percent": 2.0
    },
    "sugars": {
     "amount": "1.2g"
    },
    "total_carb": {
-    "amount": "61.8g",
+    "amount": "61.5g",
     "percent": 22.0
    },
    "total_fat": {
-    "amount": "6.4g",
+    "amount": "6.3g",
     "percent": 8.0
    },
    "trans_fat": {
@@ -164010,7 +164006,7 @@
   },
   {
    "allergens": [],
-   "calories": 79,
+   "calories": 78,
    "calories_from_fat": 79,
    "cholesterol": {
     "amount": "0mg"
@@ -164021,7 +164017,7 @@
    },
    "id": 509062,
    "information": null,
-   "ingredients": "Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Oregano (Oregano), Ground Black Pepper",
+   "ingredients": "Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper, Oregano (Oregano)",
    "name": "Baked Lemon Potatoes",
    "protein": {
     "amount": "0.1g"
@@ -164039,7 +164035,7 @@
     "amount": "0.3g"
    },
    "total_carb": {
-    "amount": "1.1g"
+    "amount": "1g"
    },
    "total_fat": {
     "amount": "8.8g",
@@ -188736,43 +188732,43 @@
     "Soybeans",
     "Tree Nuts"
    ],
-   "calories": 79,
-   "calories_from_fat": 51,
+   "calories": 119,
+   "calories_from_fat": 77,
    "cholesterol": {
-    "amount": "3.4mg",
-    "percent": 1.0
+    "amount": "5mg",
+    "percent": 2.0
    },
    "dietary_fiber": {
-    "amount": "4.5g",
-    "percent": 16.0
+    "amount": "6.8g",
+    "percent": 24.0
    },
    "id": 799002,
    "information": null,
    "ingredients": "Green Leaf Lettuce, Ranch Dressing (Buttermilk (Cultured Pasteurized Low Fat Milk, Fat Free Milk, Modified Corn Starch, Salt, Mono and Diglycerides, Carrageenan, Locust Bean Gum Sodium Citrate), Soybean Oil, Water Seasoning Mix (Salt Maltodextrin, Onion Powder, Garlic Powder, Dextrose, Dehydrated Parsley, Disodium Inosinate, Disodium Guanylate, Spices, Xanthan Gum, Autolyzed Yeast Extract, Buttermilk, Turmeric (Color) Egg yolk, Liquid Sugar (Sugar Water), Vinegar, Modified Food Starch, Salt Chives, Spices, Xanthan Gum, Potassium Sorbate (Preservative) Calcium Disodium EDTA to Protect Flavor.), Red Cabbage, Grape Tomato, Shredded Carrots (Carrots), Cucumbers",
    "name": "Garden Salad",
    "protein": {
-    "amount": "1.7g",
-    "percent": 3.0
-   },
-   "sat_fat": {
-    "amount": "1g",
+    "amount": "2.6g",
     "percent": 5.0
    },
-   "serving_size": "4 oz",
-   "sodium": {
-    "amount": "160.9mg",
+   "sat_fat": {
+    "amount": "1.6g",
     "percent": 7.0
+   },
+   "serving_size": "6 oz",
+   "sodium": {
+    "amount": "241.3mg",
+    "percent": 10.0
    },
    "sugars": {
-    "amount": "3.5g"
+    "amount": "5.3g"
    },
    "total_carb": {
-    "amount": "6.8g",
-    "percent": 2.0
+    "amount": "10.2g",
+    "percent": 4.0
    },
    "total_fat": {
-    "amount": "5.7g",
-    "percent": 7.0
+    "amount": "8.5g",
+    "percent": 11.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189867,6 +189863,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "6886418833e96a5a47776431f4849ed0077702a8152125911d42964cbf2b9de9",
+ "sha256": "687bbc2a2ffaa52cf3e787d8374a8426225b7dd56ccdd4c4517b8ac42537fcc8",
  "table": "recipes"
 }

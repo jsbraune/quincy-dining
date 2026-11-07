@@ -1,8 +1,8 @@
 {
  "date": "2026-11-17",
- "fetchedAt": "2026-11-04T16:49:25+00:00",
+ "fetchedAt": "2026-11-07T15:23:43+00:00",
  "quincyRowCount": 348,
- "rowCount": 348,
+ "rowCount": 400,
  "rows": [
   {
    "category": 4,
@@ -5571,8 +5571,476 @@
    ],
    "meal": 2,
    "recipe": 791648
+  },
+  {
+   "category": 70,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 444079
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 400346
+  },
+  {
+   "category": 12,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 255109
+  },
+  {
+   "category": 57,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 410123
+  },
+  {
+   "category": 62,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 10037
+  },
+  {
+   "category": 62,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 10038
+  },
+  {
+   "category": 70,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 444095
+  },
+  {
+   "category": 70,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 144014
+  },
+  {
+   "category": 70,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 444096
+  },
+  {
+   "category": 70,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 444101
+  },
+  {
+   "category": 70,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 444098
+  },
+  {
+   "category": 70,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 163031
+  },
+  {
+   "category": 71,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 505001
+  },
+  {
+   "category": 71,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 140101
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 163046
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 40043
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 555519
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 506001
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 40044
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 61005
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 161045
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 400345
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 400058
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 300758
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 400347
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 400338
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 400323
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 143075
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 141007
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 791567
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 700249
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 163032
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 795011
+  },
+  {
+   "category": 75,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 1,
+   "recipe": 12009
+  },
+  {
+   "category": 7,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 10037
+  },
+  {
+   "category": 7,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 10038
+  },
+  {
+   "category": 12,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 300057
+  },
+  {
+   "category": 12,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 444226
+  },
+  {
+   "category": 14,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 163046
+  },
+  {
+   "category": 15,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 255122
+  },
+  {
+   "category": 16,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 255112
+  },
+  {
+   "category": 20,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 444227
+  },
+  {
+   "category": 20,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 211137
+  },
+  {
+   "category": 47,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 444209
+  },
+  {
+   "category": 47,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 444312
+  },
+  {
+   "category": 57,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 157007
+  },
+  {
+   "category": 57,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 777414
+  },
+  {
+   "category": 57,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 161008
+  },
+  {
+   "category": 57,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 799002
+  },
+  {
+   "category": 57,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 221075
+  },
+  {
+   "category": 57,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 794036
+  },
+  {
+   "category": 57,
+   "date": "2026-11-17",
+   "location": [
+    4
+   ],
+   "meal": 2,
+   "recipe": 142059
   }
  ],
- "rowsSha256": "d16a42a4e62ffbfc4ed331c97c0e935ee2816ffe690c6118a824cc36370c6763",
+ "rowsSha256": "ee2e525a05dfdcd8ab352c1e34ef170400ae9777c57a057fbd584b084b8dfe7d",
  "source": "api.cs50.io/dining/menus"
 }
