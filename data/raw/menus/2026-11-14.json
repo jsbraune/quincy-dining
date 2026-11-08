@@ -1,8 +1,8 @@
 {
  "date": "2026-11-14",
- "fetchedAt": "2026-11-01T15:43:40+00:00",
- "quincyRowCount": 339,
- "rowCount": 339,
+ "fetchedAt": "2026-11-08T15:45:48+00:00",
+ "quincyRowCount": 346,
+ "rowCount": 348,
  "rows": [
   {
    "category": 2,
@@ -5427,8 +5427,138 @@
    ],
    "meal": 2,
    "recipe": 791648
+  },
+  {
+   "category": 1,
+   "date": "2026-11-14",
+   "location": [
+    5,
+    7,
+    8,
+    9,
+    14,
+    16,
+    30,
+    38
+   ],
+   "meal": 0,
+   "recipe": 89002
+  },
+  {
+   "category": 2,
+   "date": "2026-11-14",
+   "location": [
+    5,
+    7,
+    8,
+    9,
+    14,
+    16,
+    30,
+    38
+   ],
+   "meal": 0,
+   "recipe": 161049
+  },
+  {
+   "category": 2,
+   "date": "2026-11-14",
+   "location": [
+    5,
+    7,
+    8,
+    9,
+    14,
+    16,
+    30,
+    38
+   ],
+   "meal": 0,
+   "recipe": 36004
+  },
+  {
+   "category": 2,
+   "date": "2026-11-14",
+   "location": [
+    5,
+    7,
+    8,
+    9,
+    14,
+    16,
+    30,
+    38
+   ],
+   "meal": 0,
+   "recipe": 61203
+  },
+  {
+   "category": 2,
+   "date": "2026-11-14",
+   "location": [
+    5,
+    7,
+    8,
+    9,
+    14,
+    16,
+    30,
+    38
+   ],
+   "meal": 0,
+   "recipe": 142100
+  },
+  {
+   "category": 14,
+   "date": "2026-11-14",
+   "location": [
+    5,
+    7,
+    8,
+    9,
+    14,
+    16,
+    30,
+    38
+   ],
+   "meal": 0,
+   "recipe": 161048
+  },
+  {
+   "category": 23,
+   "date": "2026-11-14",
+   "location": [
+    5,
+    7,
+    8,
+    9,
+    14,
+    16,
+    30,
+    38
+   ],
+   "meal": 0,
+   "recipe": 31003
+  },
+  {
+   "category": 17,
+   "date": "2026-11-14",
+   "location": [
+    30
+   ],
+   "meal": 1,
+   "recipe": 111160
+  },
+  {
+   "category": 17,
+   "date": "2026-11-14",
+   "location": [
+    30
+   ],
+   "meal": 2,
+   "recipe": 111160
   }
  ],
- "rowsSha256": "fd68cb0ca45ef5a7d3f805d88dc6c366fc453b210c51ce43ad3ab5b2047aa3ff",
+ "rowsSha256": "f5b8e2825eb0b9d24a7432766af98159c0cc80bb3108b2ab7a6b8ed0435860e0",
  "source": "api.cs50.io/dining/menus"
 }

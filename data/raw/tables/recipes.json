@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-07T15:23:43+00:00",
+ "fetchedAt": "2026-11-08T15:45:48+00:00",
  "rows": [
   {
    "allergens": [
@@ -16116,6 +16116,56 @@
   },
   {
    "allergens": [
+    "Eggs",
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 350,
+   "calories_from_fat": 194,
+   "cholesterol": {
+    "amount": "245mg",
+    "percent": 82.0
+   },
+   "dietary_fiber": {
+    "amount": "1g",
+    "percent": 4.0
+   },
+   "id": 61045,
+   "information": null,
+   "ingredients": "Fried Over Eggs (Cage-Free Eggs (Eggs)), English Muffin (Enriched Wheat Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Corn Meal, Sugar, Vegetable Oil (Canola And/or Soy), Salt, Wheat Gluten, Calcium Propionate, Dough Conditioners (Monocalcium Phosphate Monohydrate, Datem, Ascorbic Acid, Enzymes), Corn Starch.), Breakfast Sausage Patties Lo Sodium (Pork, Water, Contains 2% or less of Salt, Spices, Dextrose, Sugar, Yeast Extract, Lime Flavor (Corn Syrup Solids, Lime Juice Solids, Natural Flavor), Flavoring, BHT TBHQ, , Citric Acid, Lactic Acid.)",
+   "name": "Breakfast Sandwich Sausage & Egg",
+   "protein": {
+    "amount": "16g",
+    "percent": 31.0
+   },
+   "sat_fat": {
+    "amount": "7.5g",
+    "percent": 34.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "460mg",
+    "percent": 20.0
+   },
+   "sugars": {
+    "amount": "0g"
+   },
+   "total_carb": {
+    "amount": "24g",
+    "percent": 9.0
+   },
+   "total_fat": {
+    "amount": "21.5g",
+    "percent": 28.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": false
+  },
+  {
+   "allergens": [
     "Soybeans",
     "Tree Nuts",
     "Wheat"
@@ -16884,42 +16934,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 862,
-   "calories_from_fat": 661,
+   "calories": 880,
+   "calories_from_fat": 673,
    "cholesterol": {
-    "amount": "331.9mg",
-    "percent": 111.0
+    "amount": "379.5mg",
+    "percent": 127.0
    },
    "dietary_fiber": {
     "amount": "0g"
    },
    "id": 64020,
    "information": null,
-   "ingredients": "Lower Sodium Bacon Hormel (Pork Bacon Cured With Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Butter Croissant (Croissants (Enriched Flour [Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid] Water, Butter, Sugar, Yeast. Contains 2% or Less of the Following: Salt, Whey, Modified Corn Starch, Calcium Propionate [Preservative], Ascorbic Acid, Enzymes.), Scrambled Cage Free Eggs (Liquid Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added To Preserve Color.), Canola Oil (Canola Oil, Food Grade Antioxidant [Propylene Gylcol, Tertiary Butyl Hydroquinone, and Citric Acid], Food Grade Antifoaming Agent [Dimethylpolysiloxane].)), White American Cheese (Cultured Pasteurized Milk and Skim Milk, Buttermilk, Milkfat, Salt, Contains less than 2% of Sodium and Potassium Citrates, Milk Protein Concentrate, Lactic Acid, Sorbic Acid (Preservative), Enzymes, Soy Lecithin and Soybean Oil Blend (Anti Sticking).)",
+   "ingredients": "Scrambled Cage Free Eggs (Cage Free Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added to Preserve Color.), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)), Lower Sodium Bacon Hormel (Pork Bacon Cured With Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Butter Croissant (Croissants (Enriched Flour [Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid] Water, Butter, Sugar, Yeast. Contains 2% or Less of the Following: Salt, Whey, Modified Corn Starch, Calcium Propionate [Preservative], Ascorbic Acid, Enzymes.), White American Cheese (Cultured Pasteurized Milk and Skim Milk, Cream, Sodium Citrate, Salt Enzymes, Sorbic Acid (preservative) Soy Lecithin (Anti Sticking Agent)",
    "name": "Bacon Egg & Cheese Croissant",
    "protein": {
-    "amount": "44g",
-    "percent": 86.0
+    "amount": "45.5g",
+    "percent": 89.0
    },
    "sat_fat": {
-    "amount": "29.5g",
-    "percent": 134.0
+    "amount": "29.8g",
+    "percent": 136.0
    },
    "serving_size": "1 each",
    "sodium": {
-    "amount": "1846.3mg",
-    "percent": 80.0
+    "amount": "1862.1mg",
+    "percent": 81.0
    },
    "sugars": {
-    "amount": "6g"
+    "amount": "6.1g"
    },
    "total_carb": {
-    "amount": "33.3g",
+    "amount": "33.4g",
     "percent": 12.0
    },
    "total_fat": {
-    "amount": "73.3g",
-    "percent": 94.0
+    "amount": "74.6g",
+    "percent": 96.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -71271,14 +71321,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -71290,17 +71340,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -97093,41 +97143,43 @@
   },
   {
    "allergens": [],
-   "calories": 71,
-   "calories_from_fat": 45,
+   "calories": 285,
+   "calories_from_fat": 180,
    "cholesterol": {
-    "amount": "17.4mg",
-    "percent": 6.0
+    "amount": "69.5mg",
+    "percent": 23.0
    },
    "dietary_fiber": {
-    "amount": "0.1g"
+    "amount": "0.4g",
+    "percent": 2.0
    },
    "id": 300008,
    "information": null,
    "ingredients": "Beef Ground (H), Onions (Onions), Water, Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
    "name": "Halal Beef Taco Meat",
    "protein": {
-    "amount": "5g",
-    "percent": 10.0
+    "amount": "20g",
+    "percent": 39.0
    },
    "sat_fat": {
-    "amount": "2.2g",
-    "percent": 10.0
+    "amount": "8.9g",
+    "percent": 40.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "133.7mg",
-    "percent": 6.0
+    "amount": "534.9mg",
+    "percent": 23.0
    },
    "sugars": {
-    "amount": "0.5g"
+    "amount": "2.2g"
    },
    "total_carb": {
-    "amount": "1.1g"
+    "amount": "4.6g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "5g",
-    "percent": 6.0
+    "amount": "19.9g",
+    "percent": 26.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -123255,6 +123307,50 @@
    "vegetarian": true
   },
   {
+   "allergens": [],
+   "calories": 380,
+   "calories_from_fat": 13,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "28g",
+    "percent": 100.0
+   },
+   "id": 300722,
+   "information": null,
+   "ingredients": "Water, Cranberry Bean, Juniper Berries (Whole Juniper Berries), Kosher Salt",
+   "name": "Braised Soldier Bean",
+   "protein": {
+    "amount": "26.1g",
+    "percent": 51.0
+   },
+   "sat_fat": {
+    "amount": "0.4g",
+    "percent": 2.0
+   },
+   "serving_size": "8 oz",
+   "sodium": {
+    "amount": "61.2mg",
+    "percent": 3.0
+   },
+   "sugars": null,
+   "total_carb": {
+    "amount": "68.1g",
+    "percent": 25.0
+   },
+   "total_fat": {
+    "amount": "1.4g",
+    "percent": 2.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
+  },
+  {
    "allergens": [
     "Eggs",
     "Fish",
@@ -125374,6 +125470,55 @@
    "total_fat": {
     "amount": "5.8g",
     "percent": 7.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": true,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "calories": 636,
+   "calories_from_fat": 305,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "11.6g",
+    "percent": 42.0
+   },
+   "id": 300785,
+   "information": null,
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Wheat Tortilla Wrap (Whole Wheat Flour, Enriched Bleached Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Shortening (Interesterified And Hydrogenated Soybean Oils), Contains 2% Or Less Of: Salt, Baking Soda, Sodium Acid Pyrophosphate, Distilled Monoglycerides, Enzymes, Vital Wheat Gluten, Cellulose Gum, Fumaric Acid, And Calcium Propionate And Sorbic Acid (To Maintain Freshness).), Avocado (Hass Avocado, Salt, Ascorbic Acid, Citric Acid.), Roasted Corn and Black Beans (Sweet Corn, Cooked Black Beans, Tomato, Onion, Green Bell Pepper, Red Bell Pepper, Contains Less than 2% of Brown Sugar, Citric Acid, Dehydrated Vegetables (Onion, Bell Pepper, Garlic), Lime Juice Powder (Lime Juice Concentrate, Modified Food Starch, Maltodextrin, Citric Acid), Natural Flavors (Including Grill and Smoke), Olive Oil, Salt, Spices, Sugar, Yeast Extract.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Ground Turmeric (Turmeric)",
+   "name": "Tofu Scramble with Corn and Black Beans wrap",
+   "protein": {
+    "amount": "20.7g",
+    "percent": 41.0
+   },
+   "sat_fat": {
+    "amount": "6.1g",
+    "percent": 28.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "778.3mg",
+    "percent": 34.0
+   },
+   "sugars": {
+    "amount": "0.4g"
+   },
+   "total_carb": {
+    "amount": "56.7g",
+    "percent": 21.0
+   },
+   "total_fat": {
+    "amount": "33.8g",
+    "percent": 43.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -134927,6 +135072,55 @@
   },
   {
    "allergens": [
+    "Eggs",
+    "Milk"
+   ],
+   "calories": 140,
+   "calories_from_fat": 85,
+   "cholesterol": {
+    "amount": "86.1mg",
+    "percent": 29.0
+   },
+   "dietary_fiber": {
+    "amount": "1.5g",
+    "percent": 5.0
+   },
+   "id": 301105,
+   "information": null,
+   "ingredients": "Liquid Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added To Preserve Color.), Green Kale (Kale), Potatoes (Potatoes, Dextrose, Disodium Pyrophosphate (added to maintain color), Potassium Sorbate (added to maintain freshness).), Beets, Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Hot Smoked Paprika (Paprika And Silicon Dioxide)",
+   "name": "Harvard Beets and Kale Hash",
+   "protein": {
+    "amount": "5.6g",
+    "percent": 11.0
+   },
+   "sat_fat": {
+    "amount": "2.4g",
+    "percent": 11.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "231.9mg",
+    "percent": 10.0
+   },
+   "sugars": {
+    "amount": "2g"
+   },
+   "total_carb": {
+    "amount": "9g",
+    "percent": 3.0
+   },
+   "total_fat": {
+    "amount": "9.4g",
+    "percent": 12.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
     "Soybeans"
    ],
    "calories": 408,
@@ -135183,6 +135377,58 @@
    "total_fat": {
     "amount": "12g",
     "percent": 15.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "calories": 330,
+   "calories_from_fat": 162,
+   "cholesterol": {
+    "amount": "30mg",
+    "percent": 10.0
+   },
+   "dietary_fiber": {
+    "amount": "3g",
+    "percent": 11.0
+   },
+   "id": 301118,
+   "information": null,
+   "ingredients": "Mini Chocolate Caramel Filled Beignet (Wheat Flour, Caramel Flavoured Cocoa Spread (sugar, Vegetable Oils In Varying Proportions (rapeseed Oil, Sunflower Oil), Skimmed Milk Powder, Fat Reduced Cocoa Powder, Whey Powder, Maltodextrin, Cocoa Butter, Whole Milk Powder, Hazelnut, Soya Lecithin (emulsifier), Flavouring, Salt), Water, Palm Oil, Sugar, Butter, Egg White, Egg, Dextrose, Rapeseed Oil, Wheat Gluten, Yeast, Salt, Wheat Starch, Mono And Diglycerides Of Fatty Acids (emulsifier), Palm Fat, Ascorbic Acid (antioxidant), Carotene (colour), Malted Wheat Flour.)",
+   "name": "Chocolate Caramel Filled Beignet",
+   "protein": {
+    "amount": "6g",
+    "percent": 12.0
+   },
+   "sat_fat": {
+    "amount": "9g",
+    "percent": 41.0
+   },
+   "serving_size": "3 each",
+   "sodium": {
+    "amount": "225mg",
+    "percent": 10.0
+   },
+   "sugars": {
+    "amount": "15g"
+   },
+   "total_carb": {
+    "amount": "36g",
+    "percent": 13.0
+   },
+   "total_fat": {
+    "amount": "18g",
+    "percent": 23.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -145875,7 +146121,7 @@
   },
   {
    "allergens": [],
-   "calories": 30,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -145888,13 +146134,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "2 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -145902,8 +146148,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "7g",
-    "percent": 3.0
+    "amount": "14.1g",
+    "percent": 5.0
    },
    "total_fat": {
     "amount": "0g"
@@ -189863,6 +190109,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "687bbc2a2ffaa52cf3e787d8374a8426225b7dd56ccdd4c4517b8ac42537fcc8",
+ "sha256": "14188ee2840ae158e3bb86abba1e32363aa9fdf739b06f75ba5aa414ffe8ffcc",
  "table": "recipes"
 }

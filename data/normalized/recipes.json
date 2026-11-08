@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T23:29:01+00:00",
+ "generatedAt": "2026-11-08T15:45:58+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -5324,17 +5324,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 32,
+    "calories": 81,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.5,
+    "dietary_fiber_g": 6.3,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 1.7,
-    "total_carb_g": 7.9,
-    "total_fat_g": 0.1,
+    "sodium_mg": 4.3,
+    "total_carb_g": 19.6,
+    "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "5 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -5419,6 +5419,31 @@
    },
    "portion": "1 fl. oz",
    "vegan": true,
+   "vegetarian": true
+  },
+  "211002": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "French Bread (Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Salt (Salt, Yellow Prussiate Of Soda), Soybean Oil, Liquid Sugar, Dough Conditioner (Corn Flour, Calcium Sulfate, L-cysteine, Enzymes), Wheat Gluten, Monoglycerides [Water, Monoglycerides, And 2% Or Less Of Each Of The Following: Preservatives: Propionic Acid, Phosphoric Acid, Calcium Propionate], Enzymes (Corn Flour, Enzymes), Microcrystalline Cellulose, Sodium Bicarbonate, Sodium Acid Pyrophosphate, Tricalcium Phosphate, Magnesium Stearate (Processing Aid), And Tricalcium Phosphate].), Unsalted Butter (Cream (Milk), Natural Flavoring.), Garlic (Garlic), Parsley (Parsley)",
+   "name": "Garlic Bread",
+   "note": "Garlic bread is said to have been invented during the late 1940's boom of Italian-American restaurants.",
+   "nutrition": {
+    "calories": 94,
+    "cholesterol_mg": 15.2,
+    "dietary_fiber_g": 0.2,
+    "protein_g": 1.5,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 93.8,
+    "sugars_g": 0.2,
+    "total_carb_g": 7.2,
+    "total_fat_g": 6.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
+   "vegan": false,
    "vegetarian": true
   },
   "211016": {
@@ -6168,6 +6193,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "232004": {
+   "allergens": [],
+   "ingredients": "Apple Cider",
+   "name": "Apple Cider",
+   "note": null,
+   "nutrition": {
+    "calories": 91,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.4,
+    "protein_g": 0.2,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 7.9,
+    "sugars_g": 19.1,
+    "total_carb_g": 22.4,
+    "total_fat_g": 0.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "7 fl. oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "232007": {
    "allergens": [
     "Milk"
@@ -6742,18 +6788,18 @@
    "name": "Halal Beef Taco Meat",
    "note": null,
    "nutrition": {
-    "calories": 71,
-    "cholesterol_mg": 17.4,
-    "dietary_fiber_g": 0.1,
-    "protein_g": 5.0,
-    "sat_fat_g": 2.2,
-    "sodium_mg": 133.7,
-    "sugars_g": 0.5,
-    "total_carb_g": 1.1,
-    "total_fat_g": 5.0,
+    "calories": 285,
+    "cholesterol_mg": 69.5,
+    "dietary_fiber_g": 0.4,
+    "protein_g": 20.0,
+    "sat_fat_g": 8.9,
+    "sodium_mg": 534.9,
+    "sugars_g": 2.2,
+    "total_carb_g": 4.6,
+    "total_fat_g": 19.9,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -9370,6 +9416,26 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300722": {
+   "allergens": [],
+   "ingredients": "Water, Cranberry Bean, Juniper Berries (Whole Juniper Berries), Kosher Salt",
+   "name": "Braised Soldier Bean",
+   "note": null,
+   "nutrition": {
+    "calories": 380,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 28.0,
+    "protein_g": 26.1,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 61.2,
+    "total_carb_g": 68.1,
+    "total_fat_g": 1.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300727": {
    "allergens": [
     "Soybeans"
@@ -9482,6 +9548,30 @@
     "trans_fat_g": 0.0
    },
    "portion": "8 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "300785": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Wheat Tortilla Wrap (Whole Wheat Flour, Enriched Bleached Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Shortening (Interesterified And Hydrogenated Soybean Oils), Contains 2% Or Less Of: Salt, Baking Soda, Sodium Acid Pyrophosphate, Distilled Monoglycerides, Enzymes, Vital Wheat Gluten, Cellulose Gum, Fumaric Acid, And Calcium Propionate And Sorbic Acid (To Maintain Freshness).), Avocado (Hass Avocado, Salt, Ascorbic Acid, Citric Acid.), Roasted Corn and Black Beans (Sweet Corn, Cooked Black Beans, Tomato, Onion, Green Bell Pepper, Red Bell Pepper, Contains Less than 2% of Brown Sugar, Citric Acid, Dehydrated Vegetables (Onion, Bell Pepper, Garlic), Lime Juice Powder (Lime Juice Concentrate, Modified Food Starch, Maltodextrin, Citric Acid), Natural Flavors (Including Grill and Smoke), Olive Oil, Salt, Spices, Sugar, Yeast Extract.), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Ground Turmeric (Turmeric)",
+   "name": "Tofu Scramble with Corn and Black Beans wrap",
+   "note": null,
+   "nutrition": {
+    "calories": 636,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 11.6,
+    "protein_g": 20.7,
+    "sat_fat_g": 6.1,
+    "sodium_mg": 778.3,
+    "sugars_g": 0.4,
+    "total_carb_g": 56.7,
+    "total_fat_g": 33.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
    "vegan": true,
    "vegetarian": true
   },
@@ -12036,6 +12126,30 @@
    "vegan": false,
    "vegetarian": false
   },
+  "301105": {
+   "allergens": [
+    "Eggs",
+    "Milk"
+   ],
+   "ingredients": "Liquid Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added To Preserve Color.), Green Kale (Kale), Potatoes (Potatoes, Dextrose, Disodium Pyrophosphate (added to maintain color), Potassium Sorbate (added to maintain freshness).), Beets, Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Hot Smoked Paprika (Paprika And Silicon Dioxide)",
+   "name": "Harvard Beets and Kale Hash",
+   "note": null,
+   "nutrition": {
+    "calories": 140,
+    "cholesterol_mg": 86.1,
+    "dietary_fiber_g": 1.5,
+    "protein_g": 5.6,
+    "sat_fat_g": 2.4,
+    "sodium_mg": 231.9,
+    "sugars_g": 2.0,
+    "total_carb_g": 9.0,
+    "total_fat_g": 9.4,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "301106": {
    "allergens": [
     "Soybeans"
@@ -12165,6 +12279,33 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 each",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "301118": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Mini Chocolate Caramel Filled Beignet (Wheat Flour, Caramel Flavoured Cocoa Spread (sugar, Vegetable Oils In Varying Proportions (rapeseed Oil, Sunflower Oil), Skimmed Milk Powder, Fat Reduced Cocoa Powder, Whey Powder, Maltodextrin, Cocoa Butter, Whole Milk Powder, Hazelnut, Soya Lecithin (emulsifier), Flavouring, Salt), Water, Palm Oil, Sugar, Butter, Egg White, Egg, Dextrose, Rapeseed Oil, Wheat Gluten, Yeast, Salt, Wheat Starch, Mono And Diglycerides Of Fatty Acids (emulsifier), Palm Fat, Ascorbic Acid (antioxidant), Carotene (colour), Malted Wheat Flour.)",
+   "name": "Chocolate Caramel Filled Beignet",
+   "note": null,
+   "nutrition": {
+    "calories": 330,
+    "cholesterol_mg": 30.0,
+    "dietary_fiber_g": 3.0,
+    "protein_g": 6.0,
+    "sat_fat_g": 9.0,
+    "sodium_mg": 225.0,
+    "sugars_g": 15.0,
+    "total_carb_g": 36.0,
+    "total_fat_g": 18.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "3 each",
    "vegan": false,
    "vegetarian": true
   },
@@ -13994,6 +14135,31 @@
    "vegan": false,
    "vegetarian": true
   },
+  "61045": {
+   "allergens": [
+    "Eggs",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Fried Over Eggs (Cage-Free Eggs (Eggs)), English Muffin (Enriched Wheat Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Corn Meal, Sugar, Vegetable Oil (Canola And/or Soy), Salt, Wheat Gluten, Calcium Propionate, Dough Conditioners (Monocalcium Phosphate Monohydrate, Datem, Ascorbic Acid, Enzymes), Corn Starch.), Breakfast Sausage Patties Lo Sodium (Pork, Water, Contains 2% or less of Salt, Spices, Dextrose, Sugar, Yeast Extract, Lime Flavor (Corn Syrup Solids, Lime Juice Solids, Natural Flavor), Flavoring, BHT TBHQ, , Citric Acid, Lactic Acid.)",
+   "name": "Breakfast Sandwich Sausage & Egg",
+   "note": null,
+   "nutrition": {
+    "calories": 350,
+    "cholesterol_mg": 245.0,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 16.0,
+    "sat_fat_g": 7.5,
+    "sodium_mg": 460.0,
+    "sugars_g": 0.0,
+    "total_carb_g": 24.0,
+    "total_fat_g": 21.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
   "61056": {
    "allergens": [
     "Eggs"
@@ -14039,6 +14205,32 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
+  },
+  "64020": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Scrambled Cage Free Eggs (Cage Free Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added to Preserve Color.), Canola Oil (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)), Lower Sodium Bacon Hormel (Pork Bacon Cured With Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Butter Croissant (Croissants (Enriched Flour [Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid] Water, Butter, Sugar, Yeast. Contains 2% or Less of the Following: Salt, Whey, Modified Corn Starch, Calcium Propionate [Preservative], Ascorbic Acid, Enzymes.), White American Cheese (Cultured Pasteurized Milk and Skim Milk, Cream, Sodium Citrate, Salt Enzymes, Sorbic Acid (preservative) Soy Lecithin (Anti Sticking Agent)",
+   "name": "Bacon Egg & Cheese Croissant",
+   "note": null,
+   "nutrition": {
+    "calories": 880,
+    "cholesterol_mg": 379.5,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 45.5,
+    "sat_fat_g": 29.8,
+    "sodium_mg": 1862.1,
+    "sugars_g": 6.1,
+    "total_carb_g": 33.4,
+    "total_fat_g": 74.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
   },
   "700011": {
    "allergens": [],
