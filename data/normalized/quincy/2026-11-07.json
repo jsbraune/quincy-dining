@@ -1352,7 +1352,7 @@
       {
        "allergens": [],
        "name": "Chefs Choice",
-       "portion": "1 each",
+       "portion": "4 each",
        "recipeId": 111000,
        "tags": [
         "vegan",
@@ -1367,9 +1367,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 32,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "2 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -3231,7 +3231,7 @@
       {
        "allergens": [],
        "name": "Scallions",
-       "portion": "1/2 oz",
+       "portion": "1 oz",
        "recipeId": 791567,
        "tags": [
         "vegan",
@@ -3267,9 +3267,9 @@
       },
       {
        "allergens": [],
-       "calories": 285,
+       "calories": 71,
        "name": "Halal Beef Taco Meat",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 300008,
        "tags": [
         "halal"
@@ -3364,9 +3364,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 285,
+       "calories": 71,
        "name": "Halal Beef Taco Meat",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 300008,
        "tags": [
         "halal"

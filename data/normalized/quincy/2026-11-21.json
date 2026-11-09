@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "fetchedAt": "2026-11-08T15:45:48+00:00",
- "itemCount": 337,
+ "fetchedAt": "2026-11-09T23:40:08+00:00",
+ "itemCount": 338,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -1181,6 +1181,20 @@
        "tags": [
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 327,
+       "name": "Cinnamon Roll",
+       "portion": "1 each",
+       "recipeId": 214016,
+       "tags": [
+        "vegetarian"
+       ]
       }
      ],
      "name": "Breakfast Bakery"
@@ -1806,9 +1820,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 91,
+       "calories": 104,
        "name": "Apple Cider",
-       "portion": "7 fl. oz",
+       "portion": "8 fl. oz",
        "recipeId": 232004,
        "tags": [
         "vegan",

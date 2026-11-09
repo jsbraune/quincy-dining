@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-08T15:45:48+00:00",
+ "fetchedAt": "2026-11-09T23:40:08+00:00",
  "rows": [
   {
    "allergens": [
@@ -22367,7 +22367,7 @@
    "name": "Chefs Choice",
    "protein": null,
    "sat_fat": null,
-   "serving_size": "1 each",
+   "serving_size": "4 each",
    "sodium": null,
    "sugars": null,
    "total_carb": null,
@@ -71321,14 +71321,14 @@
   },
   {
    "allergens": [],
-   "calories": 81,
-   "calories_from_fat": 2,
+   "calories": 32,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "6.3g",
-    "percent": 22.0
+    "amount": "2.5g",
+    "percent": 9.0
    },
    "id": 204010,
    "information": null,
@@ -71340,17 +71340,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "5 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "4.3mg"
+    "amount": "1.7mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "19.6g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -77915,14 +77915,14 @@
   },
   {
    "allergens": [],
-   "calories": 91,
-   "calories_from_fat": 2,
+   "calories": 104,
+   "calories_from_fat": 3,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 1.0
+    "amount": "0.5g",
+    "percent": 2.0
    },
    "id": 232004,
    "information": null,
@@ -77932,18 +77932,18 @@
     "amount": "0.2g"
    },
    "sat_fat": {
-    "amount": "0g"
+    "amount": "0.1g"
    },
-   "serving_size": "7 fl. oz",
+   "serving_size": "8 fl. oz",
    "sodium": {
-    "amount": "7.9mg"
+    "amount": "9.1mg"
    },
    "sugars": {
-    "amount": "19.1g"
+    "amount": "21.8g"
    },
    "total_carb": {
-    "amount": "22.4g",
-    "percent": 8.0
+    "amount": "25.6g",
+    "percent": 9.0
    },
    "total_fat": {
     "amount": "0.3g"
@@ -97143,43 +97143,41 @@
   },
   {
    "allergens": [],
-   "calories": 285,
-   "calories_from_fat": 180,
+   "calories": 71,
+   "calories_from_fat": 45,
    "cholesterol": {
-    "amount": "69.5mg",
-    "percent": 23.0
+    "amount": "17.4mg",
+    "percent": 6.0
    },
    "dietary_fiber": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
    "id": 300008,
    "information": null,
    "ingredients": "Beef Ground (H), Onions (Onions), Water, Mexican Taco Mix (Dextrose, Salt, Corn Flour, Chili Pepper, Cumin, Onion Powder, Garlic Powder, Oregano, Citric Acid, Silicon Dioxide (anticaking), and extractives of Paprika.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil)",
    "name": "Halal Beef Taco Meat",
    "protein": {
-    "amount": "20g",
-    "percent": 39.0
+    "amount": "5g",
+    "percent": 10.0
    },
    "sat_fat": {
-    "amount": "8.9g",
-    "percent": 40.0
+    "amount": "2.2g",
+    "percent": 10.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "534.9mg",
-    "percent": 23.0
+    "amount": "133.7mg",
+    "percent": 6.0
    },
    "sugars": {
-    "amount": "2.2g"
+    "amount": "0.5g"
    },
    "total_carb": {
-    "amount": "4.6g",
-    "percent": 2.0
+    "amount": "1.1g"
    },
    "total_fat": {
-    "amount": "19.9g",
-    "percent": 26.0
+    "amount": "5g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -123311,8 +123309,7 @@
    "calories": 380,
    "calories_from_fat": 13,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "28g",
@@ -125485,8 +125482,7 @@
    "calories": 636,
    "calories_from_fat": 305,
    "cholesterol": {
-    "amount": "0mg",
-    "percent": 0.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
     "amount": "11.6g",
@@ -185902,9 +185898,9 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1/2 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "0mg"
+    "amount": "0.1mg"
    },
    "sugars": {
     "amount": "0g"
@@ -190109,6 +190105,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "14188ee2840ae158e3bb86abba1e32363aa9fdf739b06f75ba5aa414ffe8ffcc",
+ "sha256": "cd51e4f396fbe2d584bf3a3d751d1046ad7612147dc7927a6593f4ecef4196d7",
  "table": "recipes"
 }
