@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T23:28:53+00:00",
+ "generatedAt": "2026-11-09T19:29:27+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -5016,6 +5016,29 @@
     "sugars_g": 37.1,
     "total_carb_g": 48.9,
     "total_fat_g": 19.6,
+    "trans_fat_g": 0.0
+   },
+   "portion": "6 fl. oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "184017": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Strawberry Ice Cream (Milk, Cream, Sugar, Strawberries, Corn Syrup, Nonfat Milk, High Fructose Corn Syrup, Whey, Natural Flavors, citric Acid, Modified Corn Starch, Mono & Diglycerides, Guar Gum, Locust Bean Gum, Polysorbate 80, Carrgeenan and Beet Juice Concentrate (Color))",
+   "name": "Strawberry Ice Cream",
+   "note": null,
+   "nutrition": {
+    "calories": 332,
+    "cholesterol_mg": 58.7,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 3.9,
+    "sat_fat_g": 9.8,
+    "sodium_mg": 88.0,
+    "sugars_g": 37.1,
+    "total_carb_g": 43.0,
+    "total_fat_g": 15.6,
     "trans_fat_g": 0.0
    },
    "portion": "6 fl. oz",
