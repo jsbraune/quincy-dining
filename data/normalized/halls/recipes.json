@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T02:36:04+00:00",
+ "generatedAt": "2026-11-10T16:47:02+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -7898,6 +7898,30 @@
    "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "300192": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Plant Based Chicken Nugget (Water Flour, Soy Protein Concentrate, Soybean Oil, Sunflower Oil, 2% Or Less Of: Potato Starch, Methylcellulose, Salt, Natural Flavors, Yellow Corn Flour, Cultured Dextrose Gluten, Yeast Extract, Dried Onion, Dried Garlic, Dextrose, Spices, Food Starch Modified, Paprika And Turmeric Extract (for Color), Leavening (cream Of Tartar, Sodium Bicarbonate), Garlic Powder, Onion Powder, Corn Starch, Dried Yeast Starch, Dextrin, Mixed Tocopherols (antioxidant), Guar Gum Vitamins & Minerals: Zinc Gluconate, Niacin (vitamin B3), Calcium Pantothenate (vitamin B5), Thiamine Hydrochloride (vitamin B1), Pyridoxine Hydrochloride (vitamin B6), Riboflavin (vitamin B2), Vitamin B12), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Red Peppers, Suntan Peppers (Bell Peppers), Crushed Red Pepper (Red chile peppers), Garlic (Garlic), Scallions (Scallions)",
+   "name": "Plant Based Chicken and Peppers Spicy",
+   "note": null,
+   "nutrition": {
+    "calories": 402,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.7,
+    "protein_g": 14.5,
+    "sat_fat_g": 2.7,
+    "sodium_mg": 468.0,
+    "sugars_g": 3.0,
+    "total_carb_g": 29.2,
+    "total_fat_g": 25.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
   },
   "300194": {
    "allergens": [
