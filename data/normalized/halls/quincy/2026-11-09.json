@@ -578,9 +578,9 @@
        "allergens": [
         "Fish"
        ],
-       "calories": 60,
+       "calories": 120,
        "name": "Flaked Tuna",
-       "portion": "2 oz",
+       "portion": "4 oz",
        "recipeId": 48006,
        "tags": []
       },
@@ -644,9 +644,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -986,9 +986,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 274,
+       "calories": 137,
        "name": "Sweet and Sour Chicken",
-       "portion": "4 oz",
+       "portion": "2 oz",
        "recipeId": 301089,
        "tags": []
       }
@@ -1330,9 +1330,9 @@
        "allergens": [
         "Fish"
        ],
-       "calories": 60,
+       "calories": 120,
        "name": "Flaked Tuna",
-       "portion": "2 oz",
+       "portion": "4 oz",
        "recipeId": 48006,
        "tags": []
       },
@@ -1396,9 +1396,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",

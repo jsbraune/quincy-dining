@@ -726,9 +726,9 @@
        "allergens": [
         "Fish"
        ],
-       "calories": 60,
+       "calories": 120,
        "name": "Flaked Tuna",
-       "portion": "2 oz",
+       "portion": "4 oz",
        "recipeId": 48006,
        "tags": []
       },
@@ -792,9 +792,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1494,9 +1494,9 @@
        "allergens": [
         "Fish"
        ],
-       "calories": 60,
+       "calories": 120,
        "name": "Flaked Tuna",
-       "portion": "2 oz",
+       "portion": "4 oz",
        "recipeId": 48006,
        "tags": []
       },
@@ -1560,9 +1560,9 @@
       },
       {
        "allergens": [],
-       "calories": 8,
+       "calories": 4,
        "name": "Little Leaf Greens",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",

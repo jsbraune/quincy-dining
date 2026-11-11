@@ -1,0 +1,377 @@
+{
+ "date": "2026-11-17",
+ "fetchedAt": "2026-11-11T16:52:03+00:00",
+ "itemCount": 83,
+ "locationNum": "14",
+ "meals": [
+  {
+   "meal": "breakfast",
+   "sourceLabel": "Breakfast",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Hard Cooked Eggs - Cage Free"
+      },
+      {
+       "name": "Steel Cut Oatmeal"
+      }
+     ],
+     "name": "Breakfast Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Assorted Mini Danish"
+      },
+      {
+       "name": "Muffin Assortment"
+      },
+      {
+       "name": "Rudi's Mini Croissant"
+      }
+     ],
+     "name": "Breakfast Bakery"
+    },
+    {
+     "items": [
+      {
+       "name": "Baby Spinach"
+      },
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Fried Egg"
+      },
+      {
+       "name": "SLiced  White American Cheese"
+      },
+      {
+       "name": "Sliced Ham"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Turkey Bacon"
+      }
+     ],
+     "name": "MISC"
+    },
+    {
+     "items": [
+      {
+       "name": "Assorted Bagels"
+      }
+     ],
+     "name": "Bagel"
+    },
+    {
+     "items": [
+      {
+       "name": "Avocado"
+      },
+      {
+       "name": "Fresh Fruit Salad"
+      },
+      {
+       "name": "Grapefruit Wedge"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Orange Wedge"
+      }
+     ],
+     "name": "Salad Bar"
+    }
+   ]
+  },
+  {
+   "meal": "lunch",
+   "sourceLabel": "Lunch",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Broccoli And Cheddar Soup"
+      },
+      {
+       "name": "Lentil Soup"
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "name": "Black Eyed Peas"
+      },
+      {
+       "name": "Broccoli and Vegetable Honey Dijon Slaw"
+      },
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Chick Peas"
+      },
+      {
+       "name": "Corn Niblets"
+      },
+      {
+       "name": "Cottage Cheese"
+      },
+      {
+       "name": "Cranberries"
+      },
+      {
+       "name": "Diced Onions"
+      },
+      {
+       "name": "Farro with Dill"
+      },
+      {
+       "name": "Feta Cheese"
+      },
+      {
+       "name": "Flaked Tuna"
+      },
+      {
+       "name": "Grape Tomatoes"
+      },
+      {
+       "name": "Hard Cooked Eggs"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Hummus"
+      },
+      {
+       "name": "Kalamata Olives"
+      },
+      {
+       "name": "Little Leaf Greens"
+      },
+      {
+       "name": "Millet"
+      },
+      {
+       "name": "Seasoned Halal Chicken Breast"
+      },
+      {
+       "name": "Shredded Carrots"
+      },
+      {
+       "name": "Sliced Avocado"
+      },
+      {
+       "name": "Sliced Cucumbers"
+      },
+      {
+       "name": "Spinach Salad Base"
+      },
+      {
+       "name": "Steamed Broccoli"
+      },
+      {
+       "name": "Suntan Pepper Strips"
+      },
+      {
+       "name": "Sweet Roasted Potatoes"
+      },
+      {
+       "name": "Tabouleh Salad"
+      },
+      {
+       "name": "Tofu"
+      }
+     ],
+     "name": "Salad Bar"
+    },
+    {
+     "items": [
+      {
+       "name": "Cheddar Cheese"
+      },
+      {
+       "name": "Classic Cole Slaw"
+      },
+      {
+       "name": "Homemade Chicken Salad"
+      },
+      {
+       "name": "Huds Boom Sauce"
+      },
+      {
+       "name": "Kosher Dill Pickle Chips"
+      },
+      {
+       "name": "Leaf Lettuce"
+      },
+      {
+       "name": "No Nut Basil Pesto"
+      },
+      {
+       "name": "Roasted Low-Sodium Turkey"
+      },
+      {
+       "name": "Sliced Ham"
+      },
+      {
+       "name": "Sliced Red Onions"
+      },
+      {
+       "name": "Sliced Tomatoes"
+      },
+      {
+       "name": "Swiss Cheese"
+      },
+      {
+       "name": "Tuna Salad"
+      },
+      {
+       "name": "Western Style Guacamole"
+      }
+     ],
+     "name": "Sand/ Deli"
+    },
+    {
+     "items": [
+      {
+       "name": "Crispy Flounder with Pico De Gallo"
+      },
+      {
+       "name": "Grilled Chicken Breast"
+      },
+      {
+       "name": "Street Beef Taco"
+      }
+     ],
+     "name": "Entrees"
+    },
+    {
+     "items": [
+      {
+       "name": "Seitan Pepper Sizzle"
+      }
+     ],
+     "name": "Veg,Vegan"
+    },
+    {
+     "items": [
+      {
+       "name": "Yellow Rice"
+      }
+     ],
+     "name": "Starch And Potatoes"
+    },
+    {
+     "items": [
+      {
+       "name": "Corn & Roasted Peppers"
+      },
+      {
+       "name": "Roasted Cauliflower"
+      }
+     ],
+     "name": "Vegetables"
+    },
+    {
+     "items": [
+      {
+       "name": "Cuban Black Beans"
+      }
+     ],
+     "name": "Plant protein"
+    },
+    {
+     "items": [
+      {
+       "name": "Street Beef Taco"
+      }
+     ],
+     "name": "Halal"
+    },
+    {
+     "items": [
+      {
+       "name": "Chocolate Chip Cookies"
+      },
+      {
+       "name": "Lime Soft Serve"
+      },
+      {
+       "name": "Mango Soft serve"
+      }
+     ],
+     "name": "Desserts"
+    },
+    {
+     "items": [
+      {
+       "name": "Classic Dinner Roll"
+      },
+      {
+       "name": "Sour Cream"
+      },
+      {
+       "name": "Thick and Chunky Mild Salsa"
+      },
+      {
+       "name": "Western Style Guacamole"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
+       "name": "Strawberry Banana  Smoothie"
+      }
+     ],
+     "name": "Delish"
+    },
+    {
+     "items": [
+      {
+       "name": "Brown Rice"
+      }
+     ],
+     "name": "Brown Rice station"
+    },
+    {
+     "items": [
+      {
+       "name": "Chicken  Stew"
+      }
+     ],
+     "name": "Chili Bar/Stew"
+    }
+   ]
+  },
+  {
+   "meal": "dinner",
+   "sourceLabel": "Dinner",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Kirkland House Closed for Special Event"
+      }
+     ],
+     "name": "Miscellaneous"
+    }
+   ]
+  }
+ ],
+ "mealsSha256": "9f8d4deee757a221917dbe94ae7d7e15882388b5a9d4a84befa172e01302e547",
+ "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
+}
