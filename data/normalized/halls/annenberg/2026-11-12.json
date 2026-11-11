@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "fetchedAt": "2026-11-06T16:34:51+00:00",
+ "fetchedAt": "2026-11-11T21:41:40+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 174,
@@ -501,12 +501,13 @@
       {
        "allergens": [
         "Eggs",
+        "Milk",
         "Wheat"
        ],
-       "calories": 83,
-       "name": "Chicken Noodle Soup",
+       "calories": 170,
+       "name": "Lasagna Soup with Chicken Sausage",
        "portion": "8 oz",
-       "recipeId": 10015,
+       "recipeId": 10066,
        "tags": []
       },
       {
@@ -1250,12 +1251,13 @@
       {
        "allergens": [
         "Eggs",
+        "Milk",
         "Wheat"
        ],
-       "calories": 83,
-       "name": "Chicken Noodle Soup",
+       "calories": 170,
+       "name": "Lasagna Soup with Chicken Sausage",
        "portion": "8 oz",
-       "recipeId": 10015,
+       "recipeId": 10066,
        "tags": []
       },
       {
