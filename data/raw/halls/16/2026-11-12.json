@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "fetchedAt": "2026-11-06T16:34:51+00:00",
+ "fetchedAt": "2026-11-12T21:41:20+00:00",
  "itemCount": 180,
  "locationNum": "16",
  "meals": [
@@ -669,7 +669,7 @@
        "name": "Hood Vanilla Ice Cream"
       },
       {
-       "name": "Wampanoag Cranberries and Squash"
+       "name": "Wampanoag Cranberries, Walnut and Squash"
       }
      ],
      "name": "Featured Special Bar"
@@ -743,6 +743,6 @@
    ]
   }
  ],
- "mealsSha256": "025b3ced168dcaf0c858651b9d0d711760a04bd940af6b901aa1fa6c73bad71f",
+ "mealsSha256": "b33b29358b57151846eed0cf93d5fa34afa18ab3a59245c8e35325406792f06f",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

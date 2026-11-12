@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "fetchedAt": "2026-11-06T16:34:51+00:00",
+ "fetchedAt": "2026-11-12T21:41:20+00:00",
  "hall": "pforzheimer",
  "hallName": "Pforzheimer House",
  "itemCount": 181,
@@ -2072,20 +2072,9 @@
        ]
       },
       {
-       "allergens": [
-        "Milk",
-        "Peanuts",
-        "Soybeans",
-        "Tree Nuts",
-        "Wheat"
-       ],
-       "calories": 94,
-       "name": "Wampanoag Cranberries and Squash",
-       "portion": "4 oz",
-       "recipeId": 300917,
-       "tags": [
-        "vegetarian"
-       ]
+       "allergens": [],
+       "name": "Wampanoag Cranberries, Walnut and Squash",
+       "tags": []
       }
      ],
      "name": "Featured Special Bar"
