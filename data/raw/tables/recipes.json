@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-11T16:51:56+00:00",
+ "fetchedAt": "2026-11-12T17:20:07+00:00",
  "rows": [
   {
    "allergens": [
@@ -88147,43 +88147,42 @@
    "allergens": [
     "Fish"
    ],
-   "calories": 270,
-   "calories_from_fat": 176,
+   "calories": 68,
+   "calories_from_fat": 44,
    "cholesterol": {
-    "amount": "62.4mg",
-    "percent": 21.0
+    "amount": "15.6mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
-    "amount": "1g",
-    "percent": 4.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 270427,
    "information": null,
    "ingredients": "Salmon, Lemons (LEMONS), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.)",
    "name": "Roasted Salmon with Lemon Zest",
    "protein": {
-    "amount": "22.8g",
-    "percent": 45.0
+    "amount": "5.7g",
+    "percent": 11.0
    },
    "sat_fat": {
-    "amount": "2.9g",
-    "percent": 13.0
+    "amount": "0.7g",
+    "percent": 3.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "50.6mg",
-    "percent": 2.0
+    "amount": "12.6mg",
+    "percent": 1.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "2.3g",
-    "percent": 1.0
+    "amount": "0.6g"
    },
    "total_fat": {
-    "amount": "19.5g",
-    "percent": 25.0
+    "amount": "4.9g",
+    "percent": 6.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -126808,8 +126807,8 @@
   },
   {
    "allergens": [],
-   "calories": 70,
-   "calories_from_fat": 74,
+   "calories": 47,
+   "calories_from_fat": 49,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -126824,13 +126823,12 @@
     "amount": "0g"
    },
    "sat_fat": {
-    "amount": "0.6g",
-    "percent": 3.0
+    "amount": "0.4g",
+    "percent": 2.0
    },
-   "serving_size": "3 oz",
+   "serving_size": "2 oz",
    "sodium": {
-    "amount": "17mg",
-    "percent": 1.0
+    "amount": "11.3mg"
    },
    "sugars": {
     "amount": "0g"
@@ -126839,8 +126837,8 @@
     "amount": "0g"
    },
    "total_fat": {
-    "amount": "8.2g",
-    "percent": 10.0
+    "amount": "5.5g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -131031,43 +131029,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 716,
-   "calories_from_fat": 337,
+   "calories": 358,
+   "calories_from_fat": 168,
    "cholesterol": {
-    "amount": "14.3mg",
-    "percent": 5.0
+    "amount": "7.1mg",
+    "percent": 2.0
    },
    "dietary_fiber": {
-    "amount": "7.8g",
-    "percent": 28.0
+    "amount": "3.9g",
+    "percent": 14.0
    },
    "id": 300957,
    "information": null,
    "ingredients": "Protein Plus Pasta with Garlic (Protein Plus Spaghetti (Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)), Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt and Enzymes), Parmesan Style Cheese: (Corn Starch, Water, Palm Oil, Cellulose, Salt, Natural Flavor, Caseinate, Sorbic Acid (as a preservative), Annatto), Powdered Cellulose added to prevent caking, Natamycin (A Natural Mold Inhibitor).), Water, Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Fish Sauce (Anchovy Fish, Salt, sugar, Water.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Panda Oyster Sauce (Water, Sugar, Salt, Oyster Extractives (Oyster, Water, Salt), Modified Corn Starch, and Caramel Color), Scallions (Fresh Scallions), Garlic (Garlic), Granulated Garlic (Garlic)), Shaking Beef (Beef Stir Fry Strips , Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Rice Vinegar (Water, Rice, Sugarcane, Corn Syrup, Salt), Fine Granulated Sugar (Sugar), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Ground Black Pepper, Kosher Salt), Limes (Fresh Limes), Cilantro (Cilantro), Red Onions",
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "protein": {
-    "amount": "36.4g",
-    "percent": 71.0
+    "amount": "18.2g",
+    "percent": 36.0
    },
    "sat_fat": {
-    "amount": "9.9g",
-    "percent": 45.0
+    "amount": "4.9g",
+    "percent": 22.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "1849.1mg",
-    "percent": 80.0
+    "amount": "924.6mg",
+    "percent": 40.0
    },
    "sugars": {
-    "amount": "7.1g"
+    "amount": "3.5g"
    },
    "total_carb": {
-    "amount": "64.8g",
-    "percent": 24.0
+    "amount": "32.4g",
+    "percent": 12.0
    },
    "total_fat": {
-    "amount": "37.3g",
-    "percent": 48.0
+    "amount": "18.7g",
+    "percent": 24.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -135065,47 +135063,43 @@
    "vegetarian": false
   },
   {
-   "allergens": [
-    "Eggs",
-    "Milk"
-   ],
-   "calories": 140,
-   "calories_from_fat": 85,
+   "allergens": [],
+   "calories": 3996,
+   "calories_from_fat": 382,
    "cholesterol": {
-    "amount": "86.1mg",
-    "percent": 29.0
+    "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.5g",
-    "percent": 5.0
+    "amount": "87.9g",
+    "percent": 314.0
    },
    "id": 301105,
    "information": null,
-   "ingredients": "Liquid Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added To Preserve Color.), Green Kale (Kale), Potatoes (Potatoes, Dextrose, Disodium Pyrophosphate (added to maintain color), Potassium Sorbate (added to maintain freshness).), Beets, Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Hot Smoked Paprika (Paprika And Silicon Dioxide)",
+   "ingredients": "Red Bliss Potatoes, Green Kale (Kale), Beets, Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Water, White Clover Honey (Honey), Hot Smoked Paprika (Paprika And Silicon Dioxide), Ground Cumin (Ground Cumin), Garlic (Garlic), Cornstarch (Corn Starch), Kosher Salt, Kosher Salt",
    "name": "Harvard Beets and Kale Hash",
    "protein": {
-    "amount": "5.6g",
-    "percent": 11.0
+    "amount": "101g",
+    "percent": 198.0
    },
    "sat_fat": {
-    "amount": "2.4g",
-    "percent": 11.0
+    "amount": "4.1g",
+    "percent": 19.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "231.9mg",
-    "percent": 10.0
+    "amount": "668.5mg",
+    "percent": 29.0
    },
    "sugars": {
-    "amount": "2g"
+    "amount": "47.5g"
    },
    "total_carb": {
-    "amount": "9g",
-    "percent": 3.0
+    "amount": "847.8g",
+    "percent": 308.0
    },
    "total_fat": {
-    "amount": "9.4g",
-    "percent": 12.0
+    "amount": "42.3g",
+    "percent": 54.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -190103,6 +190097,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "c9b8873fdb9bef6931c692d8dee952dab86eb07f8caf7d340704d4b40814b82d",
+ "sha256": "b100331db599e6d0002959fed9dff3416286558d8ca98e7899cb7b76049bc0e2",
  "table": "recipes"
 }

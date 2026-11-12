@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T01:49:01+00:00",
+ "generatedAt": "2026-11-12T17:20:11+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -9765,18 +9765,18 @@
    "name": "Stir Fry Vegetables",
    "note": null,
    "nutrition": {
-    "calories": 70,
+    "calories": 47,
     "cholesterol_mg": 0.0,
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
-    "sat_fat_g": 0.6,
-    "sodium_mg": 17.0,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 11.3,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
-    "total_fat_g": 8.2,
+    "total_fat_g": 5.5,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "2 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -10679,18 +10679,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 716,
-    "cholesterol_mg": 14.3,
-    "dietary_fiber_g": 7.8,
-    "protein_g": 36.4,
-    "sat_fat_g": 9.9,
-    "sodium_mg": 1849.1,
-    "sugars_g": 7.1,
-    "total_carb_g": 64.8,
-    "total_fat_g": 37.3,
+    "calories": 358,
+    "cholesterol_mg": 7.1,
+    "dietary_fiber_g": 3.9,
+    "protein_g": 18.2,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 924.6,
+    "sugars_g": 3.5,
+    "total_carb_g": 32.4,
+    "total_fat_g": 18.7,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -12127,23 +12127,20 @@
    "vegetarian": false
   },
   "301105": {
-   "allergens": [
-    "Eggs",
-    "Milk"
-   ],
-   "ingredients": "Liquid Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added To Preserve Color.), Green Kale (Kale), Potatoes (Potatoes, Dextrose, Disodium Pyrophosphate (added to maintain color), Potassium Sorbate (added to maintain freshness).), Beets, Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Garlic (Garlic), Kosher Salt, Ground Black Pepper, Ground Cumin (Ground Cumin), Hot Smoked Paprika (Paprika And Silicon Dioxide)",
+   "allergens": [],
+   "ingredients": "Red Bliss Potatoes, Green Kale (Kale), Beets, Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Water, White Clover Honey (Honey), Hot Smoked Paprika (Paprika And Silicon Dioxide), Ground Cumin (Ground Cumin), Garlic (Garlic), Cornstarch (Corn Starch), Kosher Salt, Kosher Salt",
    "name": "Harvard Beets and Kale Hash",
    "note": null,
    "nutrition": {
-    "calories": 140,
-    "cholesterol_mg": 86.1,
-    "dietary_fiber_g": 1.5,
-    "protein_g": 5.6,
-    "sat_fat_g": 2.4,
-    "sodium_mg": 231.9,
-    "sugars_g": 2.0,
-    "total_carb_g": 9.0,
-    "total_fat_g": 9.4,
+    "calories": 3996,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 87.9,
+    "protein_g": 101.0,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 668.5,
+    "sugars_g": 47.5,
+    "total_carb_g": 847.8,
+    "total_fat_g": 42.3,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",

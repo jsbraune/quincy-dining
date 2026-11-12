@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T01:50:23+00:00",
+ "generatedAt": "2026-11-12T17:21:47+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -11196,18 +11196,18 @@
    "name": "Shaking Beef and Protein Plus Pasta with Garlic",
    "note": null,
    "nutrition": {
-    "calories": 716,
-    "cholesterol_mg": 14.3,
-    "dietary_fiber_g": 7.8,
-    "protein_g": 36.4,
-    "sat_fat_g": 9.9,
-    "sodium_mg": 1849.1,
-    "sugars_g": 7.1,
-    "total_carb_g": 64.8,
-    "total_fat_g": 37.3,
+    "calories": 358,
+    "cholesterol_mg": 7.1,
+    "dietary_fiber_g": 3.9,
+    "protein_g": 18.2,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 924.6,
+    "sugars_g": 3.5,
+    "total_carb_g": 32.4,
+    "total_fat_g": 18.7,
     "trans_fat_g": 0.0
    },
-   "portion": "8 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -12602,6 +12602,32 @@
    "note": null,
    "nutrition": {},
    "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "301117": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Donut Cake Sour Cream Glaze (Old Fashioned Sour Cream Donut: Enriched Wheat Flour, Water, Sugar, Vegetable Oil (palm Oil Shortening, Canola And/or Soybean Oil), Soy Flour, Whey Powder, Dextrose, Contains 2% Or Less Of: Salt, Sodium Acid Pyrophosphate, Sodium Bicarbonate, Soy Lecithin, Monoglycerides, Dried Albumen (egg Whites, Yeast, Preservative [citric Acid]), Preservatives (potassium Sorbate, Sodium Propionate). glaze: Icing Sugar (sugar, Corn Starch), Water, Sugar, Palm Oil Shortening, Maltodextrin, Contains 2% Or Less Of: Icing Base (calcium Carbonate, Sugar, Agar, Salt, Mono And Diglycerides, Sorbitan Monostearate), Natural Flavour, Preservative (potassium Sorbate). Contains Bio Engineered Food Ingredients.)",
+   "name": "Glazed Donut",
+   "note": null,
+   "nutrition": {
+    "calories": 270,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 3.0,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 280.0,
+    "sugars_g": 8.0,
+    "total_carb_g": 37.0,
+    "total_fat_g": 12.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 each",
    "vegan": false,
    "vegetarian": true
   },

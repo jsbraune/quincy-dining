@@ -1702,11 +1702,8 @@
      "categoryId": 15,
      "items": [
       {
-       "allergens": [
-        "Eggs",
-        "Milk"
-       ],
-       "calories": 140,
+       "allergens": [],
+       "calories": 3996,
        "name": "Harvard Beets and Kale Hash",
        "portion": "4 oz",
        "recipeId": 301105,
