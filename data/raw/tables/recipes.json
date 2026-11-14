@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-14T15:31:33+00:00",
+ "fetchedAt": "2026-11-14T19:39:41+00:00",
  "rows": [
   {
    "allergens": [
@@ -53052,7 +53052,7 @@
    },
    "id": 164045,
    "information": null,
-   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Soft White Wheat berries",
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Sauteed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Soft White Wheat berries",
    "name": "Wheat Berries",
    "protein": {
     "amount": "3.6g",
@@ -98965,11 +98965,11 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 194,
-   "calories_from_fat": 48,
+   "calories": 291,
+   "calories_from_fat": 71,
    "cholesterol": {
-    "amount": "40.5mg",
-    "percent": 14.0
+    "amount": "60.8mg",
+    "percent": 20.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -98979,28 +98979,28 @@
    "ingredients": "Chicken Tenders Breaded (H) GF (Containing Up To 15% Solution Of Water, Corn Starch, Sea Salt. Breaded With: Rice Flour, Pea Protein Isolate, Dextrose, Baking Soda. Battered With: Water, Rice Flour, Corn Starch, Yellow Corn Flour, Dextrose, Salt, Leavening (cream Of Tartar, Baking Soda), Spice, Sunflower Oil, Guar Gum. Predusted With: Corn Starch. Breading Set In Soybean Oil.), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Halal Chicken Tenders",
    "protein": {
-    "amount": "17.2g",
-    "percent": 34.0
+    "amount": "25.8g",
+    "percent": 51.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "1.5g",
+    "percent": 7.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "6 oz",
    "sodium": {
-    "amount": "293.6mg",
-    "percent": 13.0
+    "amount": "440.4mg",
+    "percent": 19.0
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "20.3g",
-    "percent": 7.0
+    "amount": "30.4g",
+    "percent": 11.0
    },
    "total_fat": {
-    "amount": "5.3g",
-    "percent": 7.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -130230,7 +130230,7 @@
    "id": 300917,
    "information": null,
    "ingredients": "Steamed Butternut Squash (Chunked Local Butternut Squash, Kosher Salt, Ground Black Pepper), Whole Cranberry Sauce (Cranberries, High Fructose Corn Syrup, Corn Syrup, Water), Walnut Pieces Nuggets (Contains Walnuts. This product is manufactured and packaged on shared equipment with Peanuts. Other Tree Nuts, Milk, Wheat, Soy and Sesame), Unsalted Butter (Cream (Milk), Natural Flavoring.), Light Brown Sugar (Brown Sugar), Ground Cinnamon (Ground Cinnamon Bark), Kosher Salt, Ground Allspice (Allspice), Ground Nutmeg (Nutmeg)",
-   "name": "Wampanoag Cranberries, Walnut and Squash",
+   "name": "Wampanoag Cranberries and Squash",
    "protein": {
     "amount": "1.6g",
     "percent": 3.0
@@ -135329,7 +135329,8 @@
    "calories": 330,
    "calories_from_fat": 9,
    "cholesterol": {
-    "amount": "0mg"
+    "amount": "0mg",
+    "percent": 0.0
    },
    "dietary_fiber": {
     "amount": "4g",
@@ -135344,7 +135345,8 @@
     "percent": 24.0
    },
    "sat_fat": {
-    "amount": "0g"
+    "amount": "0g",
+    "percent": 0.0
    },
    "serving_size": "1 each",
    "sodium": {
@@ -135376,7 +135378,8 @@
    "calories": 330,
    "calories_from_fat": 18,
    "cholesterol": {
-    "amount": "0mg"
+    "amount": "0mg",
+    "percent": 0.0
    },
    "dietary_fiber": {
     "amount": "5g",
@@ -135391,7 +135394,8 @@
     "percent": 24.0
    },
    "sat_fat": {
-    "amount": "0g"
+    "amount": "0g",
+    "percent": 0.0
    },
    "serving_size": "1 each",
    "sodium": {
@@ -135423,7 +135427,8 @@
    "calories": 340,
    "calories_from_fat": 18,
    "cholesterol": {
-    "amount": "0mg"
+    "amount": "0mg",
+    "percent": 0.0
    },
    "dietary_fiber": {
     "amount": "5g",
@@ -135438,7 +135443,8 @@
     "percent": 24.0
    },
    "sat_fat": {
-    "amount": "0g"
+    "amount": "0g",
+    "percent": 0.0
    },
    "serving_size": "1 each",
    "sodium": {
@@ -135470,7 +135476,8 @@
    "calories": 320,
    "calories_from_fat": 23,
    "cholesterol": {
-    "amount": "0mg"
+    "amount": "0mg",
+    "percent": 0.0
    },
    "dietary_fiber": {
     "amount": "8g",
@@ -135485,7 +135492,8 @@
     "percent": 24.0
    },
    "sat_fat": {
-    "amount": "0g"
+    "amount": "0g",
+    "percent": 0.0
    },
    "serving_size": "1 each",
    "sodium": {
@@ -190284,6 +190292,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "0d070e26b63472b2dcd76e2f4f6d74fbabcaa6e587b663ea0b317683513cf71f",
+ "sha256": "4fa68d0abc9cd6ae550c7310febb508d9602ce46208982f14b30a5e3d9d42c66",
  "table": "recipes"
 }

@@ -2010,20 +2010,9 @@
        ]
       },
       {
-       "allergens": [
-        "Milk",
-        "Peanuts",
-        "Soybeans",
-        "Tree Nuts",
-        "Wheat"
-       ],
-       "calories": 94,
+       "allergens": [],
        "name": "Wampanoag Cranberries, Walnut and Squash",
-       "portion": "4 oz",
-       "recipeId": 300917,
-       "tags": [
-        "vegetarian"
-       ]
+       "tags": []
       }
      ],
      "name": "Featured Special Bar"
