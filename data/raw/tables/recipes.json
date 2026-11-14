@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-12T17:20:07+00:00",
+ "fetchedAt": "2026-11-14T00:44:44+00:00",
  "rows": [
   {
    "allergens": [
@@ -51532,39 +51532,38 @@
   },
   {
    "allergens": [],
-   "calories": 138,
-   "calories_from_fat": 2,
+   "calories": 34,
+   "calories_from_fat": 1,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.5g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
    "id": 163046,
    "information": "Bas in the Hindi language means \"aroma\" and Mati means full. Hence Basmati rice is full of aroma.",
    "ingredients": "Water, Basmati Rice (White basmati rice.)",
    "name": "Basmati Rice",
    "protein": {
-    "amount": "2.7g",
-    "percent": 5.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "1.9mg"
+    "amount": "0.5mg"
    },
    "sugars": {
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "30.2g",
-    "percent": 11.0
+    "amount": "7.6g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "0.2g"
+    "amount": "0.1g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -81272,41 +81271,41 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 72,
-   "calories_from_fat": 18,
+   "calories": 18,
+   "calories_from_fat": 5,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "4g",
-    "percent": 14.0
+    "amount": "1g",
+    "percent": 4.0
    },
    "id": 255116,
    "information": null,
    "ingredients": "Makhni Dal (Water, Urad Dal (Black Lentils), Tomato Paste (Tomatoes, Citric Acid), Onions, Red Kidney Beans, Canola Oil, Salt, Ginger, Garlic, Spices. PRODUCED IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK , EGGS)",
    "name": "Makhni Dal",
    "protein": {
-    "amount": "4g",
-    "percent": 8.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "319.4mg",
-    "percent": 14.0
+    "amount": "79.9mg",
+    "percent": 3.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "0.2g"
    },
    "total_carb": {
-    "amount": "9.6g",
-    "percent": 3.0
+    "amount": "2.4g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2g",
-    "percent": 3.0
+    "amount": "0.5g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -135064,42 +135063,42 @@
   },
   {
    "allergens": [],
-   "calories": 3996,
-   "calories_from_fat": 382,
+   "calories": 175,
+   "calories_from_fat": 97,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "87.9g",
-    "percent": 314.0
+    "amount": "2.5g",
+    "percent": 9.0
    },
    "id": 301105,
    "information": null,
-   "ingredients": "Red Bliss Potatoes, Green Kale (Kale), Beets, Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Water, White Clover Honey (Honey), Hot Smoked Paprika (Paprika And Silicon Dioxide), Ground Cumin (Ground Cumin), Garlic (Garlic), Cornstarch (Corn Starch), Kosher Salt, Kosher Salt",
+   "ingredients": "Red Bliss Potatoes, Beets, Green Kale (Kale), Onions (Onions), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Water, White Clover Honey (Honey), Hot Smoked Paprika (Paprika And Silicon Dioxide), Ground Cumin (Ground Cumin), Garlic (Garlic), Cornstarch (Corn Starch), Kosher Salt, Kosher Salt",
    "name": "Harvard Beets and Kale Hash",
    "protein": {
-    "amount": "101g",
-    "percent": 198.0
+    "amount": "2.4g",
+    "percent": 5.0
    },
    "sat_fat": {
-    "amount": "4.1g",
-    "percent": 19.0
+    "amount": "0.8g",
+    "percent": 4.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "668.5mg",
-    "percent": 29.0
+    "amount": "42.2mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "47.5g"
+    "amount": "4.5g"
    },
    "total_carb": {
-    "amount": "847.8g",
-    "percent": 308.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "42.3g",
-    "percent": 54.0
+    "amount": "10.7g",
+    "percent": 14.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -135158,22 +135157,22 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 304,
+   "calories": 285,
    "calories_from_fat": 145,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.7g",
-    "percent": 6.0
+    "amount": "1.4g",
+    "percent": 5.0
    },
    "id": 301107,
    "information": null,
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Apricot Preserves (Apricots, High Fructose Corn Syrup, Corn Syrup, Fruit Pectin, Citric Acid), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Apricot Preserves (Apricots, High Fructose Corn Syrup, Corn Syrup, Fruit Pectin, Citric Acid), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Kosher Salt, Ground Black Pepper",
    "name": "Cajun Teriyaki Apriocot Glazed Tofu",
    "protein": {
-    "amount": "12.8g",
-    "percent": 25.0
+    "amount": "10.5g",
+    "percent": 21.0
    },
    "sat_fat": {
     "amount": "1.4g",
@@ -135181,15 +135180,15 @@
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "2798.4mg",
-    "percent": 122.0
+    "amount": "752.2mg",
+    "percent": 33.0
    },
    "sugars": {
-    "amount": "21.9g"
+    "amount": "21.3g"
    },
    "total_carb": {
-    "amount": "30.6g",
-    "percent": 11.0
+    "amount": "27.9g",
+    "percent": 10.0
    },
    "total_fat": {
     "amount": "16g",
@@ -135198,8 +135197,8 @@
    "trans_fat": {
     "amount": "0g"
    },
-   "vegan": false,
-   "vegetarian": false
+   "vegan": true,
+   "vegetarian": true
   },
   {
    "allergens": [
@@ -135319,6 +135318,202 @@
    "total_carb": null,
    "total_fat": null,
    "trans_fat": null,
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Eggs",
+    "Wheat"
+   ],
+   "calories": 330,
+   "calories_from_fat": 9,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "4g",
+    "percent": 14.0
+   },
+   "id": 301113,
+   "information": null,
+   "ingredients": "Plain Bagel (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Contains Less Than 2% Of Each Of The Following: Salt, Degerminated Yellow Corn Meal, Inactivated Dry Yeast, Ascorbic Acid, Enzymes, Yeast, Sesame Seeds. MAY CONTAIN EGGS)",
+   "name": "Plain Bagel",
+   "protein": {
+    "amount": "12g",
+    "percent": 24.0
+   },
+   "sat_fat": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "670mg",
+    "percent": 29.0
+   },
+   "sugars": {
+    "amount": "6g"
+   },
+   "total_carb": {
+    "amount": "69g",
+    "percent": 25.0
+   },
+   "total_fat": {
+    "amount": "1g",
+    "percent": 1.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Eggs",
+    "Wheat"
+   ],
+   "calories": 330,
+   "calories_from_fat": 18,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "5g",
+    "percent": 18.0
+   },
+   "id": 301114,
+   "information": null,
+   "ingredients": "Everything Bagel (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Everything Blend (Sesame Seeds, Poppy Seeds, Dehydrated Onion, Salt, And Dehydrated Garlic), Contains Less Than 2% Of Each Of The Following: Salt, Degerminated Yellow Corn Meal, Inactivated Dry Yeast, Ascorbic Acid, Enzymes, Gum Acacia, Yeast.MAY CONTAIN EGGS)",
+   "name": "Everything Bagel",
+   "protein": {
+    "amount": "12g",
+    "percent": 24.0
+   },
+   "sat_fat": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "760mg",
+    "percent": 33.0
+   },
+   "sugars": {
+    "amount": "6g"
+   },
+   "total_carb": {
+    "amount": "68g",
+    "percent": 25.0
+   },
+   "total_fat": {
+    "amount": "2g",
+    "percent": 3.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Eggs",
+    "Wheat"
+   ],
+   "calories": 340,
+   "calories_from_fat": 18,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "5g",
+    "percent": 18.0
+   },
+   "id": 301115,
+   "information": null,
+   "ingredients": "Sesame Bagel (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Sesame Seeds, Contains Less Than 2% Of Each Of The Following: Salt, Degerminated Yellow Corn Meal, Inactivated Dry Yeast, Ascorbic Acid, Enzymes, Gum Acacia, Yeast.MAY CONTAIN EGG.)",
+   "name": "Sesame Bagel",
+   "protein": {
+    "amount": "12g",
+    "percent": 24.0
+   },
+   "sat_fat": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "660mg",
+    "percent": 29.0
+   },
+   "sugars": {
+    "amount": "6g"
+   },
+   "total_carb": {
+    "amount": "68g",
+    "percent": 25.0
+   },
+   "total_fat": {
+    "amount": "2g",
+    "percent": 3.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
+   "vegan": false,
+   "vegetarian": true
+  },
+  {
+   "allergens": [
+    "Eggs",
+    "Wheat"
+   ],
+   "calories": 320,
+   "calories_from_fat": 23,
+   "cholesterol": {
+    "amount": "0mg",
+    "percent": 0.0
+   },
+   "dietary_fiber": {
+    "amount": "8g",
+    "percent": 29.0
+   },
+   "id": 301116,
+   "information": null,
+   "ingredients": "Whole Grain Bagel (Water, Whole Wheat Flour, Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Grain Blend (Rolled Wheat Flakes, Corn Grits, Sunflower Seeds, Flaxseeds, Millet, Rye Flakes, Rolled Oats, Barley Flakes, Buckwheat, Sorghum, Amaranth, Quinoa, Molasses Powder, Dried Honey, Whole Grain Spelt Flour, Rye Flour, Rye Sour (Rye Flour, Water, Starter Cultures, Lactic Acid, Tricalcium Phosphate), Canola Oil, Salt), Sugar, Contains Less Than 2% Of Each Of The Following: Salt, Vital Wheat Gluten, Degerminated Yellow Corn Meal, Yeast, Inactivated Dry Yeast, Ascorbic Acid, Enzymes, Molasses, Sesame Seeds. MAY CONTAIN EGGS)",
+   "name": "Wholegrain Bagel",
+   "protein": {
+    "amount": "12g",
+    "percent": 24.0
+   },
+   "sat_fat": {
+    "amount": "0g",
+    "percent": 0.0
+   },
+   "serving_size": "1 each",
+   "sodium": {
+    "amount": "700mg",
+    "percent": 30.0
+   },
+   "sugars": {
+    "amount": "6g"
+   },
+   "total_carb": {
+    "amount": "64g",
+    "percent": 23.0
+   },
+   "total_fat": {
+    "amount": "2.5g",
+    "percent": 3.0
+   },
+   "trans_fat": {
+    "amount": "0g"
+   },
    "vegan": false,
    "vegetarian": true
   },
@@ -177406,43 +177601,43 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 272,
-   "calories_from_fat": 135,
+   "calories": 256,
+   "calories_from_fat": 125,
    "cholesterol": {
     "amount": "89.8mg",
     "percent": 30.0
    },
    "dietary_fiber": {
     "amount": "0.4g",
-    "percent": 2.0
+    "percent": 1.0
    },
    "id": 700270,
    "information": null,
-   "ingredients": "Shaved Steak (Sliced Beef), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Bosc Pears, Pure Toasted Sesame Oil (Sesame oil), Light Brown Sugar (Brown Sugar), Scallions (Fresh Scallions), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Red Pepper Paste (Red Pepper Seasoning (Red Pepper Powder, Water, Salt, Garlic, Onion), Corn Syrup, Water, Wheat FLour, Wheat Rice, Salt, Grain Alcohol, Rice Powder, Soybean Powder, Monosodium L-Glutamate, Seed Malt Contains: Soybeans, Wheat and Alcohol), Garlic (Garlic), Baking Soda (Sodium Bicarbonate, Sodium Silicoaluminate (Anti-Caking Agent).), Whole Hulled Sesame Seeds (Sesame Seeds)",
+   "ingredients": "Shaved Steak (Sliced Beef), Bosc Pears, Light Brown Sugar (Brown Sugar), Pure Toasted Sesame Oil (Sesame oil), Scallions (Fresh Scallions), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Red Pepper Paste (Red Pepper Seasoning (Red Pepper Powder, Water, Salt, Garlic, Onion), Corn Syrup, Water, Wheat FLour, Wheat Rice, Salt, Grain Alcohol, Rice Powder, Soybean Powder, Monosodium L-Glutamate, Seed Malt Contains: Soybeans, Wheat and Alcohol), Garlic (Garlic), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Baking Soda (Sodium Bicarbonate, Sodium Silicoaluminate (Anti-Caking Agent).), Whole Hulled Sesame Seeds (Sesame Seeds)",
    "name": "Beef Bulgogi",
    "protein": {
-    "amount": "27.2g",
-    "percent": 53.0
+    "amount": "26.5g",
+    "percent": 52.0
    },
    "sat_fat": {
-    "amount": "5g",
-    "percent": 23.0
+    "amount": "4.9g",
+    "percent": 22.0
    },
    "serving_size": "4 oz",
    "sodium": {
-    "amount": "801.2mg",
-    "percent": 35.0
+    "amount": "195.9mg",
+    "percent": 9.0
    },
    "sugars": {
-    "amount": "2.3g"
+    "amount": "2.1g"
    },
    "total_carb": {
-    "amount": "5.4g",
+    "amount": "4.5g",
     "percent": 2.0
    },
    "total_fat": {
-    "amount": "15g",
-    "percent": 19.0
+    "amount": "13.9g",
+    "percent": 18.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -190097,6 +190292,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "b100331db599e6d0002959fed9dff3416286558d8ca98e7899cb7b76049bc0e2",
+ "sha256": "4fa68d0abc9cd6ae550c7310febb508d9602ce46208982f14b30a5e3d9d42c66",
  "table": "recipes"
 }

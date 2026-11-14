@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T21:09:24+00:00",
+ "generatedAt": "2026-11-14T00:46:11+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -3515,18 +3515,18 @@
    "name": "Basmati Rice",
    "note": "Bas in the Hindi language means \"aroma\" and Mati means full. Hence Basmati rice is full of aroma.",
    "nutrition": {
-    "calories": 138,
+    "calories": 34,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.5,
-    "protein_g": 2.7,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 1.9,
+    "dietary_fiber_g": 0.1,
+    "protein_g": 0.7,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 0.5,
     "sugars_g": 0.0,
-    "total_carb_g": 30.2,
-    "total_fat_g": 0.2,
+    "total_carb_g": 7.6,
+    "total_fat_g": 0.1,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -7001,18 +7001,18 @@
    "name": "Makhni Dal",
    "note": null,
    "nutrition": {
-    "calories": 72,
+    "calories": 18,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 4.0,
-    "protein_g": 4.0,
+    "dietary_fiber_g": 1.0,
+    "protein_g": 1.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 319.4,
-    "sugars_g": 0.8,
-    "total_carb_g": 9.6,
-    "total_fat_g": 2.0,
+    "sodium_mg": 79.9,
+    "sugars_g": 0.2,
+    "total_carb_g": 2.4,
+    "total_fat_g": 0.5,
     "trans_fat_g": 0.0
    },
-   "portion": "4 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -12547,24 +12547,24 @@
    "allergens": [
     "Soybeans"
    ],
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Apricot Preserves (Apricots, High Fructose Corn Syrup, Corn Syrup, Fruit Pectin, Citric Acid), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Kosher Salt, Ground Black Pepper",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Apricot Preserves (Apricots, High Fructose Corn Syrup, Corn Syrup, Fruit Pectin, Citric Acid), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley), Cajun Seasoning (Paprika, Onion, Garlic, Thyme, Salt, Oregano, Cumin, Sugar, Cayenne), Old Bay Seasoning (Celery Salt (salt, celery Seed), Spices (including Red Pepper And Black Pepper) & Paprika.), Soy Sauce (Water, Soybeans, Salt, Sugar Corn Starch Contains Less Than 2% Of potassium Chloride , Lactic Acid , Potassium Sorbate Added As A preservative. Contains: Soybeans), Kosher Salt, Ground Black Pepper",
    "name": "Cajun Teriyaki Apriocot Glazed Tofu",
    "note": null,
    "nutrition": {
-    "calories": 304,
+    "calories": 285,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.7,
-    "protein_g": 12.8,
+    "dietary_fiber_g": 1.4,
+    "protein_g": 10.5,
     "sat_fat_g": 1.4,
-    "sodium_mg": 2798.4,
-    "sugars_g": 21.9,
-    "total_carb_g": 30.6,
+    "sodium_mg": 752.2,
+    "sugars_g": 21.3,
+    "total_carb_g": 27.9,
     "total_fat_g": 16.0,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
-   "vegan": false,
-   "vegetarian": false
+   "vegan": true,
+   "vegetarian": true
   },
   "301111": {
    "allergens": [
