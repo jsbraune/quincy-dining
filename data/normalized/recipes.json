@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T23:42:37+00:00",
+ "generatedAt": "2026-11-15T16:03:23+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -5324,17 +5324,17 @@
    "name": "Blueberries",
    "note": null,
    "nutrition": {
-    "calories": 32,
+    "calories": 81,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 2.5,
+    "dietary_fiber_g": 6.3,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 1.7,
-    "total_carb_g": 7.9,
-    "total_fat_g": 0.1,
+    "sodium_mg": 4.3,
+    "total_carb_g": 19.6,
+    "total_fat_g": 0.2,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "5 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -6199,18 +6199,18 @@
    "name": "Apple Cider",
    "note": null,
    "nutrition": {
-    "calories": 104,
+    "calories": 91,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.5,
+    "dietary_fiber_g": 0.4,
     "protein_g": 0.2,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 9.1,
-    "sugars_g": 21.8,
-    "total_carb_g": 25.6,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 7.9,
+    "sugars_g": 19.1,
+    "total_carb_g": 22.4,
     "total_fat_g": 0.3,
     "trans_fat_g": 0.0
    },
-   "portion": "8 fl. oz",
+   "portion": "7 fl. oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -10696,23 +10696,22 @@
   },
   "300960": {
    "allergens": [
-    "Milk",
     "Soybeans",
     "Wheat"
    ],
-   "ingredients": "Chicken Thigh Meat (Uncooked, Boneless, Skinless Diced Chicken Thigh Meat (Containing up to 15% of a Solution Of Water and Sea Salt.), Orange Chicken Sauce (Sugar, Water, High Fructose Corn Syrup, Soy Sauce (Water, Soybeans, Salt, Wheat Flour, Sodium Benzoate), Orange Juice Concentrate, Modified Food Starch, Contains Less Than 2% Of Citric Acid, Salt, Sodium Citrate, Onion Powder, Sesame Oil, Spices, Sesame Seeds, Garlic Powder, Chili Peppers, Xanthan Gum, Natural Orange Flavor, Caramel Color, Cochineal, Beta-carotene, Soybean Oil, Rice Bran Oil, Canola Oil, Natural Flavors (Milk), Sodium Benzoate Added As A Preservative.), Cornstarch (Corn Starch), Whole Hulled Sesame Seeds (Sesame Seeds), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
+   "ingredients": "Chicken Thigh Meat (Uncooked, Boneless, Skinless Diced Chicken Thigh Meat (Containing up to 15% of a Solution Of Water and Sea Salt.), Orange Ginger Sauce (Sugar, Water, Vinegar, Soy Sauce (Water, Wheat, Soybeans, Salt & Sodium Benzoate), Ginger Puree (Ginger, Water, Citric Acid, Potassium Sorbate), Soybean Oil, Dried Orange Peel, Xanthan Gum, Spice, Sodium Benzoate as preservative.), Cornstarch (Corn Starch), Whole Hulled Sesame Seeds (Sesame Seeds), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Orange Chicken",
    "note": null,
    "nutrition": {
-    "calories": 494,
+    "calories": 503,
     "cholesterol_mg": 112.5,
     "dietary_fiber_g": 0.8,
     "protein_g": 24.6,
     "sat_fat_g": 4.0,
-    "sodium_mg": 724.5,
-    "sugars_g": 26.9,
-    "total_carb_g": 67.0,
-    "total_fat_g": 14.5,
+    "sodium_mg": 343.5,
+    "sugars_g": 22.7,
+    "total_carb_g": 63.6,
+    "total_fat_g": 18.3,
     "trans_fat_g": 0.0
    },
    "portion": "5 oz",

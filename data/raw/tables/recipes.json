@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-14T23:42:35+00:00",
+ "fetchedAt": "2026-11-15T16:03:17+00:00",
  "rows": [
   {
    "allergens": [
@@ -71318,14 +71318,14 @@
   },
   {
    "allergens": [],
-   "calories": 32,
-   "calories_from_fat": 1,
+   "calories": 81,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "6.3g",
+    "percent": 22.0
    },
    "id": 204010,
    "information": null,
@@ -71337,17 +71337,17 @@
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "5 oz",
    "sodium": {
-    "amount": "1.7mg"
+    "amount": "4.3mg"
    },
    "sugars": null,
    "total_carb": {
-    "amount": "7.9g",
-    "percent": 3.0
+    "amount": "19.6g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.1g"
+    "amount": "0.2g"
    },
    "trans_fat": {
     "amount": "0g"
@@ -77912,14 +77912,14 @@
   },
   {
    "allergens": [],
-   "calories": 104,
-   "calories_from_fat": 3,
+   "calories": 91,
+   "calories_from_fat": 2,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.5g",
-    "percent": 2.0
+    "amount": "0.4g",
+    "percent": 1.0
    },
    "id": 232004,
    "information": null,
@@ -77929,18 +77929,18 @@
     "amount": "0.2g"
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
-   "serving_size": "8 fl. oz",
+   "serving_size": "7 fl. oz",
    "sodium": {
-    "amount": "9.1mg"
+    "amount": "7.9mg"
    },
    "sugars": {
-    "amount": "21.8g"
+    "amount": "19.1g"
    },
    "total_carb": {
-    "amount": "25.6g",
-    "percent": 9.0
+    "amount": "22.4g",
+    "percent": 8.0
    },
    "total_fat": {
     "amount": "0.3g"
@@ -131074,12 +131074,11 @@
   },
   {
    "allergens": [
-    "Milk",
     "Soybeans",
     "Wheat"
    ],
-   "calories": 494,
-   "calories_from_fat": 131,
+   "calories": 503,
+   "calories_from_fat": 165,
    "cholesterol": {
     "amount": "112.5mg",
     "percent": 38.0
@@ -131090,7 +131089,7 @@
    },
    "id": 300960,
    "information": null,
-   "ingredients": "Chicken Thigh Meat (Uncooked, Boneless, Skinless Diced Chicken Thigh Meat (Containing up to 15% of a Solution Of Water and Sea Salt.), Orange Chicken Sauce (Sugar, Water, High Fructose Corn Syrup, Soy Sauce (Water, Soybeans, Salt, Wheat Flour, Sodium Benzoate), Orange Juice Concentrate, Modified Food Starch, Contains Less Than 2% Of Citric Acid, Salt, Sodium Citrate, Onion Powder, Sesame Oil, Spices, Sesame Seeds, Garlic Powder, Chili Peppers, Xanthan Gum, Natural Orange Flavor, Caramel Color, Cochineal, Beta-carotene, Soybean Oil, Rice Bran Oil, Canola Oil, Natural Flavors (Milk), Sodium Benzoate Added As A Preservative.), Cornstarch (Corn Starch), Whole Hulled Sesame Seeds (Sesame Seeds), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
+   "ingredients": "Chicken Thigh Meat (Uncooked, Boneless, Skinless Diced Chicken Thigh Meat (Containing up to 15% of a Solution Of Water and Sea Salt.), Orange Ginger Sauce (Sugar, Water, Vinegar, Soy Sauce (Water, Wheat, Soybeans, Salt & Sodium Benzoate), Ginger Puree (Ginger, Water, Citric Acid, Potassium Sorbate), Soybean Oil, Dried Orange Peel, Xanthan Gum, Spice, Sodium Benzoate as preservative.), Cornstarch (Corn Starch), Whole Hulled Sesame Seeds (Sesame Seeds), Canola Oil (Trans Fat Free) (Canola Oil, Tbhq Added To Protect Flavor, And Dimethylpolysiloxane, An Anti Foaming Agent Added.)",
    "name": "Orange Chicken",
    "protein": {
     "amount": "24.6g",
@@ -131102,19 +131101,19 @@
    },
    "serving_size": "5 oz",
    "sodium": {
-    "amount": "724.5mg",
-    "percent": 31.0
+    "amount": "343.5mg",
+    "percent": 15.0
    },
    "sugars": {
-    "amount": "26.9g"
+    "amount": "22.7g"
    },
    "total_carb": {
-    "amount": "67g",
-    "percent": 24.0
+    "amount": "63.6g",
+    "percent": 23.0
    },
    "total_fat": {
-    "amount": "14.5g",
-    "percent": 19.0
+    "amount": "18.3g",
+    "percent": 23.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -190284,6 +190283,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "0d070e26b63472b2dcd76e2f4f6d74fbabcaa6e587b663ea0b317683513cf71f",
+ "sha256": "7174903121349c4d9c3e267fe4ff73de76a8f486d482bccec9901cd8f00f40bb",
  "table": "recipes"
 }

@@ -324,9 +324,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1720,11 +1720,10 @@
       },
       {
        "allergens": [
-        "Milk",
         "Soybeans",
         "Wheat"
        ],
-       "calories": 494,
+       "calories": 503,
        "name": "Orange Chicken",
        "portion": "5 oz",
        "recipeId": 300960,

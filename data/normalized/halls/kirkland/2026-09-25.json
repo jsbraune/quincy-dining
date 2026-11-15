@@ -1446,11 +1446,10 @@
       },
       {
        "allergens": [
-        "Milk",
         "Soybeans",
         "Wheat"
        ],
-       "calories": 494,
+       "calories": 503,
        "name": "Orange Chicken",
        "portion": "5 oz",
        "recipeId": 300960,
