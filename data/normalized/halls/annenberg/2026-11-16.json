@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "fetchedAt": "2026-11-10T16:46:03+00:00",
+ "fetchedAt": "2026-11-16T23:36:54+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 177,
@@ -13,9 +13,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 80,
+       "calories": 160,
        "name": "Chicken Sausage",
-       "portion": "1 each",
+       "portion": "2 each",
        "recipeId": 89020,
        "tags": []
       }
@@ -319,9 +319,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 49,
+       "calories": 81,
        "name": "Blueberries",
-       "portion": "3 oz",
+       "portion": "5 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1653,10 +1653,10 @@
      "items": [
       {
        "allergens": [],
-       "calories": 134,
-       "name": "Sticky Rice",
-       "portion": "4 oz",
-       "recipeId": 163032,
+       "calories": 48,
+       "name": "Jasmine Rice",
+       "portion": "1 oz",
+       "recipeId": 255669,
        "tags": [
         "vegan",
         "vegetarian"

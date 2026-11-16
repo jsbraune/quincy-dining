@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "fetchedAt": "2026-11-10T16:46:03+00:00",
+ "fetchedAt": "2026-11-16T23:36:54+00:00",
  "itemCount": 177,
  "locationNum": "30",
  "meals": [
@@ -545,7 +545,7 @@
     {
      "items": [
       {
-       "name": "Sticky Rice"
+       "name": "Jasmine Rice"
       }
      ],
      "name": "Starch And Potatoes"
@@ -744,6 +744,6 @@
    ]
   }
  ],
- "mealsSha256": "649539cbb055c26a85ec78d67a9c1b32a07ed31d328a35ed4c6a64da5181ae44",
+ "mealsSha256": "62c4e197a968ccd77f978c59aac8fd2096fd4a74f291caf3842b3d10e36abffb",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
