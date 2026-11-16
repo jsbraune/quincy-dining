@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "fetchedAt": "2026-11-15T16:03:24+00:00",
+ "fetchedAt": "2026-11-16T19:14:18+00:00",
  "hall": "bagmeals",
  "hallName": "Bag Meals",
  "itemCount": 155,
@@ -710,16 +710,8 @@
     {
      "items": [
       {
-       "allergens": [
-        "Eggs",
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 880,
-       "name": "Bacon Egg & Cheese Croissant",
-       "portion": "1 each",
-       "recipeId": 64020,
+       "allergens": [],
+       "name": "Bacon and Cheese Croissant",
        "tags": []
       },
       {
@@ -798,13 +790,8 @@
      "items": [
       {
        "allergens": [],
-       "calories": 175,
-       "name": "Harvard Beets and Kale  Hash",
-       "portion": "4 oz",
-       "recipeId": 301105,
-       "tags": [
-        "vegetarian"
-       ]
+       "name": "Harvard Beets, Kale  Hash",
+       "tags": []
       },
       {
        "allergens": [],
@@ -1028,9 +1015,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",

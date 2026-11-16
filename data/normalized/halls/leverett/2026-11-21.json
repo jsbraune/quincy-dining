@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "fetchedAt": "2026-11-15T16:03:24+00:00",
+ "fetchedAt": "2026-11-16T19:14:18+00:00",
  "hall": "leverett",
  "hallName": "Leverett House",
  "itemCount": 172,
@@ -256,9 +256,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -547,14 +547,6 @@
     },
     {
      "items": [
-      {
-       "allergens": [],
-       "calories": 242,
-       "name": "Bacon",
-       "portion": "2 each",
-       "recipeId": 89001,
-       "tags": []
-      },
       {
        "allergens": [],
        "calories": 39,
@@ -935,6 +927,11 @@
        "tags": []
       },
       {
+       "allergens": [],
+       "name": "Bacon and Cheese Croissant",
+       "tags": []
+      },
+      {
        "allergens": [
         "Eggs",
         "Soybeans",
@@ -1010,13 +1007,8 @@
      "items": [
       {
        "allergens": [],
-       "calories": 175,
-       "name": "Harvard Beets and Kale  Hash",
-       "portion": "4 oz",
-       "recipeId": 301105,
-       "tags": [
-        "vegetarian"
-       ]
+       "name": "Harvard Beets, Kale  Hash",
+       "tags": []
       },
       {
        "allergens": [],
@@ -1240,9 +1232,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",

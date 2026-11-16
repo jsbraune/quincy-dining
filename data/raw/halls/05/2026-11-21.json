@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "fetchedAt": "2026-11-15T16:03:24+00:00",
+ "fetchedAt": "2026-11-16T19:14:18+00:00",
  "itemCount": 173,
  "locationNum": "05",
  "meals": [
@@ -288,7 +288,7 @@
     {
      "items": [
       {
-       "name": "Bacon Egg & Cheese Croissant"
+       "name": "Bacon and Cheese Croissant"
       },
       {
        "name": "Breakfast Sandwich Sausage & Egg"
@@ -321,7 +321,7 @@
     {
      "items": [
       {
-       "name": "Harvard Beets and Kale  Hash"
+       "name": "Harvard Beets, Kale  Hash"
       },
       {
        "name": "Steamed Broccoli, Carrots and Cauliflower"
@@ -727,6 +727,6 @@
    ]
   }
  ],
- "mealsSha256": "419e2e26bb97872cdbc307e0dbb87b4f986d386d457a5f1ff61bacdcc3bb3a48",
+ "mealsSha256": "6c59cf210b7bb1c27f08a7a4dd3ceb650d515bcf2e5e4472635bce1e47561bc7",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
