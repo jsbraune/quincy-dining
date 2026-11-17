@@ -311,9 +311,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 81,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "5 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -989,9 +989,9 @@
         "Soybeans",
         "Wheat"
        ],
-       "calories": 137,
+       "calories": 274,
        "name": "Sweet and Sour Chicken",
-       "portion": "2 oz",
+       "portion": "4 oz",
        "recipeId": 301089,
        "tags": []
       }
