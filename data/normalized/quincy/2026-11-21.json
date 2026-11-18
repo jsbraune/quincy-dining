@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "fetchedAt": "2026-11-15T16:03:17+00:00",
- "itemCount": 345,
+ "fetchedAt": "2026-11-18T17:46:17+00:00",
+ "itemCount": 346,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -1744,6 +1744,18 @@
         "vegan",
         "vegetarian"
        ]
+      },
+      {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 790,
+       "name": "Bacon and Cheese Croissant",
+       "portion": "1 each",
+       "recipeId": 301132,
+       "tags": []
       }
      ],
      "name": "Sand/ Deli"
@@ -1799,8 +1811,8 @@
      "items": [
       {
        "allergens": [],
-       "calories": 175,
-       "name": "Harvard Beets and Kale Hash",
+       "calories": 170,
+       "name": "Harvard Beets, Kale Hash",
        "portion": "4 oz",
        "recipeId": 301105,
        "tags": [

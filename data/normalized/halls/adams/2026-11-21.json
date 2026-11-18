@@ -872,8 +872,15 @@
     {
      "items": [
       {
-       "allergens": [],
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 790,
        "name": "Bacon and Cheese Croissant",
+       "portion": "1 each",
+       "recipeId": 301132,
        "tags": []
       },
       {
@@ -952,8 +959,13 @@
      "items": [
       {
        "allergens": [],
+       "calories": 170,
        "name": "Harvard Beets, Kale  Hash",
-       "tags": []
+       "portion": "4 oz",
+       "recipeId": 301105,
+       "tags": [
+        "vegetarian"
+       ]
       },
       {
        "allergens": [],
