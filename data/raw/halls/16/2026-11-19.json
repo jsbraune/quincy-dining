@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
- "fetchedAt": "2026-11-13T16:56:13+00:00",
- "itemCount": 180,
+ "fetchedAt": "2026-11-18T22:27:10+00:00",
+ "itemCount": 179,
  "locationNum": "16",
  "meals": [
   {
@@ -428,6 +428,14 @@
     {
      "items": [
       {
+       "name": "Roasted Seasonal Squash"
+      }
+     ],
+     "name": "Miscellaneous"
+    },
+    {
+     "items": [
+      {
        "name": "Chicken Noodle Soup"
       },
       {
@@ -528,10 +536,10 @@
     {
      "items": [
       {
-       "name": "Chicken Paprikash"
+       "name": "Citrus Glazed Salmon"
       },
       {
-       "name": "Kielbasa with Sauerkraut"
+       "name": "Roast Turkey Breast"
       }
      ],
      "name": "Entrees"
@@ -539,7 +547,10 @@
     {
      "items": [
       {
-       "name": "Vegan Sorghum Tahini Saute"
+       "name": "Steamed Fresh Green Beans"
+      },
+      {
+       "name": "Vegan Chicken Parmesan"
       }
      ],
      "name": "Veg,Vegan"
@@ -547,37 +558,10 @@
     {
      "items": [
       {
-       "name": "Potato Pierogie"
+       "name": "Mashed Potatoes"
       }
      ],
      "name": "Starch And Potatoes"
-    },
-    {
-     "items": [
-      {
-       "name": "Cider Roasted Beets"
-      },
-      {
-       "name": "Sauteed Cabbage with Dill & Juniper"
-      }
-     ],
-     "name": "Vegetables"
-    },
-    {
-     "items": [
-      {
-       "name": "Barley with Peas"
-      }
-     ],
-     "name": "Plant protein"
-    },
-    {
-     "items": [
-      {
-       "name": "Chicken Paprikash"
-      }
-     ],
-     "name": "Halal"
     },
     {
      "items": [
@@ -664,6 +648,14 @@
     {
      "items": [
       {
+       "name": "Herbed Gravy"
+      }
+     ],
+     "name": "Sides"
+    },
+    {
+     "items": [
+      {
        "name": "Brown Rice"
       }
      ],
@@ -738,6 +730,6 @@
    ]
   }
  ],
- "mealsSha256": "64bf5409b9792a368295c06ff92a1a723a018e1b5654b9685103641b4bcf0938",
+ "mealsSha256": "1cb69d0bc47e9ae7e69983fb6b3d3e099aa6b611fa78cdb8a4f084499444b2ac",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T17:47:57+00:00",
+ "generatedAt": "2026-11-18T22:28:43+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -1000,6 +1000,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "8 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "113002": {
+   "allergens": [],
+   "ingredients": "Turkey Breast (Turkey Breast with Rib Meat and First Wing Portion attached. Containing up to 18% solution of water, salt, sodium Phosphate, , Brown Sugar, Lemon Juice Powder. (Corn Syrup Solids, Lemon Juice Solids, Lemon Oil, Dextrose, Flavoring.)",
+   "name": "Roast Turkey Breast",
+   "note": null,
+   "nutrition": {
+    "calories": 132,
+    "cholesterol_mg": 71.1,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 24.4,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 406.5,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.0,
+    "total_fat_g": 0.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "3 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -4106,6 +4127,27 @@
     "sugars_g": 3.3,
     "total_carb_g": 21.0,
     "total_fat_g": 0.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "173009": {
+   "allergens": [],
+   "ingredients": "Local Winter Squash",
+   "name": "Roasted Seasonal Squash",
+   "note": "From Pioneer Valley Growers, Western, MA",
+   "nutrition": {
+    "calories": 42,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 3.2,
+    "protein_g": 1.0,
+    "sat_fat_g": 0.1,
+    "sodium_mg": 1.1,
+    "sugars_g": 3.7,
+    "total_carb_g": 10.0,
+    "total_fat_g": 0.4,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -8825,6 +8867,29 @@
    "portion": "3 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "300428": {
+   "allergens": [
+    "Fish"
+   ],
+   "ingredients": "Salmon, Fine Granulated Sugar (Sugar), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Lemons (LEMONS), Orange Juice (Water, Orange Juice (Concentrated Orange Juice, Water, Natural Flavors< Citric Acid, Pectin, Acorbic Acid (Vitamin C), Stevia leaf Extract, Magnesium Phosphate, Beta Carotene (for color) Niacinamide (Vitamin B3) Thiamin Hydrochloride (Vitamin B1) Pyridoxine, Hydrochloride (Vitamin B6))), Red Grapefruit (Grapefruit), Oranges (Orange), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Italian Parsley (Italian Parsley), Fresh Thyme (Fresh Thyme), Kosher Salt (Salt), Tarragon, Ground White Pepper (White Peppercorns)",
+   "name": "Citrus Glazed Salmon",
+   "note": null,
+   "nutrition": {
+    "calories": 202,
+    "cholesterol_mg": 62.4,
+    "dietary_fiber_g": 0.4,
+    "protein_g": 22.7,
+    "sat_fat_g": 1.4,
+    "sodium_mg": 167.7,
+    "sugars_g": 5.2,
+    "total_carb_g": 6.4,
+    "total_fat_g": 9.3,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "300430": {
    "allergens": [

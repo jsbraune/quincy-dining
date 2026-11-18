@@ -1,9 +1,9 @@
 {
  "date": "2026-11-19",
- "fetchedAt": "2026-11-13T16:56:13+00:00",
+ "fetchedAt": "2026-11-18T22:27:10+00:00",
  "hall": "leverett",
  "hallName": "Leverett House",
- "itemCount": 180,
+ "itemCount": 179,
  "locationNum": "16",
  "meals": [
   {
@@ -1284,6 +1284,22 @@
     {
      "items": [
       {
+       "allergens": [],
+       "calories": 42,
+       "name": "Roasted Seasonal Squash",
+       "portion": "4 oz",
+       "recipeId": 173009,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      }
+     ],
+     "name": "Miscellaneous"
+    },
+    {
+     "items": [
+      {
        "allergens": [
         "Eggs",
         "Wheat"
@@ -1637,23 +1653,20 @@
      "items": [
       {
        "allergens": [
-        "Milk",
-        "Soybeans"
+        "Fish"
        ],
-       "calories": 201,
-       "name": "Chicken Paprikash",
-       "portion": "6 oz",
-       "recipeId": 300740,
+       "calories": 202,
+       "name": "Citrus Glazed Salmon",
+       "portion": "4 oz",
+       "recipeId": 300428,
        "tags": []
       },
       {
-       "allergens": [
-        "Milk"
-       ],
-       "calories": 399,
-       "name": "Kielbasa with Sauerkraut",
-       "portion": "4 oz",
-       "recipeId": 300526,
+       "allergens": [],
+       "calories": 132,
+       "name": "Roast Turkey Breast",
+       "portion": "3 oz",
+       "recipeId": 113002,
        "tags": []
       }
      ],
@@ -1662,13 +1675,26 @@
     {
      "items": [
       {
+       "allergens": [],
+       "calories": 35,
+       "name": "Steamed Fresh Green Beans",
+       "portion": "4 oz",
+       "recipeId": 171007,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
        "allergens": [
-        "Soybeans"
+        "Soybeans",
+        "Tree Nuts",
+        "Wheat"
        ],
-       "calories": 163,
-       "name": "Vegan Sorghum Tahini Saute",
-       "portion": "8 oz",
-       "recipeId": 566410,
+       "calories": 391,
+       "name": "Vegan Chicken Parmesan",
+       "portion": "4 oz",
+       "recipeId": 300813,
        "tags": [
         "vegan",
         "vegetarian"
@@ -1681,84 +1707,18 @@
      "items": [
       {
        "allergens": [
-        "Eggs",
-        "Milk",
-        "Soybeans",
-        "Wheat"
+        "Milk"
        ],
-       "calories": 318,
-       "name": "Potato Pierogie",
-       "portion": "6 oz",
-       "recipeId": 300848,
+       "calories": 129,
+       "name": "Mashed Potatoes",
+       "portion": "4 oz",
+       "recipeId": 161006,
        "tags": [
         "vegetarian"
        ]
       }
      ],
      "name": "Starch And Potatoes"
-    },
-    {
-     "items": [
-      {
-       "allergens": [],
-       "calories": 106,
-       "name": "Cider Roasted Beets",
-       "portion": "4 oz",
-       "recipeId": 300530,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      },
-      {
-       "allergens": [],
-       "calories": 68,
-       "name": "Sauteed Cabbage with Dill & Juniper",
-       "portion": "4 oz",
-       "recipeId": 300531,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      }
-     ],
-     "name": "Vegetables"
-    },
-    {
-     "items": [
-      {
-       "allergens": [
-        "Soybeans"
-       ],
-       "calories": 110,
-       "name": "Barley with Peas",
-       "portion": "4 oz",
-       "recipeId": 300529,
-       "tags": [
-        "vegan",
-        "vegetarian"
-       ]
-      }
-     ],
-     "name": "Plant protein"
-    },
-    {
-     "items": [
-      {
-       "allergens": [
-        "Milk",
-        "Soybeans"
-       ],
-       "calories": 201,
-       "name": "Chicken Paprikash",
-       "portion": "6 oz",
-       "recipeId": 300740,
-       "tags": [
-        "halal"
-       ]
-      }
-     ],
-     "name": "Halal"
     },
     {
      "items": [
@@ -2059,6 +2019,21 @@
       }
      ],
      "name": "From the Grill"
+    },
+    {
+     "items": [
+      {
+       "allergens": [
+        "Wheat"
+       ],
+       "calories": 134,
+       "name": "Herbed Gravy",
+       "portion": "4 fl. oz",
+       "recipeId": 300677,
+       "tags": []
+      }
+     ],
+     "name": "Sides"
     },
     {
      "items": [
