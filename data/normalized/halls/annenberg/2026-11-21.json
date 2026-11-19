@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "fetchedAt": "2026-11-16T19:14:18+00:00",
+ "fetchedAt": "2026-11-19T17:57:14+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
  "itemCount": 177,
@@ -405,9 +405,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -452,9 +452,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 83,
+       "calories": 63,
        "name": "Low  Fat Chobani Plain Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -464,9 +464,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -544,6 +544,19 @@
     {
      "items": [
       {
+       "allergens": [],
+       "calories": 185,
+       "name": "Portuguese Kale and Sausage Soup",
+       "portion": "8 oz",
+       "recipeId": 10056,
+       "tags": []
+      }
+     ],
+     "name": "Miscellaneous"
+    },
+    {
+     "items": [
+      {
        "allergens": [
         "Eggs",
         "Milk",
@@ -612,6 +625,18 @@
     {
      "items": [
       {
+       "allergens": [
+        "Milk",
+        "Soybeans",
+        "Wheat"
+       ],
+       "calories": 790,
+       "name": "Bacon and Cheese Croissant",
+       "portion": "1 each",
+       "recipeId": 301132,
+       "tags": []
+      },
+      {
        "allergens": [],
        "calories": 130,
        "name": "Black Bean Soup",
@@ -621,18 +646,6 @@
         "vegan",
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [
-        "Eggs",
-        "Milk",
-        "Wheat"
-       ],
-       "calories": 170,
-       "name": "Lasagna Soup with Chicken Sausage",
-       "portion": "8 oz",
-       "recipeId": 10066,
-       "tags": []
       }
      ],
      "name": "Today's Soup"
@@ -1013,18 +1026,6 @@
     },
     {
      "items": [
-      {
-       "allergens": [
-        "Milk",
-        "Soybeans",
-        "Wheat"
-       ],
-       "calories": 790,
-       "name": "Bacon and Cheese Croissant",
-       "portion": "1 each",
-       "recipeId": 301132,
-       "tags": []
-      },
       {
        "allergens": [
         "Eggs",
@@ -2196,9 +2197,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -2231,9 +2232,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 83,
+       "calories": 63,
        "name": "Low  Fat Chobani Plain Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -2278,9 +2279,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",

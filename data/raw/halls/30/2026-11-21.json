@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "fetchedAt": "2026-11-16T19:14:18+00:00",
+ "fetchedAt": "2026-11-19T17:57:14+00:00",
  "itemCount": 177,
  "locationNum": "30",
  "meals": [
@@ -184,6 +184,14 @@
     {
      "items": [
       {
+       "name": "Portuguese Kale and Sausage Soup"
+      }
+     ],
+     "name": "Miscellaneous"
+    },
+    {
+     "items": [
+      {
        "name": "Assorted Bagels"
       },
       {
@@ -201,10 +209,10 @@
     {
      "items": [
       {
-       "name": "Black Bean Soup"
+       "name": "Bacon and Cheese Croissant"
       },
       {
-       "name": "Lasagna Soup with Chicken Sausage"
+       "name": "Black Bean Soup"
       }
      ],
      "name": "Today's Soup"
@@ -317,9 +325,6 @@
     },
     {
      "items": [
-      {
-       "name": "Bacon and Cheese Croissant"
-      },
       {
        "name": "Breakfast Sandwich Sausage & Egg"
       },
@@ -754,6 +759,6 @@
    ]
   }
  ],
- "mealsSha256": "a95e1ed2685a7966665f600a37ae6f9e3194edb736b543ecac0534178544a870",
+ "mealsSha256": "f975bf083815df1369840be69575e4888733fce32c2ffb4a4c10a78ed6b0e22c",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
