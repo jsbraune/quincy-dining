@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T01:42:28+00:00",
+ "generatedAt": "2026-11-20T17:31:54+00:00",
  "recipes": {
   "10011": {
    "allergens": [],
@@ -426,6 +426,32 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "10049": {
+   "allergens": [
+    "Crustacean Shellfish",
+    "Fish",
+    "Milk",
+    "Wheat"
+   ],
+   "ingredients": "Lobster Bisque (Chicken Stock (Water, Chicken Bones, Onions, Celery, Carrots, Sea Salt, Garlic, Parsley, White Pepper, Thyme, Bay Leaves, Marjoram), Light Cream (Milk, cream), Butter (Cream, Salt), Wheat Flour, Water, Lobster Stock Lobster, Salt, cod), Tomato Puree (Tomatoes, Salt, Citric Acid), Sugar, Lobster Meat (Lobster, Water, Salt), Sherry Wine (Contains Sulfites), Rice Starch, Lobster Meat Lobster Meat, salt), Sea Salt, Clam Concentrate (Concentrated Clam Broth, Salt), White Pepper)",
+   "name": "Lobster Bisque",
+   "note": null,
+   "nutrition": {
+    "calories": 241,
+    "cholesterol_mg": 101.8,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 5.6,
+    "sat_fat_g": 10.2,
+    "sodium_mg": 833.1,
+    "sugars_g": 5.6,
+    "total_carb_g": 16.7,
+    "total_fat_g": 16.7,
+    "trans_fat_g": 0.5
+   },
+   "portion": "8 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -1043,6 +1069,27 @@
    "vegan": false,
    "vegetarian": false
   },
+  "113004": {
+   "allergens": [],
+   "ingredients": "Turkey (Turkey, Turkey Broth, Salt, Spices), Water",
+   "name": "Whole Cooked Turkey",
+   "note": null,
+   "nutrition": {
+    "calories": 243,
+    "cholesterol_mg": 115.4,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 32.8,
+    "sat_fat_g": 3.0,
+    "sodium_mg": 388.8,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.0,
+    "total_fat_g": 9.7,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": false
+  },
   "113503": {
    "allergens": [],
    "ingredients": "Turkey Breast (Turkey Breast Meat, Water, Salt, Potato Starch, Turbinado Sugar, Rice Starch, Carrageenan (from seaweed), Baking Soda, Cultured Celery Powder, Cherry Powder, Sea Salt.)",
@@ -1172,6 +1219,29 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 portn",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "120541": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": "Boursin Cheese w/ Herbs (Pasteurized Cultured Milk and Cream, Garlic, Salt, White Pepper, Parsley, Chives.), Imported Gouda Cheese, Sharp Yellow Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes, Annatto Color.), Sharp White Cheddar Cheese, Raw Milk Blue Cheese (Blue Cheese, Pasteurized Milk Cheese Cultures, salt Enzymes, Penicillium Roquefort, Powder Cellouse Natamycn Mold Inhibitator)",
+   "name": "Local New England Cheese Display",
+   "note": "* Great Hill Blue - Massachusetts * Sharp Monterey Jack - Vermont * Herb Goat Cheese - Vermont * Brie - Vermont * Coupole - Vermont * Bijou - Vermont Served with assorted Crackers, Baguettes, Berries & Grapes",
+   "nutrition": {
+    "calories": 91,
+    "cholesterol_mg": 19.5,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 5.0,
+    "sat_fat_g": 3.7,
+    "sodium_mg": 141.3,
+    "sugars_g": 0.2,
+    "total_carb_g": 0.4,
+    "total_fat_g": 7.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -2122,6 +2192,31 @@
    "vegan": true,
    "vegetarian": true
   },
+  "142081": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans"
+   ],
+   "ingredients": "Sweet Potatoes (Sweet Potatoes), Evaporated Milk (Milk, Dipotassium Phosphate, Carrageenan and Vitamin D3.), Swt Potato Souffle Top (Cornflake Crumbs (Milled Corn, Sugar, Malt Flavor, contains 2% or less of salt. BHT added to packaging for freshness. Iron, Vitamin C (Sodium Ascorbate. Ascorbic Acid), Niacinamide, Vitamin B6 (Pyridoxine Hydrochloride), Vitamin A Palmitate, Vitamin B2 (Riboflavin), Vitamin B1 (Thiamin Hydrochloride), Folic Acid, Vitamin D3, Vitamin B12.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Light Brown Sugar (Brown Sugar)), Unsalted Butter (Cream (Milk), Natural Flavoring.), Sugar (Sugar), Cage Free Eggs (Whole Eggs, Citric Acid, 0.15% Water Added As Carrier For Citric Acid. Citric Acid Added to Preserve Color.)",
+   "name": "Sweet Potato Souffle",
+   "note": null,
+   "nutrition": {
+    "calories": 220,
+    "cholesterol_mg": 57.7,
+    "dietary_fiber_g": 1.9,
+    "protein_g": 3.4,
+    "sat_fat_g": 6.4,
+    "sodium_mg": 105.4,
+    "sugars_g": 14.3,
+    "total_carb_g": 29.4,
+    "total_fat_g": 10.4,
+    "trans_fat_g": 0.3
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "142083": {
    "allergens": [
     "Soybeans",
@@ -2244,18 +2339,18 @@
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 45,
-    "cholesterol_mg": 5.0,
+    "calories": 60,
+    "cholesterol_mg": 6.7,
     "dietary_fiber_g": 0.0,
-    "protein_g": 8.0,
+    "protein_g": 10.7,
     "sat_fat_g": 0.0,
-    "sodium_mg": 30.0,
-    "sugars_g": 2.0,
-    "total_carb_g": 3.0,
+    "sodium_mg": 40.0,
+    "sugars_g": 2.7,
+    "total_carb_g": 4.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -2316,18 +2411,18 @@
    "name": "Low Fat Chobani Plain Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 63,
-    "cholesterol_mg": 10.4,
+    "calories": 83,
+    "cholesterol_mg": 13.9,
     "dietary_fiber_g": 0.0,
-    "protein_g": 7.8,
-    "sat_fat_g": 1.3,
-    "sodium_mg": 31.3,
-    "sugars_g": 3.1,
-    "total_carb_g": 3.7,
-    "total_fat_g": 1.8,
+    "protein_g": 10.4,
+    "sat_fat_g": 1.7,
+    "sodium_mg": 41.7,
+    "sugars_g": 4.2,
+    "total_carb_g": 4.9,
+    "total_fat_g": 2.4,
     "trans_fat_g": 0.0
    },
-   "portion": "3 oz",
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -2732,6 +2827,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "150171": {
+   "allergens": [],
+   "ingredients": "Red Beet Wedge Rustic (Red Beets), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Ground Black Pepper, Kosher Salt",
+   "name": "Roasted Beets",
+   "note": null,
+   "nutrition": {
+    "calories": 67,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 1.2,
+    "protein_g": 0.9,
+    "sat_fat_g": 0.7,
+    "sodium_mg": 180.4,
+    "sugars_g": 3.8,
+    "total_carb_g": 5.6,
+    "total_fat_g": 5.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -3157,7 +3273,7 @@
    "allergens": [
     "Milk"
    ],
-   "ingredients": "Yukon Gold Potatoes (Yukon Gold Potatoes), Homogenized Milk (Milk, Vitamin D3.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Kosher Salt (Salt), Ground White Pepper (White Peppercorns), Parsley (Parsley)",
+   "ingredients": "Yukon Gold Potatoes (Yukon Gold Potatoes), Homogenized Milk (Milk, Vitamin D3.), Unsalted Butter (Cream (Milk), Natural Flavoring.), Kosher Salt, Ground White Pepper (White Peppercorns), Parsley (Parsley)",
    "name": "Mashed Potatoes",
    "note": "Potatoes are grown in all 50 states and 105 countries worldwide. Ours come from the Maine Potato Growers Co-op.",
    "nutrition": {
@@ -4154,7 +4270,7 @@
   },
   "173009": {
    "allergens": [],
-   "ingredients": "Local Winter Squash",
+   "ingredients": "Local Winter Squash (Winter Squash)",
    "name": "Roasted Seasonal Squash",
    "note": "From Pioneer Valley Growers, Western, MA",
    "nutrition": {
@@ -5188,6 +5304,33 @@
    "vegan": true,
    "vegetarian": true
   },
+  "185017": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Pecan Pie (Corn Syrup, Enriched Bleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Eggs, Sugar, Pecans, Vegetable Oil (Palm, Soybean and/or Cottonseed Oils), Margarine [Palm Oil, Water, Soybean Oil, Salt, Mono- And Diglycerides, Artificial Flavor, Annatto (Color), Calcium Disodium Edta (Preservative), Vitamin A Palmitate]. Contains 2% or Less of Each Of The Following: Water, High Fructose Corn Syrup, Salt, Skim Milk, Natural and Artificial Flavor, Baking Powder (Sodium Acid Pyrophosphate, Baking Soda, Corn Starch, Monocalcium Phosphate), Modified Corn Starch, Carrageenan, Mono- And Diglycerides, Polysorbate 60, Sodium Stearoyl Lactylate, Soy Flour.)",
+   "name": "Pecan Pie",
+   "note": null,
+   "nutrition": {
+    "calories": 496,
+    "cholesterol_mg": 76.3,
+    "dietary_fiber_g": 1.9,
+    "protein_g": 4.8,
+    "sat_fat_g": 8.6,
+    "sodium_mg": 495.6,
+    "sugars_g": 23.8,
+    "total_carb_g": 65.8,
+    "total_fat_g": 23.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
+   "vegan": false,
+   "vegetarian": true
+  },
   "185025": {
    "allergens": [
     "Eggs",
@@ -5231,6 +5374,31 @@
     "sugars_g": 20.0,
     "total_carb_g": 44.0,
     "total_fat_g": 14.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 slice",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "185039": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Pumpkin Pie (Pumpkin, Whole And Nonfat Milk, Corn Syrup, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Sugar , Eggs, Palm And Soybean Oils, Contains 2% Or Less Of: Modified Corn Starch, Salt, Cinnamon, Ginger, Nutmeg, Beet Juice (COLOR), Carrageenan , Sodium Tripolyphosphate, Dextrin, Locust Bean Gum, Xanthan Gum Guar Gum, )",
+   "name": "Pumpkin Pie",
+   "note": null,
+   "nutrition": {
+    "calories": 331,
+    "cholesterol_mg": 48.1,
+    "protein_g": 5.3,
+    "sat_fat_g": 5.3,
+    "sodium_mg": 416.9,
+    "sugars_g": 33.1,
+    "total_carb_g": 51.3,
+    "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
    "portion": "1 slice",
@@ -6076,6 +6244,27 @@
     "trans_fat_g": 0.0
    },
    "portion": "1 fl. oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "205004": {
+   "allergens": [],
+   "ingredients": "Whole Cranberry Sauce (Cranberries, High Fructose Corn Syrup, Corn Syrup, Water)",
+   "name": "Cranberry Sauce",
+   "note": null,
+   "nutrition": {
+    "calories": 45,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.3,
+    "protein_g": 0.1,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 8.6,
+    "sugars_g": 11.2,
+    "total_carb_g": 11.5,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -8106,6 +8295,18 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300198": {
+   "allergens": [
+    "Milk"
+   ],
+   "ingredients": null,
+   "name": "GREAT HILL Blue Cheese",
+   "note": null,
+   "nutrition": {},
+   "portion": "1 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
   "300212": {
    "allergens": [],
    "ingredients": "Pork Shoulder Meat (Boneless Pork Cushion Meat. All Natural. No Artificial Ingredients, Minimally Processed.), Spanish Onions (Onions), Garlic (Garlic), Oranges (Orange), Jalapeno Peppers, Lemons (LEMONS), Lime Juice (LIme Juice from Concentrate (Water, Concentrated Lime Juice), and Less Than 2% of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative). Contains Sulfites.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Oregano (Oregano), Kosher Salt, Whole Bay Leaves (Bay Leaves)",
@@ -8891,7 +9092,7 @@
    "allergens": [
     "Fish"
    ],
-   "ingredients": "Salmon, Fine Granulated Sugar (Sugar), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Lemons (LEMONS), Orange Juice (Water, Orange Juice (Concentrated Orange Juice, Water, Natural Flavors< Citric Acid, Pectin, Acorbic Acid (Vitamin C), Stevia leaf Extract, Magnesium Phosphate, Beta Carotene (for color) Niacinamide (Vitamin B3) Thiamin Hydrochloride (Vitamin B1) Pyridoxine, Hydrochloride (Vitamin B6))), Red Grapefruit (Grapefruit), Oranges (Orange), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Italian Parsley (Italian Parsley), Fresh Thyme (Fresh Thyme), Kosher Salt (Salt), Tarragon, Ground White Pepper (White Peppercorns)",
+   "ingredients": "Salmon, Fine Granulated Sugar (Sugar), Lemon Juice (Water, Lemon Juice Concentrate and Less Than 2% of: Lemon Oil, Sodium Benzoate and Sodium Metabisulfite (Preservatives). Contains Sulfites.), Lemons (LEMONS), Orange Juice (Water, Orange Juice (Concentrated Orange Juice, Water, Natural Flavors< Citric Acid, Pectin, Acorbic Acid (Vitamin C), Stevia leaf Extract, Magnesium Phosphate, Beta Carotene (for color) Niacinamide (Vitamin B3) Thiamin Hydrochloride (Vitamin B1) Pyridoxine, Hydrochloride (Vitamin B6))), Red Grapefruit (Grapefruit), Oranges (Orange), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Italian Parsley (Italian Parsley), Fresh Thyme (Fresh Thyme), Kosher Salt, Tarragon, Ground White Pepper (White Peppercorns)",
    "name": "Citrus Glazed Salmon",
    "note": null,
    "nutrition": {
@@ -8900,9 +9101,9 @@
     "dietary_fiber_g": 0.4,
     "protein_g": 22.7,
     "sat_fat_g": 1.4,
-    "sodium_mg": 167.7,
-    "sugars_g": 5.2,
-    "total_carb_g": 6.4,
+    "sodium_mg": 167.8,
+    "sugars_g": 5.1,
+    "total_carb_g": 6.3,
     "total_fat_g": 9.3,
     "trans_fat_g": 0.0
    },
@@ -10033,6 +10234,33 @@
    "vegan": true,
    "vegetarian": true
   },
+  "300616": {
+   "allergens": [
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Butternut Squash (Butternut Squash), Kidney Beans (Prepared Kidney Beans, Water, Sugar, Dextrose, Salt, Calcium Chloride (Firming Agent) , and Disodium EDTA (To Promote Color Retention).), Green Beans (Green Beans), Hominy Grits (White Hominy Corn Grits, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folicacid.), Onions (Onions), Sunflower Seeds (Sunflower Kernels, Raw. PACKED IN A FACILITY THAT PROCESSES PRODUCTS THAT CONTAIN PEANUTS, TREE NUTS (ALMONDS, BRAZIL NUTS, CASHEWS, COCONUTS, HAZELNUTS, MACADAMIA NUTS, PECANS, PINE NUTS, PISTACHIOS, WALNUTS), MILK, SESAME, SOY AND WHEAT.), Garlic (Garlic), Ground Black Pepper, Kosher Salt, Whole Bay Leaves (Bay Leaves)",
+   "name": "New England Fall Stew",
+   "note": null,
+   "nutrition": {
+    "calories": 276,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 7.0,
+    "protein_g": 8.9,
+    "sat_fat_g": 0.7,
+    "sodium_mg": 921.8,
+    "sugars_g": 5.8,
+    "total_carb_g": 46.6,
+    "total_fat_g": 7.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "8 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "300619": {
    "allergens": [
     "Eggs",
@@ -10132,18 +10360,18 @@
    "name": "Herbed Gravy",
    "note": null,
    "nutrition": {
-    "calories": 134,
-    "cholesterol_mg": 0.5,
-    "dietary_fiber_g": 0.2,
-    "protein_g": 0.9,
-    "sat_fat_g": 0.8,
-    "sodium_mg": 672.3,
-    "sugars_g": 1.0,
-    "total_carb_g": 8.4,
-    "total_fat_g": 10.2,
+    "calories": 67,
+    "cholesterol_mg": 0.2,
+    "dietary_fiber_g": 0.1,
+    "protein_g": 0.5,
+    "sat_fat_g": 0.4,
+    "sodium_mg": 336.1,
+    "sugars_g": 0.5,
+    "total_carb_g": 4.2,
+    "total_fat_g": 5.1,
     "trans_fat_g": 0.0
    },
-   "portion": "4 fl. oz",
+   "portion": "2 fl. oz",
    "vegan": false,
    "vegetarian": false
   },
@@ -10632,6 +10860,31 @@
     "trans_fat_g": 0.0
    },
    "portion": "4 fl. oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "300853": {
+   "allergens": [
+    "Milk",
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Steamed Fresh Green Beans (Green Beans (Green Beans), Kosher Salt, Ground Black Pepper), Cream of Mushroom Soup (Water, Mushrooms, Vegetable Oil (Corn, Canola And/or Soybean), Cream, Modified Cornstarch, Wheat Flour, Salt, Modified Milk Ingredients, Soy Protein Isolate, Monosodium Glutamate, Tomato Paste, Flavour, Yeast Extract, Dehydrated Garlic.), Whole Milk (Milk, Vitamin D3.), Onion Pieces Fried Crispy (Onions, Palm Oil, Wheat Flour, Dextrose & Salt), Ground Black Pepper, Kosher Salt",
+   "name": "Green Bean Casserole",
+   "note": null,
+   "nutrition": {
+    "calories": 167,
+    "cholesterol_mg": 3.0,
+    "dietary_fiber_g": 4.1,
+    "protein_g": 4.5,
+    "sat_fat_g": 3.8,
+    "sodium_mg": 492.8,
+    "sugars_g": 6.8,
+    "total_carb_g": 19.3,
+    "total_fat_g": 6.9,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": true
   },
@@ -11357,6 +11610,60 @@
    "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
+  },
+  "300949": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Peanuts",
+    "Soybeans",
+    "Tree Nuts",
+    "Wheat"
+   ],
+   "ingredients": "Sweet Potatoes (Sweet Potatoes), Tri Color Quinoa (White Quinoa, Red Quinoa, Black Quinoa, Water, Salt), Red Beet Wedge Rustic (Red Beets), Butternut Squash (Butternut Squash), Goat Cheese (Pasteurized Cultured Goats' Milk (Cultures Contain Milk), Salt, Enzymes.), Cranberry Raisin Vinaigrette (Soybean Oil, Water, Sweetened Dried Cranberries (Cranberries, Sugar, Sunflower Oil), , Balsamic Vinegar, Red Wine Vinegar, Distilled Vinegar And Less That 2% Of Cranberry Juice Concentrate, Mustard Seed, Salt, White Wine, Pectin, Citric Acid, Tartaric Acid, Sugar, Spice, Garlic, Shallots, Wheat, Soybeans And Xanthan Gum.), Pumpkin Seed Pepitas (Raw Shelled Pumpkin Seeds MANUFACTURED ON EQUIPMENT WITH MILK, EGGS, SOY, WHEAT, PEANUTS, TREE NUTS)",
+   "name": "New England Harvest Salad",
+   "note": null,
+   "nutrition": {
+    "calories": 112,
+    "cholesterol_mg": 2.5,
+    "dietary_fiber_g": 2.7,
+    "protein_g": 3.4,
+    "sat_fat_g": 0.9,
+    "sodium_mg": 82.1,
+    "sugars_g": 4.6,
+    "total_carb_g": 16.7,
+    "total_fat_g": 3.8,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": true
+  },
+  "300950": {
+   "allergens": [
+    "Eggs",
+    "Milk",
+    "Soybeans",
+    "Tree Nuts"
+   ],
+   "ingredients": "Pure Bacon Bits (Bacon Cured with (Water, Salt, Sugar, Sodium Phosphates, Sodium Nitrite.) May Contain Smoke Flavor, Sodium Ascorbate, Sugar, Brown Sugar.), Dried Cranberries Craisins (Cranberries, Sugar, Sunflower Oil), Arugula (Arugula), Raw Milk Blue Cheese (Blue Cheese, Pasteurized Milk Cheese Cultures, salt Enzymes, Penicillium Roquefort, Powder Cellouse Natamycn Mold Inhibitator), Local Apples, Ranch Dressing (Buttermilk (Cultured Pasteurized Low Fat Milk, Fat Free Milk, Modified Corn Starch, Salt, Mono and Diglycerides, Carrageenan, Locust Bean Gum Sodium Citrate), Soybean Oil, Water Seasoning Mix (Salt Maltodextrin, Onion Powder, Garlic Powder, Dextrose, Dehydrated Parsley, Disodium Inosinate, Disodium Guanylate, Spices, Xanthan Gum, Autolyzed Yeast Extract, Buttermilk, Turmeric (Color) Egg yolk, Liquid Sugar (Sugar Water), Vinegar, Modified Food Starch, Salt Chives, Spices, Xanthan Gum, Potassium Sorbate (Preservative) Calcium Disodium EDTA to Protect Flavor.)",
+   "name": "Cape Cod Salad",
+   "note": null,
+   "nutrition": {
+    "calories": 227,
+    "cholesterol_mg": 34.1,
+    "dietary_fiber_g": 2.5,
+    "protein_g": 12.3,
+    "sat_fat_g": 4.9,
+    "sodium_mg": 1238.9,
+    "sugars_g": 20.7,
+    "total_carb_g": 24.5,
+    "total_fat_g": 12.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": false,
+   "vegetarian": true
   },
   "300957": {
    "allergens": [
@@ -13392,6 +13699,27 @@
    "vegan": true,
    "vegetarian": true
   },
+  "46001": {
+   "allergens": [],
+   "ingredients": "Caesar Salad Mix",
+   "name": "Romaine Lettuce",
+   "note": null,
+   "nutrition": {
+    "calories": 10,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 0.0,
+    "sat_fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.0,
+    "total_fat_g": 0.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
   "47046": {
    "allergens": [
     "Milk",
@@ -13648,22 +13976,22 @@
   },
   "501083": {
    "allergens": [],
-   "ingredients": "Sliced Red Onions (Red Onions), Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Water, Light Brown Sugar (Brown Sugar), Kosher Salt",
+   "ingredients": "Cider Vinegar (Distilled Vinegar (Diluted with water to 5% acidity), Water, Natural Flavor, Caramel Coloring.), Water, Red Onions (Red Onions), Light Brown Sugar (Brown Sugar), Kosher Salt",
    "name": "Pickled Red Onions",
    "note": null,
    "nutrition": {
-    "calories": 32,
+    "calories": 6,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 1.0,
-    "protein_g": 0.6,
+    "dietary_fiber_g": 0.1,
+    "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 286.1,
-    "sugars_g": 3.1,
-    "total_carb_g": 8.5,
-    "total_fat_g": 0.1,
+    "sodium_mg": 142.0,
+    "sugars_g": 0.5,
+    "total_carb_g": 1.9,
+    "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "2 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -13711,6 +14039,30 @@
    },
    "portion": "4 oz",
    "vegan": false,
+   "vegetarian": true
+  },
+  "502012": {
+   "allergens": [
+    "Soybeans",
+    "Wheat"
+   ],
+   "ingredients": "Herb Seasoned Stuffing (MADE FROM: Enriched Wheat Flour (Flour, Niacin, Reduced Iron , Thiamine Monotriate, Riboflavin, Folic Acid), Whole Wheat Flour, Salt, Sugar, Contains 2% or Less of : Yeast, Vegetable Oils (Canola and/or Sunflower and /or Palm), Molasses, Spices, Celery, Onion Powder, Calcium Propionate To Extend Freshness Rosemary Extract And Ascorbic Acid To Protect Flavor, Malted Barley Flour, Soy Lecithin .CONTAINS: WHEAT, SOY.), Celery (Celery), Onions (Onions), Cranberries, Vegetable Stock (Water, Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder)), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Kosher Salt, Ground Black Pepper, Poultry Seasoning (Spices Thyme, Sage, Marjoram, Rosemary, Black Pepper, and Nutmeg Oregano, Ginger, )",
+   "name": "Cranberry Stuffing",
+   "note": "Stuffing - is also called dressing if you are from the Southern US - is bread, vegetables, fruit and herbs baked in a stock to make it moist.",
+   "nutrition": {
+    "calories": 283,
+    "cholesterol_mg": 0.5,
+    "dietary_fiber_g": 2.6,
+    "protein_g": 6.1,
+    "sat_fat_g": 1.0,
+    "sodium_mg": 886.0,
+    "sugars_g": 5.9,
+    "total_carb_g": 43.7,
+    "total_fat_g": 9.5,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
    "vegetarian": true
   },
   "502043": {
@@ -13772,6 +14124,27 @@
     "sugars_g": 1.0,
     "total_carb_g": 21.8,
     "total_fat_g": 2.0,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
+   "vegan": true,
+   "vegetarian": true
+  },
+  "502090": {
+   "allergens": [],
+   "ingredients": "Turnips (Turnips), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.), Ground Black Pepper, Kosher Salt, Parsley (Parsley)",
+   "name": "Roasted Peppered Turnips",
+   "note": null,
+   "nutrition": {
+    "calories": 52,
+    "cholesterol_mg": 0.0,
+    "dietary_fiber_g": 2.4,
+    "protein_g": 0.9,
+    "sat_fat_g": 0.5,
+    "sodium_mg": 253.7,
+    "sugars_g": 3.2,
+    "total_carb_g": 6.1,
+    "total_fat_g": 3.2,
     "trans_fat_g": 0.0
    },
    "portion": "4 oz",
@@ -14892,18 +15265,18 @@
    "name": "Plain Soy Yogurt",
    "note": null,
    "nutrition": {
-    "calories": 18,
+    "calories": 73,
     "cholesterol_mg": 0.0,
-    "dietary_fiber_g": 0.3,
-    "protein_g": 1.2,
-    "sat_fat_g": 0.1,
-    "sodium_mg": 10.8,
-    "sugars_g": 0.8,
-    "total_carb_g": 1.7,
-    "total_fat_g": 0.7,
+    "dietary_fiber_g": 1.3,
+    "protein_g": 4.7,
+    "sat_fat_g": 0.3,
+    "sodium_mg": 43.4,
+    "sugars_g": 3.3,
+    "total_carb_g": 6.7,
+    "total_fat_g": 2.7,
     "trans_fat_g": 0.0
    },
-   "portion": "1 oz",
+   "portion": "4 oz",
    "vegan": true,
    "vegetarian": true
   },
@@ -15271,15 +15644,36 @@
     "dietary_fiber_g": 0.0,
     "protein_g": 0.0,
     "sat_fat_g": 0.0,
-    "sodium_mg": 0.0,
+    "sodium_mg": 0.1,
     "sugars_g": 0.0,
     "total_carb_g": 0.0,
     "total_fat_g": 0.0,
     "trans_fat_g": 0.0
    },
-   "portion": "1/2 oz",
+   "portion": "1 oz",
    "vegan": true,
    "vegetarian": true
+  },
+  "791575": {
+   "allergens": [],
+   "ingredients": "Pure Bacon Bits (Bacon Cured with (Water, Salt, Sugar, Sodium Phosphates, Sodium Nitrite.) May Contain Smoke Flavor, Sodium Ascorbate, Sugar, Brown Sugar.)",
+   "name": "Bacon Bits",
+   "note": null,
+   "nutrition": {
+    "calories": 122,
+    "cholesterol_mg": 40.5,
+    "dietary_fiber_g": 0.0,
+    "protein_g": 16.2,
+    "sat_fat_g": 4.1,
+    "sodium_mg": 2106.0,
+    "sugars_g": 0.0,
+    "total_carb_g": 0.0,
+    "total_fat_g": 12.2,
+    "trans_fat_g": 0.0
+   },
+   "portion": "2 oz",
+   "vegan": false,
+   "vegetarian": false
   },
   "791621": {
    "allergens": [
@@ -15312,6 +15706,27 @@
    "note": null,
    "nutrition": {},
    "portion": "1 each",
+   "vegan": false,
+   "vegetarian": false
+  },
+  "81004": {
+   "allergens": [],
+   "ingredients": "Ham (Cured With Water, Salt, Dextrose, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite.), Raisin Relish (Raisins (Raisins), Golden Raisins (Raisins, Sulfur Dioxide Added As A Preservative), Sliced Red Onions (Red Onions), Light Brown Sugar (Brown Sugar), Extra Virgin Olive Oil (100% Extra Virgin Olive Oil.))",
+   "name": "Glazed Ham with Raisin Relish",
+   "note": null,
+   "nutrition": {
+    "calories": 142,
+    "cholesterol_mg": 57.7,
+    "dietary_fiber_g": 0.3,
+    "protein_g": 17.5,
+    "sat_fat_g": 2.0,
+    "sodium_mg": 1194.0,
+    "sugars_g": 4.8,
+    "total_carb_g": 6.2,
+    "total_fat_g": 6.1,
+    "trans_fat_g": 0.0
+   },
+   "portion": "4 oz",
    "vegan": false,
    "vegetarian": false
   },
