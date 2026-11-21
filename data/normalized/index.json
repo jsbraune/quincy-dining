@@ -1,9 +1,10 @@
 {
  "closedDates": [
   "2026-08-26",
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
- "generatedAt": "2026-11-21T16:35:19+00:00",
+ "generatedAt": "2026-11-21T20:44:05+00:00",
  "location": "quincy",
  "locationId": 8,
  "recipeCount": 675,
