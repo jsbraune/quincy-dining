@@ -403,9 +403,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -461,9 +461,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 83,
+       "calories": 63,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -484,9 +484,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -2088,9 +2088,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 76,
+       "calories": 87,
        "name": "Plant Based Strawberry Banana Smoothie",
-       "portion": "7 fl. oz",
+       "portion": "8 fl. oz",
        "recipeId": 300610,
        "tags": [
         "vegan",
@@ -3551,9 +3551,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -3586,9 +3586,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 83,
+       "calories": 63,
        "name": "Low Fat Chobani Plain Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -3633,9 +3633,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -3675,9 +3675,9 @@
        "allergens": [
         "Wheat"
        ],
-       "calories": 96,
+       "calories": 192,
        "name": "Protein Plus Penne Pasta",
-       "portion": "2 oz",
+       "portion": "4 oz",
        "recipeId": 300968,
        "tags": [
         "vegan",

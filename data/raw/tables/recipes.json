@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-20T17:30:57+00:00",
+ "fetchedAt": "2026-11-22T00:08:02+00:00",
  "rows": [
   {
    "allergens": [
@@ -38131,10 +38131,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 60,
+   "calories": 45,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "6.7mg",
+    "amount": "5mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38145,22 +38145,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "10.7g",
-    "percent": 21.0
+    "amount": "8g",
+    "percent": 16.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "40mg",
-    "percent": 2.0
+    "amount": "30mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "2.7g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "3g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38648,11 +38648,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 83,
-   "calories_from_fat": 22,
+   "calories": 63,
+   "calories_from_fat": 16,
    "cholesterol": {
-    "amount": "13.9mg",
-    "percent": 5.0
+    "amount": "10.4mg",
+    "percent": 3.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38662,28 +38662,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "10.4g",
-    "percent": 20.0
+    "amount": "7.8g",
+    "percent": 15.0
    },
    "sat_fat": {
-    "amount": "1.7g",
-    "percent": 8.0
+    "amount": "1.3g",
+    "percent": 6.0
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "41.7mg",
-    "percent": 2.0
+    "amount": "31.3mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "4.2g"
+    "amount": "3.1g"
    },
    "total_carb": {
-    "amount": "4.9g",
-    "percent": 2.0
+    "amount": "3.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.4g",
-    "percent": 3.0
+    "amount": "1.8g",
+    "percent": 2.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -119412,40 +119412,40 @@
   },
   {
    "allergens": [],
-   "calories": 76,
-   "calories_from_fat": 4,
+   "calories": 87,
+   "calories_from_fat": 5,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.8g",
-    "percent": 6.0
+    "amount": "2.1g",
+    "percent": 7.0
    },
    "id": 300610,
    "information": null,
    "ingredients": "Original Oat Milk (Oatmilk (Filtered Water, Oats), Calcium Carbonate, Dipotassium Phosphate [stabilizer], Sea Salt, Gellan Gum, Vitamin A Palmitate, Vitamin D2, Riboflavin (Vitamin B2) and Vitamin B12), Sliced Strawberries (Strawberries.), Bananas, Nectar Syrup (100% Pure Organic Agave Nectar)",
    "name": "Plant Based Strawberry Banana Smoothie",
    "protein": {
-    "amount": "1g",
+    "amount": "1.1g",
     "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "7 fl. oz",
+   "serving_size": "8 fl. oz",
    "sodium": {
-    "amount": "28.6mg",
+    "amount": "32.7mg",
     "percent": 1.0
    },
    "sugars": {
-    "amount": "9.6g"
+    "amount": "11g"
    },
    "total_carb": {
-    "amount": "18.8g",
-    "percent": 7.0
+    "amount": "21.5g",
+    "percent": 8.0
    },
    "total_fat": {
-    "amount": "0.4g",
+    "amount": "0.5g",
     "percent": 1.0
    },
    "trans_fat": {
@@ -126806,8 +126806,8 @@
   },
   {
    "allergens": [],
-   "calories": 47,
-   "calories_from_fat": 49,
+   "calories": 70,
+   "calories_from_fat": 74,
    "cholesterol": {
     "amount": "0mg"
    },
@@ -126822,12 +126822,13 @@
     "amount": "0g"
    },
    "sat_fat": {
-    "amount": "0.4g",
-    "percent": 2.0
+    "amount": "0.6g",
+    "percent": 3.0
    },
-   "serving_size": "2 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "11.3mg"
+    "amount": "17mg",
+    "percent": 1.0
    },
    "sugars": {
     "amount": "0g"
@@ -126836,8 +126837,8 @@
     "amount": "0g"
    },
    "total_fat": {
-    "amount": "5.5g",
-    "percent": 7.0
+    "amount": "8.2g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -128975,42 +128976,42 @@
     "Soybeans",
     "Tree Nuts"
    ],
-   "calories": 528,
-   "calories_from_fat": 365,
+   "calories": 304,
+   "calories_from_fat": 197,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "7.6g",
-    "percent": 27.0
+    "amount": "5.1g",
+    "percent": 18.0
    },
    "id": 300884,
    "information": null,
-   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Chunked Local Butternut Squash, Onions (Onions), Green Beans (Green Beans), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Cracked Black Pepper (Black Pepper)",
+   "ingredients": "Nature Soy Tofu (Water, Soybeans, Less than 2% of Calcium Sulfate, Magnesium Chloride), Chunked Local Butternut Squash, Coconut Milk (Coconut Extract, Water, Guar Gum (Stabilizer), Sucrose Ester (Emulsifier), Sodium Carboxy Methyl Cellulose (Stabilizer), Xanthan Gum (Stabilizer).), Onions (Onions), Green Beans (Green Beans), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Minced Ginger (Ginger, Water, Sugar, Salt, Citric Acid.), Garlic (Garlic), Vegetable Soup Base (Saut\u00e9ed Vegetables (Celery, Carrots, Onions), Salt, Sugar, Soybean oil, Dehydrated Potatoes, Yeast Extract, Dehydrated Cabbage, Natural Flavoring, Beet Powder), Cracked Black Pepper (Black Pepper)",
    "name": "Ginataan Kalabasa at Sitaw",
    "protein": {
-    "amount": "17.8g",
-    "percent": 35.0
+    "amount": "11.4g",
+    "percent": 22.0
    },
    "sat_fat": {
-    "amount": "25.3g",
-    "percent": 115.0
+    "amount": "12.3g",
+    "percent": 56.0
    },
    "serving_size": "8 oz",
    "sodium": {
-    "amount": "151.6mg",
-    "percent": 7.0
+    "amount": "97.9mg",
+    "percent": 4.0
    },
    "sugars": {
-    "amount": "7.9g"
+    "amount": "5.3g"
    },
    "total_carb": {
-    "amount": "31g",
-    "percent": 11.0
+    "amount": "20g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "40.4g",
-    "percent": 52.0
+    "amount": "21.8g",
+    "percent": 28.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -131417,39 +131418,39 @@
    "allergens": [
     "Wheat"
    ],
-   "calories": 96,
-   "calories_from_fat": 5,
+   "calories": 192,
+   "calories_from_fat": 9,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.5g",
-    "percent": 9.0
+    "amount": "5.1g",
+    "percent": 18.0
    },
    "id": 300968,
    "information": null,
    "ingredients": "Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)",
    "name": "Protein Plus Penne Pasta",
    "protein": {
-    "amount": "5.1g",
-    "percent": 10.0
+    "amount": "10.1g",
+    "percent": 20.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "4 oz",
    "sodium": {
     "amount": "0mg"
    },
    "sugars": {
-    "amount": "1g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "19.2g",
-    "percent": 7.0
+    "amount": "38.5g",
+    "percent": 14.0
    },
    "total_fat": {
-    "amount": "0.5g",
+    "amount": "1g",
     "percent": 1.0
    },
    "trans_fat": {
@@ -159616,42 +159617,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 271,
-   "calories_from_fat": 142,
+   "calories": 136,
+   "calories_from_fat": 71,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "3.6g",
-    "percent": 13.0
+    "amount": "1.8g",
+    "percent": 6.0
    },
    "id": 506058,
    "information": null,
    "ingredients": "Seitan (Water, Vital Wheat Gluten, Soy Sauce (Water, Wheat, Soybeans, Salt), Whole Wheat Flour, Garlic, Sea Salt, Onion.), Onions (Onions), Suntan Peppers (Bell Peppers), Chunky Marinara Sauce (Vine-ripened Fresh Tomatoes, Blend Of ExtraVirgin Olive Oil And Sunflower Oil, Salt, Onions, Black Pepper, Basil, Oregano, Parsley, And Naturally Derived Citric Acid.), Canola & Olive Oil Blend (90% Canola Oil, 10% Extra Virgin Olive Oil), Parsley (Parsley)",
    "name": "Seitan Pepper Sizzle",
    "protein": {
-    "amount": "21.2g",
-    "percent": 41.0
+    "amount": "10.6g",
+    "percent": 21.0
    },
    "sat_fat": {
-    "amount": "1g",
-    "percent": 5.0
+    "amount": "0.5g",
+    "percent": 2.0
    },
-   "serving_size": "8 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "564.1mg",
-    "percent": 25.0
+    "amount": "282mg",
+    "percent": 12.0
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "1.7g"
    },
    "total_carb": {
-    "amount": "14.5g",
-    "percent": 5.0
+    "amount": "7.3g",
+    "percent": 3.0
    },
    "total_fat": {
-    "amount": "15.7g",
-    "percent": 20.0
+    "amount": "7.9g",
+    "percent": 10.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -176880,42 +176881,40 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 73,
-   "calories_from_fat": 24,
+   "calories": 18,
+   "calories_from_fat": 6,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "1.3g",
-    "percent": 5.0
+    "amount": "0.3g",
+    "percent": 1.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "4.7g",
-    "percent": 9.0
+    "amount": "1.2g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "0.3g",
-    "percent": 2.0
+    "amount": "0.1g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "43.4mg",
-    "percent": 2.0
+    "amount": "10.8mg"
    },
    "sugars": {
-    "amount": "3.3g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "6.7g",
-    "percent": 2.0
+    "amount": "1.7g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "2.7g",
-    "percent": 3.0
+    "amount": "0.7g",
+    "percent": 1.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -189199,43 +189198,43 @@
     "Soybeans",
     "Tree Nuts"
    ],
-   "calories": 119,
-   "calories_from_fat": 77,
+   "calories": 79,
+   "calories_from_fat": 51,
    "cholesterol": {
-    "amount": "5mg",
-    "percent": 2.0
+    "amount": "3.4mg",
+    "percent": 1.0
    },
    "dietary_fiber": {
-    "amount": "6.8g",
-    "percent": 24.0
+    "amount": "4.5g",
+    "percent": 16.0
    },
    "id": 799002,
    "information": null,
    "ingredients": "Green Leaf Lettuce, Ranch Dressing (Buttermilk (Cultured Pasteurized Low Fat Milk, Fat Free Milk, Modified Corn Starch, Salt, Mono and Diglycerides, Carrageenan, Locust Bean Gum Sodium Citrate), Soybean Oil, Water Seasoning Mix (Salt Maltodextrin, Onion Powder, Garlic Powder, Dextrose, Dehydrated Parsley, Disodium Inosinate, Disodium Guanylate, Spices, Xanthan Gum, Autolyzed Yeast Extract, Buttermilk, Turmeric (Color) Egg yolk, Liquid Sugar (Sugar Water), Vinegar, Modified Food Starch, Salt Chives, Spices, Xanthan Gum, Potassium Sorbate (Preservative) Calcium Disodium EDTA to Protect Flavor.), Red Cabbage, Grape Tomato, Shredded Carrots (Carrots), Cucumbers",
    "name": "Garden Salad",
    "protein": {
-    "amount": "2.6g",
-    "percent": 5.0
+    "amount": "1.7g",
+    "percent": 3.0
    },
    "sat_fat": {
-    "amount": "1.6g",
+    "amount": "1g",
+    "percent": 5.0
+   },
+   "serving_size": "4 oz",
+   "sodium": {
+    "amount": "160.9mg",
     "percent": 7.0
    },
-   "serving_size": "6 oz",
-   "sodium": {
-    "amount": "241.3mg",
-    "percent": 10.0
-   },
    "sugars": {
-    "amount": "5.3g"
+    "amount": "3.5g"
    },
    "total_carb": {
-    "amount": "10.2g",
-    "percent": 4.0
+    "amount": "6.8g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "8.5g",
-    "percent": 11.0
+    "amount": "5.7g",
+    "percent": 7.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -190330,6 +190329,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "3ee978f5117f77ccbef6f738e35f1dab1d2022719b3840164ca58bf6e5e3eab7",
+ "sha256": "4abdece58a23dc1fb6067b6bf2f4eb6afe02e9814d317789b9e473ad0c93d11d",
  "table": "recipes"
 }
