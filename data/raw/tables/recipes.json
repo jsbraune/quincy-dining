@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-22T20:54:33+00:00",
+ "fetchedAt": "2026-11-23T00:37:06+00:00",
  "rows": [
   {
    "allergens": [
@@ -22367,7 +22367,7 @@
    "name": "Chefs Choice",
    "protein": null,
    "sat_fat": null,
-   "serving_size": "4 each",
+   "serving_size": "1 each",
    "sodium": null,
    "sugars": null,
    "total_carb": null,
@@ -38131,10 +38131,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 45,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "5mg",
+    "amount": "6.7mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38145,22 +38145,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "8g",
-    "percent": 16.0
+    "amount": "10.7g",
+    "percent": 21.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "3 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "30mg",
-    "percent": 1.0
+    "amount": "40mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "2g"
+    "amount": "2.7g"
    },
    "total_carb": {
-    "amount": "3g",
+    "amount": "4g",
     "percent": 1.0
    },
    "total_fat": {
@@ -38648,11 +38648,11 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 63,
-   "calories_from_fat": 16,
+   "calories": 83,
+   "calories_from_fat": 22,
    "cholesterol": {
-    "amount": "10.4mg",
-    "percent": 3.0
+    "amount": "13.9mg",
+    "percent": 5.0
    },
    "dietary_fiber": {
     "amount": "0g"
@@ -38662,28 +38662,28 @@
    "ingredients": "Chobani Low Fat Plain Greek Yogurt (Cultured Low Fat Milk, Contains Live And Active Cultures: S. Thermophilus , L. Bulgaricus , L. Acidophilus, Bifidus , L. Casei And L. Rhamnosus)",
    "name": "Low Fat Chobani Plain Yogurt",
    "protein": {
-    "amount": "7.8g",
-    "percent": 15.0
+    "amount": "10.4g",
+    "percent": 20.0
    },
    "sat_fat": {
-    "amount": "1.3g",
-    "percent": 6.0
+    "amount": "1.7g",
+    "percent": 8.0
    },
-   "serving_size": "3 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "31.3mg",
-    "percent": 1.0
+    "amount": "41.7mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "3.1g"
+    "amount": "4.2g"
    },
    "total_carb": {
-    "amount": "3.7g",
-    "percent": 1.0
+    "amount": "4.9g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "1.8g",
-    "percent": 2.0
+    "amount": "2.4g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -119412,40 +119412,40 @@
   },
   {
    "allergens": [],
-   "calories": 87,
-   "calories_from_fat": 5,
+   "calories": 76,
+   "calories_from_fat": 4,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.1g",
-    "percent": 7.0
+    "amount": "1.8g",
+    "percent": 6.0
    },
    "id": 300610,
    "information": null,
    "ingredients": "Original Oat Milk (Oatmilk (Filtered Water, Oats), Calcium Carbonate, Dipotassium Phosphate [stabilizer], Sea Salt, Gellan Gum, Vitamin A Palmitate, Vitamin D2, Riboflavin (Vitamin B2) and Vitamin B12), Sliced Strawberries (Strawberries.), Bananas, Nectar Syrup (100% Pure Organic Agave Nectar)",
    "name": "Plant Based Strawberry Banana Smoothie",
    "protein": {
-    "amount": "1.1g",
+    "amount": "1g",
     "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "8 fl. oz",
+   "serving_size": "7 fl. oz",
    "sodium": {
-    "amount": "32.7mg",
+    "amount": "28.6mg",
     "percent": 1.0
    },
    "sugars": {
-    "amount": "11g"
+    "amount": "9.6g"
    },
    "total_carb": {
-    "amount": "21.5g",
-    "percent": 8.0
+    "amount": "18.8g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "0.5g",
+    "amount": "0.4g",
     "percent": 1.0
    },
    "trans_fat": {
@@ -131418,39 +131418,39 @@
    "allergens": [
     "Wheat"
    ],
-   "calories": 192,
-   "calories_from_fat": 9,
+   "calories": 96,
+   "calories_from_fat": 5,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "5.1g",
-    "percent": 18.0
+    "amount": "2.5g",
+    "percent": 9.0
    },
    "id": 300968,
    "information": null,
    "ingredients": "Protein Plus Penne (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)",
    "name": "Protein Plus Penne Pasta",
    "protein": {
-    "amount": "10.1g",
-    "percent": 20.0
+    "amount": "5.1g",
+    "percent": 10.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "2 oz",
    "sodium": {
     "amount": "0mg"
    },
    "sugars": {
-    "amount": "2g"
+    "amount": "1g"
    },
    "total_carb": {
-    "amount": "38.5g",
-    "percent": 14.0
+    "amount": "19.2g",
+    "percent": 7.0
    },
    "total_fat": {
-    "amount": "1g",
+    "amount": "0.5g",
     "percent": 1.0
    },
    "trans_fat": {
@@ -176881,40 +176881,42 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 18,
-   "calories_from_fat": 6,
+   "calories": 73,
+   "calories_from_fat": 24,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "1.3g",
+    "percent": 5.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "1.2g",
-    "percent": 2.0
+    "amount": "4.7g",
+    "percent": 9.0
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0.3g",
+    "percent": 2.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "10.8mg"
+    "amount": "43.4mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "3.3g"
    },
    "total_carb": {
-    "amount": "1.7g",
-    "percent": 1.0
+    "amount": "6.7g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "0.7g",
-    "percent": 1.0
+    "amount": "2.7g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -190329,6 +190331,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "4abdece58a23dc1fb6067b6bf2f4eb6afe02e9814d317789b9e473ad0c93d11d",
+ "sha256": "12f6357c06ea077c189680e97a359bd073be0735c06a77e587914334f726b4fa",
  "table": "recipes"
 }
