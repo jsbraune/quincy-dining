@@ -1,7 +1,7 @@
 {
  "date": "2026-11-29",
- "fetchedAt": "2026-11-20T17:30:57+00:00",
- "itemCount": 270,
+ "fetchedAt": "2026-11-23T20:50:57+00:00",
+ "itemCount": 271,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -201,9 +201,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -609,9 +609,9 @@
         "Milk",
         "Wheat"
        ],
-       "calories": 173,
+       "calories": 345,
        "name": "Protein Plus Penne with Creamy Tomato, Bacon, Basil Sauce",
-       "portion": "4 oz",
+       "portion": "8 oz",
        "recipeId": 300978,
        "tags": []
       }
@@ -680,6 +680,19 @@
        "name": "Chipotle Braised Pinto Beans",
        "portion": "4 oz",
        "recipeId": 300448,
+       "tags": [
+        "vegan",
+        "vegetarian"
+       ]
+      },
+      {
+       "allergens": [
+        "Soybeans"
+       ],
+       "calories": 238,
+       "name": "Quinoa and Vegetable Jambalaya",
+       "portion": "8 oz",
+       "recipeId": 141087,
        "tags": [
         "vegan",
         "vegetarian"
@@ -2611,9 +2624,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -2693,9 +2706,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",

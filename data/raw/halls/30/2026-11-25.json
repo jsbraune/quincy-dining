@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "fetchedAt": "2026-11-19T17:57:14+00:00",
+ "fetchedAt": "2026-11-23T20:51:03+00:00",
  "itemCount": 173,
  "locationNum": "30",
  "meals": [
@@ -282,10 +282,10 @@
        "name": "Cheddar Cheese"
       },
       {
-       "name": "Classic Cole Slaw"
+       "name": "Classic Chicken Salad"
       },
       {
-       "name": "Homemade Chicken Salad"
+       "name": "Classic Cole Slaw"
       },
       {
        "name": "Huds Boom Sauce"
@@ -722,6 +722,6 @@
    ]
   }
  ],
- "mealsSha256": "a1360d328e5ba67e4a92824aabd88c64adab8a9e220040f5edc8838777cd25a6",
+ "mealsSha256": "5ad86537b844fbd536cf5c9f11ecfc9ec276f774cf36e22287ed3f4c549f1d4e",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }

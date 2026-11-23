@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "fetchedAt": "2026-11-19T17:57:14+00:00",
+ "fetchedAt": "2026-11-23T20:51:03+00:00",
  "hall": "currier",
  "hallName": "Currier House",
  "itemCount": 161,
@@ -716,6 +716,11 @@
        ]
       },
       {
+       "allergens": [],
+       "name": "Classic Chicken Salad",
+       "tags": []
+      },
+      {
        "allergens": [
         "Eggs",
         "Soybeans"
@@ -727,14 +732,6 @@
        "tags": [
         "vegetarian"
        ]
-      },
-      {
-       "allergens": [],
-       "calories": 384,
-       "name": "Homemade Chicken Salad",
-       "portion": "4 oz",
-       "recipeId": 48501,
-       "tags": []
       },
       {
        "allergens": [
@@ -1897,9 +1894,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -1979,9 +1976,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
