@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T20:52:17+00:00",
+ "generatedAt": "2026-11-24T01:59:24+00:00",
  "halls": [
   {
    "closedDates": [],
@@ -581,7 +581,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-24"
+   ],
    "hall": "eliot",
    "locationNum": "80",
    "name": "Eliot House",
@@ -867,7 +869,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-24"
+   ],
    "hall": "leverett",
    "locationNum": "16",
    "name": "Leverett House",
