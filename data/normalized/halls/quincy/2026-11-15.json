@@ -13,9 +13,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -562,7 +562,7 @@
       {
        "allergens": [],
        "name": "Chefs Choice",
-       "portion": "4 each",
+       "portion": "1 each",
        "recipeId": 111000,
        "tags": [
         "vegan",
@@ -742,9 +742,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -1694,9 +1694,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -1729,9 +1729,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low  Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"

@@ -1,9 +1,9 @@
 {
  "date": "2026-11-25",
- "fetchedAt": "2026-11-23T20:51:03+00:00",
+ "fetchedAt": "2026-11-24T19:55:16+00:00",
  "hall": "annenberg",
  "hallName": "Annenberg Hall",
- "itemCount": 173,
+ "itemCount": 172,
  "locationNum": "30",
  "meals": [
   {
@@ -346,9 +346,9 @@
      "items": [
       {
        "allergens": [],
-       "calories": 32,
+       "calories": 49,
        "name": "Blueberries",
-       "portion": "2 oz",
+       "portion": "3 oz",
        "recipeId": 204010,
        "tags": [
         "vegan",
@@ -370,9 +370,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -417,9 +417,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low  Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"
@@ -1675,12 +1675,13 @@
      "items": [
       {
        "allergens": [
-        "Fish"
+        "Soybeans",
+        "Wheat"
        ],
-       "calories": 171,
-       "name": "Locally Caught Fresh Fish, Blackened with Cajun Seasonings",
+       "calories": 310,
+       "name": "Roast Beef",
        "portion": "4 oz",
-       "recipeId": 121057,
+       "recipeId": 71001,
        "tags": []
       },
       {
@@ -1783,18 +1784,6 @@
        "name": "Grilled Chicken Thigh",
        "portion": "4 oz",
        "recipeId": 111160,
-       "tags": [
-        "halal"
-       ]
-      },
-      {
-       "allergens": [
-        "Fish"
-       ],
-       "calories": 171,
-       "name": "Locally Caught Fresh Fish, Blackened with Cajun Seasonings",
-       "portion": "4 oz",
-       "recipeId": 121057,
        "tags": [
         "halal"
        ]
@@ -2077,9 +2066,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 45,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "4 oz",
+       "portion": "3 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -2112,9 +2101,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 63,
+       "calories": 83,
        "name": "Low  Fat Chobani Plain Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143115,
        "tags": [
         "vegetarian"

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "fetchedAt": "2026-11-23T20:51:03+00:00",
- "itemCount": 173,
+ "fetchedAt": "2026-11-24T19:55:16+00:00",
+ "itemCount": 172,
  "locationNum": "30",
  "meals": [
   {
@@ -544,7 +544,7 @@
     {
      "items": [
       {
-       "name": "Locally Caught Fresh Fish, Blackened with Cajun Seasonings"
+       "name": "Roast Beef"
       },
       {
        "name": "Smokey Chicken Wings"
@@ -591,9 +591,6 @@
      "items": [
       {
        "name": "Grilled Chicken Thigh"
-      },
-      {
-       "name": "Locally Caught Fresh Fish, Blackened with Cajun Seasonings"
       }
      ],
      "name": "Halal"
@@ -722,6 +719,6 @@
    ]
   }
  ],
- "mealsSha256": "5ad86537b844fbd536cf5c9f11ecfc9ec276f774cf36e22287ed3f4c549f1d4e",
+ "mealsSha256": "5a29e9445c0234e364e50e1bef2f04b4bba6e0697b0ee475244d6c22d98cc790",
  "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
 }
