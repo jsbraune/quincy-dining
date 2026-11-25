@@ -403,9 +403,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 30,
+       "calories": 60,
        "name": "Cottage Cheese",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 130005,
        "tags": [
         "vegetarian"
@@ -1148,9 +1148,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 30,
+       "calories": 60,
        "name": "Cottage Cheese",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 130005,
        "tags": [
         "vegetarian"
