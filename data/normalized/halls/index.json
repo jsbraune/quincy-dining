@@ -1,8 +1,10 @@
 {
- "generatedAt": "2026-11-25T23:28:12+00:00",
+ "generatedAt": "2026-11-26T02:41:41+00:00",
  "halls": [
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "adams",
    "locationNum": "09",
    "name": "Adams House",
@@ -201,7 +203,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "bagmeals",
    "locationNum": "07",
    "name": "Bag Meals",
@@ -299,7 +303,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "cabot",
    "locationNum": "05",
    "name": "Cabot House",
@@ -397,7 +403,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "currier",
    "locationNum": "38",
    "name": "Currier House",
@@ -495,7 +503,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "dunster",
    "locationNum": "07",
    "name": "Dunster House",
@@ -595,7 +605,8 @@
   {
    "closedDates": [
     "2026-11-24",
-    "2026-11-25"
+    "2026-11-25",
+    "2026-11-26"
    ],
    "hall": "eliot",
    "locationNum": "80",
@@ -720,7 +731,8 @@
     "2026-11-14",
     "2026-11-15",
     "2026-11-21",
-    "2026-11-22"
+    "2026-11-22",
+    "2026-11-26"
    ],
    "hall": "flyby",
    "locationNum": "29",
@@ -790,7 +802,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "kirkland",
    "locationNum": "14",
    "name": "Kirkland House",
@@ -890,7 +904,8 @@
   {
    "closedDates": [
     "2026-11-24",
-    "2026-11-25"
+    "2026-11-25",
+    "2026-11-26"
    ],
    "hall": "leverett",
    "locationNum": "16",
@@ -987,7 +1002,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "lowell",
    "locationNum": "17",
    "name": "Lowell House",
@@ -1085,7 +1102,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "mather",
    "locationNum": "07",
    "name": "Mather House",
@@ -1183,7 +1202,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "pforzheimer",
    "locationNum": "05",
    "name": "Pforzheimer House",
@@ -1281,7 +1302,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "quincy",
    "locationNum": "08",
    "name": "Quincy House",
@@ -1379,7 +1402,9 @@
    ]
   },
   {
-   "closedDates": [],
+   "closedDates": [
+    "2026-11-26"
+   ],
    "hall": "winthrop",
    "locationNum": "17",
    "name": "Winthrop House",
@@ -1477,5 +1502,5 @@
    ]
   }
  ],
- "recipeCount": 720
+ "recipeCount": 721
 }
