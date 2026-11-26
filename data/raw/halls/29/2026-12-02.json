@@ -1,0 +1,109 @@
+{
+ "date": "2026-12-02",
+ "fetchedAt": "2026-11-26T18:48:42+00:00",
+ "itemCount": 26,
+ "locationNum": "29",
+ "meals": [
+  {
+   "meal": "breakfast",
+   "sourceLabel": "",
+   "stations": [
+    {
+     "items": [
+      {
+       "name": "Chicken Chili with Beans"
+      },
+      {
+       "name": "Italian Meatball Soup"
+      },
+      {
+       "name": "Three Bean Chili"
+      }
+     ],
+     "name": "Today's Soup"
+    },
+    {
+     "items": [
+      {
+       "name": "Chips, Cape Cod"
+      },
+      {
+       "name": "Chobani Vanilla Greek Yogurt"
+      },
+      {
+       "name": "Dairy Free Vanilla Yogurt"
+      },
+      {
+       "name": "Delicious Apples"
+      },
+      {
+       "name": "Fruit, Bananas"
+      },
+      {
+       "name": "Fruit, Oranges"
+      },
+      {
+       "name": "Hard Boiled Eggs"
+      },
+      {
+       "name": "Oreo Nabs"
+      },
+      {
+       "name": "Peeled Baby Carrots"
+      },
+      {
+       "name": "Pretzel Twists"
+      }
+     ],
+     "name": "FLY-BY"
+    },
+    {
+     "items": [
+      {
+       "name": "Caesar Salad"
+      },
+      {
+       "name": "Falafel Salad"
+      },
+      {
+       "name": "Garden Salad"
+      },
+      {
+       "name": "Grilled Chicken"
+      },
+      {
+       "name": "Grilled Spiced Tofu"
+      },
+      {
+       "name": "Halal Chicken and Lettuce wrap"
+      },
+      {
+       "name": "Ham & Swiss on Hearty Wheat"
+      },
+      {
+       "name": "Harvest  Salad"
+      },
+      {
+       "name": "Mozzarella, Tomato & Basil Wrap"
+      },
+      {
+       "name": "Teddy's Peanut Butter & Grape Jelly on Wheat"
+      },
+      {
+       "name": "Tuna Salad and Lettuce on Spinach Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Gluten Free Wrap"
+      },
+      {
+       "name": "Turkey & Cheddar on Wheat"
+      }
+     ],
+     "name": "FLY-BY Sandwiches and Salads"
+    }
+   ]
+  }
+ ],
+ "mealsSha256": "ab38d7972682ba69dbb2e115dbdc66ed94792c496d308b9b5fbda4547557b6ae",
+ "source": "foodpro.huds.harvard.edu/shtmenu.aspx"
+}
