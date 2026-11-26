@@ -335,9 +335,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -359,9 +359,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 30,
        "name": "Cottage Cheese",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 130005,
        "tags": [
         "vegetarian"
@@ -405,9 +405,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -646,9 +646,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 30,
        "name": "Cottage Cheese",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 130005,
        "tags": [
         "vegetarian"
@@ -738,9 +738,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -1456,9 +1456,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 30,
        "name": "Cottage Cheese",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 130005,
        "tags": [
         "vegetarian"
@@ -1548,9 +1548,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -2137,9 +2137,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -2219,9 +2219,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",

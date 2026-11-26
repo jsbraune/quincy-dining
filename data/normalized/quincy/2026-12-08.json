@@ -1,7 +1,7 @@
 {
  "date": "2026-12-08",
- "fetchedAt": "2026-11-25T18:57:46+00:00",
- "itemCount": 351,
+ "fetchedAt": "2026-11-26T23:26:05+00:00",
+ "itemCount": 353,
  "location": "quincy",
  "locationId": 8,
  "meals": [
@@ -402,9 +402,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -426,9 +426,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 30,
        "name": "Cottage Cheese",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 130005,
        "tags": [
         "vegetarian"
@@ -472,9 +472,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
@@ -1333,9 +1333,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 30,
        "name": "Cottage Cheese",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 130005,
        "tags": [
         "vegetarian"
@@ -1390,9 +1390,9 @@
        "allergens": [
         "Fish"
        ],
-       "calories": 120,
+       "calories": 60,
        "name": "Flaked Tuna",
-       "portion": "4 oz",
+       "portion": "2 oz",
        "recipeId": 48006,
        "tags": []
       },
@@ -1456,9 +1456,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -2812,9 +2812,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 60,
+       "calories": 30,
        "name": "Cottage Cheese",
-       "portion": "2 oz",
+       "portion": "1 oz",
        "recipeId": 130005,
        "tags": [
         "vegetarian"
@@ -2869,9 +2869,9 @@
        "allergens": [
         "Fish"
        ],
-       "calories": 120,
+       "calories": 60,
        "name": "Flaked Tuna",
-       "portion": "4 oz",
+       "portion": "2 oz",
        "recipeId": 48006,
        "tags": []
       },
@@ -2935,9 +2935,9 @@
       },
       {
        "allergens": [],
-       "calories": 4,
+       "calories": 8,
        "name": "Little Leaf Greens",
-       "portion": "1 oz",
+       "portion": "2 oz",
        "recipeId": 176066,
        "tags": [
         "vegan",
@@ -3162,6 +3162,20 @@
        "name": "Pork Carnitas",
        "portion": "4 oz",
        "recipeId": 300212,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "name": "Dunster House Closed for Special Event",
+       "portion": "1 ea",
+       "recipeId": 999888,
+       "tags": []
+      },
+      {
+       "allergens": [],
+       "name": "Mather House Closed for Special Event",
+       "portion": "1 ea",
+       "recipeId": 999889,
        "tags": []
       }
      ],
@@ -3598,9 +3612,9 @@
        "allergens": [
         "Milk"
        ],
-       "calories": 45,
+       "calories": 60,
        "name": "Chobani Nonfat Plain Greek Yogurt",
-       "portion": "3 oz",
+       "portion": "4 oz",
        "recipeId": 143028,
        "tags": [
         "vegetarian"
@@ -3680,9 +3694,9 @@
        "allergens": [
         "Soybeans"
        ],
-       "calories": 73,
+       "calories": 18,
        "name": "Plain Soy Yogurt",
-       "portion": "4 oz",
+       "portion": "1 oz",
        "recipeId": 700106,
        "tags": [
         "vegan",
