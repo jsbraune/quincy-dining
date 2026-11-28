@@ -1,8 +1,8 @@
 {
  "date": "2026-11-28",
- "fetchedAt": "2026-11-22T16:52:33+00:00",
+ "fetchedAt": "2026-11-28T02:30:23+00:00",
  "quincyRowCount": 0,
- "rowCount": 189,
+ "rowCount": 190,
  "rows": [
   {
    "category": 1,
@@ -1704,8 +1704,17 @@
    ],
    "meal": 2,
    "recipe": 503054
+  },
+  {
+   "category": 12,
+   "date": "2026-11-28",
+   "location": [
+    30
+   ],
+   "meal": 2,
+   "recipe": 301065
   }
  ],
- "rowsSha256": "6e6bfd3cb21260b80096d4ae5709f956c7265b35af32017c6a2c78d1aabd5463",
+ "rowsSha256": "1ee799c7bcc00456c10e0d534c68990298d32246b42b9b55f43d152fc3c4e90b",
  "source": "api.cs50.io/dining/menus"
 }

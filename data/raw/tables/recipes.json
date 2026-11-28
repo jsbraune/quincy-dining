@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-26T23:26:05+00:00",
+ "fetchedAt": "2026-11-28T02:30:23+00:00",
  "rows": [
   {
    "allergens": [
@@ -38131,10 +38131,10 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 60,
+   "calories": 45,
    "calories_from_fat": null,
    "cholesterol": {
-    "amount": "6.7mg",
+    "amount": "5mg",
     "percent": 2.0
    },
    "dietary_fiber": {
@@ -38145,22 +38145,22 @@
    "ingredients": "Chobani Plain Greek NF Yogurt (Nonfat Yogurt (Cultured Pasteurized Nonfat Milk) 6 live and active cultures:)",
    "name": "Chobani Nonfat Plain Greek Yogurt",
    "protein": {
-    "amount": "10.7g",
-    "percent": 21.0
+    "amount": "8g",
+    "percent": 16.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "4 oz",
+   "serving_size": "3 oz",
    "sodium": {
-    "amount": "40mg",
-    "percent": 2.0
+    "amount": "30mg",
+    "percent": 1.0
    },
    "sugars": {
-    "amount": "2.7g"
+    "amount": "2g"
    },
    "total_carb": {
-    "amount": "4g",
+    "amount": "3g",
     "percent": 1.0
    },
    "total_fat": {
@@ -77477,14 +77477,14 @@
    "allergens": [
     "Milk"
    ],
-   "calories": 370,
-   "calories_from_fat": 329,
+   "calories": 185,
+   "calories_from_fat": 164,
    "cholesterol": {
-    "amount": "91.1mg",
-    "percent": 30.0
+    "amount": "45.6mg",
+    "percent": 15.0
    },
    "dietary_fiber": {
-    "amount": "0.1g"
+    "amount": "0g"
    },
    "id": 221079,
    "information": "Honey butter is a sweet butter used to spread on various types of bread.",
@@ -77494,23 +77494,23 @@
     "amount": "0g"
    },
    "sat_fat": {
-    "amount": "24.3g",
-    "percent": 110.0
+    "amount": "12.2g",
+    "percent": 55.0
    },
-   "serving_size": "2 oz",
+   "serving_size": "1 oz",
    "sodium": {
-    "amount": "0.5mg"
+    "amount": "0.2mg"
    },
    "sugars": {
-    "amount": "9.4g"
+    "amount": "4.7g"
    },
    "total_carb": {
-    "amount": "9.5g",
-    "percent": 3.0
+    "amount": "4.7g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "36.5g",
-    "percent": 47.0
+    "amount": "18.2g",
+    "percent": 23.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -81133,42 +81133,42 @@
     "Soybeans",
     "Wheat"
    ],
-   "calories": 80,
-   "calories_from_fat": 14,
+   "calories": 20,
+   "calories_from_fat": 4,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2.4g",
-    "percent": 9.0
+    "amount": "0.6g",
+    "percent": 2.0
    },
    "id": 255112,
    "information": null,
    "ingredients": "Alu Chole (Aw-loo Cho-lay) Water, Garbanzo Beans, Potatoes, Onions, Tomato Paste (Tomatoes, Citric Acid), Canola Oil, Ginger, Garlic, Mango Powder Jalape\u00f1o Peppers, Spices, Salt, Cilantro. MADE IN A FACILITY THAT PROCESSES WHEAT, SOY, MILK, EGGS)",
    "name": "Alu Chole",
    "protein": {
-    "amount": "3.2g",
-    "percent": 6.0
+    "amount": "0.8g",
+    "percent": 2.0
    },
    "sat_fat": {
-    "amount": "2.4g",
-    "percent": 11.0
+    "amount": "0.6g",
+    "percent": 3.0
    },
-   "serving_size": "4 fl. oz",
+   "serving_size": "1 fl. oz",
    "sodium": {
-    "amount": "343.4mg",
-    "percent": 15.0
+    "amount": "85.8mg",
+    "percent": 4.0
    },
    "sugars": {
-    "amount": "3.2g"
+    "amount": "0.8g"
    },
    "total_carb": {
-    "amount": "13.6g",
-    "percent": 5.0
+    "amount": "3.4g",
+    "percent": 1.0
    },
    "total_fat": {
-    "amount": "1.6g",
-    "percent": 2.0
+    "amount": "0.4g",
+    "percent": 1.0
    },
    "trans_fat": null,
    "vegan": true,
@@ -131464,39 +131464,39 @@
    "allergens": [
     "Wheat"
    ],
-   "calories": 77,
-   "calories_from_fat": 4,
+   "calories": 115,
+   "calories_from_fat": 5,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "2g",
-    "percent": 7.0
+    "amount": "3g",
+    "percent": 11.0
    },
    "id": 300969,
    "information": null,
    "ingredients": "Protein Plus Spaghetti (Semolina (Wheat), Durum Wheat Flour, Lentil Flour, Pea Protein, Chickpea Flour, Barley Flour, Spelt Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.)",
    "name": "Protein Plus Spaghetti",
    "protein": {
-    "amount": "4.1g",
-    "percent": 8.0
+    "amount": "6.1g",
+    "percent": 12.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "2 oz",
+   "serving_size": "3 oz",
    "sodium": {
     "amount": "0mg"
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "1.2g"
    },
    "total_carb": {
-    "amount": "15.4g",
-    "percent": 6.0
+    "amount": "23.1g",
+    "percent": 8.0
    },
    "total_fat": {
-    "amount": "0.4g",
+    "amount": "0.6g",
     "percent": 1.0
    },
    "trans_fat": {
@@ -146346,7 +146346,7 @@
   },
   {
    "allergens": [],
-   "calories": 30,
+   "calories": 60,
    "calories_from_fat": null,
    "cholesterol": {
     "amount": "0mg"
@@ -146359,13 +146359,13 @@
    "ingredients": "Water, Jasmine Rice (Thai Hom Mali Jasmine Rice)",
    "name": "Jasmine Rice",
    "protein": {
-    "amount": "0.5g",
-    "percent": 1.0
+    "amount": "1g",
+    "percent": 2.0
    },
    "sat_fat": {
     "amount": "0g"
    },
-   "serving_size": "1 oz",
+   "serving_size": "2 oz",
    "sodium": {
     "amount": "0mg"
    },
@@ -146373,8 +146373,8 @@
     "amount": "0g"
    },
    "total_carb": {
-    "amount": "7g",
-    "percent": 3.0
+    "amount": "14.1g",
+    "percent": 5.0
    },
    "total_fat": {
     "amount": "0g"
@@ -176882,40 +176882,42 @@
    "allergens": [
     "Soybeans"
    ],
-   "calories": 18,
-   "calories_from_fat": 6,
+   "calories": 73,
+   "calories_from_fat": 24,
    "cholesterol": {
     "amount": "0mg"
    },
    "dietary_fiber": {
-    "amount": "0.3g",
-    "percent": 1.0
+    "amount": "1.3g",
+    "percent": 5.0
    },
    "id": 700106,
    "information": null,
    "ingredients": "Simply Plain Dairy Free Soy Yogurt (Soy Milk (Water, Soybeans), Cane Sugar, Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Dipotassium Phosphate, Sea Salt, Citric Acid, Live And Active Cultures, Mixed Tocopherols And Vitamin C Ester (To Protect Freshness), Vitamin D2.)",
    "name": "Plain Soy Yogurt",
    "protein": {
-    "amount": "1.2g",
-    "percent": 2.0
+    "amount": "4.7g",
+    "percent": 9.0
    },
    "sat_fat": {
-    "amount": "0.1g"
+    "amount": "0.3g",
+    "percent": 2.0
    },
-   "serving_size": "1 oz",
+   "serving_size": "4 oz",
    "sodium": {
-    "amount": "10.8mg"
+    "amount": "43.4mg",
+    "percent": 2.0
    },
    "sugars": {
-    "amount": "0.8g"
+    "amount": "3.3g"
    },
    "total_carb": {
-    "amount": "1.7g",
-    "percent": 1.0
+    "amount": "6.7g",
+    "percent": 2.0
    },
    "total_fat": {
-    "amount": "0.7g",
-    "percent": 1.0
+    "amount": "2.7g",
+    "percent": 3.0
    },
    "trans_fat": {
     "amount": "0g"
@@ -190330,6 +190332,6 @@
    "vegetarian": false
   }
  ],
- "sha256": "c4a7f4a581626a0c1788e1155253b81f1141bd17156184e8a260552907d631b7",
+ "sha256": "1158abac5dcf797f431b858c5f247c0b351c848309278df0d837d82ebcda91b1",
  "table": "recipes"
 }
